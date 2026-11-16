@@ -1,0 +1,1481 @@
+{
+ "mokha": {
+  "handle": "mokhacenter",
+  "url": "https://x.com/mokhacenter",
+  "followers": 7847,
+  "total_posts": 1881,
+  "joined": "May 2021",
+  "lifetime_posts_per_week": 6.5,
+  "sample_n": 4,
+  "sample_oldest": "2026-11-16",
+  "sample_span_days": 0.3,
+  "sample_median_views": 94,
+  "sample_max_views": 99,
+  "sample_median_engagement": 0.5,
+  "view_rate": 0.012,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-14 15:20",
+    "repost": false,
+    "url": "https://x.com/mokhacenter/status/2121624350327492984",
+    "text": "الرحلة من عدن إلى تعز كانت تستغرق 3 ساعات، واليوم تستغرق نحو 26 ساعة. هذا ما يكشفه تقرير مركز المخا للدراسات الاستراتيجية “تعز وكلفة الحصار”، بعد أن أغلق تصعيد سبتمبر آخر الطرق البديلة إلى المدينة. #تعز #حصار_تعز #مركز_ا",
+    "stats": {
+     "repl": 0,
+     "repost": 4,
+     "like": 2,
+     "view": 1485,
+     "bookmark": 0
+    },
+    "label": "4 reposts, 2 likes, 1485 views",
+    "pinned": true,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 14:42",
+    "repost": false,
+    "url": "https://x.com/mokhacenter/status/2122339634927554606",
+    "text": "من أصل 2,216 حافلة كانت تعمل على 24 خطاً داخلياً في #تعز لم يبقَ سوى 365 حافلة، ويقول التقرير إن المشتقات النفطية انعدمت في المحطات الرسمية وتُباع في السوق السوداء، وما تفعله السلطة المحلية من تخزين السلع ومراقبة الأسعار",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 99,
+     "bookmark": 0
+    },
+    "label": "99 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 14:40",
+    "repost": false,
+    "url": "https://x.com/mokhacenter/status/2122339106533331020",
+    "text": "The Mokha Center’s October 2026 #EconomicBrief examines how road closures in #Taiz have placed a daily burden on residents and how the economic costs of war have affected households across #Yemen",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 0,
+     "view": 95,
+     "bookmark": 0
+    },
+    "label": "1 reply, 95 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 14:32",
+    "repost": false,
+    "url": "https://x.com/mokhacenter/status/2122336896915230944",
+    "text": "يعيش نحو 2.8 مليون إنسان في مدينة #تعز ومحيطها أوضاعاً إنسانية بالغة الخطورة، بعد أن أغلقت جماعة #الحوثي منفذ المدينة الأخير مطلع أكتوبر/تشرين الأول 2026، وأطبقت عليها #الحصار من الجهات الأربع، امتداداً لحصار جزئي تفرضه ",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 91,
+     "bookmark": 0
+    },
+    "label": "91 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 13:39",
+    "repost": false,
+    "url": "https://x.com/mokhacenter/status/2122323743175282983",
+    "text": "1/6 لماذا تتسرب تسميات جماعة #الحوثي إلى بعض المنابر العربية والدولية؟ دراسة تحليلية جديدة تفكك الظاهرة، وتكشف ما تغفله التغطية عن أصل النزاع في #اليمن",
+    "stats": {
+     "repl": 2,
+     "repost": 0,
+     "like": 0,
+     "view": 94,
+     "bookmark": 0
+    },
+    "label": "2 replies, 94 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "sanaa": {
+  "handle": "SanaaCenter",
+  "url": "https://x.com/SanaaCenter",
+  "followers": 29900,
+  "total_posts": 14100,
+  "joined": "March 2015",
+  "lifetime_posts_per_week": 23.1,
+  "sample_n": 4,
+  "sample_oldest": "2026-11-13",
+  "sample_span_days": 3.1,
+  "sample_median_views": 1230,
+  "sample_max_views": 2183,
+  "sample_median_engagement": 9.5,
+  "view_rate": 0.0412,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-10-15 10:49",
+    "repost": false,
+    "url": "https://x.com/SanaaCenter/status/2110684367328588106",
+    "text": "The latest Yemen Review, covering July–September 2026, is out now. Check out the full issue for analysis of the quarter’s key political, military, economic, and humanitarian developments across Yemen. Link: The Yemen Rev",
+    "stats": {
+     "repl": 0,
+     "repost": 10,
+     "like": 10,
+     "view": 5180,
+     "bookmark": 3
+    },
+    "label": "10 reposts, 10 likes, 3 bookmarks, 5180 views",
+    "pinned": true,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 16:02",
+    "repost": false,
+    "url": "https://x.com/SanaaCenter/status/2122359623348846920",
+    "text": "لماذا يتقدم الحوثيون ويفشل خصومهم في إيقافهم؟ وهل يمكن للجماعة أن تحكم اليمن بالقوة وحدها؟ في حلقة جديدة من بودكاست موجز الذي ينتجه مركز صنعاء، يناقش الباحث والكاتب أيمن نبيل معركة تعز، وأخطاء القوى السياسية، وجذور صعود ",
+    "stats": {
+     "repl": 2,
+     "repost": 3,
+     "like": 9,
+     "view": 1510,
+     "bookmark": 1
+    },
+    "label": "2 replies, 3 reposts, 9 likes, 1 bookmark, 1510 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-14 16:51",
+    "repost": false,
+    "url": "https://x.com/SanaaCenter/status/2121647097501880371",
+    "text": "Our senior researcher, Musaed Aklan , joined COP31 in Turkey alongside policymakers, researchers, and climate experts to discuss climate and environmental challenges, share experiences, and highlight the growing impact o",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 518,
+     "bookmark": 0
+    },
+    "label": "518 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-14 15:27",
+    "repost": false,
+    "url": "https://x.com/SanaaCenter/status/2121625954934300930",
+    "text": "كيف انتقل الحوثيون من جماعة تتعرض للقمع إلى قوة تهدد الملاحة الدولية؟ وكيف ساعدهم خصومهم على الوصول إلى هذه المرحلة؟ يتناول ماجد المذحجي ، رئيس مركز صنعاء، كيف تشكلت صورة الحوثيين خلال مراحل الصراع في اليمن، وكيف استفادت",
+    "stats": {
+     "repl": 2,
+     "repost": 0,
+     "like": 3,
+     "view": 951,
+     "bookmark": 0
+    },
+    "label": "2 replies, 3 likes, 951 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-13 18:59",
+    "repost": false,
+    "url": "https://x.com/SanaaCenter/status/2121316946146640107",
+    "text": "عقد مركز صنعاء بالشراكة مع دائرة العمل الخارجي الأوروبي (EEAS) ، وبدعم من مملكة هولندا ، اليوم الجمعة، جلسة حوار استراتيجي حول #اليمن وشاركت في الجلسة وزيرة الخارجية اليمنية أفراح الزوبة ، إلى جانب ممثلين عن الدول الأعضا",
+    "stats": {
+     "repl": 3,
+     "repost": 4,
+     "like": 17,
+     "view": 2183,
+     "bookmark": 1
+    },
+    "label": "3 replies, 4 reposts, 17 likes, 1 bookmark, 2183 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "abaad": {
+  "handle": "abaadstudies",
+  "url": "https://x.com/abaadstudies",
+  "followers": 4620,
+  "total_posts": 1018,
+  "joined": "July 2012",
+  "lifetime_posts_per_week": 1.4,
+  "sample_n": 4,
+  "sample_oldest": "2026-11-11",
+  "sample_span_days": 5.7,
+  "sample_median_views": 187,
+  "sample_max_views": 291,
+  "sample_median_engagement": 1.0,
+  "view_rate": 0.0406,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-08-26 07:23",
+    "repost": false,
+    "url": "https://x.com/abaadstudies/status/2092513253075177962",
+    "text": "Follow Abaad on Telegram and WhatsApp: Telegram: t.me/abaadstudies WhatsApp: whatsapp.com/channel/0029Va…",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 0,
+     "view": 724,
+     "bookmark": 0
+    },
+    "label": "1 repost, 724 views",
+    "pinned": true,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-15 14:05",
+    "repost": false,
+    "url": "https://x.com/abaadstudies/status/2121967951838376356",
+    "text": "One Month into “Dawn of Yemen”: Battlefield Shifts, Limits of External Support, and War Trajectories A study by Abaad Studies & Research Center argues that Operation “Dawn of Yemen” achieved important defensive gains, ch",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 86,
+     "bookmark": 0
+    },
+    "label": "86 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-13 03:22",
+    "repost": false,
+    "url": "https://x.com/abaadstudies/status/2121081228317081776",
+    "text": "شهر على «فجر اليمن».. تحولات الميدان وحدود الإسناد ومسارات الحرب يرى مركز أبعاد للدراسات والبحوث، في تقييم حالة جديد، أن عملية «فجر اليمن» حققت مكاسب دفاعية مهمة بوقف اندفاعة الحوثيين نحو باب المندب وتعز والطرق المؤدية إ",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 2,
+     "view": 291,
+     "bookmark": 0
+    },
+    "label": "2 likes, 291 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 04:01",
+    "repost": false,
+    "url": "https://x.com/abaadstudies/status/2120366258315002244",
+    "text": "Abaad Publishes Eight Strategic Research Reports Tracking Yemen’s War Escalation in September and October 2026 Abaad Studies & Research Center produced eight research and analytical publications covering September and Oc",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 0,
+     "view": 126,
+     "bookmark": 0
+    },
+    "label": "1 reply, 126 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 03:17",
+    "repost": false,
+    "url": "https://x.com/abaadstudies/status/2120355273764184401",
+    "text": "ثمانية إصدارات بحثية لمركز أبعاد ترصد تحولات الحرب اليمنية خلال سبتمبر وأكتوبر 2026 أصدر مركز أبعاد للدراسات والبحوث ثماني دراسات وتقارير ومواد تحليلية خلال شهري سبتمبر وأكتوبر 2026، تناولت التحولات العسكرية والسياسية ال",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 0,
+     "view": 249,
+     "bookmark": 1
+    },
+    "label": "1 reply, 1 bookmark, 249 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "ypc": {
+  "handle": "yemen_policy",
+  "url": "https://x.com/yemen_policy",
+  "followers": 10000,
+  "total_posts": 5474,
+  "joined": "January 2010",
+  "lifetime_posts_per_week": 6.2,
+  "sample_n": 4,
+  "sample_oldest": "2025-05-31",
+  "sample_span_days": 533.9,
+  "sample_median_views": 403,
+  "sample_max_views": 669,
+  "sample_median_engagement": 1.0,
+  "view_rate": 0.0403,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2021-08-12 09:46",
+    "repost": false,
+    "url": "https://x.com/yemen_policy/status/1425755595345387522",
+    "text": "نشعر بالحماسة إزاء #كاليدوسكوب ، وهي مساحة للسياسة الإبداعية من و . سنزودكم بالأفكار الملهمة لوجهات نظر جديدة حول #السلام في #اليمن ! هل ترغب في معرفة المزيد؟ اضغط على هذا الرابط: https://t.co/20NLeBeZHH 00:00",
+    "stats": {},
+    "label": "",
+    "pinned": true,
+    "media": "text"
+   },
+   {
+    "date": "2025-07-22 15:45",
+    "repost": false,
+    "url": "https://x.com/yemen_policy/status/1947684486780752262",
+    "text": "في مقالٍ نُشر في النسخة العربية من المجلة البريطانية The Independent بعنوان: \"شبوة... قصة نصف حضارة اليمن القديم\"، يجد القارئ نفسه أمام سردٍ ثريٍ لتاريخ محافظةٍ لم تكن مجرد اسمٍ على خارطة، بل مركزًا لثلاث ممالك عظيمة صنع",
+    "stats": {
+     "repl": 1,
+     "repost": 1,
+     "like": 2,
+     "view": 669,
+     "bookmark": 1
+    },
+    "label": "1 reply, 1 repost, 2 likes, 1 bookmark, 669 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2025-06-06 14:00",
+    "repost": false,
+    "url": "https://x.com/yemen_policy/status/1930988078744645991",
+    "text": "كل عام وأنتم بخير | عيد الفطر المبارك. تمنياتنا لكم باليمن والبركة والسعادة في هذا اليوم المبارك",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 1,
+     "view": 443,
+     "bookmark": 0
+    },
+    "label": "1 like, 443 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2025-06-04 15:43",
+    "repost": false,
+    "url": "https://x.com/yemen_policy/status/1930289366691131815",
+    "text": "بحث مستقل من أجل سياسات صائب. Yemen Policy Center المركز اليمني للسياسات 00:00",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 338,
+     "bookmark": 0
+    },
+    "label": "338 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2025-05-31 22:25",
+    "repost": false,
+    "url": "https://x.com/yemen_policy/status/1928940811464389096",
+    "text": "هل هي مجرد مصادفة؟ أم أن شهر مايو كُتب عليه أن يكون شهر ثورات النساء على هذا الكوكب؟ في مايو 1977، خرجت أمهات في الأرجنتين إلى ساحة \"مايو\" يطالبن بالكشف عن مصير أبنائهن الذين اختفوا قسرًا تحت حكم الديكتاتور خورخه فيديلا،",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 0,
+     "view": 364,
+     "bookmark": 0
+    },
+    "label": "1 reply, 364 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "deeproot": {
+  "handle": "deeprootyemen",
+  "url": "https://x.com/deeprootyemen",
+  "followers": 2588,
+  "total_posts": 407,
+  "joined": "November 2015",
+  "lifetime_posts_per_week": 0.7,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-01",
+  "sample_span_days": 15.2,
+  "sample_median_views": 138,
+  "sample_max_views": 312,
+  "sample_median_engagement": 1,
+  "view_rate": 0.0533,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 10:13",
+    "repost": false,
+    "url": "https://x.com/deeprootyemen/status/2122271843557990481",
+    "text": "Yemen’s exports have fallen ~78% since 2014. But fish, fruit, vegetables and coffee have held at ~90% of their pre-war level. Last week in Aden, and convened the 2nd public-private dialogue on Yemen’s first export promot",
+    "stats": {
+     "repl": 1,
+     "repost": 2,
+     "like": 4,
+     "view": 312,
+     "bookmark": 0
+    },
+    "label": "1 reply, 2 reposts, 4 likes, 312 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 15:20",
+    "repost": false,
+    "url": "https://x.com/deeprootyemen/status/2120537272726540493",
+    "text": "We’re looking for a communications and media agency to handle our social media, digital communications and content in Arabic and English. You’ll need a good understanding of Yemen’s context. - Reference: DRSOP_T_2026-02 ",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 1,
+     "view": 138,
+     "bookmark": 0
+    },
+    "label": "1 like, 138 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-10 16:00",
+    "repost": false,
+    "url": "https://x.com/deeprootyemen/status/2120184716615688580",
+    "text": "كيف تبدو أولى خطوات الشركة الناشئة نحو المستثمرين؟ في الحلقة الأولى من «المستثمر»، نستضيف عبدالله باعمر، مؤسس شركة دفتري، لعرض شركته وفرصتها الاستثمارية أمام مجموعة من المستثمرين الملائكيين. 🎥 شاهدوا الحلقة: youtu.be/BLX",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 1,
+     "view": 131,
+     "bookmark": 0
+    },
+    "label": "1 like, 131 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-09 11:20",
+    "repost": false,
+    "url": "https://x.com/deeprootyemen/status/2119751896952910221",
+    "text": "Exciting Opportunity! DeepRoot Solutions is hiring an Engagement Officer! 📍 Location: Aden, Yemen 📅 Deadline: Nov 17, 2026 If you're ready to make an impact, check out the details in the link below & apply now! drive.goo",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 1,
+     "view": 121,
+     "bookmark": 0
+    },
+    "label": "1 like, 121 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-01 16:23",
+    "repost": false,
+    "url": "https://x.com/deeprootyemen/status/2116929033451557021",
+    "text": "On 28 October 2026, DeepRoot Solutions hosted a discussion session titled “Voices from Within: Taiz Amid Current Developments.” It brought together actors and experts from inside the city of Taiz with representatives of ",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 203,
+     "bookmark": 0
+    },
+    "label": "203 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "semc": {
+  "handle": "economicmedia",
+  "url": "https://x.com/economicmedia",
+  "followers": 2696,
+  "total_posts": 1781,
+  "joined": "April 2013",
+  "lifetime_posts_per_week": 2.5,
+  "sample_n": 5,
+  "sample_oldest": "2026-10-28",
+  "sample_span_days": 19.1,
+  "sample_median_views": 85,
+  "sample_max_views": 169,
+  "sample_median_engagement": 0,
+  "view_rate": 0.0315,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 17:10",
+    "repost": false,
+    "url": "https://x.com/economicmedia/status/2122376781139456475",
+    "text": "📰At the Fifth Yemeni Media Conference, we come together not merely to discuss the media landscape, but to think collectively about how to transform it, and explore how words, images, and ideas can make a real impact. 🔗 u",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 40,
+     "bookmark": 0
+    },
+    "label": "40 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 18:35",
+    "repost": false,
+    "url": "https://x.com/economicmedia/status/2120586235291021685",
+    "text": "#SEMC warns of a worsening humanitarian crisis in #Taiz amid road closures, shortages of essential goods and fuel, and deteriorating water and healthcare services. Read the briefing 👇 economicmedia.net/en/?p=3916 #Humani",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 53,
+     "bookmark": 0
+    },
+    "label": "53 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 18:26",
+    "repost": false,
+    "url": "https://x.com/economicmedia/status/2120584003376038229",
+    "text": "في إحاطته الجديدة، يحذر مركز الدراسات والإعلام الاقتصادي #SEMC من تفاقم الأزمة الإنسانية في #تعز جراء إغلاق الطرق، ونقص السلع والوقود، وتدهور خدمات المياه والصحة. اقرأ الإحاطة كاملة👇 economicmedia.net/?p=6118 #أزمة_إنسان",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 1,
+     "view": 85,
+     "bookmark": 0
+    },
+    "label": "1 like, 85 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-10 14:46",
+    "repost": false,
+    "url": "https://x.com/economicmedia/status/2120166286328275210",
+    "text": "📝 سجلوا حضوركم وشاركونا صناعة مساحة تتجدد بقضايا الإعلام اليمني👇 us02web.zoom.us/webinar/regist… #مؤتمر_الإعلام_اليمني_الخامس #مرصدك #اليمن #حرية_الصحافة 00:00",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 1,
+     "view": 169,
+     "bookmark": 0
+    },
+    "label": "1 repost, 1 like, 169 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-10-28 17:45",
+    "repost": false,
+    "url": "https://x.com/economicmedia/status/2115500196801188296",
+    "text": "🌎 جائزة الشجاعة الصحفية في عامها الثالث تفتح أبوابها للصحفيين والصحفيات في اليمن. 🗞️ تقدّم الآن بملفك، أو رشّح من تراه مناسبا ويستحق جائزة هذا العام. 📝 شروط ومعايير التقديم والترشيح في رابط الاستمارة 👇 docs.google.com/fo",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 85,
+     "bookmark": 0
+    },
+    "label": "85 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "ajcs": {
+  "handle": "AJStudies",
+  "url": "https://x.com/AJStudies",
+  "followers": 207600,
+  "total_posts": 22700,
+  "joined": "May 2011",
+  "lifetime_posts_per_week": 28.0,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-09",
+  "sample_span_days": 7.6,
+  "sample_median_views": 611,
+  "sample_max_views": 823,
+  "sample_median_engagement": 1,
+  "view_rate": 0.0029,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 07:36",
+    "repost": false,
+    "url": "https://x.com/AJStudies/status/2122232417108832441",
+    "text": "القرار السياسي الذي أطال العملية لم يتحمل صانعُه تكلفتها الإنسانية والاقتصادية، بل نقل عبء التعامل مع تداعياتها إلى المجتمع المحلي ومؤسساته الرسمية والأهلية. ويكشف ذلك عن وجه شبه بنموذج العمليات العسكرية في مخيمات شمال ا",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 2,
+     "view": 611,
+     "bookmark": 1
+    },
+    "label": "2 likes, 1 bookmark, 611 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-15 08:18",
+    "repost": false,
+    "url": "https://x.com/AJStudies/status/2121880537845383446",
+    "text": "في سياق تعاقب الأزمات في المنطقة ، تبرز الحاجة إلى تطوير منظومة مجلس التعاون الخليجي والانتقال بها من إطار للتنسيق والتعاون إلى إنشاء كونفدرالية خليجية ذات مؤسسات اتحادية حقيقية مع المحافظة على خصوصية الدول الأعضاء واستق",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 1,
+     "view": 587,
+     "bookmark": 0
+    },
+    "label": "1 repost, 1 like, 587 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 08:51",
+    "repost": false,
+    "url": "https://x.com/AJStudies/status/2120439180522061997",
+    "text": "أبرزت ملابسات #الاتفاق على وقف المساعدات العسكرية إشكاليات تتعلق بطبيعة عملية صنع القرار لدى نتنياهو، إذ تبين أنه لم يطلع قيادة المؤسسة العسكرية على التفاهم مع ترامب. وحسب ما كشفته وسائل الإعلام الإسرائيلية، فقد توصل #نت",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 823,
+     "bookmark": 1
+    },
+    "label": "1 bookmark, 823 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-09 06:34",
+    "repost": false,
+    "url": "https://x.com/AJStudies/status/2119679894946816405",
+    "text": "لم تقتصر ممارسات الصمود الشعبي التي طورها الفلسطينيون في ريف الضفة الغربية على المواجهة الميدانية والتصدي للمستوطنين والاحتجاج على الاعتداءات والقيود الإسرائيلية، بل شملت أيضًا تنظيم الحماية المدنية، وإسناد المزارعين، وا",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 557,
+     "bookmark": 0
+    },
+    "label": "557 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-09 06:31",
+    "repost": false,
+    "url": "https://x.com/AJStudies/status/2119679359284023580",
+    "text": "نجح #نتنياهو في توظيف مشاعر كراهية الفلسطينيين، وتعظيم فكرة \"السيد\" اليهودي، لإعادة مصوتي الليكود إلى الحزب، فكان ارتفاع تمثيل الليكود تصويتا على نزع شرعية الفلسطينيين، ومنعهم من التأثير في المشهد السياسي. studies.aljaze",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 0,
+     "view": 652,
+     "bookmark": 0
+    },
+    "label": "1 repost, 652 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "acrps": {
+  "handle": "arabcenter_ar",
+  "url": "https://x.com/arabcenter_ar",
+  "followers": 80400,
+  "total_posts": 49200,
+  "joined": "February 2011",
+  "lifetime_posts_per_week": 59.7,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-16",
+  "sample_span_days": 0.5,
+  "sample_median_views": 741,
+  "sample_max_views": 849,
+  "sample_median_engagement": 4,
+  "view_rate": 0.0092,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 13:03",
+    "repost": false,
+    "url": "https://x.com/ArabCenter_ar/status/2122314649316233353",
+    "text": "🎥 لمشاهدة سيمنار \"الخصوبة والتكنولوجيا في المجتمعات العربية: الأسرة، والرعاية، وعلاقات السلطة\"، من تقديم: دينا طه، أستاذة في قسم علم الاجتماع والأنثروبولوجيا بمعهد الدوحة للدراسات العليا، يمكنكم مشاهدة السيمنار كاملًا عب",
+    "stats": {
+     "repl": 1,
+     "repost": 2,
+     "like": 5,
+     "view": 782,
+     "bookmark": 1
+    },
+    "label": "1 reply, 2 reposts, 5 likes, 1 bookmark, 782 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 12:35",
+    "repost": false,
+    "url": "https://x.com/ArabCenter_ar/status/2122307620354638170",
+    "text": "🎙️ هل التنافس الخليجي الإيراني قدر لا مفر منه؟ يرى الباحث مروان قبلان في الحلقة الثانية من بودكاست «متون وهوامش» أن الاقتصاد هو بوابة الخروج من الصراع، كما كان في أوروبا، ويستحضر ثروة إيران من الغاز وكفاءاتها البشرية، وت",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 3,
+     "view": 849,
+     "bookmark": 1
+    },
+    "label": "1 reply, 3 likes, 1 bookmark, 849 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 12:29",
+    "repost": false,
+    "url": "https://x.com/ArabCenter_ar/status/2122306012723978485",
+    "text": "استضاف المركز العربي للأبحاث ودراسة السياسات ومعهد الدوحة للدراسات العليا، اليوم الاثنين 16 تشرين الثاني/ نوفمبر 2026، وفدًا من مرشحي الضباط الدفعة (15) في كلية أحمد بن محمد العسكرية، ضمن جهود توثيق الصلة بين المؤسسات ال",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 453,
+     "bookmark": 0
+    },
+    "label": "453 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 12:17",
+    "repost": false,
+    "url": "https://x.com/ArabCenter_ar/status/2122303163738849399",
+    "text": "الدورة الثالثة عشرة من #منتدى_دراسات_الخليج والجزيرة العربية. 📌 تساؤلات المنتدى — مسار «أمن الخليج والحرب الأميركية – الإسرائيلية على إيران» 🗓 21–23 تشرين الثاني/ نوفمبر 2026 📍 يُعقد المنتدى حضوريًا بالمبنى الثقافي في مق",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 412,
+     "bookmark": 0
+    },
+    "label": "412 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 09:09",
+    "repost": false,
+    "url": "https://x.com/ArabCenter_ar/status/2122255711602176421",
+    "text": "الدورة الثالثة عشرة من #منتدى_دراسات_الخليج والجزيرة العربية، تناقش موضوعَين رئيسَين هما: \"أمن #الخليج والحرب الأميركية - الإسرائيلية على #إيران \"، و\"السياسات اللغوية في بلدان #الخليج_العربية \". 🗓️ 21–23 تشرين الثاني/ نو",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 8,
+     "view": 741,
+     "bookmark": 1
+    },
+    "label": "1 repost, 8 likes, 1 bookmark, 741 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "epc": {
+  "handle": "emiratespolicy",
+  "url": "https://x.com/emiratespolicy",
+  "followers": 9985,
+  "total_posts": 26900,
+  "joined": "January 2014",
+  "lifetime_posts_per_week": 40.0,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-11",
+  "sample_span_days": 5.4,
+  "sample_median_views": 226,
+  "sample_max_views": 1289,
+  "sample_median_engagement": 1,
+  "view_rate": 0.0226,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 06:55",
+    "repost": false,
+    "url": "https://x.com/EmiratesPolicy/status/2122222118087860545",
+    "text": "🎙️ مقابلة خاصة | سعادة عمران شرف على هامش ملتقى أبوظبي الاستراتيجي الثالث عشر، يتحدث سعادة عمران شرف حول محاور الجلسة الرابعة: ما بعد الذكاء الاصطناعي.. تحوُّل الحرب والصدمة الاستراتيجية المقبلة. ——— 🎙️ Exclusive intervi",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 168,
+     "bookmark": 0
+    },
+    "label": "168 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-13 11:56",
+    "repost": false,
+    "url": "https://x.com/EmiratesPolicy/status/2121210670012383721",
+    "text": "🎙️ مقابلة خاصة | سعادة د. سلطان النعيمي على هامش ملتقى أبوظبي الاستراتيجي الثالث عشر، يتحدث سعادة د. سلطان النعيمي حول محاور الجلسة الثامنة: إيران الجديدة، إيران القديمة! تحوُّل النظام ومستقبل الجمهورية الإسلامية. ▶️ شاه",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 226,
+     "bookmark": 0
+    },
+    "label": "226 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-13 08:00",
+    "repost": false,
+    "url": "https://x.com/EmiratesPolicy/status/2121151326096887835",
+    "text": "🎬 شاهد التسجيل الكامل | الجلسة الثانية: من يحكم العالم؟ الجدل الكبير حول النظام والقوة والقيادة ▫️ د. تشارلز كوبشان ▫️ دانا سترول @DanaStroul ▫️ الفريق (متقاعد) د. مايكل فينزل ▫️ د. وانغ هوياو @HenryHuiyaoWang ▫️ د. منغه",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 0,
+     "view": 204,
+     "bookmark": 0
+    },
+    "label": "1 repost, 204 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 12:15",
+    "repost": false,
+    "url": "https://x.com/EmiratesPolicy/status/2120490690090258662",
+    "text": "🎬 Watch the full recording | Panel 1: The UAE Compass: Power, Resilience, and the Art of Strategic Autonomy ▫️ Dr. Ebtesam Al-Ketbi ▫️ H.E. Staff Lt. Gen. Pilot (Ret.) Rashad Al Saadi ▫️ Mohammed Baharoon ▫️ Mohamed Alha",
+    "stats": {
+     "repl": 0,
+     "repost": 2,
+     "like": 2,
+     "view": 514,
+     "bookmark": 2
+    },
+    "label": "2 reposts, 2 likes, 2 bookmarks, 514 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-11 12:07",
+    "repost": false,
+    "url": "https://x.com/EmiratesPolicy/status/2120488471962038361",
+    "text": "🎬 شاهد التسجيل الكامل | الجلسة الأولى: البوصلة الإماراتية.. القوة والمرونة وفن الاستقلال الاستراتيجي ▫️ د. ابتسام الكتبي ▫️ سعادة الفريق ركن طيار (متقاعد) رشاد السعدي ▫️ محمد باهارون ▫️ محمد الحمادي ▫️ يوسف الشريف ▶️ you",
+    "stats": {
+     "repl": 1,
+     "repost": 6,
+     "like": 2,
+     "view": 1289,
+     "bookmark": 1
+    },
+    "label": "1 reply, 6 reposts, 2 likes, 1 bookmark, 1289 views",
+    "pinned": false,
+    "media": "image"
+   }
+  ]
+ },
+ "chatham": {
+  "handle": "ChathamHouse",
+  "url": "https://x.com/ChathamHouse",
+  "followers": 316200,
+  "total_posts": 47300,
+  "joined": "May 2009",
+  "lifetime_posts_per_week": 51.7,
+  "sample_n": 4,
+  "sample_oldest": "2026-11-16",
+  "sample_span_days": 0.1,
+  "sample_median_views": 1459,
+  "sample_max_views": 1869,
+  "sample_median_engagement": 6.0,
+  "view_rate": 0.0046,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 13:00",
+    "repost": false,
+    "url": "https://x.com/ChathamHouse/status/2122313746290999729",
+    "text": "Event | What's next for the EU-UK relationship? ( ) and Emma Aparici Vázquez de Parga ( ) join to discuss how the Burnham government may try to reshape the UK's relationship with the European Union at the EU–UK Summit th",
+    "stats": {
+     "repl": 0,
+     "repost": 4,
+     "like": 4,
+     "view": 2019,
+     "bookmark": 0
+    },
+    "label": "4 reposts, 4 likes, 2019 views",
+    "pinned": true,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 21:00",
+    "repost": false,
+    "url": "https://x.com/ChathamHouse/status/2122434533920518388",
+    "text": "This year has seen extreme weather across the world, from heatwaves in Europe to catastrophic flooding in Nepal. In some cases, these events have been beyond what climate models have predicted. The 1.5°C target will be m",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 3,
+     "view": 1163,
+     "bookmark": 0
+    },
+    "label": "1 repost, 3 likes, 1163 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 20:00",
+    "repost": false,
+    "url": "https://x.com/ChathamHouse/status/2122419434572931533",
+    "text": "Iran is unlikely to absorb the US blockade while the Iranian economy further deteriorates. Tehran may yet lash out at Gulf energy infrastructure — and draw a US military response. Will the US and Iran return to war? From",
+    "stats": {
+     "repl": 0,
+     "repost": 3,
+     "like": 3,
+     "view": 1426,
+     "bookmark": 0
+    },
+    "label": "3 reposts, 3 likes, 1426 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 19:00",
+    "repost": false,
+    "url": "https://x.com/ChathamHouse/status/2122404337016050158",
+    "text": "Recent outages and cyberattacks have exposed the vulnerability of digital payments. The EU and UK should use their upcoming summit to develop compatible offline digital currencies. When the lights go out, how will Europe",
+    "stats": {
+     "repl": 1,
+     "repost": 2,
+     "like": 3,
+     "view": 1493,
+     "bookmark": 0
+    },
+    "label": "1 reply, 2 reposts, 3 likes, 1493 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 18:00",
+    "repost": false,
+    "url": "https://x.com/ChathamHouse/status/2122389244077588928",
+    "text": "A forward-looking UK–EU economic security partnership would help protect both economies from coercion and supply shocks. The UK and the EU need an economic security partnership From chathamhouse.org",
+    "stats": {
+     "repl": 0,
+     "repost": 3,
+     "like": 3,
+     "view": 1869,
+     "bookmark": 1
+    },
+    "label": "3 reposts, 3 likes, 1 bookmark, 1869 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "carnegie": {
+  "handle": "CarnegieEndow",
+  "url": "https://x.com/CarnegieEndow",
+  "followers": 264300,
+  "total_posts": 49500,
+  "joined": "February 2009",
+  "lifetime_posts_per_week": 53.3,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-14",
+  "sample_span_days": 2.1,
+  "sample_median_views": 1761,
+  "sample_max_views": 3367,
+  "sample_median_engagement": 13,
+  "view_rate": 0.0067,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 20:09",
+    "repost": false,
+    "url": "https://x.com/CarnegieEndow/status/2122421735790465245",
+    "text": "From flash floods to extreme heat to drought, climate change is making weather across India more erratic. And official statistics don't fully reflect reality. Apoorva Jadhav explains what's at stake: How Climate Change I",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 701,
+     "bookmark": 0
+    },
+    "label": "701 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-15 23:54",
+    "repost": false,
+    "url": "https://x.com/CarnegieEndow/status/2122116017409135003",
+    "text": "We've seen several big successes for democracy around the world in recent years in countries like Poland, Hungary, Serbia, and Brazil. Does that mean we should be optimistic about democracy's future? explains, with on Th",
+    "stats": {
+     "repl": 0,
+     "repost": 3,
+     "like": 10,
+     "view": 1761,
+     "bookmark": 3
+    },
+    "label": "3 reposts, 10 likes, 3 bookmarks, 1761 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-15 22:27",
+    "repost": false,
+    "url": "https://x.com/CarnegieEndow/status/2122094180943950143",
+    "text": "Pete Hegseth just survived an impeachment vote, but the Pentagon's problems don't end there. explains how the future of warfare is changing and what the military can do to keep up. 00:00",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 4,
+     "view": 1300,
+     "bookmark": 1
+    },
+    "label": "1 repost, 4 likes, 1 bookmark, 1300 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-14 20:55",
+    "repost": false,
+    "url": "https://x.com/CarnegieEndow/status/2121708543640236208",
+    "text": "Is the Chinese system a viable alternative to liberal democracy? And, if so, what are the implications? joins to discuss, on The World Unpacked. Full episode here: youtube.com/watch?v=QUsJjU… 00:00",
+    "stats": {
+     "repl": 3,
+     "repost": 3,
+     "like": 16,
+     "view": 2225,
+     "bookmark": 14
+    },
+    "label": "3 replies, 3 reposts, 16 likes, 14 bookmarks, 2225 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-14 18:33",
+    "repost": false,
+    "url": "https://x.com/CarnegieEndow/status/2121672821050904652",
+    "text": "The war in Ukraine will leave damage in its wake. But it's \"doubly tragic,\" says , because it's far from the first war fought on the same ground. He explained, with on the Lex Fridman Podcast. Watch the full episode here",
+    "stats": {
+     "repl": 1,
+     "repost": 6,
+     "like": 14,
+     "view": 3367,
+     "bookmark": 11
+    },
+    "label": "1 reply, 6 reposts, 14 likes, 11 bookmarks, 3367 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "icg": {
+  "handle": "CrisisGroup",
+  "url": "https://x.com/CrisisGroup",
+  "followers": 241500,
+  "total_posts": 61400,
+  "joined": "December 2008",
+  "lifetime_posts_per_week": 65.5,
+  "sample_n": 4,
+  "sample_oldest": "2026-11-16",
+  "sample_span_days": 0.5,
+  "sample_median_views": 1695,
+  "sample_max_views": 2539,
+  "sample_median_engagement": 4.0,
+  "view_rate": 0.007,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-13 14:02",
+    "repost": false,
+    "url": "https://x.com/CrisisGroup/status/2121242372684104096",
+    "text": "“If there’s a pattern in today’s wars, it’s the limits of military force.” Restraints on using force are breaking down. More weapons. More wars. Fewer rules. It is easy to despair. Yet there are many ways the world can c",
+    "stats": {
+     "repl": 1,
+     "repost": 7,
+     "like": 18,
+     "view": 5486,
+     "bookmark": 12
+    },
+    "label": "1 reply, 7 reposts, 18 likes, 12 bookmarks, 5486 views",
+    "pinned": true,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 16:37",
+    "repost": false,
+    "url": "https://x.com/CrisisGroup/status/2122368421220298965",
+    "text": "On Hold Your Fire!, Richard Atwood is joined by chief foreign affairs commentator to discuss his new book, ‘War is Interested in You: The Breakdown of International Order and the Threat of World War Three.’ They’re tackl",
+    "stats": {
+     "repl": 0,
+     "repost": 2,
+     "like": 2,
+     "view": 1277,
+     "bookmark": 0
+    },
+    "label": "2 reposts, 2 likes, 1277 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 11:10",
+    "repost": false,
+    "url": "https://x.com/CrisisGroup/status/2122286104581677478",
+    "text": "The UN remains the only universal forum for global cooperation on war and peace, even as the international order it anchors is under mounting strain. Our new briefing examines the organisation’s key challenges. Ten Chall",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 0,
+     "view": 1639,
+     "bookmark": 2
+    },
+    "label": "1 repost, 2 bookmarks, 1639 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 10:30",
+    "repost": false,
+    "url": "https://x.com/CrisisGroup/status/2122276036263940578",
+    "text": "NEW OP-ED | Palestinian Voters Gave Eisenkot a Chance to Govern, He Should Take It Palestinian citizens of Israel voted in unprecedented numbers. Calling the Israeli election a deadlock is a misnomer, writes Palestinian ",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 4,
+     "view": 1752,
+     "bookmark": 1
+    },
+    "label": "4 likes, 1 bookmark, 1752 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 09:57",
+    "repost": false,
+    "url": "https://x.com/CrisisGroup/status/2122267859074130210",
+    "text": "\"The conditions for credible polls are not currently in place,\" said in a briefing for the Security Council. \"Rushed elections could be a decisive blow to the 2018 framework and would open the door to a return to large-s",
+    "stats": {
+     "repl": 1,
+     "repost": 4,
+     "like": 9,
+     "view": 2539,
+     "bookmark": 2
+    },
+    "label": "1 reply, 4 reposts, 9 likes, 2 bookmarks, 2539 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "brookings": {
+  "handle": "BrookingsInst",
+  "url": "https://x.com/BrookingsInst",
+  "followers": 449100,
+  "total_posts": 113300,
+  "joined": "June 2010",
+  "lifetime_posts_per_week": 131.9,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-09",
+  "sample_span_days": 7.3,
+  "sample_median_views": 2812,
+  "sample_max_views": 5155,
+  "sample_median_engagement": 7,
+  "view_rate": 0.0063,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-15 11:55",
+    "repost": false,
+    "url": "https://x.com/BrookingsInst/status/2121934993672802429",
+    "text": "Ahead of the 33rd APEC Leaders’ Meeting in Shenzhen, China, Brookings experts discuss potential outcomes of a meeting between Trump and Xi, and even a possible trilateral meeting between Trump, Xi, and Putin. Trump, Xi, ",
+    "stats": {
+     "repl": 2,
+     "repost": 3,
+     "like": 8,
+     "view": 5155,
+     "bookmark": 5
+    },
+    "label": "2 replies, 3 reposts, 8 likes, 5 bookmarks, 5155 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-13 16:52",
+    "repost": false,
+    "url": "https://x.com/BrookingsInst/status/2121284957704454546",
+    "text": "On Monday, Brookings will host Commander of U.S. Pacific Command Admiral Samuel Paparo for a conversation on Pacific security and the strategic priorities guiding U.S. policy in the region. Learn more and register to joi",
+    "stats": {
+     "repl": 0,
+     "repost": 2,
+     "like": 3,
+     "view": 2589,
+     "bookmark": 1
+    },
+    "label": "2 reposts, 3 likes, 1 bookmark, 2589 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-12 21:27",
+    "repost": false,
+    "url": "https://x.com/BrookingsInst/status/2120991782586421665",
+    "text": "Post-COVID pandemic inflation is often blamed on broken supply chains and energy shocks. On the latest episode of the BPEA podcast, Domenico Giannone and Giorgio Primiceri explain their paper arguing unexpectedly strong ",
+    "stats": {
+     "repl": 3,
+     "repost": 2,
+     "like": 2,
+     "view": 2812,
+     "bookmark": 0
+    },
+    "label": "3 replies, 2 reposts, 2 likes, 2812 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-09 17:57",
+    "repost": false,
+    "url": "https://x.com/BrookingsInst/status/2119851772361548157",
+    "text": "The 2026 midterms brought major shifts in Congress, but what do the results mean for 2028? Elaine Kamarck and William A. Galston examine the role of turnout, economic concerns, immigration, and shifting voter coalitions,",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 2,
+     "view": 2878,
+     "bookmark": 0
+    },
+    "label": "1 reply, 2 likes, 2878 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-09 14:33",
+    "repost": false,
+    "url": "https://x.com/BrookingsInst/status/2119800429781332116",
+    "text": "Should AI be taxed? Elena Patel and Aparna Mathur compare five proposals for taxing AI, weighing their revenue potential, administrative feasibility, and policy trade-offs, and consider whether broader tax reforms could ",
+    "stats": {
+     "repl": 3,
+     "repost": 3,
+     "like": 8,
+     "view": 2441,
+     "bookmark": 1
+    },
+    "label": "3 replies, 3 reposts, 8 likes, 1 bookmark, 2441 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "csis": {
+  "handle": "csis",
+  "url": "https://x.com/csis",
+  "followers": 440900,
+  "total_posts": 97700,
+  "joined": "March 2011",
+  "lifetime_posts_per_week": 119.2,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-16",
+  "sample_span_days": 0.1,
+  "sample_median_views": 1737,
+  "sample_max_views": 2148,
+  "sample_median_engagement": 4,
+  "view_rate": 0.0039,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 22:00",
+    "repost": false,
+    "url": "https://x.com/CSIS/status/2122449684467712291",
+    "text": "One year after Busan, China’s rare earth exports to the U.S remain sharply below pre-restriction levels, even as global shipments hold steady. Beijing’s continued control over rare earth supplies raises the stakes for Tr",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 738,
+     "bookmark": 0
+    },
+    "label": "738 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 21:00",
+    "repost": false,
+    "url": "https://x.com/CSIS/status/2122434591956849103",
+    "text": "WEDNESDAY | Join for a conversation with Roger Zakheim as he discusses his forthcoming book, \"Peace Through Strength: How Reagan's Military Buildup Won the Cold War,\" as he explores how military investment, allied confid",
+    "stats": {
+     "repl": 0,
+     "repost": 1,
+     "like": 3,
+     "view": 1502,
+     "bookmark": 1
+    },
+    "label": "1 repost, 3 likes, 1 bookmark, 1502 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 20:00",
+    "repost": false,
+    "url": "https://x.com/CSIS/status/2122419506412749114",
+    "text": "China has built an extensive commercial presence in overseas ports. Chinese involvement can provide Beijing with commercial and political leverage, strengthen relationships with host governments, and potentially create o",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 3,
+     "view": 1737,
+     "bookmark": 0
+    },
+    "label": "1 reply, 3 likes, 1737 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-16 18:00",
+    "repost": false,
+    "url": "https://x.com/CSIS/status/2122389346602873054",
+    "text": "In a survey on U.S. foreign policy attitudes in seven battleground states from , 77% of respondents believe it is very important or somewhat important to U.S. national security interests for Ukraine to have the ability t",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 2,
+     "view": 2148,
+     "bookmark": 1
+    },
+    "label": "1 reply, 2 likes, 1 bookmark, 2148 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 17:30",
+    "repost": false,
+    "url": "https://x.com/CSIS/status/2122381710876717466",
+    "text": "To enhance security, European states are highlighting two main types of objectives: reinforcing their posture and autonomy, particularly by increasing defense cooperation, and, anticipating how certain norms can help reg",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 3,
+     "view": 1993,
+     "bookmark": 0
+    },
+    "label": "1 reply, 3 likes, 1993 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "mokha_tr": {
+  "handle": "MokhaMerkezi",
+  "url": "https://x.com/MokhaMerkezi",
+  "followers": 5,
+  "total_posts": 35,
+  "joined": "October 2026",
+  "lifetime_posts_per_week": 5.3,
+  "sample_n": 5,
+  "sample_oldest": "2026-11-06",
+  "sample_span_days": 10.2,
+  "sample_median_views": 18,
+  "sample_max_views": 35,
+  "sample_median_engagement": 1,
+  "view_rate": 3.6,
+  "observed": "2026-11-16",
+  "tweets": [
+   {
+    "date": "2026-11-16 17:26",
+    "repost": false,
+    "url": "https://x.com/MokhaMerkezi/status/2122380870099054832",
+    "text": "Yeni Saha Araştırmamız: “Taiz ve Kuşatmanın Bedeli: Husi Kuşatmasının #Taiz Üzerindeki Ekonomik Etkisi”",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 0,
+     "view": 35,
+     "bookmark": 0
+    },
+    "label": "1 reply, 35 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 14:42",
+    "repost": false,
+    "url": "https://x.com/MokhaMerkezi/status/2122339412801388610",
+    "text": "1/4 Ekim'de #Yemen 'de savaşın maliyeti cepheden mutfağa taşındı: Döviz kuru sabit kaldı, ama yakıt, gıda ve su fiyatları yükseldi. Mokha Ekonomi Özeti – Ekim 2026, bu dönüşümü ve devletin elindeki araçların sınırlarını ",
+    "stats": {
+     "repl": 2,
+     "repost": 0,
+     "like": 0,
+     "view": 23,
+     "bookmark": 0
+    },
+    "label": "2 replies, 23 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-16 13:01",
+    "repost": false,
+    "url": "https://x.com/MokhaMerkezi/status/2122314022053675064",
+    "text": "1/ Husi grubunun adlandırmaları neden bazı Arap ve uluslararası yayın organlarına sızıyor? Yeni bir analitik çalışma bu olguyu çözümlüyor ve haberlerin Yemen'deki çatışmanın kökenine dair gözden kaçırdıklarını ortaya koy",
+    "stats": {
+     "repl": 1,
+     "repost": 0,
+     "like": 0,
+     "view": 18,
+     "bookmark": 0
+    },
+    "label": "1 reply, 18 views",
+    "pinned": false,
+    "media": "image"
+   },
+   {
+    "date": "2026-11-06 16:00",
+    "repost": false,
+    "url": "https://x.com/MokhaMerkezi/status/2118735164167590028",
+    "text": "Mokha Stratejik Araştırmalar Merkezi, Amerikan Kongresi'nde Husilere karşı uzun soluklu bir strateji tartışan bir oturumu da içeren, Yemen'e ilişkin uluslararası ele alışları izleyen bir rapor yayımlamıştır. Rapor, grubu",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 18,
+     "bookmark": 0
+    },
+    "label": "18 views",
+    "pinned": false,
+    "media": "text"
+   },
+   {
+    "date": "2026-11-06 15:30",
+    "repost": false,
+    "url": "https://x.com/MokhaMerkezi/status/2118727607504289858",
+    "text": "Mokha Stratejik Araştırmalar Merkezi tarafından yayımlanan \"Uluslararası Araştırma ve Medya Değerlendirmelerinde Yemen\" başlıklı rapor, Husilerin batı kıyısındaki ilerleyişinin ateşkesten yararlanmalarından, hasımlarının",
+    "stats": {
+     "repl": 0,
+     "repost": 0,
+     "like": 0,
+     "view": 15,
+     "bookmark": 0
+    },
+    "label": "15 views",
+    "pinned": false,
+    "media": "text"
+   }
+  ]
+ },
+ "_mokha_other": {
+  "whatsapp_channel": {
+   "url": "https://whatsapp.com/channel/0029VaBFtXk4inouu0KgwQ45",
+   "followers": 118,
+   "observed": "2026-11-16"
+  },
+  "tiktok": {
+   "url": "https://www.tiktok.com/@mokhacenter",
+   "followers": 6,
+   "videos": 1,
+   "likes": 11,
+   "observed": "2026-11-16"
+  },
+  "links_page": "https://form.mokha.cc/contact"
+ }
+}

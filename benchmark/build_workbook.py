@@ -140,6 +140,7 @@ def find(lst, key, *names):
 
 def build():
     D = load()
+    XP = json.load(open(os.path.join(DATA, "x_profiles.json"), encoding="utf8"))
     wb = Workbook()
 
     # ---------- 1. README ----------
@@ -155,7 +156,8 @@ def build():
         (f"آخر 30 يومًا: من {P30[0]} إلى {P30[1]}", ""),
         (f"آخر 90 يومًا: من {P90[0]} إلى {P90[1]}", ""),
         ("قيد أساسي على البيانات (يجب قراءته قبل استخدام الأرقام)", "h"),
-        ("منصات X وفيسبوك ولينكد إن تحجب القراءة بلا تسجيل دخول (جدار دخول أو رفض 402/403). لم يُجرَ أي تجاوز لهذه الحواجز. لذلك: عدد المنشورات والتفاعل والمتابعين على هذه المنصات الثلاث «غير متاح» لكل المراكز، عدا عيّنة واحدة من لينكد إن (Chatham House، 10 منشورات).", ""),
+        ("X: الصفحة العامة للحساب تعرض عدد المتابعين وإجمالي المنشورات وآخر 5 منشورات بمشاهداتها — رُصدت فعليًا لـ14 مركزًا في 16 نوفمبر 2026. عدد منشورات 30/90 يومًا على X غير متاح لأن الصفحة العامة لا تعرض أكثر من 5 منشورات.", ""),
+        ("فيسبوك وإنستغرام ولينكد إن: تحوّل الزائر غير المسجَّل إلى صفحة الدخول، فالمتابعون والمنشورات «غير متاح»، عدا عيّنة لينكد إن واحدة (Chatham House، 10 منشورات). لم يُجرَ أي تجاوز لحواجز الدخول.", ""),
         ("البديل المستخدم: (1) المواقع الرسمية — عدّ فعلي لكل ما نُشر في الفترتين بتاريخه ورابطه؛ (2) قنوات تيليغرام العامة — عدد المنشورات والمشاهدات؛ (3) يوتيوب — المشتركون ومشاهدات الفيديو؛ (4) روابط الحسابات الرسمية مأخوذة من ترويسة/تذييل موقع كل مركز.", ""),
         ("إنتاج الموقع ليس عدد منشورات المنصات: هو مؤشر على حجم المحتوى المتاح للترويج، لا على نشاط الحسابات.", ""),
         ("أرقام المتابعين المعروضة لقطة حالية فقط، ولا تدل على نمو خلال الفترة. ورقة «النمو» في الملف الأصلي تبقى بلا بيانات.", ""),
@@ -210,7 +212,7 @@ def build():
         row = [name, grp, country, tot("d30"), tot("d90"),
                f"=IF(ISNUMBER(D{r}),ROUND(D{r}/(30/7),1),\"-\")", f"=IF(ISNUMBER(E{r}),ROUND(E{r}/(90/7),1),\"-\")",
                *([bl.get("ar", 0), bl.get("en", 0), other] if tot("d90") != NA else [NA, NA, NA]), EXACTNESS.get(slug, ""),
-               fol("youtube"), fol("telegram"), fol("x"), fol("facebook"), fol("linkedin"),
+               fol("youtube"), fol("telegram"), (XP[slug]["followers"] if slug in XP else fol("x")), fol("facebook"), fol("linkedin"),
                "؛ ".join(notes) if notes else ("أرقام يوتيوب/تيليغرام فعلية من المنصة" if any(num(x.get("value")) is not None for x in fo) else "لا رقم متابعين متاح للعامة"),
                d["website"]]
         ws.append(row)
@@ -254,6 +256,12 @@ def build():
             f = find(fo, "platform", *pre)
             fv = num(f.get("value")) if f else None
             note = WALL
+            xp = XP.get(slug) if pf == "X" else None
+            if xp:
+                f = {"figure_date": xp["observed"], "type": "فعلي من صفحة الحساب العامة"}
+                fv = xp["followers"]
+                a = {"url": xp["url"], "verified_via": a.get("verified_via") or "صفحة الحساب العامة"}
+                note = (f"الصفحة العامة تعرض المتابعين وإجمالي المنشورات وآخر 5 منشورات فقط؛ عدد منشورات 30/90 يومًا غير متاح. إجمالي المنشورات منذ {xp['joined']}: {xp['total_posts']:,} (≈{xp['lifetime_posts_per_week']} أسبوعيًا كمتوسط عمر الحساب — تقدير). أقدم منشور في العيّنة: {xp['sample_oldest']}.")
             if slug == "chatham" and pf == "LinkedIn":
                 note = "عيّنة مرصودة: 10 منشورات بين 10 و13 نوفمبر 2026 (≈2.5 منشور/يوم) — انظر «أبرز المنشورات». باقي الفترة غير متاح."
             if "/in/" in str(a.get("url", "")):
@@ -263,7 +271,7 @@ def build():
                        (f.get("figure_date") or "غير مؤرخ") if fv is not None else "",
                        (f.get("type") or "") if fv is not None else "",
                        NA, NA, "-", "-",
-                       "متوسط العيّنة: 48 تفاعلًا/منشور؛ الأعلى 208 (فيديو)" if (slug == "chatham" and pf == "LinkedIn") else NA,
+                       "متوسط العيّنة: 48 تفاعلًا/منشور؛ الأعلى 208 (فيديو)" if (slug == "chatham" and pf == "LinkedIn") else (f"عيّنة {xp['sample_n']} منشورات: وسيط المشاهدات {xp['sample_median_views']:,}؛ الأعلى {xp['sample_max_views']:,}؛ وسيط التفاعلات {xp['sample_median_engagement']}" if xp and xp.get("sample_median_views") is not None else NA),
                        note])
             r += 1
         for pf, pre in (("Telegram", ("telegram",)), ("YouTube", ("youtube",))):
@@ -351,6 +359,16 @@ def build():
                          p.get("summary"), val(p.get("views")), val(p.get("likes")), val(p.get("comments")),
                          val(p.get("shares")), "فعلي" if p.get("data_type") == "actual" else "مقتطف بحث",
                          p.get("url"), p.get("source_url")])
+    names = {s_: n_ for s_, n_, *_r in CENTERS}
+    for slug, xp in XP.items():
+        if slug.startswith("_"):
+            continue
+        nm = names.get(slug, "مركز المخا — الحساب التركي (@MokhaMerkezi)")
+        for t in xp["tweets"]:
+            st = t.get("stats") or {}
+            dt = t["date"][:10]
+            rows.append([nm, "X", dt, "نعم" if P90[0] <= dt <= P90[1] else "لا (خارج النافذة)", ("[مثبّت] " if t.get("pinned") else "") + t.get("text", ""),
+                         st.get("view", NA), st.get("like", NA), st.get("repl", NA), st.get("repost", NA), "فعلي", t.get("url"), xp["url"]])
     li = os.path.join(DATA, "li_chatham_sample.json")
     if os.path.exists(li):
         for p in json.load(open(li, encoding="utf8")):

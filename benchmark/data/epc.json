@@ -1,0 +1,1960 @@
+{
+ "center": "مركز الإمارات للسياسات / Emirates Policy Center (EPC)",
+ "website": "https://epc.ae",
+ "accessed": "2026-11-16 (الموقع نفسه جُرّب 2026-11-13/14؛ تيليغرام/يوتيوب/النشرة 2026-11-16)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/emiratespolicy",
+   "verified_via": "https://mailchi.mp/epc/16102026en (تذييل النشرة الأسبوعية الرسمية على Mailchimp؛ معرّف القائمة نفسه u=2c7527a65f8ab456bbbbcc453 موجود في كود الموقع https://epc.ae/static/js/main.cbc1919c.chunk.js)"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/EmiratesPolicyCenter",
+   "verified_via": "https://mailchi.mp/epc/16102026en"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/emirates-policy-center",
+   "verified_via": "https://mailchi.mp/epc/16102026en"
+  },
+  "other": [
+   {
+    "platform": "Telegram",
+    "url": "https://t.me/EmiratesPolicy"
+   },
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@EmiratesPolicyCenter"
+   },
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/emiratespolicycenter/"
+   },
+   {
+    "platform": "Newsletter (Mailchimp)",
+    "url": "https://us4.campaign-archive.com/home/?u=2c7527a65f8ab456bbbbcc453&id=cde8e3de12"
+   },
+   {
+    "platform": "روابط قصيرة خاصة",
+    "url": "https://epcenter.ae"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "Telegram",
+   "value": 959,
+   "figure_date": "2026-11-16",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "type": "actual-on-platform"
+  },
+  {
+   "platform": "YouTube",
+   "value": 2080,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter",
+   "type": "actual-on-platform",
+   "note": "معروض كـ 2.08K subscribers"
+  },
+  {
+   "platform": "X",
+   "value": 9887,
+   "figure_date": "2025 (آخر تحديث للصفحة 2025-03-24)",
+   "source_url": "https://onthinktanks.org/think-tank/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA/",
+   "type": "third-party",
+   "note": "رقم قديم؛ الرقم الحالي غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": 46000,
+   "figure_date": "2025 (آخر تحديث 2025-03-24)",
+   "source_url": "https://onthinktanks.org/think-tank/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA/",
+   "type": "third-party",
+   "note": "إعجابات؛ رقم قديم"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": 5000,
+   "figure_date": "2025 (آخر تحديث 2025-03-24)",
+   "source_url": "https://onthinktanks.org/think-tank/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA/",
+   "type": "third-party",
+   "note": "رقم قديم مقرّب"
+  },
+  {
+   "platform": "Instagram",
+   "value": 4350,
+   "figure_date": "2025 (آخر تحديث 2025-03-24)",
+   "source_url": "https://onthinktanks.org/think-tank/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA/",
+   "type": "third-party",
+   "note": "رقم قديم"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 20,
+   "by_language": {
+    "en": 9,
+    "ar": 11
+   }
+  },
+  "d90": {
+   "total": 103,
+   "by_language": {
+    "en": 46,
+    "ar": 57
+   }
+  },
+  "method": "الموقع epc.ae تطبيق SPA محمي بـCAPTCHA (Radware) و/api/ ممنوع في robots.txt، فلم يُقرأ مباشرة. العدّ أُعيد بناؤه من مصدرين رسميين علنيين: (1) أعداد «حصاد الأسبوع/Weekly Review» على Mailchimp (أعداد 21 أغسطس، 4/11/18/25 سبتمبر، 2/9/16/23/30 أكتوبر، 6 نوفمبر 2026 بالعربية والإنجليزية + نشرتا ملتقى أبوظبي 7-8 نوفمبر)، (2) منشورات قناة تيليغرام الرسمية t.me/s/EmiratesPolicy. كل رابط قصير epcenter.ae حُلّ إلى عنوانه على epc.ae (رأس Location فقط) ومنه أُخذ النوع (scenario/featured/brief/news/publications/event) واللغة (ar/en)، ثم أزيل التكرار بالعنوان النهائي. التاريخ = تاريخ منشور تيليغرام إن وُجد وإلا تاريخ عدد النشرة (حقل date_basis). العدّ حدّ أدنى مرصود: لم يُعثر على عدد نشرة بتاريخ 28 أغسطس ولا 13 نوفمبر، وأي مادة لم تُذكر في النشرة أو تيليغرام غير محسوبة. النسخة العربية والإنجليزية للمادة نفسها تُحسبان مادتين.",
+  "source_urls": [
+   "https://us4.campaign-archive.com/home/?u=2c7527a65f8ab456bbbbcc453&id=cde8e3de12",
+   "https://us4.campaign-archive.com/feed?u=2c7527a65f8ab456bbbbcc453&id=cde8e3de12",
+   "https://t.me/s/EmiratesPolicy"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-06",
+   "title": "Between Calm and Escalation: Potential Conflict Scenarios between the US and Iran and their Implications for the Gulf Region",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/between-calm-and-escalation-potential-conflict-scenarios-between-the-us-and-iran-and-their-implications-for-the-gulf-region",
+   "author": "Mohammed Barhouma",
+   "date_basis": "weekly-review-issue",
+   "telegram_views": "غير متاح"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Last-Minute Message: Can Partial Solutions Succeed in Revitalizing the Diplomatic Track between the US and Iran?",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/last-minute-message-can-partial-solutions-succeed-in-revitalizing-the-diplomatic-track-between-the-us-and-iran-",
+   "author": "Iran Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "51"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "نتائج انتخابات الكنيست 2026: غياب الحسم وخيارات ما بعد الانتخابات",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إسرائيل وفلسطين",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/2026-knesset-election-results-no-clear-outcome-and-post-election-options",
+   "author": "وحدة الدراسات الإسرائيلية والفلسطينية",
+   "date_basis": "telegram-post",
+   "telegram_views": "72"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "الطاقة من أجل الأمن: جولة الرئيس ماكرون الخليجية ونتائجها",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "الخليج والإمارات",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/energy-for-security-president-macron-s-gulf-tour-and-its-outcomes",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "65"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "بين التهدئة والتصعيد: سيناريوهات الصراع الأمريكي-الإيراني وتأثيراتها على الخليج",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/us-iran-conflict-scenarios-and-their-implications-for-the-gulf",
+   "author": "محمد برهومة",
+   "date_basis": "telegram-post",
+   "telegram_views": "64"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "The Ethiopian-Eritrean Escalation: Motives, Scenarios, and Regional Implications",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/the-ethiopian-eritrean-escalation-motives-scenarios-and-regional-implications",
+   "author": "Horn of Africa Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "76"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "قرار البرلمان الأوروبي بشأن «الإخوان المسلمين»: الفاعلية والتحديات والآثار",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "أوروبا والناتو وروسيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/european-parliament-resolution-on-the-muslim-brotherhood-effectiveness-challenges-and-implications",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "87"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "رسالة اللحظات الأخيرة: هل تفلح «أنصاف الحلول» في إنعاش المسار الدبلوماسي بين أمريكا وإيران؟ — نسخة",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/the-eleventh-hour-message-will-half-measures-succeed-in-reviving-u-s-iran-diplomacy",
+   "author": "محمد الزغول",
+   "date_basis": "telegram-post",
+   "telegram_views": "98"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Israel After the October 7 Attack: Radical Shifts in Politics, Society, and Security",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إسرائيل وفلسطين",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/israel-after-the-october-7-attack-radical-shifts-in-politics-society-and-security",
+   "author": "Israel and Palestine Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "78"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "خطط الطاقة الصينية ضمن الخطة الخمسية الخامسة عشرة: المخاطر المستقبلية والخيارات الخليجية",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "الخليج والإمارات",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/china-s-15th-energy-five-year-plan-future-risks-and-gulf-options",
+   "author": "وحدة دراسات الصين",
+   "date_basis": "telegram-post",
+   "telegram_views": "81"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Iraq in the Aftermath of the US Withdrawal: The End of the US Military Presence and the Test of State Sovereignty",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "العراق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/iraq-in-the-aftermath-of-the-us-withdrawal-the-end-of-the-us-military-presence-and-the-test-of-state-sovereignty",
+   "author": "Iraq Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "96"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "التصعيد الإثيوبي-الإريتري: دوافع الأزمة وسيناريوهاتها وتداعياتها الإقليمية",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "أفريقيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-ethiopian-eritrean-escalation-crisis-drivers-scenarios-and-regional-implications",
+   "author": "وحدة دراسات القرن الأفريقي",
+   "date_basis": "telegram-post",
+   "telegram_views": "119"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "All Roads Lead to Escalation: Prospects for the Next Phase of the US-Iran Confrontation",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/all-roads-lead-to-escalation-prospects-for-the-next-phase-of-the-us-iran-confrontation4",
+   "author": "Iran Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "113"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "إسرائيل عشية انتخابات 2026: تعقيدات الحسم وسيناريوهات تشكيل الحكومة",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إسرائيل وفلسطين",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/israel-on-the-eve-of-the-2026-elections",
+   "author": "وحدة الدراسات الإسرائيلية والفلسطينية",
+   "date_basis": "telegram-post",
+   "telegram_views": "110"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Xi-Trump Summit and the Iran War: Crisis Management Calculations in the Gulf Region",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/xi-trump-summit-and-the-iran-war-crisis-management-calculations-in-the-gulf-region",
+   "author": "China Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "116"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "السباق الصيني-الأمريكي في الذكاء الاصطناعي: مِن تفوق النماذج إلى صراع المعايير",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "الصين وآسيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-us-china-ai-race-from-model-supremacy-to-the-battle-over-standards",
+   "author": "وحدة دراسات الصين",
+   "date_basis": "telegram-post",
+   "telegram_views": "126"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "القمة الأوروبية في أكتوبر 2026: أزمات مُمتدة وتوافقات هشَّة",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "أوروبا والناتو وروسيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-october-2026-european-council-summit-protracted-crises-and-tenuous-consensuses",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "132"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Memorandum of Understanding between Moscow and Damascus: Reengineering the Russian Presence and the New Balances in Syria",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "سوريا والمشرق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/memorandum-of-understanding-between-moscow-and-damascus-reengineering-the-russian-presence-and-the-new-balances-in-syria",
+   "author": "The Levant Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "111"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "The Controversy Over the Decline of the Strategic Value of Hormuz: Complications and Prospects",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/the-controversy-over-the-decline-of-the-strategic-value-of-hormuz-complications-and-prospects",
+   "author": "Mohammed Barhouma",
+   "date_basis": "telegram-post",
+   "telegram_views": "105"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "إسرائيل بعد ثلاث سنوات من هجوم 7 أكتوبر: تحولات جوهرية في السياسة والمجتمع والأمن",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إسرائيل وفلسطين",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/israel-three-years-after-the-october-7-attack-fundamental-shifts-in-politics-society-and-security",
+   "author": "وحدة الدراسات الإسرائيلية والفلسطينية",
+   "date_basis": "telegram-post",
+   "telegram_views": "92"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Israeli Escalation Before Knesset Elections: Political Maneuver or Preparation for a Possible Confrontation",
+   "type": "إيجاز / Briefs",
+   "topic": "إسرائيل وفلسطين",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/israeli-escalation-before-knesset-elections-political-maneuver-or-preparation-for-a-possible-confrontation",
+   "author": "Israel and Palestine Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "101"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "العراق بعد الانسحاب الأمريكي: نهاية الوجود العسكري وبداية اختبار الدولة",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "العراق",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/iraq-after-the-us-withdrawal-the-end-of-military-presence-and-the-beginning-of-a-state-s-test",
+   "author": "وحدة الدراسات العراقية",
+   "date_basis": "telegram-post",
+   "telegram_views": "104"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "13th Abu Dhabi Strategic Debate 2026: After the Storm: The Iran War Fallout and the New Rules of Power",
+   "type": "فعالية / Event",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/event/13th-abu-dhabi-strategic-debate-2026-after-the-storm-the-iran-war-fallout-and-the-new-rules-of-power",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "101"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "US Chargé d’Affaires a.i. to the UAE Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/us-charg-d-affaires-a-i-to-the-uae-visits-epc",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "93"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "Ethiopian Minister Counselor Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/ethiopian-minister-counselor-visits-epc",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "75"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "القائمة بأعمال السفارة الأمريكية لدى الدولة تزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/us-charg-d-affaires-a-i-to-the-uae-visits-epc",
+   "author": "المركز الأعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "72"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "مستشار السفارة الإثيوبية لدى الدولة يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/ethiopian-minister-counselor-visits-epc",
+   "author": "المركز الأعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "71"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "Who Has the Power to End Wars? The Middle East’s Elusive Endgame",
+   "type": "إيجاز / Briefs",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/who-has-the-power-to-end-wars-the-middle-east-s-elusive-endgame9",
+   "author": "Dr. Ebtesam Al Ketbi",
+   "date_basis": "telegram-post",
+   "telegram_views": "113"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "كلّ الدروب تؤدي إلى التصعيد: احتمالات المرحلة المقبلة للمواجهة الأمريكية-الإيرانية",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/all-roads-lead-to-escalation-prospects-for-the-next-phase-of-the-us-iran-confrontation",
+   "author": "محمد الزغول",
+   "date_basis": "telegram-post",
+   "telegram_views": "93"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "مَن يملك القدرة على إنهاء الحروب؟ معضلة الحسم في الشرق الأوسط",
+   "type": "إيجاز / Briefs",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/who-has-the-power-to-end-wars-the-middle-east-s-elusive-endgame",
+   "author": "د. ابتسام الكتبي",
+   "date_basis": "telegram-post",
+   "telegram_views": "105"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "Visit of Somaliland’s President to Washington: Testing Potential Shifts in US Policy and the Trajectory of Bilateral Ties",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/visit-of-somaliland-s-president-to-washington-testing-potential-shifts-in-us-policy-and-the-trajectory-of-bilateral-ties",
+   "author": "Horn of Africa Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "82"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "Iran Under Inflationary Pressure: Scenarios of the Economic Crisis During the Current Iranian Year",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/iran-under-inflationary-pressure-scenarios-of-the-economic-crisis-during-the-current-iranian-year",
+   "author": "Iran Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "88"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "A Delegation from the Norwegian Ministry of Foreign Affairs Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/norwegian-foreign-ministry-delegation-visits-epc",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "74"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "A Delegation from the Ministry of Defense Visits the Emirates Policy Center",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/ministry-of-defense-delegation-visits-emirates-policy-center",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "73"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "Ambassador of the Netherlands to the UAE Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/dutch-ambassador-to-the-uae-visits-epc",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "69"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "Arming the New Syrian Army: Challenges and Options",
+   "type": "إيجاز / Briefs",
+   "topic": "سوريا والمشرق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/arming-the-new-syrian-army-challenges-and-options8",
+   "author": "The Levant Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "98"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "مذكرة التفاهم بين موسكو ودمشق: إعادة هندسة الوجود الروسي وتوازنات سورية الجديدة",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "سوريا والمشرق",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-moscow-damascus-mou-re-engineering-the-russian-presence-and-syria-s-new-dynamics",
+   "author": "وحدة دراسات المشرق العربي",
+   "date_basis": "telegram-post",
+   "telegram_views": "92"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "الجدل حول تراجُع القيمة الاستراتيجية لمضيق هرمز: التعقيدات والآفاق",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-debate-over-the-declining-strategic-value-of-the-strait-of-hormuz-complexities-and-prospects",
+   "author": "محمد برهومة",
+   "date_basis": "telegram-post",
+   "telegram_views": "89"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "وفد من وزارة الدفاع يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/ministry-of-defense-delegation-visits-emirates-policy-center",
+   "author": "المركز الإعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "93"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "السفير الهولندي لدى الدولة يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/dutch-ambassador-to-the-uae-visits-epc",
+   "author": "المركز الإعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "108"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "وفد من وزارة الخارجية النرويجية يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/norwegian-foreign-ministry-delegation-visits-epc",
+   "author": "المركز الإعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "96"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "التصعيد الإسرائيلي قبل انتخابات الكنيست: مناورة سياسية أم استعداد لمواجهة محتملة؟",
+   "type": "إيجاز / Briefs",
+   "topic": "إسرائيل وفلسطين",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/israeli-escalation-ahead-of-knesset-elections-political-maneuver-or-prep-for-potential-confrontation",
+   "author": "وحدة الدراسات الإسرائيلية والفلسطينية",
+   "date_basis": "telegram-post",
+   "telegram_views": "98"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "ملتقى أبوظبي الاستراتيجي الثالث عشر 2026: «ما بعد العاصفة.. تداعيات حرب إيران وقواعد القوة الجديدة»",
+   "type": "فعالية / Event",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/event/13th-abu-dhabi-strategic-debate-2026-after-the-storm-the-iran-war-fallout-and-the-new-rules-of-power",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "123"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "قمة باريس الدولية الأولى للفضاء: الأهداف والنتائج",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-first-paris-international-space-summit-objectives-and-obstacles",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "112"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Gulf Security Paradoxes: Deterrence, Diplomacy, and the Limits of the Old Security Order",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "الخليج والإمارات",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/gulf-security-paradoxes-deterrence-diplomacy-and-the-limits-of-the-old-security-order-",
+   "author": "Mohammed Barhouma",
+   "date_basis": "telegram-post",
+   "telegram_views": "104"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Iran and the ‘Straits Game’ in Hormuz and Bab El-Mandab: Calculating the Impact and Consequences",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/iran-and-the-straits-game-in-hormuz-and-bab-el-mandab-calculating-the-impact-and-consequences",
+   "author": "Mohammad Alzghool",
+   "date_basis": "telegram-post",
+   "telegram_views": "98"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "قمَّة شي-ترمب والحرب الإيرانية: حسابات إدارة الأزمة في منطقة الخليج",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-xi-trump-summit-and-the-iranian-war",
+   "author": "وحدة دراسات الصين",
+   "date_basis": "telegram-post",
+   "telegram_views": "94"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "تسليح الجيش السوري الجديد: التحديات والخيارات",
+   "type": "إيجاز / Briefs",
+   "topic": "سوريا والمشرق",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/arming-the-new-syrian-army-challenges-and-options",
+   "author": "وحدة دراسات المشرق العربي",
+   "date_basis": "telegram-post",
+   "telegram_views": "117"
+  },
+  {
+   "date": "2026-09-30",
+   "title": "زيارة رئيس أرض الصومال إلى الولايات المتحدة: اختبار التحوُّل في السياسة الأمريكية ومسارات العلاقة الثنائية",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "الولايات المتحدة",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-somaliland-president-s-visit-to-the-united-states",
+   "author": "وحدة دراسات القرن الأفريقي",
+   "date_basis": "telegram-post",
+   "telegram_views": "126"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "إيران تحت ضغط التضخُّم: سيناريوهات الأزمة الاقتصادية خلال العام الإيراني الجاري",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/iran-under-inflationary-pressures-scenarios-of-economic-crisis-in-the-current-iranian-year",
+   "author": "وحدة الدراسات الإيرانية",
+   "date_basis": "telegram-post",
+   "telegram_views": "121"
+  },
+  {
+   "date": "2026-09-28",
+   "title": "Iraqi Militias After September 30: Alternative Iranian Disarmament Architecture",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/iraqi-militias-after-september-30-alternative-iranian-disarmament-architecture",
+   "author": "Iraq Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "123"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Suwayda Crisis Between Sharaa’s Flexibility and Hijri’s Intransigence: Scenarios of the Next Phase in Southern Syria",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "سوريا والمشرق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/suwayda-crisis-between-sharaa-s-flexibility-and-hijri-s-intransigence-scenarios-of-the-next-phase-in-southern-syria",
+   "author": "The Levant Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "138"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "The Ambassador of Thailand to the UAE Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/the-ambassador-of-thailand-to-the-uae-visits-epc",
+   "author": "Media Center",
+   "date_basis": "weekly-review-issue",
+   "telegram_views": "غير متاح"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "صعود حزب البديل من أجل ألمانيا: التداعيات السياسية الداخلية والخارجية",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-rise-of-alternative-for-germany-internal-and-external-political-implications",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "102"
+  },
+  {
+   "date": "2026-09-24",
+   "title": "German Ambassador to UAE Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/german-ambassador-to-uae-visits-epc4",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "112"
+  },
+  {
+   "date": "2026-09-24",
+   "title": "The GCC States and Iran: From Managing Risk to Engineering a Difficult Neighborhood",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/the-gcc-states-and-iran-from-managing-risk-to-engineering-a-difficult-neighborhood",
+   "author": "Dr. Ebtesam Al Ketbi",
+   "date_basis": "telegram-post",
+   "telegram_views": "113"
+  },
+  {
+   "date": "2026-09-24",
+   "title": "السفير الألماني لدى الدولة يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/german-ambassador-to-uae-visits-epc4",
+   "author": "المركز الإعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "106"
+  },
+  {
+   "date": "2026-09-24",
+   "title": "مُفارقات أمن الخليج: الرَّدع، والدبلوماسية، وحدود النظام الأمني القديم",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "الخليج والإمارات",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-paradoxes-of-gulf-security-deterrence-diplomacy-and-the-limits-of-the-old-security-order",
+   "author": "محمد برهومة",
+   "date_basis": "telegram-post",
+   "telegram_views": "90"
+  },
+  {
+   "date": "2026-09-24",
+   "title": "إيران و«لعبة المضائق» في هرمز وباب المندب: حسابات الأثر والعواقب",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/iran-and-the-straits-game-in-hormuz-and-bab-al-mandab-impact-and-consequence-calculations",
+   "author": "محمد الزغول",
+   "date_basis": "telegram-post",
+   "telegram_views": "133"
+  },
+  {
+   "date": "2026-09-23",
+   "title": "سفير تايلاند لدى الدولة يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/the-ambassador-of-thailand-to-the-uae-visits-epc",
+   "author": "المركز الإعلامي",
+   "date_basis": "telegram-post",
+   "telegram_views": "109"
+  },
+  {
+   "date": "2026-09-23",
+   "title": "دول الخليج وإيران: من إدارة الخطر إلى هندسة الجوار الصعب",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/the-gulf-states-and-iran-from-risk-management-to-engineering-a-difficult-neighborhood",
+   "author": "د. ابتسام الكتبي",
+   "date_basis": "telegram-post",
+   "telegram_views": "105"
+  },
+  {
+   "date": "2026-09-21",
+   "title": "المليشيات العراقية بعد 30 سبتمبر: هندسة إيرانية بديلة لنزع السلاح",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/iraqi-militias-after-september-30-an-alternative-iranian-blueprint-for-disarmament",
+   "author": "وحدة الدراسات العراقية",
+   "date_basis": "telegram-post",
+   "telegram_views": "118"
+  },
+  {
+   "date": "2026-09-21",
+   "title": "الإمارات ودروس المرونة الاستراتيجية خلال الحرب الإيرانية (2026)",
+   "type": "أوراق استراتيجية (إصدارات)",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/publications/the-uae-and-lessons-of-strategic-resilience-during-the-iranian-war",
+   "author": "د. ابتسام الكتبي",
+   "date_basis": "telegram-post",
+   "telegram_views": "148"
+  },
+  {
+   "date": "2026-09-18",
+   "title": "أزمة السويداء بين مرونة الشَّرع وتصلُّب الهجري: سيناريوهات المرحلة المقبلة في الجنوب السوري",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "سوريا والمشرق",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-suwayda-crisis-between-the-flexibility-of-al-sharaa-and-al-hajari-s-rigidity",
+   "author": "وحدة دراسات المشرق العربي",
+   "date_basis": "telegram-post",
+   "telegram_views": "125"
+  },
+  {
+   "date": "2026-09-16",
+   "title": "The Arab Community in Israel and the 2026 Knesset Elections: The Struggle for Representation and the Formation of the Government",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إسرائيل وفلسطين",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/the-arab-community-in-israel-and-the-2026-knesset-elections-the-struggle-for-representation-and-the-formation-of-the-government",
+   "author": "Israel and Palestine Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "140"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "Simmering: Features of the New US “Rationalization” Approach Toward Iran",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/simmering-features-of-the-new-us-rationalization-approach-toward-iran",
+   "author": "Mohammad Alzghool",
+   "date_basis": "telegram-post",
+   "telegram_views": "162"
+  },
+  {
+   "date": "2026-09-11",
+   "title": "العرب في إسرائيل وانتخابات الكنيست 2026: من معركة التمثيل إلى معادلة تشكيل الحكومة",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إسرائيل وفلسطين",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/arabs-in-israel-and-the-2026-knesset-elections",
+   "author": "وحدة الدراسات الإسرائيلية والفلسطينية",
+   "date_basis": "telegram-post",
+   "telegram_views": "131"
+  },
+  {
+   "date": "2026-09-10",
+   "title": "The New Israeli Electoral Map: The Fragmentation of the Right and the Rise of Netanyahu’s Rivals",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إسرائيل وفلسطين",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/the-new-israeli-electoral-map-the-fragmentation-of-the-right-and-the-rise-of-netanyahu-s-rivals",
+   "author": "Israel and Palestine Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "139"
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Special Envoy of the Austrian Federal Chancellor for Global Issues Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/special-envoy-of-the-austrian-federal-chancellor-for-global-issues-visits-epc",
+   "author": "Media Center",
+   "date_basis": "telegram-post",
+   "telegram_views": "138"
+  },
+  {
+   "date": "2026-09-09",
+   "title": "الطبخ على نار هادئة: ملامح مُقاربة «الترشيد» الأمريكيّة الجديدة حيال إيران",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/on-a-slow-burn-features-of-the-new-u-s-rationalization-approach-toward-iran",
+   "author": "محمد الزغول",
+   "date_basis": "telegram-post",
+   "telegram_views": "147"
+  },
+  {
+   "date": "2026-09-09",
+   "title": "المبعوث الخاص للمستشار النمساوي للشؤون العالمية يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/special-envoy-of-the-austrian-federal-chancellor-for-global-issues-visits-epc",
+   "author": "المركز الإعلاني",
+   "date_basis": "telegram-post",
+   "telegram_views": "127"
+  },
+  {
+   "date": "2026-09-08",
+   "title": "After the Dissolution of the SDF: Challenges of Integration and Limits of Settlement in Northeastern Syria",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "سوريا والمشرق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/after-the-dissolution-of-the-sdf-challenges-of-integration-and-limits-of-settlement-in-northeastern-syria",
+   "author": "The Levant Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "128"
+  },
+  {
+   "date": "2026-09-07",
+   "title": "China and the US ‘Operation Economic Outcast ‘Against Iran: Limits of Exposure to Sanctions and Possible Paths",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/china-and-the-us-operation-economic-outcast-against-iran-limits-of-exposure-to-sanctions-and-possible-paths",
+   "author": "China Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "134"
+  },
+  {
+   "date": "2026-09-07",
+   "title": "The Iran War and the Test of Multipolarity in the Gulf",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/the-iran-war-and-the-test-of-multipolarity-in-the-gulf",
+   "author": "Dr. Ebtesam Al Ketbi",
+   "date_basis": "telegram-post",
+   "telegram_views": "137"
+  },
+  {
+   "date": "2026-09-07",
+   "title": "المحاولة الانقلابية الفاشلة في النيجر: الأبعاد الداخلية والإقليمية",
+   "type": "إيجاز / Briefs",
+   "topic": "أفريقيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/the-failed-coup-attempt-in-niger-internal-and-regional-dimensions",
+   "author": "وحدة الدراسات الأفريقية",
+   "date_basis": "telegram-post",
+   "telegram_views": "127"
+  },
+  {
+   "date": "2026-09-04",
+   "title": "South Korea’s Strategic Economic Shift Due to the Iran War: From Crisis Management to Greater Resilience",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/south-korea-s-strategic-economic-shift-due-to-the-iran-war-from-crisis-management-to-greater-resilience",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "110"
+  },
+  {
+   "date": "2026-09-04",
+   "title": "اليابان وأزمة مضيق هرمز: أمن الطاقة، والمرونة، وحدود الدور العسكري",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/japan-and-the-strait-of-hormuz-crisis",
+   "author": "وحدة الدراسات الآسيوية",
+   "date_basis": "telegram-post",
+   "telegram_views": "120"
+  },
+  {
+   "date": "2026-09-04",
+   "title": "حرب إيران واختبار تعددية القوى في الخليج",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/iran-s-war-and-the-test-of-multipolarity-in-the-gulf",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "119"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "Will China’s Oil Demand Cuts Become a Permanent Reality?",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "الصين وآسيا",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/will-china-s-oil-demand-cuts-become-a-permanent-reality-",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "108"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "South Korean Diplomatic Delegation Visits EPC",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "en",
+   "url": "https://epc.ae/en/details/news/south-korean-diplomatic-delegation-visits-epc",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "108"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "وفد دبلوماسي كوري يزور مركز الإمارات للسياسات",
+   "type": "الأخبار / News",
+   "topic": "فعاليات المركز وأخباره",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/news/south-korean-diplomatic-delegation-visits-epc",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "110"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "من أوكرانيا إلى الجناح الشرقي: كيف تُعيد المُسيَّرات الروسية تشكيل الدفاع الأوروبي؟",
+   "type": "إيجاز / Briefs",
+   "topic": "أوروبا والناتو وروسيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/from-ukraine-to-the-eastern-flank-how-russian-uavs-are-reconfiguring-european-defense",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "114"
+  },
+  {
+   "date": "2026-09-02",
+   "title": "The Return of the Old Guard: The Implications of Recent Military Appointments for Iranian Political Decision-Making",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/the-return-of-the-old-guard-the-implications-of-recent-military-appointments-for-iranian-political-decision-making4",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "103"
+  },
+  {
+   "date": "2026-09-02",
+   "title": "الخريطة الانتخابية الإسرائيلية الجديدة: تشرذُم اليمين وصعود مُنافسي نتنياهو",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إسرائيل وفلسطين",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/the-new-israeli-electoral-landscape-right-wing-fragmentation-and-the-rise-of-netanyahu-alternatives",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "419"
+  },
+  {
+   "date": "2026-09-01",
+   "title": "The Iraqi State vs. Militias: Challenges of Geographical Positioning and Prospects for Restricting Arms",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "العراق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/the-iraqi-state-vs-militias-challenges-of-geographical-positioning-and-prospects-for-restricting-arms",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "127"
+  },
+  {
+   "date": "2026-08-31",
+   "title": "A Door Open to Various Possibilities: Scenarios for Iran-US Confrontation",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/a-door-open-to-various-possibilities-scenarios-for-iran-us-confrontation",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "117"
+  },
+  {
+   "date": "2026-08-31",
+   "title": "تركيا والأكراد بعد «القانون الإطاري»: مسار سلام محفوف بالعقبات",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "تركيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/turkey-and-the-kurds-post-framework-law-a-peace-process-fraught-with-obstacles",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "108"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "Struggle for Influence Between the Deep State and the Government: Implications of Changing the Secretary of Iran’s Supreme National Security Council",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/struggle-for-influence-between-the-deep-state-and-the-government-implications-of-changing-the-secretary-of-iran-s-supreme-national-security-council",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "141"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "الصين وحملة «المنبوذ اقتصادياً» الأمريكية ضد إيران: حدود الانكشاف للعقوبات، والمسارات المحتملة",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/us-operation-economic-outcast-campaign-against-iran-the-limits-of-china-s-exposure-to-sanctions-and-possible-paths",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "109"
+  },
+  {
+   "date": "2026-08-27",
+   "title": "ما بعد حلّ «قسد»: تحديات الاندماج وحدود التسوية في شمال شرق سورية",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "سوريا والمشرق",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/post-sdf-phase-integration-challenges-and-settlement-limits-in-northeast-syria",
+   "author": "وحدة دراسات المشرق العربي",
+   "date_basis": "telegram-post",
+   "telegram_views": "127"
+  },
+  {
+   "date": "2026-08-26",
+   "title": "The Agreement to Disarm Hamas in the Gaza Strip: A ‘Historic Development’ Met with Israeli Rejection",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إسرائيل وفلسطين",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/the-agreement-to-disarm-hamas-in-the-gaza-strip-a-historic-development-met-with-israeli-rejection-",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "106"
+  },
+  {
+   "date": "2026-08-26",
+   "title": "Foreign Fighters in Syria Between Containment and the Risk of Lawlessness",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "سوريا والمشرق",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/foreign-fighters-in-syria-between-containment-and-the-risk-of-lawlessness",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "111"
+  },
+  {
+   "date": "2026-08-26",
+   "title": "التحول الاقتصادي الاستراتيجي في كوريا الجنوبية بفعل الحرب الإيرانية: مِن إدارة الأزمة إلى تعزيز المرونة",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/south-korea-s-strategic-economic-transformation-amid-the-iranian-war",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "106"
+  },
+  {
+   "date": "2026-08-24",
+   "title": "عودة «الحرس القديم»: دلالات التعيينات العسكرية الأخيرة وأثرها في القرار السياسي الإيراني",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/the-return-of-the-old-guard-the-implications-of-recent-military-appointments-for-iranian-political-decision-making",
+   "author": "",
+   "date_basis": "telegram-post",
+   "telegram_views": "147"
+  },
+  {
+   "date": "2026-08-21",
+   "title": "خَفْض الطلب الصيني على النفط: هل يتحوَّل إلى واقع دائم؟",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "الصين وآسيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-drop-in-china-s-oil-imports-is-it-becoming-a-permanent-reality-",
+   "author": "وحدة دراسات الصين",
+   "date_basis": "telegram-post",
+   "telegram_views": "105"
+  },
+  {
+   "date": "2026-08-21",
+   "title": "أوروبا على حافة أزمة غاز جديدة: الأبعاد والانعكاسات",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "أوروبا والناتو وروسيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/europe-s-looming-gas-crisis-dimensions-and-consequences",
+   "author": "وحدة الدراسات الأوروبية",
+   "date_basis": "telegram-post",
+   "telegram_views": "127"
+  },
+  {
+   "date": "2026-08-20",
+   "title": "Israel’s Perspective of the Turkish Challenge: A Real Danger or Creating a New External Enemy?",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "إسرائيل وفلسطين",
+   "language": "en",
+   "url": "https://epc.ae/en/details/featured/israel-s-perspective-of-the-turkish-challenge-a-real-danger-or-creating-a-new-external-enemy-",
+   "author": "Israel and Palestine Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "126"
+  },
+  {
+   "date": "2026-08-19",
+   "title": "الدولة العراقية في مواجهة المليشيات: تحديات التمركز الجغرافي، وآفاق مساعي «حصر السلاح»",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "العراق",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/the-iraqi-state-in-the-face-of-militias-geographic-deployment-challenges-and-the-prospects-of-arms-monopolization",
+   "author": "وحدة الدراسات العراقية",
+   "date_basis": "telegram-post",
+   "telegram_views": "321"
+  },
+  {
+   "date": "2026-08-18",
+   "title": "Beyond Hormuz: The New Geography of Gulf Security",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/brief/beyond-hormuz-the-new-geography-of-gulf-security1",
+   "author": "Dr. Ebtesam Al Ketbi",
+   "date_basis": "telegram-post",
+   "telegram_views": "148"
+  },
+  {
+   "date": "2026-08-18",
+   "title": "بابٌ مفتوحٌ على احتمالاتٍ شتَّى: سيناريوهات المواجهة الإيرانية–الأمريكية",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/scenario/unlocking-all-possibilities-us-iran-confrontation-scenarios",
+   "author": "وحدة الدراسات الإيرانية",
+   "date_basis": "telegram-post",
+   "telegram_views": "278"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "Iran’s Escalation in Iraq’s Kurdistan Region: Patterns, Repercussions, and Likely Trajectories",
+   "type": "سيناريوهات / Scenarios",
+   "topic": "إيران",
+   "language": "en",
+   "url": "https://epc.ae/en/details/scenario/iran-s-escalation-in-iraq-s-kurdistan-region-patterns-repercussions-and-likely-trajectories",
+   "author": "Iraq Studies Unit",
+   "date_basis": "telegram-post",
+   "telegram_views": "130"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "حلف «الناتو 3.0» يفتح نافذة الفُرص لتركيا مُجدداً",
+   "type": "قضايا متخصصة / Featured Topics",
+   "topic": "تركيا",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/featured/nato-3-0-opens-a-new-window-of-opportunity-for-t-rkiye",
+   "author": "وحدة الدراسات التركية",
+   "date_basis": "telegram-post",
+   "telegram_views": "138"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "ما بعد هرمز: الجغرافيا الجديدة للأمن الخليجي",
+   "type": "إيجاز / Briefs",
+   "topic": "إيران",
+   "language": "ar",
+   "url": "https://epc.ae/ar/details/brief/beyond-hormuz-the-new-geography-of-gulf-security",
+   "author": "د. ابتسام الكتبي",
+   "date_basis": "telegram-post",
+   "telegram_views": "254"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 1,
+  "reports": 0,
+  "analysis": 82,
+  "news": 18,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 2,
+  "other": 0
+ },
+ "type_labels_90d": {
+  "سيناريوهات / Scenarios": 37,
+  "إيجاز / Briefs": 21,
+  "قضايا متخصصة / Featured Topics": 24,
+  "فعالية / Event": 2,
+  "الأخبار / News": 18,
+  "أوراق استراتيجية (إصدارات)": 1
+ },
+ "type_breakdown_note": "video/infographic/podcast = 0 يعني «لم يُرصد عبر النشرة/تيليغرام كصفحات موقع»، لا أن الموقع خالٍ منها (في robots.txt أقسام /media/videos و/Inforgraphics). الفيديو مرصود على يوتيوب وتيليغرام (انظر social_channels_observed).",
+ "top_topics": [
+  {
+   "topic": "إيران",
+   "count": 36
+  },
+  {
+   "topic": "فعاليات المركز وأخباره",
+   "count": 20
+  },
+  {
+   "topic": "إسرائيل وفلسطين",
+   "count": 12
+  },
+  {
+   "topic": "سوريا والمشرق",
+   "count": 9
+  },
+  {
+   "topic": "الخليج والإمارات",
+   "count": 4
+  },
+  {
+   "topic": "أوروبا والناتو وروسيا",
+   "count": 4
+  },
+  {
+   "topic": "العراق",
+   "count": 4
+  },
+  {
+   "topic": "أخرى",
+   "count": 4
+  },
+  {
+   "topic": "أفريقيا",
+   "count": 3
+  },
+  {
+   "topic": "الصين وآسيا",
+   "count": 3
+  },
+  {
+   "topic": "الولايات المتحدة",
+   "count": 2
+  },
+  {
+   "topic": "تركيا",
+   "count": 2
+  }
+ ],
+ "languages": [
+  "ar",
+  "en"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/EmiratesPolicy",
+   "posts_30d": 66,
+   "posts_90d": 165,
+   "typical_views": "وسيط 90 يوماً ≈ 105 مشاهدة؛ وسيط 30 يوماً ≈ 78؛ الأعلى 419؛ الأدنى 44",
+   "note": "959 مشتركاً (2026-11-16). أنواع منشورات الـ90 يوماً: نص+رابط 88، صورة 42، فيديو 35. بالشهر: {\"2026-08\": 20, \"2026-09\": 45, \"2026-10\": 59, \"2026-11\": 41}. المشاهدات كما ظهرت يوم 2026-11-16."
+  },
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/@EmiratesPolicyCenter",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "آخر 15 فيديو في RSS: 2–179 مشاهدة",
+   "note": "2.08K مشترك. RSS يعرض آخر 15 فيديو فقط: 13 منها بتاريخ 11–13 نوفمبر 2026 (داخل النافذتين) و2 بتاريخ 16 نوفمبر (خارجها). العدد الكامل في 30/90 يوماً غير متاح (التبويبات لا تعرض تواريخ دقيقة). تبويب Shorts عرض 48 مقطعاً بمشاهدات 15–1K."
+  },
+  {
+   "platform": "Newsletter (Mailchimp)",
+   "url": "https://us4.campaign-archive.com/home/?u=2c7527a65f8ab456bbbbcc453&id=cde8e3de12",
+   "posts_30d": 12,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "الأرشيف العلني يعرض آخر 20 حملة (18 سبتمبر–8 نوفمبر 2026): نشرة أسبوعية كل جمعة بنسختين عربية وإنجليزية + 4 حملات خاصة بملتقى أبوظبي. في نافذة 30 يوماً: 16/23/30 أكتوبر و6 نوفمبر ×2 لغة + 4 حملات الملتقى = 12. أعداد المشتركين ونسب الفتح غير متاحة."
+  },
+  {
+   "platform": "X",
+   "url": "https://twitter.com/emiratespolicy",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "المنصة تحجب القراءة دون تسجيل دخول"
+  },
+  {
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/EmiratesPolicyCenter",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب دون تسجيل دخول"
+  },
+  {
+   "platform": "LinkedIn",
+   "url": "https://www.linkedin.com/company/emirates-policy-center",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب دون تسجيل دخول"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "Telegram",
+   "date": "2026-09-02",
+   "url": "https://t.me/EmiratesPolicy/3315",
+   "summary": "الخريطة الانتخابية الإسرائيلية الجديدة: تشرذُم اليمين وصعود مُنافسي نتنياهو https://epcenter.ae/israeli-election-2026 #إسرائيل #الانتخابات_الإسرائيلية #اليمين_الإسرائيلي #المشهد_السياسي_الإسرائيلي #قض",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "419",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-19",
+   "url": "https://t.me/EmiratesPolicy/3298",
+   "summary": "الدولة العراقية في مواجهة المليشيات: تحديات التمركز الجغرافي، وآفاق مساعي «حصر السلاح» https://epcenter.ae/iraqi-state-militias #العراق #المشهد_السياسي_العراقي #حصر_السلاح #الدولة_العراقية #سيناريوهات",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "321",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-18",
+   "url": "https://t.me/EmiratesPolicy/3296",
+   "summary": "بابٌ مفتوحٌ على احتمالاتٍ شتَّى: سيناريوهات المواجهة الإيرانية–الأمريكية https://epcenter.ae/iran-us-scenarios #أمريكا #إيران #المواجهة_الأمريكية_الإيرانية #الأمن_الإقليمي #سيناريوهات",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "278",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-17",
+   "url": "https://t.me/EmiratesPolicy/3292",
+   "summary": "د. ابتسام الكتبي ما بعد هرمز: الجغرافيا الجديدة للأمن الخليجي https://epcenter.ae/beyond-hormuz #مضيق_هرمز #أمن_الخليج #السياسة_الخليجية #إيران #المواجهة_الأمريكية_الإيرانية #إيجاز",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "254",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-11",
+   "url": "https://t.me/EmiratesPolicy/3340",
+   "summary": "The Emirates Policy Center (EPC) Media Center has published its Weekly Review | 11 September 2026. It includes EPC's researchers' most recent analyses and the media coverage of the Center’s key public",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "173",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-14",
+   "url": "https://t.me/EmiratesPolicy/3341",
+   "summary": "Simmering: Features of the New US “Rationalization” Approach Toward Iran https://epcenter.ae/iran-rationalization #Iran #USIranPolicy #USForeignPolicy #MiddleEastGeopolitics #RegionalSecurity",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "162",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-30",
+   "url": "https://t.me/EmiratesPolicy/3364",
+   "summary": "المليشيات العراقية بعد 30 سبتمبر: هندسة إيرانية بديلة لنزع السلاح https://epcenter.ae/iraqi-militias #العراق #المشهد_السياسي_العراقي #نزع_السلاح #إيران #المليشيات #الدولة_العراقية #سيناريوهات",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "158",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-21",
+   "url": "https://t.me/EmiratesPolicy/3303",
+   "summary": "The Emirates Policy Center (EPC) Media Center has published its Weekly Review | Friday, 21 August 2026. It includes EPC's researchers' most recent analyses and the media coverage of the Center’s key p",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "156",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-25",
+   "url": "https://t.me/EmiratesPolicy/3360",
+   "summary": "The Emirates Policy Center (EPC) Media Center has published its Weekly Review | 25 September 2026. It includes EPC's researchers' most recent analyses and the media coverage of the Center’s key public",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "154",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-04",
+   "url": "https://t.me/EmiratesPolicy/3328",
+   "summary": "The Emirates Policy Center (EPC) Media Center has published its Weekly Review | 4 September 2026. It includes EPC's researchers' most recent analyses and the media coverage of the Center’s key publica",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "152",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-10-16",
+   "url": "https://t.me/EmiratesPolicy/3415",
+   "summary": "The Emirates Policy Center (EPC) Media Center has published its Weekly Review | 16 October 2026. It includes EPC's researchers' most recent analyses and the media coverage of the Center’s key publicat",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "150",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-18",
+   "url": "https://t.me/EmiratesPolicy/3297",
+   "summary": "Dr. Ebtesam Al Ketbi Beyond Hormuz: The New Geography of Gulf Security https://epcenter.ae/gulf-security #GulfSecurity #StraitOfHormuz #Geopolitics #MaritimeSecurity",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "148",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram (أعلى مشاهدة في آخر 30 يوماً)",
+   "date": "2026-10-16",
+   "url": "https://t.me/EmiratesPolicy/3414",
+   "summary": "نشر المركز الإعلامي لـ #مركز_الإمارات_للسياسات ، نشرة #حصاد_الأسبوع | الجمعة، 16 أكتوبر 2026، وتضمنت أحدث تحليلات باحثي المركز والتغطية الإخبارية لأهم أنشطته وفعالياته.للإطلاع على نشرة حصاد هذا الأسبو",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "133",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram (أعلى مشاهدة في آخر 30 يوماً)",
+   "date": "2026-10-20",
+   "url": "https://t.me/EmiratesPolicy/3418",
+   "summary": "القمة الأوروبية في أكتوبر 2026: أزمات مُمتدة وتوافقات هشَّة https://epcenter.ae/european-council-2026 #الاتحاد_الأوروبي #القمة_الأوروبية #السياسات_الأوروبية #الأزمة_الأوكرانية #الطاقة #الهجرة #الصين #",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "132",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram (أعلى مشاهدة في آخر 30 يوماً)",
+   "date": "2026-10-20",
+   "url": "https://t.me/EmiratesPolicy/3416",
+   "summary": "السباق الصيني-الأمريكي في الذكاء الاصطناعي: مِن تفوق النماذج إلى صراع المعايير https://epcenter.ae/us-china-ai-race #الذكاء_الاصطناعي #الصين #أمريكا #التنافس_الأمريكي_الصيني #سياسات_القوى_الكبرى #قضاي",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "126",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram (أعلى مشاهدة في آخر 30 يوماً)",
+   "date": "2026-10-23",
+   "url": "https://t.me/EmiratesPolicy/3421",
+   "summary": "الجلسة الأولى من ملتقى أبوظبي الاستراتيجي الثالث عشر 2026 بعنوان: «البوصلة الإماراتية: القوة والمرونة وفن الاستقلال الاستراتيجي» كيف تحافظ دولة الإمارات على استقلالية قرارها الاستراتيجي في عالم تتصاعد",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "122",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram (أعلى مشاهدة في آخر 30 يوماً)",
+   "date": "2026-10-27",
+   "url": "https://t.me/EmiratesPolicy/3427",
+   "summary": "The second of the 13th Abu Dhabi Strategic Debate 2026, titled: “Who Governs the World? The Great Debate on Order, Power, and Leadership” Is the world moving toward a new, broadly recognized leader, a",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "121",
+   "source_url": "https://t.me/s/EmiratesPolicy",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=dXVsfDeXOYY",
+   "summary": "مقابلة خاصة | سعادة عمران شرف (خارج النافذة)",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "14",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=7AhRO1MylsM",
+   "summary": "مقابلة خاصة | سعادة عمران شرف (خارج النافذة)",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "15",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=ON4txwY0eWE",
+   "summary": "Exclusive interview | H.E. Dr. Sultan Al-Nuaimi",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "53",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=cZgFiUvR1Aw",
+   "summary": "كلمة د. ابتسام الكتبي | ملتقى أبوظبي الاستراتيجي 13",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "107",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=8xxS0DaS0OM",
+   "summary": "Dr. Ebtesam Al-Ketbi – Concluding Remarks | ADSD 13",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "39",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=mOSVozkvsxM",
+   "summary": "الجلسة الحادية عشرة: الشرق الأوسط بين رؤى متنافسة.. خرائط وتحالفات جديدة",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "53",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=6qgMl93Ty9o",
+   "summary": "Panel 11: The Middle East Between Competing Visions: New Maps and Alliances | ADSD 13",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "101",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=10prVekP8HQ",
+   "summary": "الجلسة العاشرة: المشرق العربي الجديد.. الدول وخطوط التصدع وسياسة إعادة الإعمار",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "73",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=tVmd0a__XAw",
+   "summary": "Panel 10: The New Arab Levant: States, Fault Lines, and the Politics of Reconstruction | ADSD 13",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "26",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=kU9rn9wA234",
+   "summary": "Panel 9: Israel After the War: Security, Integration, and the Remaking of the Middle East | ADSD 13",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "179",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=8v46NcOw0HY",
+   "summary": "الجلسة التاسعة: إسرائيل بعد الحرب.. حسابات الأمن والاندماج وإعادة تشكيل الشرق الأوسط",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "62",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=yXtJ1mHvgr8",
+   "summary": "Panel 8: New Iran, Old Iran? Regime Transformation and the Future of the Islamic Republic | ADSD 13",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "98",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=2Esdx3lHIvY",
+   "summary": "الجلسة الثامنة: إيران الجديدة، إيران القديمة! تحوُّل النظام ومستقبل الجمهورية الإسلامية",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "51",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=7l-gib304DU",
+   "summary": "Weekly Review | 2 October 2026.",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=-u3OxzMuVEQ",
+   "summary": "ملخّص اليومين الأول والثاني من ملتقى أبوظبي الاستراتيجي الثالث عشر",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "22",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/XxmS0ttGtiw",
+   "summary": "حصاد_الأسبوع | الجمعة، 16 أكتوبر 2026",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "183 views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/RO9ueNk58ew",
+   "summary": "حصاد الأسبوع |  الجمعة، 10 أبريل 2026",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "219 views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/dKuy0epIHak",
+   "summary": "Panel 12: Post-War Gaza: Challenges of Building Sustainable Peace",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1K views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/nfr93AE7flU",
+   "summary": "Panel 11: Israel: War Without, War Within",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "841 views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/1BQLI0WkzSY",
+   "summary": "الجلسة الحادية عشرة: إسرائيل: حرب في الخارج، وحرب في الداخل",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "910 views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/DYUASfyy_UM",
+   "summary": "الجلسة السابعة: الشرق الأوسط: هندسة إقليمية جديدة",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "206 views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/diV0Q4xcj7s",
+   "summary": "الجلسة الخامسة: فهم روسيا",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1K views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube Shorts",
+   "date": "غير متاح (تبويب Shorts لا يعرض التاريخ)",
+   "url": "https://www.youtube.com/shorts/665zd_0rkSQ",
+   "summary": "الجلسة الرابعة: معضلة أوروبا الأمنية",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "389 views",
+   "source_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين تحليلية طويلة من شطرين تفصل بينهما نقطتان: موضوع + زاوية/سؤال، وكثيراً ما تنتهي بعلامة استفهام أو صيغة «بين... و...» أو «السيناريوهات/التداعيات/الآفاق». أمثلة: «الخريطة الانتخابية الإسرائيلية الجديدة: تشرذُم اليمين وصعود مُنافسي نتنياهو»، «التصعيد الإسرائيلي قبل انتخابات الكنيست: مناورة سياسية أم استعداد لمواجهة محتملة؟». النص العربي مُشكَّل جزئياً. على تيليغرام: العنوان + رابط قصير مقروء (epcenter.ae/israeli-election-2026) + 3–5 وسوم. (المصدر: t.me/s/EmiratesPolicy وأعداد النشرة)",
+ "design_style": "لم يمكن فحص صور الموقع (CAPTCHA). المرصود: نشرة Mailchimp بقالب ثابت مقسّم بفواصل ◈ إلى «تحت الضوء/In Focus»، «تحليلات»، «أحدث الإصدارات»، «فعاليات قادمة»، «الأخبار»، وكل مادة ببطاقة: النوع | الكاتب/الوحدة ثم العنوان ثم «اقرأ المزيد». على تيليغرام في فترة الملتقى: بطاقات اقتباس «أبرز ما جاء في كلمة...»، مقاطع «أبرز لحظات» قصيرة، وإعلانات «🔴 مباشر الآن» لكل جلسة، بنسختين عربية وإنجليزية. تقييم بصري تفصيلي (ألوان/خطوط) غير متاح.",
+ "promotion_tactics": [
+  {
+   "tactic": "نشرة أسبوعية ثابتة كل جمعة «حصاد الأسبوع / Weekly Review» بنسختين عربية وإنجليزية تجمع كل مواد الأسبوع",
+   "evidence_url": "https://us4.campaign-archive.com/home/?u=2c7527a65f8ab456bbbbcc453&id=cde8e3de12"
+  },
+  {
+   "tactic": "إعادة نشر النشرة نفسها على تيليغرام وكفيديو قصير «حصاد الأسبوع» على يوتيوب Shorts",
+   "evidence_url": "https://www.youtube.com/@EmiratesPolicyCenter/shorts"
+  },
+  {
+   "tactic": "نطاق روابط قصيرة خاص ومقروء لكل مادة (epcenter.ae/<slug>) بدل bit.ly",
+   "evidence_url": "https://t.me/s/EmiratesPolicy"
+  },
+  {
+   "tactic": "نشر ثنائي اللغة شبه كامل: كل تحليل يصدر بالعربية ثم بالإنجليزية بفارق أيام، بمنشور مستقل لكل لغة",
+   "evidence_url": "https://t.me/s/EmiratesPolicy"
+  },
+  {
+   "tactic": "تصنيف ثابت للمنتجات: إيجاز / سيناريوهات / قضايا متخصصة / أوراق استراتيجية، مع نسبة المادة إلى وحدة بحثية (وحدة الدراسات العراقية، الإيرانية...)",
+   "evidence_url": "https://mailchi.mp/epc/23102026ar"
+  },
+  {
+   "tactic": "سلسلة جديدة باسم «أفكار استراتيجية» (باكورتها دراسة د. ابتسام الكتبي عن المرونة الاستراتيجية)",
+   "evidence_url": "https://mailchi.mp/epc/23102026ar"
+  },
+  {
+   "tactic": "حملة فعالية كبرى (ملتقى أبوظبي الاستراتيجي 13، 9–10 نوفمبر 2026): صفحة هبوط، 4 رسائل بريدية خاصة، كتيّب/برنامج/سِيَر PDF، بث مباشر، تسجيل كامل لكل جلسة بلغتين على يوتيوب، مقاطع أبرز اللحظات، مقابلات جانبية مع المتحدثين",
+   "evidence_url": "https://us4.campaign-archive.com/?u=2c7527a65f8ab456bbbbcc453&id=83c2a69ccd"
+  },
+  {
+   "tactic": "أخبار زيارات الوفود والدبلوماسيين كمحتوى علاقات عامة دوري",
+   "evidence_url": "https://mailchi.mp/epc/16102026en"
+  },
+  {
+   "tactic": "نموذج اشتراك بريدي مدمج في الموقع (Mailchimp) وتذييل نشرة يربط 6 منصات",
+   "evidence_url": "https://mailchi.mp/epc/16102026en"
+  }
+ ],
+ "strengths": [
+  "إيقاع نشر منتظم وقابل للتنبؤ: نحو 8–10 مواد (عربية+إنجليزية) أسبوعياً مع نشرة كل جمعة",
+  "ثنائية لغوية كاملة تقريباً توسّع الجمهور الدولي",
+  "تصنيف منتجات واضح ونسبة للوحدات البحثية يبنيان هوية تحريرية",
+  "فعالية سنوية محورية تُستثمر في عشرات القطع (جلسات، مقتطفات، مقابلات)",
+  "توزيع متعدد القنوات من مصدر واحد (موقع ← نشرة ← تيليغرام ← يوتيوب)"
+ ],
+ "weaknesses": [
+  "تفاعل منخفض على القنوات المرصودة: تيليغرام 959 مشتركاً ووسيط ≈105 مشاهدة؛ فيديوهات يوتيوب الأخيرة 2–179 مشاهدة",
+  "الموقع SPA خلف CAPTCHA بلا RSS أو sitemap فعليين (sitemap.xml يعيد صفحة HTML)، ما يضعف الفهرسة والوصول الآلي والمشاركة",
+  "منشورات تيليغرام عنوان+رابط دون ملخص أو صورة في أغلبها (88 من 165 بلا وسائط)",
+  "هبوط المشاهدات على تيليغرام في آخر 30 يوماً (وسيط ≈78) مقابل أغسطس (حتى 419)",
+  "عناوين طويلة وأكاديمية قليلة الجاذبية على المنصات الاجتماعية"
+ ],
+ "opportunities_for_mokha": [
+  "نشرة «حصاد الأسبوع» ثابتة الموعد (بريد + تيليغرام/واتساب) تجمع كل ما نُشر، مع أرشيف علني",
+  "روابط قصيرة مقروءة على نطاق المركز لكل مادة لتسهيل التتبع والمشاركة",
+  "تثبيت 3–4 قوالب منتجات بأسماء واضحة (إيجاز/تقدير موقف/سيناريوهات/ورقة) وإظهار النوع والكاتب في كل منشور",
+  "التميّز عن EPC بإضافة ملخص من 2–3 نقاط وصورة/بطاقة لكل منشور بدلاً من عنوان+رابط فقط",
+  "تحويل كل ندوة إلى سلسلة: إعلان، بطاقات اقتباس، مقطع أبرز اللحظات، تسجيل كامل، مقابلة قصيرة مع متحدث",
+  "ترجمة إنجليزية منتظمة لأهم المواد اليمنية (فجوة: لم تُرصد أي مادة عن اليمن ضمن مواد EPC في 90 يوماً)",
+  "إبقاء RSS وsitemap مفتوحين (نقطة ضعف لدى EPC) لتحسين الظهور في البحث وأدوات الذكاء الاصطناعي"
+ ],
+ "limitations": [
+  "epc.ae: صفحة CAPTCHA (Radware/perfdrive) أمام Playwright العادي، وcurl يعيد هيكل SPA فارغاً، و/api/ ممنوع في robots.txt؛ لم نتجاوز أياً منها. لذلك تواريخ المواد مأخوذة من تيليغرام/النشرة لا من صفحة المادة.",
+  "عدّ الموقع حدّ أدنى مرصود وليس حصراً مؤكداً (انظر method).",
+  "X وFacebook وLinkedIn وInstagram: لا قراءة دون تسجيل دخول؛ لا أعداد منشورات ولا تفاعل ولا متابعون حاليون. أرقام OnThinkTanks تعود إلى 2025 ولا تدل على نمو.",
+  "يوتيوب: RSS يعطي آخر 15 فيديو فقط؛ لا عدّ كامل للنافذتين؛ التعليقات غير متاحة.",
+  "تيليغرام لا يعرض إعجابات/تعليقات/مشاركات في المعاينة العامة؛ المشاهدات فقط.",
+  "web.archive.org غير قابل للوصول من هذه البيئة.",
+  "لم يمكن فحص التصميم البصري للموقع أو صور og:image.",
+  "الحسابات موثّقة من تذييل النشرة الرسمية لا من ترويسة الموقع مباشرة."
+ ],
+ "sources": [
+  {
+   "url": "https://epc.ae/robots.txt",
+   "used_for": "قيود الزحف وأقسام الموقع (2026-11-13)"
+  },
+  {
+   "url": "https://epc.ae/static/js/main.cbc1919c.chunk.js",
+   "used_for": "ربط قائمة Mailchimp بالموقع (2026-11-14)"
+  },
+  {
+   "url": "https://t.me/s/EmiratesPolicy",
+   "used_for": "منشورات ومشاهدات ومشتركو تيليغرام (2026-11-16)"
+  },
+  {
+   "url": "https://us4.campaign-archive.com/home/?u=2c7527a65f8ab456bbbbcc453&id=cde8e3de12",
+   "used_for": "أرشيف النشرة (2026-11-16)"
+  },
+  {
+   "url": "https://mailchi.mp/epc/16102026en",
+   "used_for": "نموذج عدد النشرة وروابط الحسابات (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/@EmiratesPolicyCenter",
+   "used_for": "مشتركو يوتيوب (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGOoBKNJ2ChDn8i31QqKw9Q",
+   "used_for": "آخر 15 فيديو ومشاهداتها (2026-11-16)"
+  },
+  {
+   "url": "https://onthinktanks.org/think-tank/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA/",
+   "used_for": "أرقام متابعين طرف ثالث 2022–2025 (2026-11-16)"
+  }
+ ]
+}

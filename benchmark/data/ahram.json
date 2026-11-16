@@ -1,0 +1,175 @@
+{
+ "center": "مركز الأهرام للدراسات السياسية والاستراتيجية / Al-Ahram Center for Political and Strategic Studies (ACPSS)",
+ "website": "https://acpss.ahram.org.eg",
+ "accessed": "2026-11-13 → 2026-11-16",
+ "accounts": {
+  "x": {
+   "url": "غير متاح",
+   "verified_via": "غير متاح — الموقع الرسمي يعيد HTTP 403 (تحدّي Cloudflare «Just a moment...») لكل من curl وPlaywright العادي وWebFetch، فلم يمكن قراءة الترويسة/التذييل"
+  },
+  "facebook": {
+   "url": "غير متاح",
+   "verified_via": "غير متاح — الموقع الرسمي يعيد HTTP 403 (تحدّي Cloudflare «Just a moment...») لكل من curl وPlaywright العادي وWebFetch، فلم يمكن قراءة الترويسة/التذييل"
+  },
+  "linkedin": {
+   "url": "غير متاح",
+   "verified_via": "غير متاح — الموقع الرسمي يعيد HTTP 403 (تحدّي Cloudflare «Just a moment...») لكل من curl وPlaywright العادي وWebFetch، فلم يمكن قراءة الترويسة/التذييل"
+  },
+  "other": []
+ },
+ "followers": [],
+ "website_counts": {
+  "d30": {
+   "total": null,
+   "by_language": {}
+  },
+  "d90": {
+   "total": null,
+   "by_language": {}
+  },
+  "method": "غير متاح: لم يمكن عدّ المنشورات. الصفحة الرئيسية وsitemap.xml وصفحات /News/<id>.aspx وملفات PDF كلها تعيد 403 (Cloudflare managed challenge) ولم نحاول تجاوزها. robots.txt (المتاح) يسمح بالبحث ويمنع زواحف تدريب الذكاء الاصطناعي ومنها ClaudeBot. طريقة العدّ المقترحة لمن يملك متصفحاً عادياً: صفحات القوائم index.aspx?Serial=<رقم القسم> وأرقام المواد المتسلسلة /News/<id>.aspx (آخر رقم مرصود في نتائج البحث 21712، مادة من مايو 2026).",
+  "source_urls": [
+   "https://acpss.ahram.org.eg/robots.txt",
+   "https://acpss.ahram.org.eg/sitemap.xml"
+  ]
+ },
+ "items": [],
+ "items_note": "لا مواد موثّقة بتاريخ ورابط داخل النافذة 2026-08-16→2026-11-13. مقتطفات البحث تشير فقط إلى أن الصفحة الرئيسية كانت تعرض مواد بتاريخ 1 و4 نوفمبر 2026 وقسم «تقديرات استراتيجية» (الحرب مع إيران، اتفاقية مكة للدفاع المشترك، المفاوضات الأمريكية–الإيرانية) وملفاً عن انتخابات الكنيست الـ26، دون عناوين أو روابط فردية يمكن التحقق منها.",
+ "type_breakdown_90d": {
+  "research": null,
+  "reports": null,
+  "analysis": null,
+  "news": null,
+  "video": null,
+  "infographic": null,
+  "podcast": null,
+  "events": null,
+  "other": null
+ },
+ "top_topics": [],
+ "top_topics_note": "غير متاح كمياً. نوعياً (مقتطفات بحث، غير مؤكدة): إيران/الحرب، الأمن الإقليمي والخليج، إسرائيل وانتخابات الكنيست، السياسة الخارجية المصرية.",
+ "languages": [
+  "ar (الموقع acpss.ahram.org.eg عربي؛ وجود نسخة إنجليزية نشطة غير مؤكد)"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "Telegram",
+   "url": "غير متاح",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "لم يُعثر على قناة رسمية؛ t.me/s/acpss وt.me/s/ACPSSEgypt لا يخصّان المركز/غير موجودين (فُحصا 2026-11-16)"
+  },
+  {
+   "platform": "YouTube",
+   "url": "غير متاح",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "youtube.com/@ACPSS قناة أخرى باسم «acps» لا تخص المركز؛ لم يُعثر على قناة رسمية مؤكدة"
+  },
+  {
+   "platform": "X / Facebook / LinkedIn",
+   "url": "غير متاح",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "المنصات محجوبة دون تسجيل دخول، وعناوين الحسابات نفسها لم تتأكد من الموقع"
+  }
+ ],
+ "social_posts": [],
+ "secondary_mentions": [
+  {
+   "date": "2026-08-05",
+   "summary": "خبر في Ahram Online عن سلسلة موائد مستديرة للمركز تدعو إلى عقيدة استراتيجية جديدة (العنوان من نتيجة البحث؛ الصفحة نفسها 403)",
+   "url": "https://english.ahram.org.eg/News/574100.aspx",
+   "data_type": "search-snippet"
+  },
+  {
+   "date": "2026-09-01 (حسب مقتطف البحث، غير مؤكد)",
+   "summary": "بوابة الأهرام: إعلان المركز عن مؤتمره الأول لشباب الباحثين",
+   "url": "https://gate.ahram.org.eg/Search/%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A3%D9%87%D8%B1%D8%A7%D9%85-%D9%84%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9.aspx",
+   "data_type": "search-snippet"
+  },
+  {
+   "date": "خارج النافذة (مايو 2026)",
+   "summary": "«التقرير الاستراتيجي العربي 2025: أعمال الندوة النقاشية بكلية الاقتصاد والعلوم السياسية: مقاربة تحليلية» — مادة على الموقع مع PDF",
+   "url": "https://acpss.ahram.org.eg/News/21712.aspx",
+   "data_type": "search-snippet"
+  }
+ ],
+ "headline_style": "غير متاح بالرصد المباشر. من عناوين ظهرت في نتائج البحث فقط: عناوين أكاديمية من شطرين بنقطتين، مثل «الحلقة المفقودة: الحاجة إلى مقاربة جديدة لترتيبات الأمن الإقليمي» و«التقرير الاستراتيجي العربي 2025: أعمال الندوة النقاشية...: مقاربة تحليلية» (عينة صغيرة جداً وخارج النافذة).",
+ "design_style": "غير متاح (لم يمكن تحميل أي صفحة أو صورة من الموقع).",
+ "promotion_tactics": [
+  {
+   "tactic": "إتاحة مواد وملفات بصيغة PDF على الموقع (مسارات /media/News/... و/Media/Malafat/...) — مرصود من عناوين نتائج البحث فقط",
+   "evidence_url": "https://acpss.ahram.org.eg/Media/Malafat/Malaf-Eklemi-1.pdf"
+  },
+  {
+   "tactic": "إصدار سنوي مرجعي بعلامة ثابتة: «التقرير الاستراتيجي العربي» (منذ 1986، العدد 40) مع ندوة نقاش جامعية حوله",
+   "evidence_url": "https://acpss.ahram.org.eg/News/21712.aspx"
+  },
+  {
+   "tactic": "أقسام ثابتة مسمّاة: «تقديرات استراتيجية»، «قضايا وتحليلات»، «إصدارات المركز»، «ملفات»",
+   "evidence_url": "https://acpss.ahram.org.eg/index.aspx?Serial=103"
+  },
+  {
+   "tactic": "التضخيم عبر منصات مؤسسة الأهرام (بوابة الأهرام، Ahram Online) التي تنشر أخبار المركز وإصداراته",
+   "evidence_url": "https://gate.ahram.org.eg/News/5596293.aspx"
+  }
+ ],
+ "strengths": [
+  "علامة مؤسسية عريقة (1968) وإصدار سنوي مرجعي منذ 1986 (مصدر: مقتطفات بحث)",
+  "ذراع إعلامية جاهزة عبر صحف وبوابات الأهرام",
+  "أقسام تحريرية ثابتة وملفات PDF قابلة للتنزيل"
+ ],
+ "weaknesses": [
+  "الموقع محجوب أمام أي قراءة آلية (403 على الصفحة الرئيسية وsitemap وPDF)، ما يحدّ من الفهرسة والاقتباس وأدوات الرصد",
+  "لم يُعثر عبر البحث على حسابات اجتماعية رسمية واضحة للمركز أو قناة تيليغرام/يوتيوب مؤكدة",
+  "هذه الملاحظات مبنية على أدلة غير مباشرة ومحدودة"
+ ],
+ "opportunities_for_mokha": [
+  "بناء إصدار سنوي مرجعي بعلامة ثابتة (مثل تقرير استراتيجي يمني سنوي) مع ندوة إطلاق",
+  "إتاحة كل ورقة بصيغة PDF مع صفحة HTML مفتوحة للفهرسة (عكس حجب ACPSS)",
+  "شراكات نشر مع منصات إعلامية لإعادة نشر ملخصات الإصدارات",
+  "إظهار روابط الحسابات الاجتماعية وRSS بوضوح حتى تُكتشف بسهولة عبر البحث"
+ ],
+ "limitations": [
+  "acpss.ahram.org.eg: 403 / Cloudflare challenge لكل الطلبات (curl، Playwright عادي، WebFetch) في 2026-11-13 و2026-11-16؛ لم نحاول التجاوز. english.ahram.org.eg وgate.ahram.org.eg يعيدان 403 كذلك.",
+  "web.archive.org غير قابل للوصول من هذه البيئة (توجد لقطة بتاريخ 2026-10-02 حسب archive.org/wayback/available لكن تعذّر فتحها).",
+  "لا حسابات مؤكدة، لا متابعون، لا عدّ للمنشورات، لا منشورات اجتماعية مرصودة: كلها «غير متاح».",
+  "X وFacebook وLinkedIn محجوبة دون تسجيل دخول.",
+  "صفحة المركز على OnThinkTanks أعادت 404/503.",
+  "كل ما ورد نوعياً مصدره عناوين/مقتطفات محرك البحث وليس قراءة مباشرة، ويجب التحقق منه يدوياً بمتصفح عادي."
+ ],
+ "sources": [
+  {
+   "url": "https://acpss.ahram.org.eg/robots.txt",
+   "used_for": "الملف الوحيد المتاح من الموقع؛ سياسة الزحف (2026-11-13)"
+  },
+  {
+   "url": "https://acpss.ahram.org.eg/",
+   "used_for": "محاولة قراءة — 403 (2026-11-13، 2026-11-16)"
+  },
+  {
+   "url": "https://archive.org/wayback/available?url=acpss.ahram.org.eg&timestamp=20261113",
+   "used_for": "وجود لقطة أرشيفية 2026-10-02 (تعذّر فتحها)"
+  },
+  {
+   "url": "https://acpss.ahram.org.eg/index.aspx?Serial=103",
+   "used_for": "مقتطف بحث: أقسام الصفحة وتواريخ 1 و4 نوفمبر 2026 (2026-11-16)"
+  },
+  {
+   "url": "https://acpss.ahram.org.eg/News/21712.aspx",
+   "used_for": "مقتطف بحث: عنوان مادة ورقمها"
+  },
+  {
+   "url": "https://english.ahram.org.eg/News/574100.aspx",
+   "used_for": "مقتطف بحث: خبر الموائد المستديرة 2026-08-05"
+  },
+  {
+   "url": "https://gate.ahram.org.eg/News/5596293.aspx",
+   "used_for": "مقتطف بحث: إصدار التقرير الاستراتيجي العربي 2025"
+  }
+ ]
+}

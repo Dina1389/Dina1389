@@ -1,0 +1,898 @@
+{
+ "center": "Brookings Institution",
+ "website": "https://www.brookings.edu",
+ "accessed": "2026-11-13 (موقع/WP REST) و2026-11-16 (يوتيوب، صفحات الفعاليات)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/BrookingsInst",
+   "verified_via": "https://www.brookings.edu/ (تذييل الصفحة)"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/brookings",
+   "verified_via": "https://www.brookings.edu/ (تذييل الصفحة)"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/the-brookings-institution",
+   "verified_via": "https://www.brookings.edu/ (تذييل الصفحة)"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/BrookingsInstitution"
+   },
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/brookingsinst/"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube",
+   "value": 175000,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/channel/UCi7jxgIOxcRaF4Q54U7lF3g/videos",
+   "type": "actual-on-platform",
+   "note": "الرقم المعروض مقرَّب «175K subscribers»؛ عدد الفيديوهات المعروض «9.4K videos»"
+  },
+  {
+   "platform": "X",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://twitter.com/BrookingsInst",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.facebook.com/brookings",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.linkedin.com/company/the-brookings-institution",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Instagram",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.instagram.com/brookingsinst/",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 81,
+   "by_language": {
+    "en": 81
+   }
+  },
+  "d90": {
+   "total": 287,
+   "by_language": {
+    "en": 287
+   }
+  },
+  "method": "عدّ فعلي (ليس تقديراً) عبر واجهة WordPress REST العامة للموقع: نوع المحتوى article مع after=2026-08-15T23:59:59 و before=2026-11-14T00:00:00 (ترويسة X-WP-Total=287) والتاريخ هو تاريخ النشر (حقل date) لا lastmod. الإجمالي يخص المقالات (Research/Commentary/Op-ed/Podcast) فقط. تُحصى بشكل منفصل: صفحات فعاليات أُنشئت في الفترة (90ي=39، 30ي=16؛ تاريخ إنشاء الصفحة لا تاريخ انعقاد الفعالية)، عناصر interactive أي رسوم/جداول بيانات مضمَّنة (90ي=275، 30ي=116)، in-the-media (90ي=32)، كتب (90ي=4)، collections (90ي=3). استعلام lang=ar/es/zh لنفس الفترة أعاد 0 (آخر مقال عربي منشور 2025-07-22). مواد الشرق الأوسط (كلمة مفتاحية في العنوان أو وسم المنطقة): 90ي=10، 30ي=3؛ اليمن/البحر الأحمر/الحوثيون في العنوان: 0.",
+  "middle_east_items_90d": [
+   {
+    "date": "2026-10-30",
+    "title": "Israel’s deadlocked election could force a new vote in 2027",
+    "type": "Commentary",
+    "url": "https://www.brookings.edu/articles/israels-deadlocked-election-could-force-a-new-vote-in-2027/"
+   },
+   {
+    "date": "2026-10-26",
+    "title": "Approving the US-Saudi nuclear deal while reducing proliferation risks",
+    "type": "Research",
+    "url": "https://www.brookings.edu/articles/approving-the-us-saudi-nuclear-deal-while-reducing-proliferation-risks/"
+   },
+   {
+    "date": "2026-10-22",
+    "title": "Will the US midterms change Washington’s policy on Israel and Palestine?",
+    "type": "Op-ed",
+    "url": "https://www.chathamhouse.org/2026/10/will-us-midterms-change-washingtons-policy-israel-and-palestine"
+   },
+   {
+    "date": "2026-10-12",
+    "title": "America shouldn’t let go of the Middle East",
+    "type": "Op-ed",
+    "url": "https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-phil-gordon#"
+   },
+   {
+    "date": "2026-10-11",
+    "title": "October 2026 update to TIGER: A modest recovery built on shaky foundations",
+    "type": "Commentary",
+    "url": "https://www.brookings.edu/articles/october-2026-update-to-tiger-a-modest-recovery-built-on-shaky-foundations/"
+   },
+   {
+    "date": "2026-09-15",
+    "title": "Don’t let Syria’s recovery become collateral damage in the Iran-US war",
+    "type": "Commentary",
+    "url": "https://www.justsecurity.org/155798/syrias-recovery-collateral-damage-iran-us-war/"
+   },
+   {
+    "date": "2026-09-02",
+    "title": "The Iran war and America’s widening strategy gap in Asia",
+    "type": "Research",
+    "url": "https://www.brookings.edu/articles/the-iran-war-and-americas-widening-strategy-gap-in-asia/"
+   },
+   {
+    "date": "2026-08-27",
+    "title": "Don’t let the Iran war distract the United States from Africa",
+    "type": "Research",
+    "url": "https://www.brookings.edu/articles/dont-let-the-iran-war-distract-the-united-states-from-africa/"
+   },
+   {
+    "date": "2026-08-23",
+    "title": "Iran unleashed",
+    "type": "Op-ed",
+    "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/"
+   },
+   {
+    "date": "2026-08-20",
+    "title": "Beyond winning and losing: What Beijing wants from the Iran war",
+    "type": "Commentary",
+    "url": "https://www.brookings.edu/articles/beyond-winning-and-losing-what-beijing-wants-from-the-iran-war/"
+   }
+  ],
+  "yemen_red_sea_items_90d": 0,
+  "source_urls": [
+   "https://www.brookings.edu/wp-json/wp/v2/article?per_page=100&after=2026-08-15T23:59:59&before=2026-11-14T00:00:00",
+   "https://www.brookings.edu/wp-json/wp/v2/event",
+   "https://www.brookings.edu/wp-json/wp/v2/interactive",
+   "https://www.brookings.edu/wp-json/wp/v2/article?lang=ar"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-13",
+   "title": "States should use Workforce Pell to back stackable pathways that pay off",
+   "type": "Research",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/states-should-use-workforce-pell-to-back-stackable-pathways-that-pay-off/"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Please Discuss … governing in Washington after the 2026 midterms",
+   "type": "Podcast",
+   "topic": "Campaigns & Elections; Political Parties",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/please-discuss-governing-in-washington-after-the-2026-midterms/"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "How state-owned roads can advance transit-oriented development",
+   "type": "Research",
+   "topic": "Economic Development; Housing; Placemaking",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/state-owned-roads-transit-oriented-development/"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Transit-oriented development is good business: How business groups can support their regions by advancing transit-accessible communities",
+   "type": "Research",
+   "topic": "Economic Development; Housing; Placemaking",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/business-case-for-transit-oriented-development/"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "How states can organize themselves to build more housing near transit",
+   "type": "Research",
+   "topic": "Economic Development; Housing; Infrastructure",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/state-led-transit-oriented-development/"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Trump, Xi, and Putin: What to expect from the APEC summit",
+   "type": "Commentary",
+   "topic": "Russia",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/trump-xi-and-putin-what-to-expect-from-the-apec-summit/"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Announcing “Deep Cuts,” a podcast unpacking the tearing down of the federal government—and how to build it back",
+   "type": "Podcast",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/announcing-deep-cuts-a-podcast-unpacking-the-tearing-down-of-the-federal-government-and-how-to-build-it-back/"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Historic wins show the 2026 vote was about more than prices",
+   "type": "Commentary",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/historic-wins-show-the-2026-vote-was-about-more-than-prices/"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Stopping the next Ethiopian-Eritrean War",
+   "type": "Commentary",
+   "topic": "Democracy, Conflict, & Governance; Foreign Politics & Elections; Geopolitics",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/stopping-the-next-ethiopian-eritrean-war/"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "A case for small-town grit: Sheyenne, North Dakota’s quiet comeback",
+   "type": "Podcast",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/a-case-for-small-town-grit-sheyenne-north-dakotas-quiet-comeback/"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "External Wealth of Nations 2025 update: AI stock prices and global imbalances",
+   "type": "Research",
+   "topic": "Economic Studies",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/external-wealth-of-nations-2025-update/"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "The external wealth of nations database",
+   "type": "Research",
+   "topic": "Economic Studies",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/the-external-wealth-of-nations-database/"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Who decides the future of AI? | The TechTank Podcast",
+   "type": "Podcast",
+   "topic": "Artificial Intelligence; Technology Policy & Regulation",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/who-decides-the-future-of-ai-the-techtank-podcast/"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Why is Xi Jinping purging leaders of his own party?",
+   "type": "Podcast",
+   "topic": "China; Taiwan",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/why-is-xi-jinping-purging-leaders-of-his-own-party/"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "The 2026 midterm elections showed DEI is alive and well ",
+   "type": "Commentary",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/the-2026-midterm-elections-showed-dei-is-alive-and-well/"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Tracking trade amid uncertain and changing tariff policies",
+   "type": "Research",
+   "topic": "U.S. Trade Policy",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/tracking-trade-amid-uncertain-and-changing-tariff-policies/"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Understanding and enhancing the well-being of boys and men of color",
+   "type": "Research",
+   "topic": "Race in Public Policy; Social Equity & Inclusion",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/understanding-and-enhancing-the-well-being-of-boys-and-men-of-color/"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Later school start times need not blow up transportation budgets",
+   "type": "Research",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/later-school-start-times-need-not-blow-up-transportation-budgets/"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Tracking turnover in the second Trump administration",
+   "type": "Research",
+   "topic": "Presidency; U.S. Democracy",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/tracking-turnover-in-the-second-trump-administration/"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "How Democrats won big, and why 2028 remains an open question",
+   "type": "Commentary",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/how-democrats-won-big-and-why-2028-remains-an-open-question/"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Rebalancing nature’s books",
+   "type": "Op-ed",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.project-syndicate.org/commentary/meeting-nature-targets-in-kunming-montreal-framework-requires-focus-on-bioeconomy-by-homi-kharas-et-al-2026-11?h=AES.xs4Aeg0gD5dUPGbRipSmZ0n8PHcpvb89JBDAFwxFatKsRlPrRAduechjx48XNQjH"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Reimagining how the United States advances development in the 21st century: At home and overseas",
+   "type": "Commentary",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/reimagining-us-development-home-overseas/"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "How do families pay for college?",
+   "type": "Commentary",
+   "topic": "Economic Security & Mobility",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/how-do-families-pay-for-college/"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Is the US exorbitant privilege eroding?",
+   "type": "Commentary",
+   "topic": "Global Trade",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/is-the-us-exorbitant-privilege-eroding/"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "What really drove post-pandemic inflation?",
+   "type": "Podcast",
+   "topic": "Economic Indicators",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/what-really-drove-post-pandemic-inflation/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "How the 2026 midterms could reshape data center policy",
+   "type": "Commentary",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/how-the-2026-midterms-could-reshape-data-center-policy/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Tracking the labor market and jobs",
+   "type": "Research",
+   "topic": "Economic Indicators; Labor & Unemployment",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/tracking-the-labor-market-and-jobs/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "What is a government shutdown?",
+   "type": "Commentary",
+   "topic": "Congress",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/what-is-a-government-shutdown-and-why-are-we-likely-to-have-another-one/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "More than half of Americans under age 30 now identify with a nonwhite race or ethnic group",
+   "type": "Research",
+   "topic": "Demographics & Population",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/majority-of-americans-under-30-are-nonwhite/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Localizing agency: Co-constructing meaning with girls and communities",
+   "type": "Podcast",
+   "topic": "Education Access & Equity; Education Policy; Global Education",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/localizing-agency-co-constructing-meaning-with-girls-and-communities/"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Has pay kept up with inflation?",
+   "type": "Research",
+   "topic": "Economic Indicators; Labor & Unemployment",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/has-pay-kept-up-with-inflation/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "How an AI bust can make Big AI bigger",
+   "type": "Commentary",
+   "topic": "U.S. States and Territories",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/how-an-ai-bust-can-make-big-ai-bigger/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "How the United States uses multilateral channels for its aid",
+   "type": "Research",
+   "topic": "Humanitarian & Disaster Assistance; U.S. Foreign Policy",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/multilateral-aid-united-states-donor-comparison/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "We studied the impact of ICE enforcement on the job market. It isn’t pretty.",
+   "type": "Op-ed",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.bostonglobe.com/2026/11/02/opinion/immigration-ice-job-loss/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Defining and strengthening the built environment workforce",
+   "type": "Research",
+   "topic": "Labor & Unemployment",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/defining-the-built-environment-workforce/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Who has to leave the Federal Reserve next?",
+   "type": "Commentary",
+   "topic": "Federal Reserve",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/who-has-to-leave-the-federal-reserve-next-2/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Federal deportation efforts: Implications for state child support agencies",
+   "type": "Research",
+   "topic": "State & Local Finance",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/federal-deportation-efforts-implications-for-state-child-support-agencies/"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
+   "type": "Op-ed",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Hutchins Center Fiscal Impact Measure",
+   "type": "Research",
+   "topic": "Economic Indicators; Federal Fiscal & Tax Policy; State & Local Finance",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/hutchins-center-fiscal-impact-measure/"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Teaching at the Right Level is a ‘smart buy’ for learning, but we need to rethink how we support teachers",
+   "type": "Commentary",
+   "topic": "Early Childhood Education; Education Policy; Global Education",
+   "language": "en",
+   "url": "https://www.brookings.edu/articles/teaching-right-level-teacher-support/"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 105,
+  "reports": 0,
+  "analysis": 144,
+  "news": 0,
+  "video": null,
+  "infographic": 275,
+  "podcast": 38,
+  "events": 39,
+  "other": 39,
+  "notes": "research = مصنّف Research في الموقع (منها 8 أوراق BPEA) ولا يفصل الموقع بين «ورقة» و«تقرير»؛ analysis = Commentary 115 + Op-ed 29 (منها مواد منشورة في منصات خارجية)؛ infographic = عناصر interactive (رسوم/جداول بيانات قابلة للتضمين والمشاركة منفردة)؛ events = صفحات فعاليات أُنشئت في الفترة؛ other = in-the-media 32 + كتب 4 + collections 3؛ video: لا يمكن عدّ فيديوهات يوتيوب للفترة كاملة (غير متاح)؛ news: نوع news في الواجهة أعاد 0."
+ },
+ "top_topics": [
+  {
+   "topic": "U.S. States and Territories",
+   "count": 60
+  },
+  {
+   "topic": "Artificial Intelligence",
+   "count": 20
+  },
+  {
+   "topic": "Technology Policy & Regulation",
+   "count": 13
+  },
+  {
+   "topic": "China",
+   "count": 13
+  },
+  {
+   "topic": "Federal Fiscal & Tax Policy",
+   "count": 13
+  },
+  {
+   "topic": "Labor & Unemployment",
+   "count": 11
+  },
+  {
+   "topic": "Taiwan",
+   "count": 9
+  },
+  {
+   "topic": "Economic Indicators",
+   "count": 9
+  },
+  {
+   "topic": "Education Policy",
+   "count": 9
+  },
+  {
+   "topic": "Global Education",
+   "count": 9
+  },
+  {
+   "topic": "Health Care Policy",
+   "count": 9
+  },
+  {
+   "topic": "K-12 Education",
+   "count": 8
+  },
+  {
+   "topic": "Children & Families",
+   "count": 8
+  },
+  {
+   "topic": "Campaigns & Elections",
+   "count": 7
+  },
+  {
+   "topic": "Education Access & Equity",
+   "count": 6
+  }
+ ],
+ "top_regions": [
+  {
+   "region": "North America",
+   "count": 62
+  },
+  {
+   "region": "U.S. States and Territories",
+   "count": 60
+  },
+  {
+   "region": "Asia & the Pacific",
+   "count": 28
+  },
+  {
+   "region": "China",
+   "count": 19
+  },
+  {
+   "region": "Africa",
+   "count": 14
+  },
+  {
+   "region": "Europe & Eurasia",
+   "count": 10
+  },
+  {
+   "region": "Taiwan",
+   "count": 10
+  },
+  {
+   "region": "Middle East & North Africa",
+   "count": 6
+  },
+  {
+   "region": "Sub-Saharan Africa",
+   "count": 6
+  },
+  {
+   "region": "European Union",
+   "count": 5
+  }
+ ],
+ "by_program": [
+  {
+   "program": "Economic Studies",
+   "count": 78
+  },
+  {
+   "program": "Governance Studies",
+   "count": 66
+  },
+  {
+   "program": "Global Economy and Development",
+   "count": 53
+  },
+  {
+   "program": "Foreign Policy",
+   "count": 38
+  },
+  {
+   "program": "Brookings Metro",
+   "count": 16
+  }
+ ],
+ "languages": [
+  "en (كل منشورات الفترة)",
+  "ar/es/zh موجودة كأقسام مترجمة لكن بلا منشورات جديدة في الفترة"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/channel/UCi7jxgIOxcRaF4Q54U7lF3g",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "من بين 15 فيديو في خلاصة RSS (6–16 نوفمبر 2026): الوسيط نحو 1,000 مشاهدة، المدى 258–12,006 (مرصود 2026-11-16)",
+   "note": "خلاصة RSS تعرض آخر 15 فيديو فقط، وصفحة /videos تعرض 30 فيديو بتواريخ نسبية (حتى «1mo ago») دون أرقام مشاهدة في البيانات الأولية؛ لذلك العدّ الدقيق لـ30/90 يوماً غير متاح. ما لا يقل عن 12 فيديو (غير Shorts) ظهرت بتاريخ ≤ 4 أسابيع في صفحة /videos."
+  },
+  {
+   "platform": "X",
+   "url": "https://twitter.com/BrookingsInst",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب (جدار تسجيل دخول)"
+  },
+  {
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/brookings",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب"
+  },
+  {
+   "platform": "LinkedIn",
+   "url": "https://www.linkedin.com/company/the-brookings-institution",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=3CI6dvXzPA4",
+   "summary": "\"60 Minutes Trump\" vs. \"Stephen Miller Trump\"",
+   "likes": "49",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "12006",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=aJzYc21N6_o",
+   "summary": "What comes next: The consequences of the 2026 midterm elections",
+   "likes": "19",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "3151",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=zaUj5o09Tx0",
+   "summary": "Midterms 2026: Was it a realignment?",
+   "likes": "38",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2862",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=krbfWXcnwkc",
+   "summary": "Israel after the elections: What’s next for US-Israel relations?",
+   "likes": "14",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2081",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=5dqGHtonino",
+   "summary": "Xi Jinping's understanding of purges in the Chinese Communist Party",
+   "likes": "31",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1664",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=aeeaeHbw8Iw",
+   "summary": "Building the conditions to thrive: Improving well-being for men and boys of color",
+   "likes": "10",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1141",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=2eGWzWNTU_Y",
+   "summary": "Will Xi Jinping be China's leader for life",
+   "likes": "28",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "997",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=i3YZoJDvGdk",
+   "summary": "US biosafety policy and regulations: Assessing the landscape",
+   "likes": "4",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "889",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=Enc-sthOVZI",
+   "summary": "The $10 trillion question: Financing the AI buildout",
+   "likes": "5",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "676",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=N9ZOtwb5x3U",
+   "summary": "This is Brookings",
+   "likes": "12",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "499",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=MwsWlS505d4",
+   "summary": "A case for small-town grit: Sheyenne, North Dakota",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "263",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=7w7Zcnq1eiM",
+   "summary": "What really drove post-pandemic inflation?",
+   "likes": "5",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "258",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  }
+ ],
+ "headline_style": "عناوين بصيغة الجملة (sentence case) مباشرة وتقريرية، كثير منها سؤال («What comes next…؟»، «Will Xi Jinping be China's leader for life») أو توصية صريحة («States should use…»، «Don't let the Iran war distract…»)؛ سلاسل ذات اسم ثابت في العنوان مثل «Please Discuss …» و«BPEA Fall 2026: Session N». كل مقال بحثي يبدأ بصندوق «Key takeaways» من 3 نقاط (حقل helper_key_takeaways في بيانات المقال).",
+ "design_style": "صورة رئيسية فوتوغرافية (وكالات/Shutterstock) بنسبة أفقية كـ og:image (مثال 1776×1184) مع twitter:card=summary_large_image؛ هوية موحّدة وصورة مشاركة افتراضية؛ الرسوم البيانية تُنشر كعناصر «interactive» مستقلة لكل منها رابط وأزرار مشاركة خاصة (X/Facebook/LinkedIn/Bluesky/Threads) — 275 عنصراً في 90 يوماً. (ملاحظة: لم تُلتقط لقطات شاشة؛ الوصف مبني على وسوم الصفحة وبنيتها.)",
+ "promotion_tactics": [
+  {
+   "tactic": "صندوق Key takeaways (3 نقاط) أعلى كل ورقة بحثية",
+   "evidence_url": "https://www.brookings.edu/articles/states-should-use-workforce-pell-to-back-stackable-pathways-that-pay-off/"
+  },
+  {
+   "tactic": "كل رسم بياني عنصر مستقل برابط خاص وأزرار مشاركة لخمس منصات (يحوّل الورقة الواحدة إلى عدة منشورات اجتماعية)",
+   "evidence_url": "https://www.brookings.edu/interactive/percent-of-charging-plugs-with-time-varying-prices/"
+  },
+  {
+   "tactic": "ملفات تنزيل PDF مرفقة: 89 من 287 مقالاً في 90 يوماً تحمل قسم Downloads",
+   "evidence_url": "https://www.brookings.edu/wp-json/wp/v2/article?per_page=100&after=2026-08-15T23:59:59"
+  },
+  {
+   "tactic": "بودكاست كصيغة نشر منتظمة (38 حلقة في 90 يوماً) مع نصوص مفرّغة PDF، وسلاسل جديدة مثل DeepCuts",
+   "evidence_url": "https://www.brookings.edu/podcasts/"
+  },
+  {
+   "tactic": "إعادة إدراج مقالات الرأي المنشورة خارجياً (Foreign Affairs, The Atlantic, Time…) ضمن أرشيف الموقع بروابط خارجية (29 Op-ed)",
+   "evidence_url": "https://www.brookings.edu/research-commentary/"
+  },
+  {
+   "tactic": "فعاليات مع بث/تسجيل يوتيوب مضمَّن في صفحة الفعالية (25 من 39 صفحة فعالية تحوي فيديو يوتيوب)",
+   "evidence_url": "https://www.brookings.edu/events/"
+  },
+  {
+   "tactic": "نشرات بريدية متعددة حسب البرنامج مع نافذة اشتراك منبثقة داخل المقال (حقل newsletter_flyout_override)",
+   "evidence_url": "https://www.brookings.edu/newsletters/"
+  },
+  {
+   "tactic": "سلسلة فيديو/حوار ثابتة الاسم «Please Discuss …» تُنشر مقالاً وفيديو معاً",
+   "evidence_url": "https://www.brookings.edu/articles/please-discuss-governing-in-washington-after-the-2026-midterms/"
+  }
+ ],
+ "strengths": [
+  "إيقاع نشر ثابت: 287 مقالاً في 90 يوماً (≈3.2 يومياً) و81 في 30 يوماً",
+  "تنويع الصيغ من المادة نفسها: بحث + Key takeaways + رسوم مستقلة + بودكاست + فعالية + فيديو",
+  "وسوم موضوع/منطقة/برنامج لكل مادة تسهّل التصفح والأرشفة",
+  "واجهة بيانات عامة ومنظمة (تاريخ نشر واضح لكل مادة)",
+  "قناة يوتيوب بـ175K مشترك وربط مباشر بين الفعالية والتسجيل"
+ ],
+ "weaknesses": [
+  "المحتوى غير الإنجليزي متوقف عملياً: 0 مادة عربية/إسبانية/صينية في 90 يوماً",
+  "تغطية الشرق الأوسط محدودة (9 من 287) ولا مادة عن اليمن/البحر الأحمر في العنوان",
+  "مشاهدات يوتيوب متواضعة قياساً بعدد المشتركين (وسيط ≈1,000 للفيديو الحديث)",
+  "تركيز شديد على الشأن الأميركي الداخلي (U.S. States and Territories أعلى وسم)"
+ ],
+ "opportunities_for_mokha": [
+  "إضافة «خلاصات رئيسية» من 3 نقاط أعلى كل ورقة/تقدير موقف، تُستخدم نصاً جاهزاً لمنشورات X ولينكدإن",
+  "استخراج كل رسم/خريطة من الورقة كبطاقة مستقلة برابط وصورة مشاركة خاصة",
+  "تثبيت سلسلة حوارية قصيرة باسم ثابت (على غرار Please Discuss) تُنشر نصاً وفيديو",
+  "إرفاق PDF لكل ورقة مع وسوم موضوع/منطقة موحّدة",
+  "ملء الفراغ: براكنغز لا تنتج بالعربية ولا عن اليمن/البحر الأحمر — فرصة لمخا لتقديم ملخصات إنجليزية قصيرة لأوراقها تستهدف جمهور هذه المراكز",
+  "أرشفة مقالات باحثي المركز المنشورة في منصات خارجية داخل الموقع بروابطها"
+ ],
+ "limitations": [
+  "X وFacebook وLinkedIn وInstagram: القراءة غير المصادَقة محجوبة؛ لا أعداد متابعين ولا منشورات ولا تفاعل (غير متاح) ولم تُجرَ أي محاولة تجاوز",
+  "يوتيوب: خلاصة RSS = آخر 15 فيديو فقط؛ لا عدّ دقيق لفيديوهات 30/90 يوماً؛ التعليقات غير ظاهرة؛ رقم likes مأخوذ من starRating count في الخلاصة",
+  "تواريخ انعقاد الفعاليات لم تُستخرج؛ عدد الفعاليات = صفحات أُنشئت في الفترة",
+  "13 مادة Op-ed/خارجية لم تُجلب صفحاتها (روابط خارجية) و51 مادة بلا وسم Sub-Topics؛ ترتيب المواضيع مبني على وسوم Sub-Topics الظاهرة في 236 صفحة",
+  "لم يُبحث عن أعداد المتابعين في مقتطفات محركات البحث (لم يُنفَّذ لضيق الميزانية)",
+  "لم تُلتقط لقطات شاشة للتصميم"
+ ],
+ "sources": [
+  {
+   "url": "https://www.brookings.edu/wp-json/wp/v2/article",
+   "used_for": "عدّ المقالات وأنواعها وتواريخ النشر (2026-11-13)"
+  },
+  {
+   "url": "https://www.brookings.edu/wp-json/wp/v2/types",
+   "used_for": "قائمة أنواع المحتوى"
+  },
+  {
+   "url": "https://www.brookings.edu/",
+   "used_for": "روابط الحسابات الرسمية في التذييل (2026-11-16)"
+  },
+  {
+   "url": "https://www.brookings.edu/sitemap.xml",
+   "used_for": "فحص خريطة الموقع (lastmod لا يساوي تاريخ النشر فلم تُستخدم للعدّ)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7jxgIOxcRaF4Q54U7lF3g",
+   "used_for": "فيديوهات يوتيوب ومشاهداتها (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/channel/UCi7jxgIOxcRaF4Q54U7lF3g/videos",
+   "used_for": "عدد المشتركين وقائمة آخر 30 فيديو (2026-11-16)"
+  }
+ ]
+}

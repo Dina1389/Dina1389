@@ -1,0 +1,978 @@
+{
+ "center": "Center for Strategic and International Studies (CSIS)",
+ "website": "https://www.csis.org",
+ "accessed": "2026-11-16 (الموقع ويوتيوب)؛ خريطة الموقع وrss.xml 2026-11-13",
+ "accounts": {
+  "x": {
+   "url": "https://x.com/csis",
+   "verified_via": "https://www.csis.org/analysis (تذييل الصفحة)"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/CSIS.org",
+   "verified_via": "https://www.csis.org/analysis (تذييل الصفحة)"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/csis",
+   "verified_via": "https://www.csis.org/analysis (تذييل الصفحة)"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/csisdc"
+   },
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/csis/"
+   },
+   {
+    "platform": "Threads",
+    "url": "https://www.threads.net/@csis"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube",
+   "value": 410000,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "type": "actual-on-platform",
+   "note": "معروض مقرَّباً «410K subscribers»؛ «10K videos»"
+  },
+  {
+   "platform": "X",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://x.com/csis",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.facebook.com/CSIS.org",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.linkedin.com/company/csis",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": null,
+   "by_language": {}
+  },
+  "d90": {
+   "total": null,
+   "by_language": {}
+  },
+  "method": "العدّ الكامل لـ30/90 يوماً غير متاح. المحاولة: (1) صفحات القائمة https://www.csis.org/analysis?page=N — الصفحة الأولى (بلا ترقيم) قُرئت بنجاح في 2026-11-16 وتعرض 14 عنصراً (12–16 نوفمبر)، لكن الصفحات المرقّمة أعادت تحدّي Cloudflare «Just a moment» (403) عبر curl وPlaywright العادي ولم يُحاوَل تجاوزه؛ (2) https://www.csis.org/rss.xml قديم (أحدث عنصر 2016)؛ (3) خريطة الموقع (22 صفحة، 42,445 رابطاً) تحمل lastmod فقط: 3,445 رابط /analysis بـlastmod ≥ 2026-08-16 وهو رقم تعديلات جماعية لا نشر جديد، والعناصر المنشورة بعد ~10 نوفمبر غائبة عنها؛ لذلك لا تصلح للعدّ. المرصود فعلياً: 14 عنصراً في الصفحة الأولى خلال 5 أيام (12–16 نوفمبر): 4 فعاليات، 4 Critical Questions، 3 Report، … — عيّنة لا يُبنى عليها إجمالي.",
+  "source_urls": [
+   "https://www.csis.org/analysis",
+   "https://www.csis.org/sitemap.xml",
+   "https://www.csis.org/rss.xml",
+   "https://www.csis.org/regions/middle-east",
+   "https://www.csis.org/events"
+  ],
+  "middle_east_items_visible_90d": [
+   {
+    "date": "2026-11-12",
+    "title": "Israel’s Elections and the Future of the Middle East",
+    "type": "Transcript",
+    "url": "https://www.csis.org/analysis/israels-elections-and-future-middle-east"
+   },
+   {
+    "date": "2026-11-12",
+    "title": "Israel’s Elections and the Future of the Middle East",
+    "type": "Event",
+    "url": "https://www.csis.org/events/israels-elections-and-future-middle-east"
+   },
+   {
+    "date": "2026-11-10",
+    "title": "Munition Inventories: An Update Amid Renewed War Risk",
+    "type": "Report",
+    "url": "https://www.csis.org/analysis/munition-inventories-update-amid-renewed-war-risk"
+   },
+   {
+    "date": "2026-11-09",
+    "title": "Rebuilding Regional Connectivity: A Conversation with Lebanon’s Minister of Public Works and Transport H.E. Fayez Rasamny",
+    "type": "Event",
+    "url": "https://www.csis.org/events/rebuilding-regional-connectivity-conversation-lebanons-minister-public-works-and-transport"
+   },
+   {
+    "date": "2026-11-05",
+    "title": "Lebanon’s Imperiled Transition: The Need for an Urgent Reset",
+    "type": "Commentary",
+    "url": "https://www.csis.org/analysis/lebanons-imperiled-transition-need-urgent-reset"
+   },
+   {
+    "date": "2026-11-05",
+    "title": "Preparing for the Next Crisis",
+    "type": "Newsletter",
+    "url": "https://www.csis.org/analysis/preparing-next-crisis"
+   },
+   {
+    "date": "2026-10-28",
+    "title": "Civil Society Perspectives on Lebanon’s Reform Agenda",
+    "type": "Event",
+    "url": "https://www.csis.org/events/civil-society-perspectives-lebanons-reform-agenda"
+   },
+   {
+    "date": "2026-10-22",
+    "title": "Risk to Refugee Return",
+    "type": "Newsletter",
+    "url": "https://www.csis.org/analysis/risk-refugee-return"
+   },
+   {
+    "date": "2026-10-16",
+    "title": "After Houthi Attacks, What Options Does Saudi Arabia Have?",
+    "type": "Podcast Episode",
+    "url": "https://www.csis.org/podcasts/state-play/after-houthi-attacks-what-options-does-saudi-arabia-have"
+   },
+   {
+    "date": "2026-10-14",
+    "title": "The Iran War: How Does This End? | HTK",
+    "type": "Event",
+    "url": "https://www.csis.org/events/iran-war-how-does-end-htk"
+   },
+   {
+    "date": "2026-10-08",
+    "title": "China's Stealth Support of Iran: A Conversation with Mona Yacoubian",
+    "type": "Podcast Episode",
+    "url": "https://www.csis.org/podcasts/chinapower/chinas-stealth-support-iran-conversation-mona-yacoubian"
+   },
+   {
+    "date": "2026-10-07",
+    "title": "How Iran Smuggles Parts for its Drones | The High Top",
+    "type": "Event",
+    "url": "https://www.csis.org/events/how-iran-smuggles-parts-its-drones-high-top"
+   },
+   {
+    "date": "2026-10-05",
+    "title": "“The Self-Reliance Dividend: The Imperative of Syrian Refugees' Economic Inclusion”: Audio Brief with Will Todman",
+    "type": "Podcast Episode",
+    "url": "https://www.csis.org/podcasts/audio-briefs/self-reliance-dividend-imperative-syrian-refugees-economic-inclusion-audio"
+   },
+   {
+    "date": "2026-09-28",
+    "title": "Middle East Futures: U.S. Policy in an Emerging Regional Order",
+    "type": "Event",
+    "url": "https://www.csis.org/events/middle-east-futures-us-policy-emerging-regional-order"
+   },
+   {
+    "date": "2026-09-24",
+    "title": "Ensuring Economic and Energy Security: Opportunities for U.S.-Japan Leadership",
+    "type": "Event",
+    "url": "https://www.csis.org/events/ensuring-economic-and-energy-security-opportunities-us-japan-leadership"
+   },
+   {
+    "date": "2026-09-11",
+    "title": "Where Crises Converge: Russia's Role in the Middle East",
+    "type": "Podcast Episode",
+    "url": "https://www.csis.org/podcasts/russian-roulette/where-crises-converge-russias-role-middle-east"
+   }
+  ],
+  "middle_east_note": "من صفحة المنطقة https://www.csis.org/regions/middle-east (الصفحة الأولى فقط، 2026-11-16): 16 عنصراً شرق-أوسطياً بتاريخ داخل نافذة 90 يوماً (منها 9 داخل 30 يوماً) — حدّ أدنى مرصود لا إجمالي. مادة واحدة عن الحوثيين/اليمن: حلقة بودكاست «After Houthi Attacks, What Options Does Saudi Arabia Have?» (2026-10-16). لا توجد صفحة منطقة لليمن (/regions/middle-east/yemen = 404)؛ الأقسام الفرعية: Egypt and Levant, Iran, North Africa, Syria, Gulf.",
+  "events_visible": {
+   "note": "من https://www.csis.org/events (الصفحة الأولى، 2026-11-16): 11 فعالية مؤرخة ظاهرة بين 2026-11-13 و2026-11-19",
+   "items": [
+    {
+     "date": "2026-11-16",
+     "title": "The Strategic Implications of the Russia-North Korea Axis",
+     "url": "https://www.csis.org/events/strategic-implications-russia-north-korea-axis"
+    },
+    {
+     "date": "2026-11-16",
+     "title": "Beyond the Pause: What's Next for CMMC",
+     "url": "https://www.csis.org/events/beyond-pause-whats-next-cmmc"
+    },
+    {
+     "date": "2026-11-16",
+     "title": "Decoding Energy Markets: A Conversation with Amrita Sen",
+     "url": "https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen"
+    },
+    {
+     "date": "2026-11-18",
+     "title": "Peace Through Strength: A Book Talk with Roger Zakheim",
+     "url": "https://www.csis.org/events/peace-through-strength-book-talk-roger-zakheim"
+    },
+    {
+     "date": "2026-11-18",
+     "title": "Global Collaboration to Eliminate Cervical Cancer",
+     "url": "https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer"
+    },
+    {
+     "date": "2026-11-19",
+     "title": "Traffic Jams in Space | Space Strategic Dialogue",
+     "url": "https://www.csis.org/events/traffic-jams-space-space-strategic-dialogue"
+    },
+    {
+     "date": "2026-11-16",
+     "title": "From Bottleneck to Breakthrough: A Conversation on Energy Permitting Reform",
+     "url": "https://www.csis.org/events/bottleneck-breakthrough-conversation-energy-permitting-reform"
+    },
+    {
+     "date": "2026-11-16",
+     "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+     "url": "https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security"
+    },
+    {
+     "date": "2026-11-13",
+     "title": "Powering America: Connecting Regions, Strengthening the Grid",
+     "url": "https://www.csis.org/events/powering-america-connecting-regions-strengthening-grid"
+    },
+    {
+     "date": "2026-11-13",
+     "title": "Energy Shots: Are Climate Summits Getting the Job Done?",
+     "url": "https://www.csis.org/events/energy-shots-are-climate-summits-getting-job-done"
+    },
+    {
+     "date": "2026-11-13",
+     "title": "AI and Economic Security | Betting on America",
+     "url": "https://www.csis.org/events/ai-and-economic-security-betting-america"
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-16",
+   "title": "The Strategic Implications of the Russia-North Korea Axis",
+   "type": "Event",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/events/strategic-implications-russia-north-korea-axis"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Beyond the Pause: What's Next for CMMC",
+   "type": "Event",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/events/beyond-pause-whats-next-cmmc"
+  },
+  {
+   "date": "غير متاح",
+   "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+   "type": "Event",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Decoding Energy Markets: A Conversation with Amrita Sen",
+   "type": "Event",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Data Is Physical; Its Security Must Be, Too",
+   "type": "Critical Questions",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/data-physical-its-security-must-be-too"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "What AI Agent Attacks Mean for India’s Cyberspace",
+   "type": "Critical Questions",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "Peace Disease: Is the PLA Battle Ready?",
+   "type": "Report",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/peace-disease-pla-battle-ready"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?",
+   "type": "Critical Questions",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Are the United States and Its Allies Learning Quickly Enough from the War in Ukraine?",
+   "type": "Report",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/are-united-states-and-its-allies-learning-quickly-enough-war-ukraine"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "The Largest Crypto Heist in History Could Have Been Avoided",
+   "type": "Commentary",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/largest-crypto-heist-history-could-have-been-avoided"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
+   "type": "Commentary",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/2027-congress-and-dangerous-data-breach-pileup"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "European Nations State Their Vision for the Future of European Security",
+   "type": "Commentary",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/european-nations-state-their-vision-future-european-security"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Resilience and Reform: U.S.-China Relations and the Global Economic Order",
+   "type": "Report",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/resilience-and-reform-us-china-relations-and-global-economic-order"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Foreign Policy in the American Heartland: Issues for the 120th Congress",
+   "type": "Commentary",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://www.csis.org/analysis/foreign-policy-american-heartland-issues-120th-congress"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": null,
+  "reports": null,
+  "analysis": null,
+  "news": null,
+  "video": null,
+  "infographic": null,
+  "podcast": null,
+  "events": null,
+  "other": null,
+  "notes": "غير متاح لـ90 يوماً (انظر method). توزيع عيّنة الصفحة الأولى (14 عنصراً، 12–16 نوفمبر 2026): {\"Event\": 4, \"Critical Questions\": 3, \"Report\": 3, \"Commentary\": 4}"
+ },
+ "top_topics": [],
+ "languages": [
+  "en (كل ما رُصد)"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/channel/UCr5jq6MC_VCe1c5ciIZtk_w",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "خلاصة RSS (آخر 15 فيديو، 13–16 نوفمبر 2026، مرصود 2026-11-16): الوسيط 1281 مشاهدة، المدى 17–6516 (فيديوهات عمرها ساعات إلى 3 أيام)",
+   "note": "15 فيديو في 4 أيام بحسب RSS؛ صفحة /videos تعرض 30 فيديو تغطي نحو أسبوعين. لا عدّ دقيق لـ30/90 يوماً (غير متاح)."
+  },
+  {
+   "platform": "X",
+   "url": "https://x.com/csis",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب"
+  },
+  {
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/CSIS.org",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب"
+  },
+  {
+   "platform": "LinkedIn",
+   "url": "https://www.linkedin.com/company/csis",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوب"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-11-14",
+   "url": "https://www.youtube.com/watch?v=DuQKqXkkNTw",
+   "summary": "Taking Stock of the U.S.-Korea Alliance | The Capital Cable #146",
+   "likes": "46",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "6516",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=axnp7qVtpnc",
+   "summary": "Israel’s Elections and the Future of the Middle East",
+   "likes": "21",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2622",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=sL-VxMHNObU",
+   "summary": "The Strategic Implications of the Russia-North Korea Axis",
+   "likes": "33",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2531",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=JJNR2ldO9XY",
+   "summary": "Midterm Results, Transatlantic Ties, and Peace Talks in Abu Dhabi",
+   "likes": "20",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2274",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=jUKzFjq-npQ",
+   "summary": "China's Military Weaknesses",
+   "likes": "122",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2152",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=oAgByEkzBrE",
+   "summary": "Are Climate Summits Getting the Job Done? | Energy Shots",
+   "likes": "19",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1914",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=cXyO17ARamY",
+   "summary": "Powering America: Connecting Regions, Strengthening the Grid",
+   "likes": "8",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1294",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=09_e7yI3Z7g",
+   "summary": "AI and Economic Security | Betting on America",
+   "likes": "17",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1281",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=_yxsHCdJ1Fw",
+   "summary": "Swing-state Voters' Foreign Policy Preferences",
+   "likes": "11",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1187",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=0H8AymZsoZ8",
+   "summary": "Decoding Energy Markets: A Conversation with Amrita Sen",
+   "likes": "16",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "852",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=oducLqg4aZM",
+   "summary": "Trump's tariffs on Canada, U.S.-Canada trade relations, and Trade in the Courts ",
+   "likes": "12",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "797",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=vU_RhrDudPU",
+   "summary": "CMMC on Hold: Charting a Path Forward | All About The Base",
+   "likes": "8",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "515",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=cF4XQ1v1tzs",
+   "summary": "Russia's Calculus",
+   "likes": "6",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "177",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=9sXC3Lq6BsQ",
+   "summary": "North Korea's Calculus",
+   "likes": "6",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "84",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=zPitZZXJLsA",
+   "summary": "The Logic of Revisionist Alliances",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "17",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "data_type": "actual",
+   "observed": "2026-11-16"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 3d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=svoy01Q_81E",
+   "summary": "What Do Swing-State Voters Think About Foreign Policy?",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 4d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=AK0LO77Xw18",
+   "summary": "What's Powering the Russian War Machine? | The Trade Off",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 4d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=cPNk2MiB6SA",
+   "summary": "What do the U.S. Midterm Elections Mean for the Western Hemisphere?",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 4d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=dnDAyyQCbu8",
+   "summary": "Behind the Scenes of China's Fifth Plenum",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 4d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=GuVT2DJ4nKo",
+   "summary": "What METR Found at Anthropic + Nvidia's Crisis of Trust",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 6d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=RXSQfcKBuAk",
+   "summary": "Can Nigeria’s 2027 Election Deliver Hope?",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 6d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=WxQwH0gS0Cg",
+   "summary": "Camp David, Three Years On: Still Standing? | The Impossible State Live Podcast",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 6d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=zJqnI54PxKk",
+   "summary": "Why Agriculture is Africa’s Superpower | The Opportunity Horizon",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 7d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=iL9cDy0L7zs",
+   "summary": "The Negotiator Files: A Conversation with Tim Morrison",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 7d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=gvbHtREeAaQ",
+   "summary": "Midterm Elections, Trade, and Where We Go From Here",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 9d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=x637u0T-oYA",
+   "summary": "Washington's Ukraine Policy and What's Next in the War",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 10d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=1rZmqylNSlY",
+   "summary": "2026 Elections: New Congress, New Trade Agenda? | The Trade Off",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 11d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=wyXRR2ravXg",
+   "summary": "America's First AI Election? Plus Sella Nevo on Securing Model Weights",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 11d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=cO50sz4JH_g",
+   "summary": "What Could Go Right (and Wrong) on Trump's Asia Trip?",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 12d ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=jwd10iLSXrU",
+   "summary": "The Failure of Strategy in the Iran War",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=Z5VmR0-bpNk",
+   "summary": "What’s Happening Between the Two Koreas at the DMZ? | The Capital Cable #145",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=_6BlPrVuYhc",
+   "summary": "On Location: Conversations from AUSA | All About the Base",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=BFl2mZsZHoo",
+   "summary": "Serbia Votes, Starlink Slows, and French Protests Grow",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=E7JoZsAmG5c",
+   "summary": "Understanding Canada’s New National Security Plan",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=83Yr6z6xr3Q",
+   "summary": "Lula Wins: What Comes Next for Brazil?",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=Fl4b7bPdwG0",
+   "summary": "China's Techno-Industrial Strategy",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  },
+  {
+   "platform": "YouTube",
+   "date": "نسبي: 2w ago (بتاريخ 2026-11-16)",
+   "url": "https://www.youtube.com/watch?v=2-mSG7W54rM",
+   "summary": "AI Cyber Incidents Pile Up + Anthropic’s Draft Safety Bill",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "غير متاح",
+   "source_url": "https://www.youtube.com/user/csisdc/videos",
+   "data_type": "actual",
+   "note": "من صفحة /videos: تاريخ نسبي بلا أرقام مشاهدة"
+  }
+ ],
+ "headline_style": "عناوين Title Case قصيرة، كثير منها سؤال مباشر («What Do the Results of the Midterm Elections Mean…؟»، «Are the United States and Its Allies Learning…؟») أو صيغة جملة حاسمة («Data Is Physical; Its Security Must Be, Too»). كل مادة تحمل وسم صيغة واضحاً قبل اسم الكاتب: «Critical Questions by», «Commentary by», «Report by». فيديوهات يوتيوب تُلحق اسم السلسلة بعد خط عمودي («… | The Trade Off»، «… | Energy Shots»، «… | The Capital Cable #145»).",
+ "design_style": "قائمة /analysis: بطاقة نصية (عنوان + ملخص من جملتين + الصيغة والكاتب والتاريخ) مع صورة مربعة مصغّرة 180×180 فوتوغرافية من وكالات (Getty) مع نسبة المصدر في alt؛ بطاقات الفعاليات تحمل شارة حالة (live / on-demand) وتاريخاً ووقتاً والبرنامج المستضيف. (لم تُلتقط لقطات شاشة؛ الوصف من بنية HTML.)",
+ "promotion_tactics": [
+  {
+   "tactic": "صيغة «Critical Questions» (أسئلة وأجوبة سريعة على حدث جارٍ) — 4 من 14 عنصراً في الصفحة الأولى",
+   "evidence_url": "https://www.csis.org/analysis/data-physical-its-security-must-be-too"
+  },
+  {
+   "tactic": "وسم الصيغة أمام كل مادة (Report / Commentary / Critical Questions) لتمييز العمق",
+   "evidence_url": "https://www.csis.org/analysis"
+  },
+  {
+   "tactic": "فعاليات يومية بشارة بث مباشر و«on-demand» وفيديو مرفق (3 من 4 بطاقات فعاليات تحمل has-video)",
+   "evidence_url": "https://www.csis.org/events"
+  },
+  {
+   "tactic": "سلاسل فيديو/بودكاست بأسماء ثابتة على يوتيوب (The Trade Off, Energy Shots, All About The Base, The Capital Cable, The Impossible State, Betting on America)",
+   "evidence_url": "https://www.youtube.com/user/csisdc/videos"
+  },
+  {
+   "tactic": "صفحة بودكاست مركزية وصفحة اشتراك نشرات بريدية في القائمة الرئيسية",
+   "evidence_url": "https://www.csis.org/podcasts"
+  },
+  {
+   "tactic": "نشرات بريدية (Newsletters) ومواقع مصغّرة (Microsites) كبنود ثابتة في القائمة",
+   "evidence_url": "https://www.csis.org/subscribe"
+  }
+ ],
+ "strengths": [
+  "سرعة الاستجابة للحدث عبر Critical Questions (4 مواد في 16 نوفمبر وحده بينها نتائج الانتخابات النصفية)",
+  "قناة يوتيوب نشطة جداً (≈2 فيديو يومياً، 410K مشترك) مبنية على سلاسل ثابتة",
+  "ربط الفعالية بالتسجيل عند الطلب",
+  "تسمية الصيغ بوضوح يسهّل على القارئ والصحفي معرفة نوع المادة"
+ ],
+ "weaknesses": [
+  "لا خلاصة RSS حديثة للموقع (rss.xml متوقف عند 2016)",
+  "حماية آلية تمنع تصفح الأرشيف المرقّم آلياً، وخريطة موقع بلا تواريخ نشر",
+  "كل المرصود بالإنجليزية فقط",
+  "تغطية اليمن/البحر الأحمر شحيحة في المرصود: مادة واحدة (بودكاست عن هجمات الحوثيين والسعودية) ولا قسم فرعي لليمن ضمن صفحات المناطق"
+ ],
+ "opportunities_for_mokha": [
+  "اعتماد صيغة «أسئلة حرجة» عربية: 4–6 أسئلة وأجوبة خلال 24–48 ساعة من أي حدث يمني/بحر أحمر",
+  "وضع وسم الصيغة أمام كل مادة (تقدير موقف / ورقة / تعليق) في القوائم والمنشورات",
+  "تحويل الندوات إلى سلسلة فيديو/بودكاست باسم ثابت ورقم حلقة، مع رفع التسجيل في صفحة الفعالية",
+  "بطاقة فعالية موحّدة: تاريخ، وقت، حالة (مباشر/مسجّل)، الجهة المنظمة",
+  "الحفاظ على RSS حديث ومفتوح (نقطة ضعف عند CSIS) لتسهيل متابعة الصحفيين والباحثين"
+ ],
+ "limitations": [
+  "عدّ منشورات الموقع لـ30/90 يوماً غير متاح: ترقيم صفحات /analysis محجوب بتحدّي Cloudflare (403) بعد أول طلب، ولم يُتجاوز",
+  "X وFacebook وLinkedIn وInstagram وThreads: محجوبة؛ لا متابعين ولا منشورات (غير متاح)",
+  "لم يُبحث عن أعداد المتابعين في مقتطفات البحث",
+  "تصنيف المواضيع/المناطق غير متاح للعيّنة",
+  "لم تُلتقط لقطات شاشة",
+  "يوتيوب: خلاصة RSS تعطي آخر 15 فيديو فقط (مشاهدات فعلية)؛ باقي الفيديوهات بتواريخ نسبية بلا مشاهدات؛ التعليقات غير ظاهرة",
+  "صفحات المنطقة/الفعاليات قُرئت صفحتها الأولى فقط (الترقيم محجوب)، فأعداد الشرق الأوسط والفعاليات حدود دنيا مرصودة"
+ ],
+ "sources": [
+  {
+   "url": "https://www.csis.org/analysis",
+   "used_for": "الحسابات الرسمية، أحدث 14 عنصراً، أسلوب العناوين والبطاقات (2026-11-16)"
+  },
+  {
+   "url": "https://www.csis.org/sitemap.xml",
+   "used_for": "فحص خريطة الموقع (lastmod فقط)"
+  },
+  {
+   "url": "https://www.csis.org/rss.xml",
+   "used_for": "فحص الخلاصة (قديمة، 2016)"
+  },
+  {
+   "url": "https://www.youtube.com/user/csisdc/videos",
+   "used_for": "المشتركون وآخر 30 فيديو (2026-11-16)"
+  },
+  {
+   "url": "https://www.csis.org/regions/middle-east",
+   "used_for": "مواد الشرق الأوسط الظاهرة (2026-11-16)"
+  },
+  {
+   "url": "https://www.csis.org/events",
+   "used_for": "الفعاليات الظاهرة (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr5jq6MC_VCe1c5ciIZtk_w",
+   "used_for": "مشاهدات آخر 15 فيديو (2026-11-16)"
+  },
+  {
+   "url": "https://www.csis.org/podcasts",
+   "used_for": "قائمة سلاسل البودكاست (≥22 سلسلة مدرجة)"
+  }
+ ]
+}

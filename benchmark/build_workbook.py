@@ -48,6 +48,10 @@ EXACTNESS = {
     "carnegie": "عدّ كامل (خريطة الموقع + فتح الصفحات)",
     "chatham": "حدّ أدنى (الموقع يحجب القراءة الآلية؛ RSS + فهرس أخبار)",
     "icg": "حدّ أدنى (الموقع يحجب القراءة الآلية؛ RSS + فهرس أخبار)",
+    "ahram": "غير متاح (الموقع رفض كل قراءة: 403)",
+    "epc": "حدّ أدنى (من النشرة الأسبوعية الرسمية وتيليغرام؛ الموقع يعرض CAPTCHA)",
+    "brookings": "عدّ كامل للمقالات (واجهة WordPress)",
+    "csis": "غير متاح (قوائم الموقع حُجبت: 403)",
 }
 
 FONT = "Arial"
@@ -202,9 +206,10 @@ def build():
             if "actual" not in str(x.get("type", "")):
                 notes.append(f"{x['platform']}: {x.get('type')}، تاريخ الرقم: {x.get('figure_date') or 'غير مؤرخ'}")
             return num(x["value"])
-        row = [name, grp, country, wc["d30"]["total"], wc["d90"]["total"],
+        tot = lambda k: wc[k]["total"] if isinstance(wc[k].get("total"), (int, float)) else NA
+        row = [name, grp, country, tot("d30"), tot("d90"),
                f"=IF(ISNUMBER(D{r}),ROUND(D{r}/(30/7),1),\"-\")", f"=IF(ISNUMBER(E{r}),ROUND(E{r}/(90/7),1),\"-\")",
-               bl.get("ar", 0), bl.get("en", 0), other, EXACTNESS.get(slug, ""),
+               *([bl.get("ar", 0), bl.get("en", 0), other] if tot("d90") != NA else [NA, NA, NA]), EXACTNESS.get(slug, ""),
                fol("youtube"), fol("telegram"), fol("x"), fol("facebook"), fol("linkedin"),
                "؛ ".join(notes) if notes else ("أرقام يوتيوب/تيليغرام فعلية من المنصة" if any(num(x.get("value")) is not None for x in fo) else "لا رقم متابعين متاح للعامة"),
                d["website"]]
@@ -276,7 +281,7 @@ def build():
                        str((c or {}).get("typical_views") or NA), str((c or {}).get("note") or "")])
             r += 1
         wc = d["website_counts"]
-        ws.append([name, "الموقع", d["website"], "الموقع الرسمي", "", "", "", wc["d30"]["total"], wc["d90"]["total"],
+        ws.append([name, "الموقع", d["website"], "الموقع الرسمي", "", "", "", wc["d30"]["total"] if isinstance(wc["d30"].get("total"), (int, float)) else NA, wc["d90"]["total"] if isinstance(wc["d90"].get("total"), (int, float)) else NA,
                    f'=IF(ISNUMBER(H{r}),ROUND(H{r}/(30/7),1),"-")', f'=IF(ISNUMBER(I{r}),ROUND(I{r}/(90/7),1),"-")',
                    "", EXACTNESS.get(slug, "") + " — " + str(wc.get("method", ""))[:400]])
         r += 1
@@ -302,7 +307,12 @@ def build():
             continue
         tb = d["type_breakdown_90d"]
         vals = [num(tb.get(k)) or 0 for k, _ in keys]
-        note = tb.get("note") or d.get("type_breakdown_note") or ("المواد العربية فقط (33)؛ النسخ الإنجليزية الـ19 ترجمات لها" if slug == "mokha" else "")
+        if slug == "brookings":
+            vals[5] = 0  # 275 standalone interactive charts are not articles; kept in the note only
+        if all(tb.get(k) is None for k, _ in keys):
+            ws.append([name, grp] + [NA] * 9 + [NA, NA, NA, str(tb.get("notes") or "تعذّر عدّ إصدارات 90 يومًا")[:600]])
+            continue
+        note = ("275 رسمًا تفاعليًا مستقلًا لم تُحسب هنا. " if slug == "brookings" else "") + str(tb.get("note") or tb.get("notes") or "") or d.get("type_breakdown_note") or ("المواد العربية فقط (33)؛ النسخ الإنجليزية الـ19 ترجمات لها" if slug == "mokha" else "")
         ws.append([name, grp] + vals + [f"=SUM(C{r}:K{r})",
                   f'=IF(L{r}=0,"لا نشر",INDEX($C$1:$K$1,MATCH(MAX(C{r}:K{r}),C{r}:K{r},0)))',
                   f'=IF(L{r}=0,"-",MAX(C{r}:K{r})/L{r})', str(note)[:600]])

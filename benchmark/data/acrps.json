@@ -1,0 +1,979 @@
+{
+ "center": "المركز العربي للأبحاث ودراسة السياسات (Arab Center for Research and Policy Studies)",
+ "website": "https://www.dohainstitute.org",
+ "accessed": "2026-11-13 (الصفحة الرئيسية العربية)؛ 2026-11-16 (بقية الصفحات ويوتيوب)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/arabcenter_ar",
+   "verified_via": "https://www.dohainstitute.org/ar/Pages/index.aspx",
+   "also": "https://twitter.com/arabcenter_en (من الصفحة الإنجليزية)"
+  },
+  "facebook": {
+   "url": "https://ar-ar.facebook.com/arabcenter.ar/",
+   "verified_via": "https://www.dohainstitute.org/ar/Pages/index.aspx",
+   "also": "https://www.facebook.com/arabcenter.en/ (من الصفحة الإنجليزية)"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/82763482",
+   "verified_via": "https://www.dohainstitute.org/ar/Pages/index.aspx"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/thedohainstitute"
+   },
+   {
+    "platform": "Podcast (منصة خاصة)",
+    "url": "https://podcast.dohainstitute.org/"
+   },
+   {
+    "platform": "Telegram/WhatsApp/Instagram",
+    "url": "غير متاح (لا روابط في رأس/تذييل الموقع)"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube",
+   "value": 94100,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/user/thedohainstitute",
+   "type": "actual-on-platform",
+   "note": "معروض كـ 94.1K subscribers (مقرَّب)"
+  },
+  {
+   "platform": "X",
+   "value": "غير متاح",
+   "figure_date": "",
+   "source_url": "https://twitter.com/arabcenter_ar",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": "غير متاح",
+   "figure_date": "",
+   "source_url": "https://ar-ar.facebook.com/arabcenter.ar/",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": "غير متاح",
+   "figure_date": "",
+   "source_url": "https://www.linkedin.com/company/82763482",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 33,
+   "by_language": {
+    "ar": 24,
+    "en": 9
+   },
+   "exactness": "حد أدنى مرصود وليس عددًا كاملًا. الفعلي الكامل فقط لقسم الأخبار العربية: 12 خبرًا."
+  },
+  "d90": {
+   "total": 54,
+   "by_language": {
+    "ar": 40,
+    "en": 14
+   },
+   "exactness": "حد أدنى مرصود وليس عددًا كاملًا. الفعلي الكامل فقط لقسم الأخبار العربية: 28 خبرًا (2026-08-16→2026-11-09). بقية الأقسام (تقدير موقف، تقييم حالة، تحليل سياسات، دراسات، مراجعات، مقالات، اقتصادية، كتب) والإنجليزية: فقط ما ظهر مؤرخًا في الصفحتين الرئيسيتين وصفحة الفعاليات."
+  },
+  "method": "جدار حماية الموقع (WAF) يرفض curl وPlaywright العاديين («Request Rejected») ولا sitemap/RSS متاح؛ لم تُجرَ أي محاولة تجاوز. استُخدمت أداة WebFetch على: صفحة الأخبار العربية (قائمة كاملة مؤرخة تعود إلى أبريل 2026)، الصفحتين الرئيسيتين العربية والإنجليزية، وصفحة الفعاليات. صفحات الأقسام البحثية تعرض العناوين بلا تواريخ فلم يمكن عدّها ضمن النافذتين. تواريخ صفحة الأخبار تختلف بيوم واحد عن تواريخ الصفحة الرئيسية لبعض الأخبار (±1 يوم). المواد العربية والإنجليزية تُعد كعناصر منفصلة.",
+  "source_urls": [
+   "https://www.dohainstitute.org/ar/News/Pages/index.aspx",
+   "https://www.dohainstitute.org/ar/Pages/index.aspx",
+   "https://www.dohainstitute.org/en/Pages/index.aspx",
+   "https://www.dohainstitute.org/ar/Events/Pages/index.aspx"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-12",
+   "title": "ما بعد وقف إطلاق النار في غزة: هل استعادت الأسر قدرتها الشرائية ومستويات استهلاكها؟",
+   "type": "تحليلات اقتصادية",
+   "topic": "فلسطين/غزة - اقتصاد",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/economic-studies/Pages/post-ceasefire-gaza-have-households-recovered-their-purchasing-power-and-consumption-levels.aspx",
+   "source": "الصفحة الرئيسية العربية"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "أبعد من سرديات الصراع: إعادة النظر في العلاقات الإيرانية - العربية من منظور الإنسانيات الزرقاء",
+   "type": "دراسات",
+   "topic": "إيران والعلاقات العربية-الإيرانية",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/ResearchAndStudies/Pages/beyond-conflict-narratives-rethinking-iran–arab-relations-through-blue-humanities.aspx",
+   "source": "الصفحة الرئيسية العربية"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "الخصوبة والتكنولوجيا في المجتمعات العربية موضوعًا لسيمنار المركز العربي",
+   "type": "سيمنار (فعالية)",
+   "topic": "مجتمع/ديموغرافيا",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/Events/Pages/fertility-and-technology-in-arab-societies-topic-arab-center-seminar.aspx",
+   "source": "صفحة الفعاليات"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "انتخابات التجديد النصفي الأميركية 2026: صعود ديمقراطي وتحولات في موازين القوى داخل واشنطن",
+   "type": "تقدير موقف",
+   "topic": "الولايات المتحدة",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/PoliticalStudies/Pages/the-2026-us-midterm-elections-democratic-gains-and-shifting-power-dynamics-in-washington.aspx",
+   "source": "الصفحة الرئيسية العربية (رُصدت 2026-11-13)"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "صدور كتاب \"العلاقات العربية - الإيرانية منذ الانتفاضات العربية\"",
+   "type": "الكتب",
+   "topic": "إيران والعلاقات العربية-الإيرانية",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/BooksAndJournals/Pages/arab-iranian-relations-since-the-arab-uprising.aspx",
+   "source": "الصفحة الرئيسية العربية (رُصدت 2026-11-13)"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "مراجعة كتاب: سيناريو للحرب النووية",
+   "type": "مراجعات",
+   "topic": "أمن دولي",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/ResearchAndStudies/Pages/book-review-nuclear-war-a-scenario.aspx",
+   "source": "الصفحة الرئيسية العربية (رُصدت 2026-11-13)"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "After UNIFIL: Who Will Secure Southern Lebanon?",
+   "type": "Case Analysis",
+   "topic": "لبنان",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/after-unifil-who-will-secure-southern-lebanon.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "العدد الثامن والخمسون من دورية \"تبيُّن\": دراسات في الذكاء الاصطناعي والنظرية النقدية والفكر السياسي",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/artificial-intelligence-critical-theory-and-political-thought-tabayyun-55.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-11-08",
+   "title": "العدد الثامن والخمسون من دورية \"عمران\": مقاربات سوسيولوجية وأنثروبولوجية في الحرب والإبادة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/sociological-and-anthropological-approaches-to-war-and-genocide-omran-58.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "من المخيم إلى المدينة: دراسة حالة التهجير العقابي في الضفة الغربية",
+   "type": "تحليل سياسات",
+   "topic": "فلسطين/الضفة الغربية",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/PoliticalStudies/Pages/from-the-camp-to-the-city-a-case-study-of-punitive-displacement-in-the-west-bank.aspx",
+   "source": "الصفحة الرئيسية العربية"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Israel's Knesset Elections: Results, Coalitions and Forming a Government",
+   "type": "Situation Assessment",
+   "topic": "إسرائيل",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/israel-26th-knesset-elections-the-post-election-deadlock.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "الاحتجاج في ظلّ الأنظمة السلطوية موضوعًا لسيمنار المركز العربي",
+   "type": "سيمنار (فعالية)",
+   "topic": "تحول ديمقراطي/احتجاج",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/Events/Pages/acrps-seminar-examines-protest-under-authoritarian-rule.aspx",
+   "source": "صفحة الفعاليات"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "اختتام أعمال مؤتمر مستقبل الحوكمة وصنع السياسات التنموية في العالم العربي في بيروت",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/conference-future-of-governance-and-development-policymaking-in-the-arab-world-concludes-in-beirut.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "المركز العربي يعلن نتائج استطلاع المؤشر العربي في سورية 2026",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/arab-center-announces-results-of-the-2026-arab-opinion-index-survey-in-syria.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "انتخابات الكنيست الإسرائيلي الـ 26: معضلة النتائج والتحالفات وتشكيل الحكومة",
+   "type": "تقدير موقف",
+   "topic": "إسرائيل",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/PoliticalStudies/Pages/israel-26th-knesset-elections-the-post-election-deadlock.aspx",
+   "source": "الصفحة الرئيسية العربية"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "انطلاق أعمال مؤتمر مستقبل الحوكمة وصنع السياسات التنموية في العالم العربي في بيروت",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/the-conference-on-the-future-of-governance-and-development-policymaking-in-the-arab-world-launches-in-beirut.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "معجم الدوحة التاريخي للغة العربية يعلن إطلاق تطبيقه الرسمي الجديد على الهواتف الذكيّة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/doha-dictionary-launches-official-mobile-app.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Hikama and ESCWA to Discuss the Future of Governance and Development Policymaking in the Arab World",
+   "type": "News",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/News/Pages/hikama-and-escwa-discuss-the-future-of-governance-and-development-policymaking-in-the-arab-world.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "The Mecca Pact and the Redefinition of Security in West Asia after the Iran War",
+   "type": "Case Analysis",
+   "topic": "الخليج/ميثاق مكة",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/the-mecca-pact-and-the-redefinition-of-security-in-west-asia-after-the-iran-war.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "\"حِكامة\" والإسكوا تناقشان مستقبل الحوكمة وصنع السياسات التنموية في العالم العربي",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/hikama-and-escwa-discuss-the-future-of-governance-and-development-policymaking-in-the-arab-world.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "الديمقراطية والتعلّم السياساتي في الدول العربية موضوعًا لسيمنار المركز العربي",
+   "type": "سيمنار (فعالية)",
+   "topic": "تحول ديمقراطي/سياسات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/Events/Pages/democracy-and-policy-learning-in-arab-countries-acrps-seminar.aspx",
+   "source": "صفحة الفعاليات"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Omran 58 Now Available",
+   "type": "News",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/News/Pages/omran-58-now-available.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Tabayyun 58 Now Available",
+   "type": "News",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/News/Pages/tabayyun-58-now-available.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "[عنوان مُعاد صياغته] صدور العدد 58 من دورية \"عمران\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/omran-58-now-available.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "[عنوان مُعاد صياغته] مجلس إدارة المركز العربي يعقد اجتماعه العادي الثاني والثلاثين",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/32nd-acrps-board-meeting.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "صدور العدد الثامن والخمسين من دورية \"تبيُّن\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/tabayyun-58-now-available.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "فتح باب التسجيل لحضور الدورة الخامسة من المنتدى السنوي لفلسطين",
+   "type": "فعاليات قادمة",
+   "topic": "فلسطين",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/Events/2027-annual-palestine-forum/Pages/index.aspx",
+   "source": "الصفحة الرئيسية العربية"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Annual Palestine Forum 2027: Registration to Attend is Now Open",
+   "type": "Upcoming Event",
+   "topic": "فلسطين",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/Events/2027-annual-palestine-forum/Pages/index.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-24",
+   "title": "[عنوان مُعاد صياغته] رائد السمهوري يفوز بجائزة رواق للعلوم والثقافة 2026",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/Raed-Al-Samhouri-Wins-the-2026-Riwaq-Prize-for-Science-and-Culture-for-His-Book-Ibn-Taymiyya-The-Historical-and-the-Redisco.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "انتخابات التجديد النصفي الأميركية 2026: الاتجاهات والسيناريوهات المحتملة",
+   "type": "تقدير موقف",
+   "topic": "الولايات المتحدة",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/PoliticalStudies/Pages/us-midterms-2026-likely-outcomes.aspx",
+   "source": "الصفحة الرئيسية العربية"
+  },
+  {
+   "date": "2026-10-18",
+   "title": "[عنوان مُعاد صياغته] مستقبل الطاقة النووية موضوع العدد العاشر من \"استشراف\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/future-of-nuclear-energy-topic-istishraf-10.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-18",
+   "title": "From Classroom to Street: Student Protests Rock France",
+   "type": "Situation Assessment",
+   "topic": "أوروبا/فرنسا",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/from-school-to-street-where-are-french-student-protests-headed.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Saudi Arabia's Search for Allies in Yemen",
+   "type": "Case Analysis",
+   "topic": "اليمن",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/saudi-arabia-search-for-allies-in-yemen.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Mapping the Israeli Settlement Project in the West Bank: History and Institutions",
+   "type": "Studies",
+   "topic": "فلسطين/الضفة الغربية",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/ResearchAndStudies/Pages/mapping-the-israeli-settlement-project-in-the-west-bank-history-and-institutions.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "[عنوان مُعاد صياغته] سورية ما بعد الأسد: الانتقال والهوية وبناء الدولة موضوع العدد 82 من \"سياسات عربية\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/siyasat-arabiya-82-issues-of-transition-identity-and-state-building-in-post-assad-syria.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "The Cost of Israeli Settler-Colonial Occupation on the Palestinian People",
+   "type": "Studies",
+   "topic": "فلسطين",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/ResearchAndStudies/Pages/the-cost-of-israeli-settler-colonial-occupation-on-the-palestinian-people.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-11",
+   "title": "[عنوان مُعاد صياغته] وفد أكاديمية جوعان بن جاسم للدراسات الدفاعية يزور المركز العربي ومعهد الدوحة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/joaan-bin-jassim-academy-delegation-visits-acrps-and-doha-institute.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "Book Review: \"The Conceptual and Technical Foundations of Artificial Intelligence and Its Evolution\"",
+   "type": "Reviews",
+   "topic": "تكنولوجيا/ذكاء اصطناعي",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/ResearchAndStudies/Pages/book-review-the-fundamental-concept-and-technology-of-artificial-intelligence-and-its-evolution.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "[عنوان مُعاد صياغته] اختتام المؤتمر الخامس لطلبة الدكتوراه العرب في الجامعات الغربية (اليوم الثالث)",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/fifth-arab-graduate-students-conference-day3.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-03",
+   "title": "[عنوان مُعاد صياغته] المؤتمر الخامس لطلبة الدكتوراه العرب (اليوم الثاني)",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/fifth-arab-graduate-students-conference-day2.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "[عنوان مُعاد صياغته] انطلاق المؤتمر الخامس لطلبة الدكتوراه العرب",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/launch-of-the-fifth-arab-graduate-students-conference.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "[عنوان مُعاد صياغته] صدور العدد 82 من \"سياسات عربية\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/siyasat-arabiya-82-now-available.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-09-30",
+   "title": "[عنوان مُعاد صياغته] المركز العربي يطلق منصة بودكاست جديدة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/acrps-new-podcast-platform.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-09-27",
+   "title": "[عنوان مُعاد صياغته] 54 باحثًا يشاركون في المؤتمر الخامس لطلبة الدكتوراه العرب في الدوحة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/54-researchers-to-participate-in-the-fifth-arab-graduate-students-conference-in-doha.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-09-16",
+   "title": "[عنوان مُعاد صياغته] وحدة دراسات الخليج توقّع مذكرة تفاهم مع المركز القطري للصحافة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/acrps-gulf-studies-unit-signs-memorandum-of-understanding-with-qatar-press-center.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Yemen's Houthis Seize Bab al–Mandab: Drivers and Repercussions",
+   "type": "Situation Assessment",
+   "topic": "اليمن",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/implications-of-houthi-control-over-bab-al-mandab-strait.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية (الصفحة تعرضها بتاريخين 09-15 و09-20)"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "[عنوان مُعاد صياغته] العدد 25 من \"أسطور\": عدد خاص عن تاريخ النساء",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/ostour-25-features-special-issue-on-womens-history.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "The 2026 Knesset Elections: Parties, Political Camps, and the Race to Power",
+   "type": "Situation Assessment",
+   "topic": "إسرائيل",
+   "language": "en",
+   "url": "https://www.dohainstitute.org/en/PoliticalStudies/Pages/2026-knesset-elections-party-lists-and-political-manifestos.aspx",
+   "source": "الصفحة الرئيسية الإنجليزية"
+  },
+  {
+   "date": "2026-09-06",
+   "title": "[عنوان مُعاد صياغته] صدور الكتاب السنوي العاشر من \"استشراف\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/istishraf-10-now-available.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-09-05",
+   "title": "[عنوان مُعاد صياغته] صدور العدد 25 من \"أسطور\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/ostour-25-now-available.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-08-29",
+   "title": "[عنوان مُعاد صياغته] العدد 81 من \"سياسات عربية\": من انهيار نظام الأسد إلى الإرهاب والأمن والمراقبة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/siyasat-arabiya-31-on-assad-regime-collapse-and-terrorism-security-and-surveillance.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-08-18",
+   "title": "[عنوان مُعاد صياغته] العدد 57 من \"تبيُّن\": الفكر العربي المعاصر والفلسفة الحديثة",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/tabayyun-57-on-arab-contemporary-thought-and-modern-philosophy.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-08-17",
+   "title": "[عنوان مُعاد صياغته] صدور العدد 81 من \"سياسات عربية\"",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/siyasat-arabiya-81-now-available.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  },
+  {
+   "date": "2026-08-16",
+   "title": "[عنوان مُعاد صياغته] موضوعات العدد 57 من \"عمران\": التمييز الجندري والإقصاء الاقتصادي والتهميش المكاني والغش في الامتحانات",
+   "type": "أخبار",
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "language": "ar",
+   "url": "https://www.dohainstitute.org/ar/News/Pages/gender-discrimination-economic-exclusion-spatial-marginalization-and-exam-cheating-topics-of-omran-57.aspx",
+   "source": "صفحة أخبار المركز",
+   "date_note": "تاريخ صفحة الأخبار كما استخرجته أداة WebFetch؛ الصفحة الرئيسية تعرض بعض هذه الأخبار بتاريخ +1 يوم"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 3,
+  "reports": 11,
+  "analysis": 1,
+  "news": 31,
+  "video": 13,
+  "infographic": 0,
+  "podcast": "غير متاح (منصة podcast.dohainstitute.org لم تُفحص؛ 3 حلقات بودكاست ظهرت على يوتيوب ضمن الـ13 فيديو)",
+  "events": 5,
+  "other": 3,
+  "note": "أعداد مرصودة جزئية (حد أدنى) عدا الأخبار العربية. reports = تقدير موقف + تقييم حالة + تحليل سياسات؛ research = دراسات؛ analysis = تحليلات اقتصادية؛ other = كتب ومراجعات. video = فيديوهات يوتيوب 2026-10-15→2026-11-13 فقط (30 يومًا؛ خلاصة يوتيوب لا تعود أبعد)."
+ },
+ "top_topics": [
+  {
+   "topic": "أخبار مؤسسية/إصدارات دوريات وفعاليات",
+   "count": 31
+  },
+  {
+   "topic": "إسرائيل",
+   "count": 3
+  },
+  {
+   "topic": "فلسطين",
+   "count": 3
+  },
+  {
+   "topic": "إيران والعلاقات العربية-الإيرانية",
+   "count": 2
+  },
+  {
+   "topic": "الولايات المتحدة",
+   "count": 2
+  },
+  {
+   "topic": "فلسطين/الضفة الغربية",
+   "count": 2
+  },
+  {
+   "topic": "اليمن",
+   "count": 2
+  },
+  {
+   "topic": "فلسطين/غزة - اقتصاد",
+   "count": 1
+  },
+  {
+   "topic": "مجتمع/ديموغرافيا",
+   "count": 1
+  },
+  {
+   "topic": "أمن دولي",
+   "count": 1
+  },
+  {
+   "topic": "لبنان",
+   "count": 1
+  },
+  {
+   "topic": "تحول ديمقراطي/احتجاج",
+   "count": 1
+  },
+  {
+   "topic": "الخليج/ميثاق مكة",
+   "count": 1
+  },
+  {
+   "topic": "تحول ديمقراطي/سياسات",
+   "count": 1
+  },
+  {
+   "topic": "أوروبا/فرنسا",
+   "count": 1
+  },
+  {
+   "topic": "تكنولوجيا/ذكاء اصطناعي",
+   "count": 1
+  }
+ ],
+ "top_topics_note": "تصنيف تقديري من العناوين على العينة المرصودة فقط؛ تهيمن الأخبار المؤسسية لأن قسم الأخبار هو الوحيد المكتمل.",
+ "languages": [
+  "ar",
+  "en",
+  "fr (رابط Fr في الشريط العلوي بلا وجهة فعلية '#')"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "posts_30d": 13,
+   "posts_90d": null,
+   "typical_views": "الوسيط ≈ 829 مشاهدة؛ المدى 97–2,199 مع استثناء واحد 39,471",
+   "note": "13 فيديو بين 2026-10-15 و2026-11-13 (فعلي من خلاصة القناة؛ الخلاصة تعرض أحدث 15 فقط وأقدمها 2026-10-15، فقد توجد فيديوهات إضافية يوم 10-15؛ عدد 90 يومًا غير متاح). 94.1K مشترك. المشاهدات كما رُصدت 2026-11-16."
+  },
+  {
+   "platform": "X",
+   "url": "https://twitter.com/arabcenter_ar",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابل للقراءة بلا تسجيل دخول"
+  },
+  {
+   "platform": "Facebook",
+   "url": "https://ar-ar.facebook.com/arabcenter.ar/",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابل للقراءة بلا تسجيل دخول"
+  },
+  {
+   "platform": "LinkedIn",
+   "url": "https://www.linkedin.com/company/82763482",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابل للقراءة بلا تسجيل دخول"
+  },
+  {
+   "platform": "Telegram",
+   "url": "غير متاح",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "لا قناة مرتبطة في الموقع"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-10-29",
+   "url": "https://www.youtube.com/watch?v=AU8_b-GBdDo",
+   "summary": "الخليج وإيران: قصة صراع الجغرافيا وحسابات الاستراتيجية",
+   "likes": "183",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "39471",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-04",
+   "url": "https://www.youtube.com/watch?v=Q-JXLKlmjyA",
+   "summary": "سيمنار | متى يحتجّ المواطنون في ظلّ الأنظمة السلطوية؟",
+   "likes": "28",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2199",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-04",
+   "url": "https://www.youtube.com/watch?v=DZtUuLVIGCo",
+   "summary": "محاضرة عامة | من الحجاز إلى سنار: مخيال التخوم وبواكير تشكل حداثة محمد علي باشا",
+   "likes": "26",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2103",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-29",
+   "url": "https://www.youtube.com/watch?v=ndwgUm4k7JE",
+   "summary": "سيمنار المركز العربي: الديمقراطية والتعلّم السياساتي",
+   "likes": "17",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1344",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-27",
+   "url": "https://www.youtube.com/watch?v=q_J-GlGaATw",
+   "summary": "إطلاق كتاب | يوسف العظمة في زمانيه العثمانيّ والعربيّ",
+   "likes": "19",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1141",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-21",
+   "url": "https://www.youtube.com/watch?v=YI8oXle2LSk",
+   "summary": "سيمنار | الأبعاد المهنيّة للإرهاق الإخباريّ",
+   "likes": "18",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "869",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=Us1M0g5Bsa0",
+   "summary": "بودكاست: ظاهرة جديدة في الغرب: جيل ثانٍ وثالث من أبناء المهاجرين المسلمين، عزمي بشارة",
+   "likes": "20",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "829",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=qkswDDHif2o",
+   "summary": "سيمنار | الخصوبة والتكنولوجيا في المجتمعات العربية",
+   "likes": "12",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "767",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-27",
+   "url": "https://www.youtube.com/watch?v=Yxd0b17G4fE",
+   "summary": "Book Launch | Yusuf al-Azma in His Ottoman and Arab Times",
+   "likes": "5",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "496",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-15",
+   "url": "https://www.youtube.com/watch?v=HvToj3XSu5Q",
+   "summary": "كيف ظهر مصطلح «البلشفية الإسلامية»؟ - بودكاست",
+   "likes": "4",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "226",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-09",
+   "url": "https://www.youtube.com/watch?v=2XIhPjjt-2Y",
+   "summary": "بودكاست: لماذا كانت سوريا بهذا القدر من الأهمية لإيران في حربها مع العراق؟",
+   "likes": "2",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "208",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-15",
+   "url": "https://www.youtube.com/watch?v=GzxXgMuM_0s",
+   "summary": "تقرؤون في العدد 82 من دورية سياسات عربية",
+   "likes": "3",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "136",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-09",
+   "url": "https://www.youtube.com/watch?v=tRv-XaqI4j8",
+   "summary": "اشترك في قناة المركز العربي على اليوتيوب",
+   "likes": "3",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "97",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين أكاديمية وصفية بصيغة «الموضوع: الزاوية/النتيجة» مع تسمية الباب قبل العنوان (تقدير موقف، تحليل سياسات، دراسات، مراجعات). أخبار الدوريات بقالب ثابت متكرر: «صدور العدد X من دورية Y» ثم خبر ثانٍ «العدد X من دورية Y: موضوعاته». أخبار السيمنار بقالب «... موضوعًا لسيمنار المركز العربي». على يوتيوب تُسبق العناوين بوسم النوع (سيمنار | محاضرة عامة | إطلاق كتاب | 🎙️ بودكاست). المرجع: https://www.dohainstitute.org/ar/Pages/index.aspx و https://www.dohainstitute.org/ar/News/Pages/index.aspx",
+ "design_style": "غير متاح للفحص البصري المباشر (WAF يمنع تحميل الصفحات والصور آليًا). من النص المستخرج: الصفحة الرئيسية تضم لافتات صور (بانرات) لمشاريع كبرى: منصة البودكاست، موسوعة arabica.dohainstitute.org، دراسة الاستيطان، وملف «الحرب الأميركية-الإسرائيلية على إيران»؛ لا قسم إنفوغراف أو فيديو مخصص في الصفحة الرئيسية.",
+ "promotion_tactics": [
+  {
+   "tactic": "خبران لكل عدد دورية (إعلان الصدور ثم عرض المحتويات) لخمس دوريات على الأقل (عمران، تبيُّن، سياسات عربية، أسطور، حكامة/استشراف/المنتقى) — نحو 14 من 28 خبرًا في 90 يومًا",
+   "evidence_url": "https://www.dohainstitute.org/ar/News/Pages/index.aspx"
+  },
+  {
+   "tactic": "سيمنار أسبوعي (أربعاء: 10-28، 11-04، 11-11) يُنشر خبرًا في الموقع وفيديو كاملًا على يوتيوب",
+   "evidence_url": "https://www.dohainstitute.org/ar/Events/Pages/index.aspx"
+  },
+  {
+   "tactic": "نشر ثنائي اللغة: نسخة إنجليزية لتقديرات الموقف بعد أيام (الكنيست: عربي 11-02 ← إنجليزي 11-05) وحسابات X وFacebook منفصلة للعربية والإنجليزية",
+   "evidence_url": "https://www.dohainstitute.org/en/Pages/index.aspx"
+  },
+  {
+   "tactic": "منصة بودكاست مستقلة أُطلقت 2026-09-30 مع مقاطع على يوتيوب",
+   "evidence_url": "https://www.dohainstitute.org/ar/News/Pages/acrps-new-podcast-platform.aspx"
+  },
+  {
+   "tactic": "منتجات بيانات ذات علامة: إعلان نتائج «المؤشر العربي» في سورية 2026",
+   "evidence_url": "https://www.dohainstitute.org/ar/News/Pages/arab-center-announces-results-of-the-2026-arab-opinion-index-survey-in-syria.aspx"
+  },
+  {
+   "tactic": "مؤتمرات ومنتديات سنوية بعلامات ثابتة وصفحات تسجيل (منتدى فلسطين، منتدى دراسات الخليج، مؤتمر العلوم الاجتماعية والإنسانية) وتغطية يومية للمؤتمرات (اليوم 1/2/3)",
+   "evidence_url": "https://www.dohainstitute.org/ar/Events/Pages/index.aspx"
+  },
+  {
+   "tactic": "قائمة بريدية («النشرة الدورية» / Join our Mailing List) ودعوات للاستكتاب (call for papers)",
+   "evidence_url": "https://www.dohainstitute.org/en/Pages/index.aspx"
+  }
+ ],
+ "strengths": [
+  "منظومة علامات فرعية قوية (دوريات محكّمة، المؤشر العربي، منتديات سنوية، معجم الدوحة) تولّد أخبارًا متواصلة",
+  "يوتيوب نشط: 13 فيديو في 30 يومًا، وأفضل فيديو 39,471 مشاهدة (الخليج وإيران، 2026-10-29)",
+  "إيقاع ثابت للسيمنار الأسبوعي مع تحويله إلى خبر + فيديو",
+  "تمييز واضح بين أنواع الإنتاج (تقدير موقف/تقييم حالة/تحليل سياسات/دراسات) وبين العربية والإنجليزية",
+  "94.1K مشترك في يوتيوب (فعلي من المنصة)"
+ ],
+ "weaknesses": [
+  "الموقع يحجب القراءة الآلية ولا يوفر RSS أو sitemap متاحًا، ما يضعف التوزيع والأرشفة",
+  "صفحات الأقسام البحثية بلا تواريخ ظاهرة في القوائم",
+  "لا تلغرام/واتساب/إنستغرام مرتبط في الموقع، ولا أزرار مشاركة ظاهرة في الصفحة الرئيسية",
+  "ودجة النشرة الدورية ظهرت بحالة «حاول مرة أخرى» عند الجلب",
+  "معظم فيديوهات السيمنار الطويلة دون 2,500 مشاهدة رغم حجم القناة"
+ ],
+ "opportunities_for_mokha": [
+  "قالب «خبران لكل إصدار»: إعلان الصدور ثم عرض المحتويات/أبرز الخلاصات بعد أيام لمضاعفة مرات الترويج",
+  "سيمنار/حلقة نقاش دورية بيوم ثابت تُسجَّل وتُنشر على يوتيوب مع وسم نوع موحّد في العنوان (سيمنار | محاضرة | إطلاق كتاب)",
+  "تحويل تقدير الموقف إلى فيديو تفسيري قصير بعنوان سردي (نموذج «الخليج وإيران: قصة صراع الجغرافيا» الذي حقق 39K مشاهدة مقابل ~1K للسيمنارات)",
+  "منتج بيانات/مؤشر دوري خاص باليمن بعلامة ثابتة يُعلن سنويًا",
+  "نسخة إنجليزية لمواد اليمن: المركز العربي نشر بالإنجليزية عن اليمن مرتين في 90 يومًا (باب المندب 09-15، حلفاء السعودية في اليمن 10-15) — مجال يمكن للمخا التميز فيه بعمق محلي",
+  "الاستفادة من ثغرة المركز العربي: قنوات تلغرام/واتساب وRSS مفتوح"
+ ],
+ "limitations": [
+  "WAF الموقع يرفض curl وPlaywright العاديين؛ اعتُمد على WebFetch فقط دون أي تجاوز، وهي تُرجع نصًا مستخلصًا بنموذج لغوي (احتمال خطأ ±1 يوم في التواريخ، و19 عنوانًا من أخبار القائمة أُعيدت صياغتها بالعربية من ملخص إنجليزي ووُسمت [عنوان مُعاد صياغته] — الروابط أصلية).",
+  "أعداد الموقع لـ30 و90 يومًا حد أدنى مرصود؛ العدد الكامل متاح فقط لقسم الأخبار العربية.",
+  "X وFacebook وLinkedIn: غير متاح (متابعون/منشورات/تفاعل).",
+  "يوتيوب: الخلاصة تعرض أحدث 15 فيديو فقط (حتى 2026-10-15)؛ عدد 90 يومًا والتعليقات غير متاحة.",
+  "منصة البودكاست لم تُفحص. لم يُجرَ بحث عن مقتطفات محركات البحث لضيق الوقت.",
+  "التصميم البصري لم يُفحص مباشرة."
+ ],
+ "sources": [
+  {
+   "url": "https://www.dohainstitute.org/ar/Pages/index.aspx",
+   "used_for": "الحسابات الرسمية وأحدث المواد (2026-11-13 و2026-11-16)"
+  },
+  {
+   "url": "https://www.dohainstitute.org/en/Pages/index.aspx",
+   "used_for": "الحسابات الإنجليزية والمواد الإنجليزية المؤرخة (2026-11-16)"
+  },
+  {
+   "url": "https://www.dohainstitute.org/ar/News/Pages/index.aspx",
+   "used_for": "قائمة الأخبار المؤرخة (2026-11-16)"
+  },
+  {
+   "url": "https://www.dohainstitute.org/ar/Events/Pages/index.aspx",
+   "used_for": "السيمنارات والفعاليات (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/user/thedohainstitute",
+   "used_for": "عدد المشتركين (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmjtP6y9K13fz3sSFJjm4UA",
+   "used_for": "الفيديوهات والمشاهدات والإعجابات (2026-11-16)"
+  }
+ ]
+}

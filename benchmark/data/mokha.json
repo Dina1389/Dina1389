@@ -1,0 +1,682 @@
+{
+ "center": "مركز المخا للدراسات الاستراتيجية",
+ "slug": "mokha",
+ "website": "https://mokhacenter.org",
+ "accessed": "2026-11-13",
+ "accounts": {
+  "x": {
+   "url": "https://x.com/mokhacenter",
+   "verified_via": "https://mokhacenter.org/ (الشريط العلوي)"
+  },
+  "facebook": {
+   "url": "https://facebook.com/mokhacenter",
+   "verified_via": "https://mokhacenter.org/"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/mokha-center-ab4970232",
+   "verified_via": "https://mokhacenter.org/ — ملاحظة: الرابط يقود إلى ملف شخصي (/in/) لا إلى صفحة مؤسسة (/company/)"
+  },
+  "other": [
+   {
+    "platform": "Instagram",
+    "url": "https://instagram.com/mokhacenter"
+   },
+   {
+    "platform": "WhatsApp",
+    "url": "https://wa.me/905318883337"
+   },
+   {
+    "platform": "Telegram",
+    "url": "https://t.me/mokhacenter"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "Telegram",
+   "value": 650,
+   "figure_date": "2026-11-13",
+   "source_url": "https://t.me/s/mokhacenter",
+   "type": "actual-on-platform"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 13,
+   "by_language": {
+    "ar": 9,
+    "en": 4
+   }
+  },
+  "d90": {
+   "total": 52,
+   "by_language": {
+    "ar": 33,
+    "en": 19
+   }
+  },
+  "method": "WordPress REST API: /wp-json/wp/v2/posts?after=2026-08-15T23:59:59 (العربية) و ‎&lang=en (الإنجليزية)",
+  "source_urls": [
+   "https://mokhacenter.org/wp-json/wp/v2/posts?after=2026-08-15T23:59:59&per_page=100",
+   "https://mokhacenter.org/wp-json/wp/v2/posts?after=2026-08-15T23:59:59&per_page=100&lang=en"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-11",
+   "title": "الرواية الحوثية بين ضعف الحجة ومحاولة الترويج",
+   "type": "ورقة بحثية/دراسة",
+   "topic": "جماعة الحوثي: الخطاب والفكر والتفاوض",
+   "language": "ar",
+   "url": "https://mokhacenter.org/13606/"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "الموجز الاقتصادي — أكتوبر 2026",
+   "type": "تقرير",
+   "topic": "الاقتصاد اليمني",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%85%d9%88%d8%ac%d8%b2-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-2026/"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "اليمن في التناولات البحثية والإعلامية — النصف الثاني من أكتوبر 2026",
+   "type": "تقرير",
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-11/"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "الإحاطة الشهرية-أكتوبر 2026",
+   "type": "تقرير",
+   "topic": "إحاطة شهرية شاملة",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d8%a5%d8%ad%d8%a7%d8%b7%d8%a9-%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a%d8%a9-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-2026/"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "استلهام نموذج هرمز: إمكانات توظيف مرتفعات تعز لاستدامة التهديد البحري",
+   "type": "ورقة بحثية/دراسة",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d8%b3%d8%aa%d9%84%d9%87%d8%a7%d9%85-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d9%87%d8%b1%d9%85%d8%b2-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d8%a7%d8%aa-%d8%aa%d9%88%d8%b8%d9%8a%d9%81-%d9%85%d8%b1%d8%aa%d9%81/"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "من الزيدية إلى الحوثية: المذهب، الإحياء، والتنظيم السلطوي في اليمن المعاصر",
+   "type": "كتاب/إصدار",
+   "topic": "جماعة الحوثي: الخطاب والفكر والتفاوض",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d9%85%d9%86-%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b0%d9%87%d8%a8%d8%8c-%d8%a7%d9%84%d8%a5%d8%ad%d9%8a%d8%a7/"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "مركز المخا يشهر كتاب «من الزيدية إلى الحوثية» ويناقش التحولات الفكرية والسياسية للجماعة",
+   "type": "خبر مؤسسي",
+   "topic": "جماعة الحوثي: الخطاب والفكر والتفاوض",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d9%85%d8%ae%d8%a7-%d9%8a%d8%b4%d9%87%d8%b1-%d9%83%d8%aa%d8%a7%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d8%b2%d9%8a%d8%af%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%a7%d9%84/"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "تحت الحصار: التداعيات الإنسانية لحصار الحوثيين لمدينة تعز",
+   "type": "تقرير",
+   "topic": "التصعيد العسكري (تعز والساحل الغربي)",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%ad%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%84%d8%ad%d8%b5%d8%a7/"
+  },
+  {
+   "date": "2026-10-17",
+   "title": "اليمن في التناولات البحثيه والإعلامية الدولية – النصف الاول من اكتوبر 2026",
+   "type": "تقرير",
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab%d9%8a%d9%87-%d8%a7%d9%84%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%88/"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "تجنيد جماعة الحوثي للأطفال خلال التصعيد العسكري 2026",
+   "type": "تقرير",
+   "topic": "جماعة الحوثي: الخطاب والفكر والتفاوض",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%aa%d8%ac%d9%86%d9%8a%d8%af-%d8%ac%d9%85%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%ae%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%aa%d8%b5%d8%b9/"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "برنامج صندوق النقد في اليمن: حدود الفاعلية ومتطلبات الإصلاح في اقتصاد منقسم وهش",
+   "type": "ورقة بحثية/دراسة",
+   "topic": "الاقتصاد اليمني",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%b5%d9%86%d8%af%d9%88%d9%82-%d8%a7%d9%84%d9%86%d9%82%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d8%ad%d8%af%d9%88%d8%af-%d8%a7%d9%84%d9%81%d8%a7%d8%b9/"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "من شعار الموت لأمريكا إلى اتفاق عدم الاستهداف:  ماذا تعرف عن تاريخ مفاوضات الحوثيين السرية مع أمريكا؟",
+   "type": "تقرير",
+   "topic": "جماعة الحوثي: الخطاب والفكر والتفاوض",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d9%85%d9%86-%d8%b4%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%aa-%d9%84%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7-%d8%a5%d9%84%d9%89-%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%b9%d8%af%d9%85-%d8%a7%d9%84%d8%a7/"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "عملية فجر اليمن: المبادرة العسكرية لاستعادة الدولة وإنهاء الانقلاب الحوثي",
+   "type": "تقدير موقف/تنبيه",
+   "topic": "التصعيد العسكري (تعز والساحل الغربي)",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d9%81%d8%ac%d8%b1-%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d8%a9-%d9%84%d8%a7%d8%b3/"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "الموجز الاقتصادي –سبتمبر 2026",
+   "type": "تقرير",
+   "topic": "الاقتصاد اليمني",
+   "language": "ar",
+   "url": "https://mokhacenter.org/13294/"
+  },
+  {
+   "date": "2026-10-03",
+   "title": "اليمن في التناولات البحثية والإعلامية الدولية( النصف الثاني من شهرسبتمبر)",
+   "type": "تقرير",
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-10/"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "الاحاطة الشهرية –سبتمبر2026",
+   "type": "تقرير",
+   "topic": "إحاطة شهرية شاملة",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d8%a7%d8%ad%d8%a7%d8%b7%d8%a9-%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a%d8%a9-%d8%b3%d8%a8%d8%aa%d9%85%d8%a8%d8%b12026/"
+  },
+  {
+   "date": "2026-09-28",
+   "title": "حركة النزوح القسري في اليمن في ظل التصعيد الحوثي",
+   "type": "تقرير",
+   "topic": "الملف الإنساني والحقوقي",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%86%d8%b2%d9%88%d8%ad-%d8%a7%d9%84%d9%82%d8%b3%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%b8%d9%84-%d8%a7%d9%84%d8%aa%d8%b5%d8%b9/"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "معركة الممرات والمرتفعات في تعز: ما الذي يريده الحوثيون؟",
+   "type": "تقدير موقف/تنبيه",
+   "topic": "التصعيد العسكري (تعز والساحل الغربي)",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d9%85%d8%b9%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d9%85%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d9%81%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-%d8%aa%d8%b9%d8%b2-%d9%85%d8%a7-%d8%a7/"
+  },
+  {
+   "date": "2026-09-18",
+   "title": "من تشبيك المضيقين إلى تفاهمات مسقط:  تحولات الموقف الأمريكي من أمن البحر الأحمر وتداعياتها على اليمن والإقليم",
+   "type": "تقدير موقف/تنبيه",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d9%85%d9%86-%d8%aa%d8%b4%d8%a8%d9%8a%d9%83-%d8%a7%d9%84%d9%85%d8%b6%d9%8a%d9%82%d9%8a%d9%86-%d8%a5%d9%84%d9%89-%d8%aa%d9%81%d8%a7%d9%87%d9%85%d8%a7%d8%aa-%d9%85%d8%b3%d9%82%d8%b7-%d8%aa%d8%ad%d9%88/"
+  },
+  {
+   "date": "2026-09-18",
+   "title": "اليمن في التناولات البحثية والإعلامية الدولية( النصف الأول من  شهرسبتمبر)",
+   "type": "تقرير",
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-9/"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "التداعيات الاقتصادية لسيطرة الحوثيين على مضيق باب المندب",
+   "type": "تقدير موقف/تنبيه",
+   "topic": "الاقتصاد اليمني",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d8%b9%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a%d9%8a/"
+  },
+  {
+   "date": "2026-09-12",
+   "title": "6 ملايين شخص عند مستوى الطوارئ الغذائية",
+   "type": "إنفوجرافيك",
+   "topic": "الملف الإنساني والحقوقي",
+   "language": "ar",
+   "url": "https://mokhacenter.org/6-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d8%b4%d8%ae%d8%b5-%d8%b9%d9%86%d8%af-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a7%d9%84%d8%ba%d8%b0%d8%a7%d8%a6%d9%8a%d8%a9/"
+  },
+  {
+   "date": "2026-09-12",
+   "title": "13,339 مهاجراً إلى اليمن",
+   "type": "إنفوجرافيك",
+   "topic": "الملف الإنساني والحقوقي",
+   "language": "ar",
+   "url": "https://mokhacenter.org/13339-%d9%85%d9%87%d8%a7%d8%ac%d8%b1%d8%a7%d9%8b-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%8a%d9%85%d9%86/"
+  },
+  {
+   "date": "2026-09-12",
+   "title": "11 مليون امرأة وفتاة يحتجن إلى مساعدات إنسانية",
+   "type": "إنفوجرافيك",
+   "topic": "الملف الإنساني والحقوقي",
+   "language": "ar",
+   "url": "https://mokhacenter.org/11-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d9%88%d9%81%d8%aa%d8%a7%d8%a9-%d9%8a%d8%ad%d8%aa%d8%ac%d9%86-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa-%d8%a5/"
+  },
+  {
+   "date": "2026-09-10",
+   "title": "تنبيه سياسي وأمني  السيطرة على المخا: توسيع تهريب السلاح استعدادًا لمواجهة إقليمية",
+   "type": "تقدير موقف/تنبيه",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%aa%d9%86%d8%a8%d9%8a%d9%87-%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a-%d9%88%d8%a3%d9%85%d9%86%d9%8a-%d8%a7%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%ae%d8%a7-%d8%aa%d9%88/"
+  },
+  {
+   "date": "2026-09-05",
+   "title": "تعز والساحل الغربي:التصعيد الحوثي وإعادة تشكيل معادلة باب المندب في ظل صراع المضائق",
+   "type": "تقدير موقف/تنبيه",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%aa%d8%b9%d8%b2-%d9%88%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84-%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d8%a7%d9%84%d8%aa%d8%b5%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d9%88%d8%ab%d9%8a-%d9%88%d8%a5%d8%b9/"
+  },
+  {
+   "date": "2026-09-05",
+   "title": "إعادة إنتاج الهشاشة في اليمن خلال حرب ممتدة (2014–2026): النساء والأطفال نموذجًا",
+   "type": "ورقة بحثية/دراسة",
+   "topic": "الملف الإنساني والحقوقي",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d9%87%d8%b4%d8%a7%d8%b4%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d8%ae%d9%84%d8%a7%d9%84-%d8%ad%d8%b1%d8%a8-%d9%85/"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "اليمن في التناولات البحثية والإعلامية الدولية( أغسطس)",
+   "type": "تقرير",
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-8/"
+  },
+  {
+   "date": "2026-09-02",
+   "title": "الموجز الاقتصادي –أغسطس 2026",
+   "type": "تقرير",
+   "topic": "الاقتصاد اليمني",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%85%d9%88%d8%ac%d8%b2-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a-%d8%a3%d8%ba%d8%b3%d8%b7%d8%b3-2026/"
+  },
+  {
+   "date": "2026-09-01",
+   "title": "الاحاطة الشهرية – أغسطس2026",
+   "type": "تقرير",
+   "topic": "إحاطة شهرية شاملة",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d8%a7%d8%ad%d8%a7%d8%b7%d8%a9-%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a%d8%a9-%d8%a3%d8%ba%d8%b3%d8%b7%d8%b32026/"
+  },
+  {
+   "date": "2026-08-22",
+   "title": "مركز المخا للدراسات الاستراتيجية ومنظمة لاماسو للثقافة يبحثان التعاون في حماية الموروث الثقافي",
+   "type": "خبر مؤسسي",
+   "topic": "أخبار المركز وشراكاته",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d9%85%d8%ae%d8%a7-%d9%84%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d8%a9-%d9%88%d9%85%d9%86/"
+  },
+  {
+   "date": "2026-08-19",
+   "title": "اليمن في التناولات البحثية والإعلامية الدولية( يوليو)",
+   "type": "تقرير",
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%8a%d9%85%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a-7/"
+  },
+  {
+   "date": "2026-08-18",
+   "title": "القاتل المخفي: تقرير عن انتشار الألغام ومخلفات الحرب في اليمن",
+   "type": "تقرير",
+   "topic": "الملف الإنساني والحقوقي",
+   "language": "ar",
+   "url": "https://mokhacenter.org/%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84-%d8%a7%d9%84%d9%85%d8%ae%d9%81%d9%8a-%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b9%d9%86-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d8%a7%d9%84%d8%a3%d9%84%d8%ba%d8%a7%d9%85/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Mokha Economic Brief –  October2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/mokha-economic-brief-october2026/"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Monthly Briefing/ October2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/monthly-briefing-october2026/"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "The Hormuz Model at Bab al-Mandab:  Using the Taiz Highlands to Sustain the Houthi Maritime Threat",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/the-hormuz-model-at-bab-al-mandab-using-the-taiz-highlands-to-sustain-the-houthi-maritime-threat/"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Taiz Under Siege:  The Humanitarian Toll of the Houthi Blockade",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/taiz-under-siege-the-humanitarian-toll-of-the-houthi-blockade/"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Killed, Captured, and Missing  Houthi Recruitment of Children During the 2026 Military Escalation",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/killed-captured-and-missing-houthi-recruitment-of-children-during-the-2026-military-escalation/"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "The IMF Program in Yemen: Limits of Effectiveness and Reform Requirements in a Divided and Fragile Economy",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/the-imf-program-in-yemen-limits-of-effectiveness-and-reform-requirements-in-a-divided-and-fragile-economy/"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "From “Death to America” to a Non-Targeting Agreement: The Houthis’ Secret Talks with the United States",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/from-death-to-america-to-a-non-targeting-agreement-the-houthis-secret-talks-with-the-united-states/"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "Operation Dawn of Yemen: A Military Initiative to Restore the State and End the Houthi Coup",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/operation-dawn-of-yemen-a-military-initiative-to-restore-the-state-and-end-the-houthi-coup/"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "Mokha Economic Brief – September 2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/mokha-economic-brief-september-2026/"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Monthly Briefing/ September 2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/monthly-briefing-september-2026/"
+  },
+  {
+   "date": "2026-10-01",
+   "title": "Forced Displacement in Yemen During Houthi Escalation:   Field Monitoring, 1–16 September 2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/forced-displacement-in-yemen-during-houthi-escalation-field-monitoring-1-16-september-2026/"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "The Battle for Corridors and Highlands in Taiz: What Do the Houthis Want?",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/the-battle-for-corridors-and-highlands-in-taiz-what-do-the-houthis-want/"
+  },
+  {
+   "date": "2026-09-20",
+   "title": "The Muscat Understandings: Shifts in the U.S. Position on Red Sea Security and Their Implications for Yemen and the Region",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/the-muscat-understandings-shifts-in-the-u-s-position-on-red-sea-security-and-their-implications-for-yemen-and-the-region/"
+  },
+  {
+   "date": "2026-09-16",
+   "title": "The Economic Repercussions of Houthi Control over Bab al-Mandab",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/satellite-view-of-yemens-western-coast-and-the-bab-al-mandab-area/"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "Reproducing Fragility: Women and Children in Yemen’s Protracted War (2014–2026)",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/reproducing-fragility-women-and-children-in-yemens-protracted-war-2014-2026/"
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Mocha Under Houthi Control: Expanding Arms Smuggling Ahead of a Potential Regional Confrontation",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/mocha-under-houthi-control-expanding-arms-smuggling-ahead-of-a-potential-regional-confrontation/"
+  },
+  {
+   "date": "2026-09-04",
+   "title": "Mokha Economic Brief – August 2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/mokha-economic-brief-august-2026/"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "Monthly Briefing/ August 2026",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/monthly-briefing-august-2026/"
+  },
+  {
+   "date": "2026-08-19",
+   "title": "The Hidden Threat: A Report on the Spread of Landmines and Explosive Remnants of War in Yemen",
+   "type": "English edition",
+   "topic": "(ترجمة لإصدار عربي)",
+   "language": "en",
+   "url": "https://mokhacenter.org/en/the-hidden-threat-a-report-on-the-spread-of-landmines-and-explosive-remnants-of-war-in-yemen/"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 4,
+  "reports": 17,
+  "analysis": 6,
+  "news": 2,
+  "video": 0,
+  "infographic": 3,
+  "podcast": 0,
+  "events": 0,
+  "other": 1
+ },
+ "top_topics": [
+  {
+   "topic": "رصد الإعلام والبحث الدولي عن اليمن",
+   "count": 6
+  },
+  {
+   "topic": "الملف الإنساني والحقوقي",
+   "count": 6
+  },
+  {
+   "topic": "جماعة الحوثي: الخطاب والفكر والتفاوض",
+   "count": 5
+  },
+  {
+   "topic": "الاقتصاد اليمني",
+   "count": 5
+  },
+  {
+   "topic": "البحر الأحمر وباب المندب",
+   "count": 4
+  },
+  {
+   "topic": "إحاطة شهرية شاملة",
+   "count": 3
+  },
+  {
+   "topic": "التصعيد العسكري (تعز والساحل الغربي)",
+   "count": 3
+  },
+  {
+   "topic": "أخبار المركز وشراكاته",
+   "count": 1
+  }
+ ],
+ "languages": [
+  "ar",
+  "en"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/mokhacenter",
+   "posts_30d": 11,
+   "posts_90d": 42,
+   "typical_views": "وسيط 95 مشاهدة (30 يومًا) / 134 (90 يومًا)؛ الأعلى 292",
+   "note": "650 مشتركًا. قناة تيليغرام غير مربوطة في ترويسة الموقع لكنها مذكورة في قوالب التصميم."
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "Telegram",
+   "date": "2026-09-18",
+   "url": "https://t.me/mokhacenter/524",
+   "summary": "كشف تقرير «اليمن في التناولات البحثية والإعلامية الدولية» الصادر عن مركز المخا، أن التقدم الحوثي في الساحل الغربي نتج عن استثمار التهدئة، وا",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "292",
+   "source_url": "https://t.me/s/mokhacenter",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-10",
+   "url": "https://t.me/mokhacenter/522",
+   "summary": "‏سبق لمركز المخا في تقدير موقف نشره قبل أيام أن وضع سيناريوهات عدة لتطور التصعيد وكان أخطرها سيطرة الحوثيين على ⁧  #المخا  ⁩ باعتبار ذلك تحو",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "254",
+   "source_url": "https://t.me/s/mokhacenter",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-01",
+   "url": "https://t.me/mokhacenter/519",
+   "summary": "صدر العدد الثالث والستون من \"الإحاطة الشهرية\" عن مركز المخا، راصدا تطورات اليمن خلال أغسطس 2026. وكشف العدد انتقال البلاد من التهدئة الهشة إ",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "235",
+   "source_url": "https://t.me/s/mokhacenter",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-15",
+   "url": "https://t.me/mokhacenter/523",
+   "summary": "في حديثه عن معركة الساحل الغربي في المخا، يقول رئيس مركز المخا للدراسات الاستراتيجية، عاتق جارالله،إن الخطر الأكبر ليس في سقوط منطقة هنا أو ",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "218",
+   "source_url": "https://t.me/s/mokhacenter",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-10-05",
+   "url": "https://t.me/mokhacenter/529",
+   "summary": "صدر عن مركز المخا للدراسات الاستراتيجية تقرير يرصد أبرز التناولات الدولية لتطورات الحرب في اليمن خلال النصف الثاني من سبتمبر 2026. رابط الما",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "212",
+   "source_url": "https://t.me/s/mokhacenter",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-31",
+   "url": "https://t.me/mokhacenter/518",
+   "summary": "لمحة عن مدربي برنامج الاتصال والتسويق السياسي   سيكون معنا الأستاذ محمد سعد الدين المشالي  المحور السادس المشروع التطبيقي   ⏰   آخر موعد للت",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "206",
+   "source_url": "https://t.me/s/mokhacenter",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين أكاديمية وصفية طويلة بصيغة (موضوع: شرح)، مثل «استلهام نموذج هرمز: إمكانات توظيف مرتفعات تعز لاستدامة التهديد البحري». قلّة العناوين الاستفهامية أو الرقمية؛ الاستثناء: إنفوجرافيك رقمي («6 ملايين شخص عند مستوى الطوارئ الغذائية») وعنوان «ماذا تعرف عن تاريخ مفاوضات الحوثيين السرية».",
+ "design_style": "قالب مربع 1080×1080 موحّد: شعار المركز أعلى، صورة داكنة مع العنوان بخط عريض، شريط أزرق لنوع الإصدار، وتذييل بالموقع والبريد ورمز QR والمعرّف @MOKHACENTER. هوية بصرية متسقة لكن القالب نصّي/صوري ثابت بلا أرقام أو خلاصات بارزة، ولا يوجد فيديو في الفترة.",
+ "promotion_tactics": [
+  {
+   "tactic": "سلاسل دورية ثابتة: الإحاطة الشهرية، الموجز الاقتصادي الشهري، «اليمن في التناولات البحثية والإعلامية» نصف شهري",
+   "evidence_url": "https://mokhacenter.org/"
+  },
+  {
+   "tactic": "ملخص تنفيذي في أعلى الورقة + ملف PDF للتحميل",
+   "evidence_url": "https://mokhacenter.org/13606/"
+  },
+  {
+   "tactic": "نسخة إنجليزية لمعظم الإصدارات خلال 1–3 أيام",
+   "evidence_url": "https://mokhacenter.org/en/"
+  },
+  {
+   "tactic": "قائمة بريدية (نموذج اشتراك) وأزرار مشاركة فيسبوك/واتساب",
+   "evidence_url": "https://mokhacenter.org/"
+  },
+  {
+   "tactic": "منشور تيليغرام لكل إصدار بصيغة خبرية («كشفت ورقة…»، «حذّرت دراسة…»)",
+   "evidence_url": "https://t.me/s/mokhacenter"
+  },
+  {
+   "tactic": "فعالية إشهار كتاب «من الزيدية إلى الحوثية» مع دعوة مسبقة",
+   "evidence_url": "https://t.me/mokhacenter/536"
+  }
+ ],
+ "strengths": [
+  "انتظام واضح: 33 إصدارًا عربيًا في 90 يومًا (≈2.6 أسبوعيًا) بسلاسل دورية ثابتة",
+  "ثنائية اللغة: 19 إصدارًا إنجليزيًا في 90 يومًا",
+  "تخصص يمني ميداني (تقارير ميدانية عن تعز، الأطفال، النزوح، الألغام)",
+  "هوية بصرية موحدة وملخصات تنفيذية وPDF"
+ ],
+ "weaknesses": [
+  "رابط لينكد إن في الموقع يقود إلى ملف شخصي لا صفحة مؤسسة",
+  "تيليغرام: 650 مشتركًا ووسيط المشاهدات انخفض من 134 (90 يومًا) إلى 95 (30 يومًا)",
+  "لا فيديو ولا بودكاست في الفترة؛ 3 إنفوجرافيك فقط (كلها في يوم واحد 12 سبتمبر)",
+  "9 إصدارات عربية فقط في آخر 30 يومًا مقابل 24 في الستين يومًا السابقة لها",
+  "عناوين طويلة أكاديمية أقل قابلية للمشاركة"
+ ],
+ "opportunities_for_mokha": [],
+ "limitations": [
+  "أرقام المتابعين والمنشورات والتفاعل على X وفيسبوك ولينكد إن غير متاحة للقراءة العامة بلا تسجيل دخول؛ تُؤخذ من لوحات التحليلات الداخلية للمركز."
+ ],
+ "sources": [
+  {
+   "url": "https://mokhacenter.org/",
+   "used_for": "روابط الحسابات، بنية الموقع"
+  },
+  {
+   "url": "https://mokhacenter.org/wp-json/wp/v2/posts?after=2026-08-15T23:59:59&per_page=100",
+   "used_for": "عدّ الإصدارات العربية"
+  },
+  {
+   "url": "https://mokhacenter.org/wp-json/wp/v2/posts?after=2026-08-15T23:59:59&per_page=100&lang=en",
+   "used_for": "عدّ الإصدارات الإنجليزية"
+  },
+  {
+   "url": "https://t.me/s/mokhacenter",
+   "used_for": "منشورات ومشاهدات تيليغرام وعدد المشتركين"
+  },
+  {
+   "url": "https://mokhacenter.org/13606/",
+   "used_for": "بنية صفحة الإصدار والتصميم"
+  }
+ ]
+}

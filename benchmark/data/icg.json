@@ -1,0 +1,921 @@
+{
+ "center": "International Crisis Group (مجموعة الأزمات الدولية)",
+ "website": "https://www.crisisgroup.org",
+ "accessed": "2026-11-13 (rss.xml) و2026-11-16 (يوتيوب، /rss، فهرس Google News، البحث)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/CrisisGroup",
+   "verified_via": "روابط تذييل/ترويسة الموقع كما وردت داخل HTML عناصر الخلاصة https://www.crisisgroup.org/rss.xml (كل عنصر يتضمن قالب الصفحة كاملاً)"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/crisisgroup",
+   "verified_via": "https://www.crisisgroup.org/rss.xml"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/international-crisis-group",
+   "verified_via": "https://www.crisisgroup.org/rss.xml"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/crisisgroup"
+   },
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/crisisgroup"
+   },
+   {
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/crisisgroup.org"
+   },
+   {
+    "platform": "WhatsApp Channel",
+    "url": "https://www.whatsapp.com/channel/0029VaFji6I0gcfAWXNYrz2F"
+   },
+   {
+    "platform": "Podcast: Hold Your Fire! (Apple)",
+    "url": "https://podcasts.apple.com/us/podcast/hold-your-fire/id1530411354"
+   },
+   {
+    "platform": "Podcast: The Horn (Apple)",
+    "url": "https://podcasts.apple.com/us/podcast/the-horn/id1481350176"
+   },
+   {
+    "platform": "Telegram",
+    "url": "غير متاح — القناة t.me/s/crisisgroup ليست للمجموعة (قناة «CrG» بـ14 مشتركاً)"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube (@crisisgroup)",
+   "value": 23300,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/@crisisgroup/videos",
+   "type": "actual-on-platform",
+   "note": "رقم مقرَّب معروض: 23.3K مشترك، 663 فيديو"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": 221927,
+   "figure_date": "غير متاح (صفحة تجميع غير مؤرخة)",
+   "source_url": "https://app.icebreaker.xyz/companies/www.linkedin.com%2Fcompany%2Fcrisis-group",
+   "type": "search-snippet",
+   "note": "طرف ثالث عبر ملخص نتيجة بحث؛ غير متحقق على المنصة"
+  },
+  {
+   "platform": "X / Facebook / Instagram / Bluesky / WhatsApp",
+   "value": null,
+   "figure_date": "",
+   "source_url": "",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 35,
+   "by_language": {
+    "en": 32,
+    "fr": 1,
+    "ar": 2
+   },
+   "observed_direct_rss": 16,
+   "third_party_index_only": 19
+  },
+  "d90": {
+   "total": 92,
+   "by_language": {
+    "en": 84,
+    "fr": 1,
+    "ar": 7
+   },
+   "observed_direct_rss": 16,
+   "third_party_index_only": 76
+  },
+  "method": "حدّ أدنى لا عدّ كامل. الموقع وخريطته يعيدان 403 (Cloudflare)؛ المتاح خلاصتان فقط: /rss.xml (آخر 10 عناصر: 30 أكتوبر→13 نوفمبر) و/rss (10 عناصر: 27→30 أكتوبر) = 16 عنصراً فريداً بروابط مباشرة ونوع مستخرج من بادئة المسار (pod/vid/rpt/opd/anb/spc/phe/sco/crisiswatch). الباقي من فهرس Google News RSS (site:crisisgroup.org مع after:/before: على 7 شرائح + استعلام عربي) بعد حذف صفحات المناطق/الدول/الأشخاص وإزالة التكرار بالعنوان؛ التواريخ تواريخ فهرسة Google والروابط روابط Google News. اللغة مستنتجة من حروف العنوان (العربية) أو مسار /fr/. الخلاصات العربية والفرنسية والإسبانية (/ar/rss.xml …) محجوبة، فالعدّ العربي/الفرنسي/الإسباني ناقص على الأرجح.",
+  "source_urls": [
+   "https://www.crisisgroup.org/rss.xml",
+   "https://www.crisisgroup.org/rss",
+   "https://news.google.com/rss/search?q=site:crisisgroup.org+after:2026-08-15+before:2026-08-31&hl=en-US&gl=US&ceid=US:en",
+   "https://news.google.com/rss/search?q=site:crisisgroup.org/ar+after:2026-08-15&hl=ar&gl=EG&ceid=EG:ar"
+  ],
+  "yemen_red_sea_gulf_90d": {
+   "count": 9,
+   "items": [
+    {
+     "date": "2026-08-18",
+     "title": "Yemen’s War is Returning",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZC1ZTlo0QV9ra0hCMHFYWVhna240UktuSkpLc3YtN2dDa1VPNlVoRVVNQmZ5WElMOGVPUURfd2hyRzBrWkhPLVRDTTlRblVzSkdrRWNTazB1dUUxWFYtaS1YR2U2VXVNY3FZaldKVzJaMGRhaEtnSjR4Wmg5V29xY3NrUzR0b2lzSjIxd295ZFYzVF9jbTU2YnA2U1I?oc=5"
+    },
+    {
+     "date": "2026-09-08",
+     "title": "The Houthis Escalate on Yemen’s Western Front",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWNIbjU1aUktczBjOWNEc3NKN3JOQmpYOG9ldjV3ZzE3WlRrdWtIVjloYUxCOGtTcWJCd2NxU1JtU0ZZLUZEeVFOdmNTQlY5RVBoWHY5Q2p2UEF5U25aTUlnLVQwZC1tTnNaX2YyakJzRENkR0FyQlBHYzYtdGxGdHJUWUtlUTFZTmVjdFo1TURrcWd1VmNnXzdNdWNtME1BZlE?oc=5"
+    },
+    {
+     "date": "2026-09-14",
+     "title": "Special Episode: Will the Houthis Shut Down the Bab al-Mandab Strait?",
+     "type": "Podcast (استنتاج من العنوان)",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVhoRE1mbHhtQThERkhTZldUTXhlQ09ZY0tLR0xXM1dYeHI3Ung2dmdkNUdBQ2VSVHJjTFphSmJXREpuRlRiVDhfaXlUcjFIdnRCVkllQmliZlF0NXVKWWljUHhpSHZDTDBvSlV2RlpjLUx4bU5od3FQN1cxQkcwcTM5eDJReG13aFVrUFdFY25zZXZQQlFEckhWQXhYM2x0dW8xVFZXSXRkMVo4R3V3Wjl6OTFsM3JYOGo2c1NTMA?oc=5"
+    },
+    {
+     "date": "2026-09-18",
+     "title": "Closing the New War Front in Yemen",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3lfUGl0d29LdTEzcHkyeDlxWHcxVklZQnBiOTByeE1Ib0EteHFXc0R2ejJBOXdJZVUyTVBoNGIySkU2cUdCWFpmMjQ5TEtUVTVvQjc3U2RvNm5xZWJSR3RTY1d6NDBrb09jNnd4M1VlY25UdVU1cHdBV2N1Z0RvRW1YOERPQ1VSOWdPU1JkOUFJcTd3ZU9aZGtreGtBaGRaaUlXejFsRzRXdllS?oc=5"
+    },
+    {
+     "date": "2026-09-18",
+     "title": "The Houthis, the Saudis and the New Red Sea Politics",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZERaeGpOUFhRMkpORlczRXZhUkhVc3g0RXQxa25iSmV3Q194Um9McElCWkczWXVaNEs5OXNYcmVmOXMwcVJMTEpGdFlNR3ZlTXVkWE55aTk5YWVkY0VTWGduRzVRalVmcGw4bTVsdDA2Sm82cTI1NGhIZWYxOWRONjNpeWF2UDlMb2RGREg5bjFISkpa?oc=5"
+    },
+    {
+     "date": "2026-09-22",
+     "title": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned?",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUVlSm5oWlpUNHdYeUlUVFNJb3pINVdqT1JWNHVLTUFfYTV4aFREeEJvSVY5b1JZYzJvRThxWTBTX0pwbk1iYXlkcnBTRnZ0UDktZ2JlMnVPbFVYOWNXa1duaE90M1ZadFczWDBnNTE0Tm9LQjduNmJzN3dDNGJ0eEFRVTNHTXZGM09WS3VaVU1od0I2RVBJUnFmRmFFUGFBX0E?oc=5"
+    },
+    {
+     "date": "2026-10-06",
+     "title": "The New Red Sea Wars",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uQ2kyRTZMZkN6dWhfc2Z5c3NnYXZkbGxzNUxKWXZqNG5RcU9EY1dzNGJWMVpLMHMzU3lqU3h3aU9nRFpRMENWVm1kdWJVd3MtV0ZFUTIxQUk0czlqT2JabVFSbmFZMUJHNXU5Y25QYkNJSmJHMWc?oc=5"
+    },
+    {
+     "date": "2026-10-14",
+     "title": "Yemen’s War Moves toward Zero-sum Confrontation",
+     "type": "غير متاح",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDF0VEQ0c1doeXJxQWlwMGNzUm1rbVM3NG1DbzZWVzU1LW9qOFRZWHkyZzZRSXRWdWFVVEp0RFVLeDU1ZnhBREUwRDdjMXRmQmhPa0poc3Z3bnhoVlducVczVzRQUnlMTC1uVVpvd1l5RG5BUGM1dXRXYi1LdC0xcEpDODF6czZvZmVsM1c1ZEhGc3ZGYm9WTG5ycmxZWk1yTWlZSUFwZzRnUUtCWWlPYjZ0d0FrUEU4SGY3NGktRHpzOXBKbVE?oc=5"
+    },
+    {
+     "date": "2026-10-16",
+     "title": "The Yemen War, Saudi-Iran relations and Another Escalation in the Gulf",
+     "type": "Podcast (استنتاج من العنوان)",
+     "language": "en",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelpleFhCWFFmSTNGSzNCOFR2Z3QyZXNha0VhSVotZXN1dlFIMm5zcWwyalpjd1R1R0NiWHVFY2ZqdGxqOTJZeW1FSkFCNnhBbVFvMVVRbW5qc1hyRXBXMWxUU1RNUTZHTjBtdXNnOE5rOTYwUHlSMjhBWC12YmFSSjY0R1d0WEpGZW0zS1pnSTFpaVBwbFZjNXBpdkRGX2RJRWVscnVna0VzU1V0cFpPUjlneF9QMEpnTnkxYld3?oc=5"
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-13",
+   "title": "Gideon Rachman on the Risk of World War III",
+   "type": "Podcast",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii",
+   "source": "rss"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Mo Ibrahim: Sudan Unravelling",
+   "type": "Video",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/vid/africa/sudan/mo-ibrahim-sudan-unravelling",
+   "source": "rss"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Frank Giustra on Why Business Needs Peace",
+   "type": "Video",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/vid/global/frank-giustra-why-business-needs-peace",
+   "source": "rss"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "The Shell of the Scam: A Journey through Cambodia’s Empty Crime Compounds",
+   "type": "Photo essay/Visual explainer",
+   "topic": "آسيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/phe/asia-pacific/cambodia/shell-scam-journey-through-cambodias-empty-crime-compounds",
+   "source": "rss"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Briefing to UN Security Council: Update on the Situation in South Sudan",
+   "type": "Speech/Briefing",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/spc/africa/south-sudan/briefing-un-security-council-update-situation-south-sudan",
+   "source": "rss"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It",
+   "type": "Op-ed",
+   "topic": "إسرائيل/فلسطين",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/opd/middle-east-north-africa/israelpalestine/palestinian-voters-gave-eisenkot-chance-govern-he-should-take-it",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "On Our Radar",
+   "type": "On Our Radar (special coverage)",
+   "topic": "رصد عالمي دوري",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/sco/global/our-radar",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "The UAE in Sudan",
+   "type": "Podcast",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/pod/africa/sudan/uae-sudan",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "The View from Eritrea",
+   "type": "Podcast",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "October Trends and November Alerts 2026",
+   "type": "CrisisWatch",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "CrisisWatch 2026 – October Trends and November Alerts North East Asia",
+   "type": "CrisisWatch",
+   "topic": "رصد عالمي دوري",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR09XRGVLeEh2aTFOQjFxZHBjYlloSjVFclVCakdnRVJTbUVaVXlYYmJIMW5lejlWYjVSNWRmclhvbks0Mld3MmIwVlphWjNUa1JNc0Rvc2JTR1JaMGhXdDVDODNBVlQ3N2t5SVYybW9QSmIwT0x6Rm80QmxES0l2cmZtUmMwaURkaEhTSDREcXVUdEp4aWtqZQ?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "After Serbia’s Election, Foreign Policy Takes a Back Seat, and That’s OK",
+   "type": "Analyst's Notebook",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/anb/europe/serbia/after-serbias-election-foreign-policy-takes-back-seat-and-thats-ok",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Don’t Go Backward on China Policy",
+   "type": "Op-ed",
+   "topic": "آسيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "A Political Shake-up in Serbia, Business as Usual in Bosnia?",
+   "type": "Podcast",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/pod/europe/serbia/political-shake-serbia-business-usual-bosnia",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Central African Republic: Containing the Fallout from Sudan’s War",
+   "type": "Report",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Centrafrique : contenir les effets de la guerre au Soudan",
+   "type": "Report",
+   "topic": "أفريقيا",
+   "language": "fr",
+   "url": "https://www.crisisgroup.org/fr/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "How the War in Iran Could Escalate",
+   "type": "Op-ed",
+   "topic": "إيران/الخليج",
+   "language": "en",
+   "url": "https://www.crisisgroup.org/opd/middle-east-north-africa/iran/how-war-iran-could-escalate",
+   "source": "rss"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
+   "type": "غير متاح",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalBocTVBNy14bVNpVHpEZXdZM0NXUC1lNUlWZ2k3aDNacGZfWEJySXhIZWdLU2ZEVGF6eU5jNDhNUml2eVRMbDlWd2UxeXh2NnZ4TGpVNS04UFM1ODMwYWRiR1lDTU1meHFZVEk5dUozbjd5Y0Y5SEdxVHp2LXBiTWx6Wm45UXRBSUlKTC00N2lFOGhUS0gwX3NmdkZObTJXY3Q1ZU45aVYtLUVWcF9oZGtOR0ppLWEwWlJwWE1rcU9kbC1GbGlB?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "A Trigger in Jammu and Kashmir: Militant Violence under Indian Central Rule",
+   "type": "غير متاح",
+   "topic": "آسيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSzZENUdYR2RVZVBBaGxNQTVhWnd6X3QxSVVxZXFMaVJSVVdXNEhmUldSMUhBTzQxT1V5LVZFTzdKR0pDcW5PTk1DU3VnYW4wa09IS29YTl9BbXpranVjZTdWTEJacTdqQ2dhVGNIS1JRdXF2aC1VYlhJaVFaZEJXTXFCSDczT3VVdE5jclpiWGFUU3MxaDFwSVVvRlBVVHlWdGVNQjV3M19CMk81clZkSmw0ZHFQTEJ1OEVSTk5EQmpJYzRPb1dxaU16V1lXdw?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Will Trump Help Putin Win in Ukraine?",
+   "type": "غير متاح",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmx6S2RrT2RBTkl4QWg4UXlyU3laNm5yaFhETEpJQkhpZTlLVkg0Q0RPZi11SElpekZzVG1PdnBpOHlPVlFNdWVNNzdmd3hzYzNTUGdKQXM0Y1FpendCR29VamZ1U1hkcWRuS2hCRk1mM3BRdDVPMXM5dkQ1TWVYLXc1TVN4b2s?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "كيف يمكن للقطيعة بين الجزائر والإمارات أن تهزّ استقرار المنطقة؟",
+   "type": "غير متاح",
+   "topic": "أفريقيا",
+   "language": "ar",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEF2NlRaWGx0anFKZVVFdEhkQk9GbWgyYVAtTTZjNlUxM212akFGcmpCdTRxV3ktOVhGN2JUODFmTFF1ZFhLMlcxVDNBVXptYS1zcnpiRWUwNGY5LTIxX3YwWGcxTUt1QTJBVi01TWNSQ3FXTndqaFphM3psSFFmOFlPZVRSbk44SEZVQkhKOVBmLUVkbEpxSVhzV3dhSzRFNVhyVlN3TUpEY0ZNUGpNam1uQkUyQkhNX3Q3b2lraUY0a3p5bmxOSUU4VQ?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Zeinab Badawi: Sudan’s Forgotten Humanitarian Crisis",
+   "type": "غير متاح",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczFvUldQOWRIMnVoaUtlU0JfNllEcVQtR1JLbVRVQUEtM1VUREQteHhGZFppMnNGOC1CZkNCUTd1Wm94cVdlY0l0WEFVUmI2VGhNOUhteGk0T1I0bXNMMlI2YnVtakUxU200RWNxdS0zRUlqalVoT0RqVzJBZF9QWXhHLVA1TXJZMTRVSTNTM29Qc0h1cWpzd2VYRQ?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "A Fateful Choice: Will This Election Change Israel?",
+   "type": "غير متاح",
+   "topic": "إسرائيل/فلسطين",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjN2Q3BEYXJ3QlFZdEdscEZMUXgxT3NoV20wS3lhOXBEZkR2dWpNc0l6Y0ZuSGc2NTFaRnFtR3JGWFlackE1NGFsZFFyUTh6eXpKS1NLei1sSjF2WTg4bVlXRHNySDhtZVFrVUJjNEc1ODJyYTJ3bHMyd2pSUlpGQ1JwUmt2VGthLTdMWHp2VUwzYjdJNENFVmhBaWtyTmY3UFhHeWN4aFJTR1lUN19DWWdIejg3UQ?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Multiplying Crises, Fraying Consensus at the 2026 UN General Assembly",
+   "type": "غير متاح",
+   "topic": "الأمم المتحدة والتعددية",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU2l3TXU4RDg0X1dYbzV1SGliaFVZZnctNjNDRi1FWkxIRWlKbUlaVndfemg3TEpIb182SmVCcmdtXzdadkdQMWVST3BUeDV1WWVsMHk1Zzc4WWcta1RvcloxUEtWWFNicUthaVlOUWJzRnA3TnNtT215QmRDX05RaF9WdlBfdw?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "The Yemen War, Saudi-Iran relations and Another Escalation in the Gulf",
+   "type": "Podcast (استنتاج من العنوان)",
+   "topic": "اليمن/البحر الأحمر",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelpleFhCWFFmSTNGSzNCOFR2Z3QyZXNha0VhSVotZXN1dlFIMm5zcWwyalpjd1R1R0NiWHVFY2ZqdGxqOTJZeW1FSkFCNnhBbVFvMVVRbW5qc1hyRXBXMWxUU1RNUTZHTjBtdXNnOE5rOTYwUHlSMjhBWC12YmFSSjY0R1d0WEpGZW0zS1pnSTFpaVBwbFZjNXBpdkRGX2RJRWVscnVna0VzU1V0cFpPUjlneF9QMEpnTnkxYld3?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "How War is Reshaping Iran’s “Axis of Resistance”",
+   "type": "غير متاح",
+   "topic": "إيران/الخليج",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3h1NUkwM1VnR3lRQzV2WnVhVm52RnotSURwRVMxVUFucDVZeTNXRDNZczNaNGFsSlFvcmUtSmNrbFYtSGhBQTBXU3V6cFg0cEszUnVzZ1BWOW9TNGtBZkxWRjlQeDNBRjVSQ2RMLTF6QTNTVVFraUh5ZVZ3NVEzMzJ5NV9qbHhoWEhhclpGMVd6VUFzVkpNdE5ldGtxbDlNa0ZN?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Toward Lasting Stability in Lebanon",
+   "type": "غير متاح",
+   "topic": "المشرق والعراق",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbkhldFQtTGE3TWV6RndQbmwteW1WRzZkWmJWRWZzYkVLQTlmRlZ3SlVseGFtY2I1Z05QaGNWZ2FHQWV4cVJybzFxdFhYdWFraTc3QW1CVlZuV3ZkSlI4Q09kRXQ2b0xaOWhqMlhGQ05KaklyaFcwYXBaaFRoQTAwUTlVVlZCTFk5cVJVcWxlWnVab3duV0lmdkdUcmxuSVBLMDQ2c25ScmItUUt1QllN?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Adapting EU Foreign Policy to a World of Recurring Crises",
+   "type": "غير متاح",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEtTWDNJWENMLU02TERoZjlQN0tlVnBfNW5SUFhoQWV6U2VkS0FaZWhjdlZJbVotS25ibENlSVpldUJtQUp0b0ZjQ2ZUSmpQTllBYTZKOGRtVWoxOUlIZ2xQY21vQVZpVWx6dFBPVWtKY2I1bzE1bDZhYlhsUHB2Mmd5S3RnelVJMlFnQUUyUzBjd19aaHFaWEJ3aWU1N19RTXpJSk5vV0ZIOXlIQWlFaUJDa01lblB4N0YtZVFnUnM?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Containing the New War in Northern Ethiopia",
+   "type": "غير متاح",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0lIQzVzRzdLVUNrbXJEZVp6c3RiekFLQ2xYWl8zNUl4YTRNQXowX1J2V0I3ZXNIZEVpaEJkLTNIVEphZG5HUXlTem1CYjhJT3EyRThOM1hzeU9lY3BzTEdPVG9ZOUlvc3c4VHNEWGtpR0ZNNUtncEJmMEtNUlpIcE5DT1RzbEVzS19KQVJoU1hRRTlaZy1wSW1OSGVIeVZrbmVoY3o1N0FkbFJ5X0FZM3RzNA?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "EU Watch List 2026 – Autumn Edition",
+   "type": "غير متاح",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQenlyekV1WVhJLUhjRU8xaGFKWXdaUWpzZjcyU01tclpacWhEV3ZGV0NLdEJQeFR2MW05bmhON0FrRUlscVh2cnhfWVRhWmtSenROS1JBcEhYU09wY3lYaDNIaTQyS1NPeDBSMHlZTFRIRzVBN3lPanJqaTJ5MVRJLUJJWGNRR3BGZ1BhRFdnVFk?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Tamping Down Tensions between Cambodia and Thailand",
+   "type": "غير متاح",
+   "topic": "آسيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTFmVGlXVGsycjZ2NjVCOTdEMEcya1RJMU1HcHp2ZzJ6V1F3QTR0SlV2NUI5cENuaG1mbHdMNkN3dHU4RVBKNWY0VUpUSUpITTNEVFpoZDdOS0xxQXZlMWNzaTUtZnZsY1ZlQURaRk1ORm5aeFZDYktuc1hWc1NuX1BaX05yaFBkX2dZRXE3MWFBcC1Wd3ZnWU1NSnBvRUZKQzBjRDdrOW1veWdrUE1FZ3h3Tzl3ODljWTFOTFB5NXU?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Curbing Criminal Economies in the Amazon Basin",
+   "type": "غير متاح",
+   "topic": "أمريكا اللاتينية",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUwwNjBpQzNIRU5VbkpmYXU3WXFHUE1xdHRCd250RFRNNkhlMWJRdEthbWNlaEp5Vi02dUVzUnkzQktNYllYT3NTT2lsX2FKaHVHejdNR0RDWXdtbTFXU3pqaTFiWm1JNmpkd2pEYWVucVF5ZGRqYnB4TXNiRlhSS2tqWGFQRzlCNng5VHpRNHBLa1UtUENPNDlDenVETWtULWc?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Israel’s Elections: What’s at Stake?",
+   "type": "غير متاح",
+   "topic": "إسرائيل/فلسطين",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTi1WYkdqUHlsTFFTMmw1RklmY3RrcTV2QzVxXzBiV1c0cU9OMlFPTllLVzBTWEY3TVI0Zlp6WC02LUhvQ0JjNTYxejRNOTQySU9zTjF0bG5uQUxhWi1SWWNsZmhfbEtCWFllZWhwV2JtVkNqaFV2VGZEMER2c1p0OE41Sk5JMmdFeTVHVU42bGJ6Mmo0b3R3U1JvUzk0U1U0OTFPMA?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Ukraine under Strain: The Choices Facing the EU",
+   "type": "غير متاح",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmlLZ2lEVzVHMXlSN1JRWExyZ3BkRFVFbVVmRGhmUzBiUlpMY0UzeVRXR0M2MWo0RGdDM2tfMGJGTXpsUEFVaXBnNXlkODFnVjdUWlJUVThoR3JCN3pobHJzOVF2cjdBaFFnMkFZX2RaTHRmMUZCTXNhNU5TbmIyVl8xbkl4RjRGRnNCMzhFaFgxTjBNTHdRTWlFTDZvZzJQeFpzTWhaYXdDQ28?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "الانتخابات الإسرائيلية: ما الذي سيكون على المحك؟",
+   "type": "غير متاح",
+   "topic": "إسرائيل/فلسطين",
+   "language": "ar",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlN0QndkWnRZSDUtblU0c1NkaHNTWkFRT1ZxV1F2b1luYVNFSFh0LVEtZHBzTWx2WUM0WTNMSTJsZmJRRXVJQjFnNXN4MVloNkNhdmpmdTNTOXBaclZXdWlzdnJwVEZIN1Nnd2pDQXZzc2s2dVZUdjg0elY5MWY4UkkzY3J1clo5MGJ4VnEwZUQ5c1JYQVhMNi16UHdsSDJyMmlPdlV3VVI?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Jade | Fighting for Profits From the ‘Stone of Heaven’",
+   "type": "غير متاح",
+   "topic": "آسيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEFlSlM5N1NtUkdnc0FDQXllbzkyM3FSNlFmM0FuV016NUhXaXZzcGJsQkFSdWswNTFJZzFiU1Z3UXItVDBBemFxQlZ1YXJmQ3ppUmtPMmpHN2o2TXBVeWZrQ0kzZFhiZXNyUVY4VUVrU2hLLVpEdk9nUU1PNHBYSjZoWQ?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Yemen’s War Moves toward Zero-sum Confrontation",
+   "type": "غير متاح",
+   "topic": "اليمن/البحر الأحمر",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDF0VEQ0c1doeXJxQWlwMGNzUm1rbVM3NG1DbzZWVzU1LW9qOFRZWHkyZzZRSXRWdWFVVEp0RFVLeDU1ZnhBREUwRDdjMXRmQmhPa0poc3Z3bnhoVlducVczVzRQUnlMTC1uVVpvd1l5RG5BUGM1dXRXYi1LdC0xcEpDODF6czZvZmVsM1c1ZEhGc3ZGYm9WTG5ycmxZWk1yTWlZSUFwZzRnUUtCWWlPYjZ0d0FrUEU4SGY3NGktRHpzOXBKbVE?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Ex-President Kabila Leads Rebel Cause as Conflict Smoulders in Eastern DRC",
+   "type": "غير متاح",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQazc1RGVmaFBHTXpZN3JOVlZ3dmlmZ1pFbTNCTnZINzEtb0Qyd1libGtaMmF5Y2lPMldVX3FsdXo1T2ltblN1aXV5Z1pIdlZwdldaOUl6ckFxUnFvMm0yWVctek95c3hXS0V4cEQ5dVcwYWtVVjA1dzNQMjlodFJteDFCbENfSGpQYnBYOEEzblRucWo5eUx2RUF3QW5GQ0lRUFZER1J1LW5KbWRSNU9xYmc3azVtMFh1bXZlNGFmSTZpLU9PT19IRW5EbUtMZG0xVC1pa0lpQQ?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "Ethiopia and Eritrea, On the Cusp of War",
+   "type": "Podcast (استنتاج من العنوان)",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUNsck5OSHdVbmI2Njg0WGxrdnBKRGlZRzdXbE1pRTByVUVoekdpOG5HTEdqcW9DMlFmekcyWFhQZUpIQ084R0JyOWJsRkNPQlhDZG9IOTVwMnVJYmQ4OGwtaHRycjFOaVN0OGE5MUl6U0VIWVVlOXNULVJfZ3UzYWVaOA?oc=5",
+   "source": "google-news-index"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "The Changing Role of Nuclear Weapons in Europe",
+   "type": "غير متاح",
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGNGRzhYR1RmdDZBdVdNZnY4WmcteUxKcTQ5R2lzaDVSVE1vbTFlb2hKN3RFWEJRZWJhWEtOOXlkSFFEZ05mSFFWQ2JBVFgzc2dzX2NGc2lYVHB0Y2NjRHkzMnF2SDlycXlIZlV4bmpXTmhGWm54SzJLMldjb3gxSkxWRjBsVk52V3AwWEU4WFBFWE5UTTFMRHRwTHl2QTU4VlhhOVJvaG9pYnJ1YUhaQjNqYzBYQQ?oc=5",
+   "source": "google-news-index"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 0,
+  "reports": 6,
+  "analysis": 4,
+  "news": 1,
+  "video": 2,
+  "infographic": 1,
+  "podcast": 12,
+  "events": 0,
+  "other": 66
+ },
+ "type_breakdown_note": "النوع مؤكد لعناصر الخلاصة الـ16 فقط (من بادئة المسار) ولـCrisisWatch؛ بعض حلقات البودكاست استُنتجت من العنوان؛ بقية عناصر فهرس Google News بلا وسم نوع = other (تشمل Reports/Briefings/Q&A/Commentary/Statements غير مميَّزة). reports يشمل Report + CrisisWatch؛ infographic = Photo essay/Visual explainer؛ news = إحاطة لمجلس الأمن.",
+ "top_topics": [
+  {
+   "topic": "أفريقيا",
+   "count": 25
+  },
+  {
+   "topic": "آسيا",
+   "count": 10
+  },
+  {
+   "topic": "أوروبا/روسيا/أوكرانيا",
+   "count": 9
+  },
+  {
+   "topic": "اليمن/البحر الأحمر",
+   "count": 9
+  },
+  {
+   "topic": "إسرائيل/فلسطين",
+   "count": 8
+  },
+  {
+   "topic": "الأمم المتحدة والتعددية",
+   "count": 7
+  },
+  {
+   "topic": "المشرق والعراق",
+   "count": 7
+  },
+  {
+   "topic": "أخرى",
+   "count": 6
+  },
+  {
+   "topic": "رصد عالمي دوري",
+   "count": 4
+  },
+  {
+   "topic": "إيران/الخليج",
+   "count": 3
+  },
+  {
+   "topic": "أمريكا اللاتينية",
+   "count": 2
+  },
+  {
+   "topic": "السياسة الأمريكية",
+   "count": 2
+  }
+ ],
+ "top_topics_note": "تصنيف آلي بالكلمات المفتاحية في العناوين (تقدير)",
+ "languages": [
+  "en",
+  "ar",
+  "fr"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/@crisisgroup",
+   "posts_30d": 6,
+   "posts_90d": 14,
+   "typical_views": "في نافذة 90 يوماً: من 121 إلى 2,340 مشاهدة؛ الوسيط نحو 700 (رُصد 2026-11-16)",
+   "note": "عدّ فعلي من خلاصة القناة (آخر 15 عنصراً تعود إلى 2026-07-28 فتغطي النافذة كاملة، وتشمل Shorts). فيديوهان عن اليمن: 1,681 و1,355 مشاهدة."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn / Instagram / Bluesky / WhatsApp",
+   "url": "",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوبة أو لم تُفحص"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-09-02",
+   "url": "https://www.youtube.com/watch?v=XXiHyIJCcaI",
+   "summary": "Gaza: A Ceasefire Going Nowhere",
+   "likes": "41",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2340",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-04",
+   "url": "https://www.youtube.com/watch?v=qNd0rH-Pf-E",
+   "summary": "How Drones are Changing Colombia’s Conflict",
+   "likes": "47",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2251",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-16",
+   "url": "https://www.youtube.com/watch?v=sBFN7EfineM",
+   "summary": "Yemen’s war has entered a dangerous new phase.",
+   "likes": "24",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1681",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-10",
+   "url": "https://www.youtube.com/watch?v=KVoIYsW4Qdo",
+   "summary": "#drones in Colombia's conflict",
+   "likes": "21",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1384",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-23",
+   "url": "https://www.youtube.com/watch?v=7y1oqhuT3g4",
+   "summary": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned?",
+   "likes": "18",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1355",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-20",
+   "url": "https://www.youtube.com/watch?v=9Ztp31Kke4s",
+   "summary": "Why diplomacy still matters at the #unitednations",
+   "likes": "15",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1193",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-24",
+   "url": "https://www.youtube.com/watch?v=F8SwYxL-vlM",
+   "summary": "Iraq’s Post-Coalition Test",
+   "likes": "3",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "810",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-21",
+   "url": "https://www.youtube.com/watch?v=VyQuAUw9Cmg",
+   "summary": "A Fateful Choice: Will This Election Change Israel?",
+   "likes": "7",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "665",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-24",
+   "url": "https://www.youtube.com/watch?v=ACnDvyQGjq4",
+   "summary": "Iraq’s Post-coalition Test",
+   "likes": "10",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "600",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=4HvFa1jLqBU",
+   "summary": "Comfort Ero: Causes of Peace in an Era of Hard Power",
+   "likes": "16",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "562",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-21",
+   "url": "https://www.youtube.com/watch?v=9HlhqmZlQm8",
+   "summary": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis",
+   "likes": "14",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "354",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-07-28",
+   "url": "https://www.youtube.com/watch?v=JPM5vy8LMz0",
+   "summary": "Sudan’s War Risks Fracturing Eastern Chad",
+   "likes": "7",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "254",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=T2n_OUd_e8s",
+   "summary": "Frank Giustra on Why Business Needs Peace",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "151",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=sieN3aqCMb0",
+   "summary": "Mo Ibrahim: Sudan Unravelling",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "141",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-08-28",
+   "url": "https://www.youtube.com/watch?v=othYyvYNTkw",
+   "summary": "Six Months of the U.S.-Israeli War with Iran",
+   "likes": "5",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "121",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "data_type": "actual",
+   "in_window": true
+  }
+ ],
+ "headline_style": "عناوين قصيرة وصفية-تحذيرية بصيغة الفعل/المصدر في التقارير («Containing the Fallout from Sudan’s War»، «Closing the New War Front in Yemen»، «Curbing Reprisals in Syria»)، وأسئلة في Q&A والبودكاست («Will Trump Help Putin Win in Ukraine?»)، وعناوين رأي آمرة في الـOp-ed («Don’t Go Backward on China Policy»). العناوين العربية ترجمة مباشرة للعنوان الإنجليزي.",
+ "design_style": "قالب موحّد: ترقيم التقارير (Report N°323)، شريط جانبي للتنقل الإقليمي، أزرار مشاركة X/Facebook/LinkedIn/Bluesky مع UTM في كل مادة، فيديو يوتيوب مضمَّن، سلاسل بصرية (Photo essay، MAPPING CONFLICT، سلسلة المعادن Jade/Rare Earths بعنوان بفاصل «|»). الوصف مبني على HTML الخلاصة وعناوين يوتيوب؛ لم يُمكن فتح الصفحات لمعاينة الخرائط والرسوم.",
+ "promotion_tactics": [
+  {
+   "tactic": "CrisisWatch شهري (Trends & Alerts) كمنتج دوري ثابت",
+   "evidence_url": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026"
+  },
+  {
+   "tactic": "«On Our Radar» موجز أسبوعي",
+   "evidence_url": "https://www.crisisgroup.org/sco/global/our-radar"
+  },
+  {
+   "tactic": "بودكاستان أسبوعيان (Hold Your Fire!، The Horn) مع روابط Apple/Spotify",
+   "evidence_url": "https://www.crisisgroup.org/pod/africa/sudan/uae-sudan"
+  },
+  {
+   "tactic": "تقرير واحد بأكثر من لغة (الإنجليزية + الفرنسية/العربية) بالعنوان نفسه",
+   "evidence_url": "https://www.crisisgroup.org/fr/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan"
+  },
+  {
+   "tactic": "Analyst’s Notebook وOp-ed كتعليق سريع من المحللين",
+   "evidence_url": "https://www.crisisgroup.org/anb/europe/serbia/after-serbias-election-foreign-policy-takes-back-seat-and-thats-ok"
+  },
+  {
+   "tactic": "نشر الإحاطات أمام مجلس الأمن كمواد مستقلة",
+   "evidence_url": "https://www.crisisgroup.org/spc/africa/south-sudan/briefing-un-security-council-update-situation-south-sudan"
+  },
+  {
+   "tactic": "مقالات مصوّرة ميدانية (Photo essay)",
+   "evidence_url": "https://www.crisisgroup.org/phe/asia-pacific/cambodia/shell-scam-journey-through-cambodias-empty-crime-compounds"
+  },
+  {
+   "tactic": "فيديوهات قصيرة لشخصيات معروفة وفيديو شرح مع كل تقرير رئيسي (اليمن، العراق، كولومبيا)",
+   "evidence_url": "https://www.youtube.com/watch?v=7y1oqhuT3g4"
+  },
+  {
+   "tactic": "قناة واتساب وBluesky وأزرار مشاركة بـUTM",
+   "evidence_url": "https://www.crisisgroup.org/rss.xml"
+  }
+ ],
+ "strengths": [
+  "منتجات دورية ثابتة (CrisisWatch، On Our Radar، بودكاست أسبوعي) تخلق عادة متابعة",
+  "تغطية قوية ومتواصلة لليمن والبحر الأحمر (9 عنصراً مرصوداً في 90 يوماً) بصيغ متعددة: Q&A، تقرير/إحاطة، بودكاست، فيديو",
+  "نشر عربي لمواد الشرق الأوسط",
+  "ربط البحث بالمناصرة (إحاطات مجلس الأمن، EU Watch List)",
+  "تتبّع UTM في أزرار المشاركة"
+ ],
+ "weaknesses": [
+  "مشاهدات يوتيوب منخفضة (وسيط نحو 700) وإيقاع فيديو متقطع (14 في 90 يوماً)",
+  "الخلاصة العامة 10 عناصر فقط والخلاصات اللغوية محجوبة",
+  "المحتوى العربي المرصود قليل (7 عناصر) ومترجم لا أصلي",
+  "الموقع يحجب القراءة الآلية"
+ ],
+ "opportunities_for_mokha": [
+  "«رصد اليمن» شهري ثابت على غرار CrisisWatch (اتجاهات الشهر وتنبيهات الشهر التالي) — ميزة محلية لا تملكها المراكز الدولية",
+  "موجز أسبوعي قصير «على رادارنا» للواتساب/تيليغرام",
+  "فيديو شرح من 2–3 دقائق مع كل ورقة رئيسية (فيديوهات اليمن لدى ICG هي من الأعلى مشاهدة عندها)",
+  "نشر نسخة إنجليزية موجزة بالعنوان نفسه لكل ورقة",
+  "إضافة UTM لروابط المشاركة لقياس مصدر الزيارات",
+  "صيغة سؤال وجواب عند كل تطور ميداني في اليمن"
+ ],
+ "limitations": [
+  "crisisgroup.org يعيد 403 (Cloudflare) لكل الصفحات وخريطة الموقع وخلاصات /ar /fr /es؛ لم تُتجاوز الحماية",
+  "أعداد 30/90 يوماً حدّ أدنى: 16 عنصراً مباشراً من RSS والباقي من فهرس Google News (تواريخ فهرسة، دون روابط أصلية)",
+  "أنواع معظم العناصر غير متاحة",
+  "لا أعداد متابعين من المنصات عدا يوتيوب؛ رقم LinkedIn طرف ثالث غير مؤرخ",
+  "لا دليل على نمو المتابعين",
+  "X/Facebook/LinkedIn محجوبة",
+  "ReliefWeb API يتطلب appname معتمداً فلم يُستخدم؛ web.archive.org غير متاح"
+ ],
+ "sources": [
+  {
+   "url": "https://www.crisisgroup.org/rss.xml",
+   "used_for": "آخر 10 مواد + روابط الحسابات (2026-11-13)"
+  },
+  {
+   "url": "https://www.crisisgroup.org/rss",
+   "used_for": "10 مواد أخرى (2026-11-16)"
+  },
+  {
+   "url": "https://news.google.com/rss/search?q=site:crisisgroup.org+after:2026-08-15+before:2026-08-31&hl=en-US&gl=US&ceid=US:en",
+   "used_for": "فهرس طرف ثالث (7 شرائح + استعلام عربي، 2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/@crisisgroup/videos",
+   "used_for": "المشتركون (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCj015l-Gu66iB80-X_sr9tw",
+   "used_for": "فيديوهات النافذة ومشاهداتها"
+  },
+  {
+   "url": "https://app.icebreaker.xyz/companies/www.linkedin.com%2Fcompany%2Fcrisis-group",
+   "used_for": "رقم LinkedIn طرف ثالث (نتيجة بحث)"
+  }
+ ]
+}

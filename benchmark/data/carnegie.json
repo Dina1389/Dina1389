@@ -1,0 +1,967 @@
+{
+ "center": "Carnegie Endowment for International Peace (مؤسسة كارنيغي للسلام الدولي) + Malcolm H. Kerr Carnegie Middle East Center",
+ "website": "https://carnegieendowment.org",
+ "accessed": "2026-11-13 (خرائط الموقع وصفحات المواد) و2026-11-16 (يوتيوب، الصفحة الرئيسية، البحث)",
+ "accounts": {
+  "x": {
+   "url": "https://x.com/CarnegieEndow",
+   "verified_via": "https://carnegieendowment.org/ (تذييل الصفحة الرئيسية)"
+  },
+  "facebook": {
+   "url": "https://facebook.com/carnegieendowment",
+   "verified_via": "https://carnegieendowment.org/"
+  },
+  "linkedin": {
+   "url": "https://linkedin.com/company/carnegieendowment",
+   "verified_via": "https://carnegieendowment.org/"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://youtube.com/CarnegieEndowment",
+    "verified_via": "https://carnegieendowment.org/"
+   },
+   {
+    "platform": "Instagram",
+    "url": "https://instagram.com/carnegieendow",
+    "verified_via": "https://carnegieendowment.org/"
+   },
+   {
+    "platform": "X (مركز الشرق الأوسط)",
+    "url": "https://x.com/CarnegieMEC",
+    "verified_via": "https://carnegieendowment.org/middle-east"
+   },
+   {
+    "platform": "Facebook (مركز الشرق الأوسط)",
+    "url": "https://facebook.com/carnegiemec",
+    "verified_via": "https://carnegieendowment.org/middle-east"
+   },
+   {
+    "platform": "LinkedIn (مركز الشرق الأوسط)",
+    "url": "https://linkedin.com/company/carnegie-middle-east-center",
+    "verified_via": "https://carnegieendowment.org/middle-east"
+   },
+   {
+    "platform": "Instagram (مركز الشرق الأوسط)",
+    "url": "https://instagram.com/carnegiemiddleeast",
+    "verified_via": "https://carnegieendowment.org/middle-east"
+   },
+   {
+    "platform": "YouTube (مركز الشرق الأوسط)",
+    "url": "https://youtube.com/CarnegieMENA",
+    "verified_via": "https://carnegieendowment.org/middle-east"
+   },
+   {
+    "platform": "WhatsApp Channel (مركز الشرق الأوسط)",
+    "url": "https://www.whatsapp.com/channel/channel/0029Vb8gM9y0lwgkZ428jD0T",
+    "verified_via": "https://carnegieendowment.org/middle-east (الرابط كما ورد في الصفحة، وفيه تكرار /channel/)"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube (@CarnegieEndowment)",
+   "value": 87700,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/@CarnegieEndowment/videos",
+   "type": "actual-on-platform",
+   "note": "الرقم المعروض مقرَّب: 87.7K مشترك، ونحو 2.5K فيديو"
+  },
+  {
+   "platform": "LinkedIn (carnegieendowment)",
+   "value": 93580,
+   "figure_date": "غير متاح (صفحة تجميع غير مؤرخة)",
+   "source_url": "https://icebreaker-cards-icebreaker-labs.vercel.app/companies/www.linkedin.com%2Fcompany%2Fcarnegieendowment",
+   "type": "search-snippet",
+   "note": "رقم من طرف ثالث ظهر في ملخص نتيجة بحث؛ لم يُتحقق منه على المنصة"
+  },
+  {
+   "platform": "X / Facebook / Instagram",
+   "value": null,
+   "figure_date": "",
+   "source_url": "",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 128,
+   "by_language": {
+    "en": 102,
+    "ru": 20,
+    "ar": 6
+   }
+  },
+  "d90": {
+   "total": 345,
+   "by_language": {
+    "en": 261,
+    "ru": 64,
+    "ar": 20
+   }
+  },
+  "method": "عدّ فعلي قابل للإعادة: تنزيل sitemap.xml وكل خرائط posts/research/events/podcastEpisodes/videos/features؛ أُخذت كل الروابط التي تحمل /2026/08–11/ في المسار (مع النسخ اللغوية hreflang ar/ru كعناصر مستقلة) وحلقات البودكاست ذات lastmod ≥ 2026-08-16 (376 رابطاً)، ثم فُتحت كل صفحة واستُخرج تاريخ النشر من article:published_time أو سطر «Published on» أو تاريخ انعقاد الفعالية. استُبعدت صفحتان عربيتان تعيدان «Page Not Found» وفعالية قديمة. 18 عنصراً (روسية/عربية بلا تاريخ ظاهر) أُرّخت بـlastmod وهو تقريب. الترجمات تُحسب كعناصر منفصلة لكل لغة. الفعاليات مؤرخة بتاريخ الانعقاد. لا تشمل الأرقام النشرات البريدية.",
+  "source_urls": [
+   "https://carnegieendowment.org/sitemap.xml",
+   "https://carnegieendowment.org/sitemaps/posts-0.xml",
+   "https://carnegieendowment.org/sitemaps/research-0.xml",
+   "https://carnegieendowment.org/sitemaps/events-0.xml",
+   "https://carnegieendowment.org/sitemaps/podcastEpisodes-0.xml",
+   "https://carnegieendowment.org/sitemaps/videos-0.xml",
+   "https://carnegieendowment.org/sitemaps/features-0.xml"
+  ],
+  "by_series_90d": {
+   "Carnegie Politika": 89,
+   "Article (Research section)": 52,
+   "Podcast episode": 44,
+   "Emissary": 34,
+   "Event": 31,
+   "Strategic Europe": 23,
+   "Paper": 18,
+   "ديوان": 16,
+   "Diwan": 12,
+   "Video": 11,
+   "commentary": 6,
+   "Sada": 2,
+   "China Financial Markets": 2,
+   "testimony / Testimony": 1,
+   "Paper (ar)": 1,
+   "Article (ar)": 1,
+   "Book": 1,
+   "Feature (interactive)": 1
+  },
+  "yemen_red_sea_gulf_90d": {
+   "count": 13,
+   "items": [
+    {
+     "date": "2026-08-25",
+     "title": "قراءة في اتفاقية مكة",
+     "type": "commentary / ديوان",
+     "language": "ar",
+     "url": "https://carnegieendowment.org/ar/middle-east/diwan/2026/08/the-mecca-agreement-unpacked"
+    },
+    {
+     "date": "2026-09-02",
+     "title": "Less of America is More",
+     "type": "commentary / Diwan",
+     "language": "en",
+     "url": "https://carnegieendowment.org/middle-east/diwan/2026/09/less-of-america-is-more"
+    },
+    {
+     "date": "2026-09-09",
+     "title": "Is the U.S.-Saudi Nuclear Deal Moving From the Gold Standard to a Gilded Standard?",
+     "type": "commentary / Emissary",
+     "language": "en",
+     "url": "https://carnegieendowment.org/emissary/2026/09/saudi-nuclear-deal-us-gold-standard-congress"
+    },
+    {
+     "date": "2026-09-22",
+     "title": "Middle Power Populism and the Future of International Order",
+     "type": "Event",
+     "language": "en",
+     "url": "https://carnegieendowment.org/events/2026/09/middle-power-populism-and-the-future-of-international-order"
+    },
+    {
+     "date": "2026-09-23",
+     "title": "The Impacts of the Houthis’ Advance Could Extend Well Beyond Saudi Arabia",
+     "type": "questionAnswer / Emissary",
+     "language": "en",
+     "url": "https://carnegieendowment.org/emissary/2026/09/houthis-bab-al-mandeb-impacts-saudi-arabia-somaliland"
+    },
+    {
+     "date": "2026-10-14",
+     "title": "اليمن أمام مفترق طرق: ما الذي تغير؟",
+     "type": "Event",
+     "language": "ar",
+     "url": "https://carnegieendowment.org/ar/middle-east/events/2026/10/alymn-amam-mftrq-trq-ma-althy-tghyr"
+    },
+    {
+     "date": "2026-10-15",
+     "title": "Yemen at a Crossroads: What Has Changed?",
+     "type": "Event",
+     "language": "en",
+     "url": "https://carnegieendowment.org/middle-east/events/2026/10/alymn-amam-mftrq-trq-ma-althy-tghyr"
+    },
+    {
+     "date": "2026-10-19",
+     "title": "The Mecca Pact and the Limits of American Guarantees",
+     "type": "questionAnswer / Emissary",
+     "language": "en",
+     "url": "https://carnegieendowment.org/emissary/2026/10/mecca-pact-us-security-guarantees"
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Networks, Power, and Packet-switching: Understanding the Houthis’ Global Reach",
+     "type": "Article (Research section)",
+     "language": "en",
+     "url": "https://carnegieendowment.org/research/2026/10/networks-power-and-packet-switching-understanding-the-houthis-global-reach"
+    },
+    {
+     "date": "2026-10-26",
+     "title": "Time for Saudi Clarity on Normalization with Israel",
+     "type": "Paper",
+     "language": "en",
+     "url": "https://carnegieendowment.org/research/2026/10/time-for-saudi-clarity-on-normalization-with-israel"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "Israel’s Election Had No Clear Winner. What Comes Next for the Region?",
+     "type": "commentary / Emissary",
+     "language": "en",
+     "url": "https://carnegieendowment.org/emissary/2026/10/israel-election-no-winner-what-next-middle-east"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "The Gulf States Are Looking for an Exit in Iran",
+     "type": "commentary / Emissary",
+     "language": "en",
+     "url": "https://carnegieendowment.org/emissary/2026/10/gulf-states-exit-iran-gcc-cooperation"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "Life After Subsidies: The Hidden Struggles of Women Entrepreneurs in Yemen",
+     "type": "commentary / Sada",
+     "language": "en",
+     "url": "https://carnegieendowment.org/sada/2026/10/life-after-subsidies-the-hidden-struggles-of-women-entrepreneurs-in-yemen"
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-13",
+   "title": "Francis Fukuyama Still Believes “The End of History” – But AI Could Change It",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/podcasts/the-world-unpacked/francis-fukuyama-still-believes-the-end-of-history-but-ai-could-change-it"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "What the U.S. and Israeli Elections Mean for Europe",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/europe/podcasts/europe-inside-out/what-the-us-and-israeli-elections-mean-for-europe"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Taking the Pulse: Can Europe Fund Ukraine Without Russian Assets?",
+   "type": "commentary / Strategic Europe",
+   "topic": "Europe، Ukraine، EU، Foreign Policy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/europe/strategic-europe/2026/11/taking-the-pulse-can-europe-fund-ukraine-without-russian-assets"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "How Realistic Is a U.S.-Brokered Gas Deal Between Russia and the EU?",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Russia، Europe، Trade، Energy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/11/russia-europe-new-gas-deal"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Promises Made, Promises Unmet: The NPP’s Struggle to Reform Sri Lanka",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/research/2026/11/promises-made-promises-unmet-the-npps-struggle-to-reform-sri-lanka"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Will a UN Treaty on Autonomous Weapons Arrive Too Late?",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/india/research/2026/11/will-a-un-treaty-on-autonomous-weapons-arrive-too-late"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Authoritarianism in the Arab World",
+   "type": "Event",
+   "topic": "Middle East، North Africa، Political Reform، Domestic Politics",
+   "language": "en",
+   "url": "https://carnegieendowment.org/events/2026/10/authoritarianism-in-the-arab-world"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Assessing the U.S. Midterms",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/podcasts/carnegie-connects/assessing-the-us-midterms"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Are New U.S.-Russia-Ukraine Peace Talks Doomed to Fail Again?",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/podcasts/carnegie-politika-podcast/russia-us-ukraine-peace-talks"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Конт(р)акт с Родиной. Что письма российских военных рассказывают о войне",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Россия، Внутренняя политика России",
+   "language": "ru",
+   "url": "https://carnegieendowment.org/ru/russia-eurasia/politika/2026/11/russia-recruitment-letters"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "How Are Russian Banks Posting Record Profits Amid Economic Stagnation?",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Russia، Economy، Domestic Politics",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/11/russian-banks-income"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "No, A Democratic Congress Won’t Save Europe",
+   "type": "commentary / Strategic Europe",
+   "topic": "Europe، United States، EU، Foreign Policy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/europe/strategic-europe/2026/11/no-a-democratic-congress-wont-save-europe"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Безопасный Каспий. Сможет ли Россия создать зерновой хаб в Иране",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Иран، Россия، Торговля، Мировой порядок",
+   "language": "ru",
+   "url": "https://carnegieendowment.org/ru/russia-eurasia/politika/2026/11/russia-iran-new-grain-terminal"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Trust but Verify: Implementing Frontier AI Policy in California and Beyond",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/research/2026/11/trust-but-verify-implementing-frontier-ai-policy-in-california-and-beyond"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Escaping an Escalatory Spiral: Can Europe Avoid a War With Russia?",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/research/2026/11/escaping-an-escalatory-spiral-can-europe-avoid-a-war-with-russia"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "The Indian American Success Stories You Haven’t Heard",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/podcasts/grand-tamasha/the-indian-american-success-stories-you-havent-heard"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Труба мира. Нужна ли России и Европе газовая сделка от Вашингтона",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Россия، Европа، Торговля، Энергетика",
+   "language": "ru",
+   "url": "https://carnegieendowment.org/ru/russia-eurasia/politika/2026/11/russia-europe-new-gas-deal"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "The Regulatory Wild West of Starlink’s Global Expansion",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/research/2026/11/the-regulatory-wild-west-of-starlinks-global-expansion"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Cosmic Disorder: The Rise of Geopolitical Disorder and the Challenge to Global Space Governance",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/research/2026/11/cosmic-disorder-the-rise-of-geopolitical-disorder-and-the-challenge-to-global-space-governance"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Serbia Still Has a Steep Hill to Climb",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/europe/research/2026/11/serbia-still-has-a-steep-hill-to-climb"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs?",
+   "type": "commentary / Emissary",
+   "topic": "China، United States، Trade، Foreign Policy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/emissary/2026/11/midterms-tariffs-trump-trade-policy"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "От братства к претензиям. Почему поссорились Азербайджан и Турция",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Турция، Россия и Кавказ، Безопасность",
+   "language": "ru",
+   "url": "https://carnegieendowment.org/ru/russia-eurasia/politika/2026/11/turkey-azerbaijan-conflict"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Life After Subsidies: The Hidden Struggles of Women Entrepreneurs in Yemen",
+   "type": "commentary / Sada",
+   "topic": "Middle East، Yemen، Economy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/sada/2026/10/life-after-subsidies-the-hidden-struggles-of-women-entrepreneurs-in-yemen"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "By Waging War on Its Sovereignty, Putin Has United Ukraine",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Ukraine، Russia، Foreign Policy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/11/ukraine-putin-identity"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "الاقتصاد الحدودي في الأردن:  تجارة المخدّرات مستمرّة حتى في خضمّ التحوّل",
+   "type": "Article (ar)",
+   "topic": "غير متاح",
+   "language": "ar",
+   "url": "https://carnegieendowment.org/ar/middle-east/research/2026/10/jordans-border-economy-even-amid-transformation-the-drug-trade-endures"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Assessing the U.S. Midterms",
+   "type": "Event",
+   "topic": "United States، Democracy، Domestic Politics",
+   "language": "en",
+   "url": "https://carnegieendowment.org/events/2026/10/assessing-the-us-midterms"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Should America Want a Stronger Japan?",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/podcasts/pivotal-states-podcast/should-america-want-a-stronger-japan"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "How Lebanon Could Cease to Exist",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/podcasts/the-world-unpacked/how-lebanon-could-cease-to-exist"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "How a U.S.-Russia Standoff Ended a Decades-Old UN Mission in Western Sahara",
+   "type": "questionAnswer / Emissary",
+   "topic": "Southern, Eastern, and Western Africa، Morocco، Foreign Policy، Security",
+   "language": "en",
+   "url": "https://carnegieendowment.org/emissary/2026/11/minurso-western-sahara-un-peacekeeping-security-council-conflict"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "What the New Democratic Congress Can (and Can’t) Do on Foreign Policy",
+   "type": "commentary / Emissary",
+   "topic": "Southern, Eastern, and Western Africa، Europe، AI، Subnational Affairs",
+   "language": "en",
+   "url": "https://carnegieendowment.org/emissary/2026/11/democratic-congress-midterms-foreign-policy-ai-iran-russia"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "COP31 and the Future of Climate Clubs",
+   "type": "commentary / Emissary",
+   "topic": "United Nations، Climate Change",
+   "language": "en",
+   "url": "https://carnegieendowment.org/emissary/2026/11/cop31-climate-clubs-us-withdraw"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Is Russia Winning the Perception War in Germany?",
+   "type": "commentary / Strategic Europe",
+   "topic": "Europe، Russia، EU، Democracy",
+   "language": "en",
+   "url": "https://carnegieendowment.org/europe/strategic-europe/2026/11/is-russia-winning-the-perception-war-in-germany"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Не время для иллюзий. Почему Россия и Европа обречены на долгую конфронтацию",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Россия، Европа، Оборонная политика، НАТО",
+   "language": "ru",
+   "url": "https://carnegieendowment.org/ru/russia-eurasia/politika/2026/10/russia-europe-confrontation-future"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Red Sea Mirage: Why Russia Is Still Waiting on a Military Base in Sudan",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Sudan، Russia، Global Governance، Security",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/10/russia-sudan-military-base"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Energy Turmoil Puts the Gulf of Guinea Back on the Map",
+   "type": "Article (Research section)",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/research/2026/11/energy-turmoil-puts-the-gulf-of-guinea-back-on-the-map"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Bridging the Gap Between Climate Mobility Modeling and Policy Action",
+   "type": "Paper",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/research/2026/11/bridging-the-gap-between-climate-mobility-modeling-and-policy-action"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Is Europe Ready? Domestic Politics and EU Enlargement Strategy",
+   "type": "Event",
+   "topic": "Western Europe، Ukraine، Political Reform، Civil Society",
+   "language": "en",
+   "url": "https://carnegieendowment.org/europe/events/2026/10/is-europe-ready-domestic-politics-and-eu-enlargement-strategy"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Making Sense of Israel’s Election",
+   "type": "Podcast episode",
+   "topic": "غير متاح",
+   "language": "en",
+   "url": "https://carnegieendowment.org/podcasts/carnegie-connects/making-sense-of-israels-election"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Между строк отчетности. Почему российские банки богатеют, несмотря на застой в экономике",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Россия، Экономика، Внутренняя политика России",
+   "language": "ru",
+   "url": "https://carnegieendowment.org/ru/russia-eurasia/politika/2026/11/russian-banks-income"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Deportation of Russian Propagandist Reveals Battle Over Church Influence in the Balkans",
+   "type": "commentary / Carnegie Politika",
+   "topic": "Russia، Europe، EU Foreign Policy، Security",
+   "language": "en",
+   "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/10/russia-europe-military-blogger-detained"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 20,
+  "reports": 0,
+  "analysis": 237,
+  "news": 0,
+  "video": 11,
+  "infographic": 1,
+  "podcast": 44,
+  "events": 31,
+  "other": 1
+ },
+ "type_breakdown_note": "research = Paper/Book في قسم Research؛ analysis = مقالات قسم Research (Article) + التعليقات والمدونات (Emissary, Diwan, Sada, Strategic Europe, Carnegie Politika, Q&A)؛ other = شهادات أمام الكونغرس؛ infographic = صفحة Feature تفاعلية. لا يوجد قسم أخبار/بيانات صحفية في خرائط الموقع.",
+ "top_topics": [
+  {
+   "topic": "Foreign Policy",
+   "count": 69
+  },
+  {
+   "topic": "United States",
+   "count": 53
+  },
+  {
+   "topic": "Domestic Politics",
+   "count": 50
+  },
+  {
+   "topic": "Russia",
+   "count": 46
+  },
+  {
+   "topic": "Россия",
+   "count": 39
+  },
+  {
+   "topic": "Security",
+   "count": 39
+  },
+  {
+   "topic": "Europe",
+   "count": 39
+  },
+  {
+   "topic": "EU",
+   "count": 31
+  },
+  {
+   "topic": "Внутренняя политика России",
+   "count": 28
+  },
+  {
+   "topic": "Economy",
+   "count": 24
+  },
+  {
+   "topic": "China",
+   "count": 24
+  },
+  {
+   "topic": "Political Reform",
+   "count": 21
+  },
+  {
+   "topic": "Trade",
+   "count": 20
+  },
+  {
+   "topic": "Global Governance",
+   "count": 18
+  },
+  {
+   "topic": "Ukraine",
+   "count": 17
+  },
+  {
+   "topic": "Middle East",
+   "count": 17
+  },
+  {
+   "topic": "Technology",
+   "count": 17
+  },
+  {
+   "topic": "Democracy",
+   "count": 16
+  },
+  {
+   "topic": "Energy",
+   "count": 13
+  },
+  {
+   "topic": "Military",
+   "count": 13
+  }
+ ],
+ "languages": [
+  "en",
+  "ru",
+  "ar"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/@CarnegieEndowment",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "آخر 15 فيديو/Short في الخلاصة: من 32 إلى 21,004 مشاهدة؛ الوسيط نحو 900 (رُصد 2026-11-16)",
+   "note": "خلاصة RSS تعرض آخر 15 عنصراً فقط (10–16 نوفمبر)، أي نحو 2 يومياً مع المقاطع القصيرة؛ تبويب Videos يعرض 30 فيديو طويلاً تعود إلى «3 months ago» (تواريخ نسبية لا تسمح بعدّ دقيق للفترتين). 87.7K مشترك."
+  },
+  {
+   "platform": "YouTube (CarnegieMENA)",
+   "url": "https://youtube.com/CarnegieMENA",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "الرابط مأخوذ من صفحة مركز الشرق الأوسط؛ لم تُفحص القناة"
+  },
+  {
+   "platform": "X / Facebook / LinkedIn / Instagram / WhatsApp",
+   "url": "",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوبة عن القراءة غير المسجّلة في هذه البيئة"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=QUsJjUIfiOY",
+   "summary": "Francis Fukuyama: Why AI Could Be the Real End of History",
+   "likes": "313",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "21004",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-14",
+   "url": "https://www.youtube.com/watch?v=njxAfdfloGY",
+   "summary": "The War in Ukraine Is \"Doubly Tragic,\" Here's Why",
+   "likes": "20",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1491",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-15",
+   "url": "https://www.youtube.com/watch?v=w27gY8u3N7Y",
+   "summary": "The Hegseth Impeachment Isn't the Pentagon's Only Problem",
+   "likes": "50",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1451",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=ko9Q06xi8Ks",
+   "summary": "How to Build an Israeli Government in 5 Steps",
+   "likes": "25",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1389",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-15",
+   "url": "https://www.youtube.com/watch?v=k3f0N_QJt6Q",
+   "summary": "The Hegseth Impeachment Isn't the Pentagon's Only Problem",
+   "likes": "53",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1192",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-14",
+   "url": "https://www.youtube.com/watch?v=1Pll7T47DHI",
+   "summary": "Out of (Foreign) Service",
+   "likes": "24",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1184",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=fYWUlrllaXs",
+   "summary": "How Kushner and Witkoff Could Actually Pull Off Peace in Ukraine",
+   "likes": "24",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1167",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=EmY1iu1tF3U",
+   "summary": "The Indian American Success Stories You Haven’t Heard",
+   "likes": "5",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "916",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=8oyl7UO21RA",
+   "summary": "How Local Agency Reshapes China's Influence in Central Asia and Beyond",
+   "likes": "5",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "789",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=5gjpuQZU-aU",
+   "summary": "Is AI The End of the End of History?",
+   "likes": "4",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "701",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=HoZWIgQ5orE",
+   "summary": "Saudi Money Couldn't Save LIV Golf",
+   "likes": "4",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "626",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-14",
+   "url": "https://www.youtube.com/watch?v=RSFChZ1M2Mk",
+   "summary": "Is the Chinese System a Viable Alternative to Democracy?",
+   "likes": "4",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "478",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-15",
+   "url": "https://www.youtube.com/watch?v=hv3wA6I5Mtg",
+   "summary": "Does Democracy Have a Future?",
+   "likes": "19",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "467",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=wy_MKKHZeRo",
+   "summary": "The HBO-Level Drama (Probably) Coming to Cameroon",
+   "likes": "10",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "388",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=Wj6RdFrZ-9A",
+   "summary": "Can \"America First\" Work in Europe?",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "32",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "data_type": "actual",
+   "in_window": false
+  }
+ ],
+ "headline_style": "عناوين تحليلية مباشرة، كثير منها بصيغة سؤال («How Are Russian Banks Posting Record Profits Amid Economic Stagnation?»، «Can Europe Fund Ukraine Without Russian Assets?»)، وعناوين Emissary أقرب للصحافة التفسيرية؛ على يوتيوب عناوين أكثر جذباً («How Lebanon Could Cease to Exist»، «He Ran the Secret Service. Here’s What Scares Him»). العناوين العربية في «ديوان» قصيرة وتقريرية («لا مواطنة بلا مؤسسات»).",
+ "design_style": "صورة رئيسية صحفية (Getty) بعرض كامل 1440×770 كـog:image لكل مادة، شعار خاص لكل سلسلة (Carnegie Politika، Emissary، Diwan/ديوان، Strategic Europe)، لون تمييز teal وشريط تقدّم قراءة، وسم نوع المادة أعلى العنوان (Paper/Article/Commentary/Event/Podcast Episode)، وصفحات Feature تفاعلية للبيانات (مثل Who’s Ahead in the Global AI Talent Race). لم تُلتقط لقطات شاشة؛ الوصف مبني على HTML/الوسوم.",
+ "promotion_tactics": [
+  {
+   "tactic": "سلاسل/مدونات ذات علامة مستقلة لكل جمهور (Emissary، Diwan/ديوان، Sada/صدى، Strategic Europe، Carnegie Politika)",
+   "evidence_url": "https://carnegieendowment.org/sitemaps/posts-0.xml"
+  },
+  {
+   "tactic": "نشر متعدد اللغات: نسخة عربية وروسية لكل مادة مع hreflang، وديوان يُنشر بالعربية والإنجليزية",
+   "evidence_url": "https://carnegieendowment.org/ar/middle-east/diwan/2026/09/la-mwatnh-bla-mussat"
+  },
+  {
+   "tactic": "فعاليات مع تسجيل وبث مباشر (Live Online/Virtual، Register to Attend، Add to Calendar) ثم إعادة نشرها كحلقة بودكاست وفيديو يوتيوب",
+   "evidence_url": "https://carnegieendowment.org/events/2026/10/the-state-and-fate-of-americas-war-with-iran"
+  },
+  {
+   "tactic": "فعالية عن اليمن بنسختين عربية وإنجليزية لمركز الشرق الأوسط",
+   "evidence_url": "https://carnegieendowment.org/ar/middle-east/events/2026/10/alymn-amam-mftrq-trq-ma-althy-tghyr"
+  },
+  {
+   "tactic": "شبكة بودكاست (The World Unpacked، Grand Tamasha، Carnegie Connects، Europe Inside Out، Interpreting India، Carnegie Politika Podcast، Baunovcast) مع أزرار اشتراك Apple/Spotify/YouTube",
+   "evidence_url": "https://carnegieendowment.org/podcasts/grand-tamasha/the-truth-about-indias-jobs-crisis"
+  },
+  {
+   "tactic": "قناة واتساب وحسابات اجتماعية خاصة بمركز الشرق الأوسط",
+   "evidence_url": "https://carnegieendowment.org/middle-east"
+  },
+  {
+   "tactic": "نشرات بريدية متعددة (28 صفحة نشرة في خريطة الموقع)",
+   "evidence_url": "https://carnegieendowment.org/sitemaps/newsletters-0.xml"
+  },
+  {
+   "tactic": "تقطيع الحلقات إلى مقاطع قصيرة يومية على يوتيوب بعناوين جذابة",
+   "evidence_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA"
+  }
+ ],
+ "strengths": [
+  "إيقاع نشر مرتفع ومنتظم (نحو 3.8 مادة يومياً خلال 90 يوماً عبر ثلاث لغات)",
+  "علامات فرعية واضحة لكل سلسلة ولكل مركز إقليمي",
+  "إعادة تدوير المحتوى: فعالية ← بودكاست ← فيديو ← مقاطع قصيرة",
+  "بيانات وصفية منظّمة (نوع، منطقة، موضوع، مركز) في كل صفحة",
+  "حضور عربي منتظم عبر «ديوان» مع ترجمة ثنائية الاتجاه"
+ ],
+ "weaknesses": [
+  "الإنتاج العربي محدود نسبياً (20 من 345 مادة في 90 يوماً) وأغلبه ترجمة عن الإنجليزية",
+  "تغطية اليمن/البحر الأحمر/الخليج قليلة (13 مادة) قياساً بالحجم الكلي",
+  "«صدى» شبه متوقفة: مادتان فقط في 90 يوماً وصفحتاهما العربيتان تعيدان Page Not Found",
+  "مشاهدات يوتيوب متواضعة لمعظم المقاطع (مئات إلى نحو 1.5 ألف) مقابل 87.7K مشترك",
+  "بعض الصفحات (فيديو/فعاليات) تُظهر «Invalid video URL»"
+ ],
+ "opportunities_for_mokha": [
+  "تسمية سلاسل ثابتة قصيرة (تعليق سريع، ورقة، سؤال وجواب) مع وسم النوع فوق العنوان كما يفعل كارنيغي",
+  "تحويل كل ندوة إلى ثلاثة منتجات: تسجيل كامل، حلقة صوتية، و3–5 مقاطع قصيرة بعناوين استفهامية",
+  "نشر ترجمة إنجليزية موجزة لأهم الأوراق اليمنية لملء فجوة تغطية اليمن والبحر الأحمر لدى المراكز الكبرى",
+  "قناة واتساب للمركز على غرار قناة مركز كارنيغي للشرق الأوسط",
+  "صيغة سؤال وجواب (Q&A) مع الباحثين عند الأحداث العاجلة",
+  "تضمين بيانات وصفية موحّدة (النوع، المنطقة، الموضوع، تاريخ النشر) في كل صفحة لتسهيل القياس والأرشفة"
+ ],
+ "limitations": [
+  "x.com وfacebook.com وlinkedin.com وinstagram محجوبة: لا أعداد متابعين ولا منشورات ولا تفاعل من المنصات نفسها",
+  "لا دليل على نمو المتابعين",
+  "رقم LinkedIn من طرف ثالث غير مؤرخ",
+  "18 عنصراً أُرّخت بـlastmod",
+  "يوتيوب: الخلاصة تعرض 15 عنصراً فقط والتواريخ في صفحة القناة نسبية، فلا عدّ دقيق لـ30/90 يوماً",
+  "النشرات البريدية والمحتوى الصيني (إن وجد) غير محسوبين",
+  "لم تُلتقط لقطات شاشة للتصميم"
+ ],
+ "sources": [
+  {
+   "url": "https://carnegieendowment.org/sitemap.xml",
+   "used_for": "حصر المواد (2026-11-13)"
+  },
+  {
+   "url": "https://carnegieendowment.org/",
+   "used_for": "روابط الحسابات الرسمية (2026-11-13)"
+  },
+  {
+   "url": "https://carnegieendowment.org/middle-east",
+   "used_for": "حسابات مركز الشرق الأوسط (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/@CarnegieEndowment/videos",
+   "used_for": "مشتركو يوتيوب وقائمة الفيديو (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDeDd29TrRzAkSKXBCtGhxA",
+   "used_for": "تواريخ ومشاهدات وإعجابات آخر 15 فيديو (2026-11-16)"
+  },
+  {
+   "url": "https://icebreaker-cards-icebreaker-labs.vercel.app/companies/www.linkedin.com%2Fcompany%2Fcarnegieendowment",
+   "used_for": "رقم LinkedIn من طرف ثالث (نتيجة بحث 2026-11-16)"
+  }
+ ]
+}

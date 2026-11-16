@@ -1,0 +1,1511 @@
+{
+ "center": "مركز الجزيرة للدراسات (Al Jazeera Centre for Studies)",
+ "website": "https://studies.aljazeera.net",
+ "accessed": "2026-11-13 (جمع صفحات الموقع وRSS)؛ 2026-11-16 (تلغرام ويوتيوب وصور og)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/AJStudies",
+   "verified_via": "https://studies.aljazeera.net/ar"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/ajstudies",
+   "verified_via": "https://studies.aljazeera.net/ar"
+  },
+  "linkedin": {
+   "url": "غير متاح (لا يوجد رابط حساب LinkedIn في رأس/تذييل الموقع؛ يوجد فقط زر مشاركة LinkedIn في صفحات المواد)",
+   "verified_via": "https://studies.aljazeera.net/ar"
+  },
+  "other": [
+   {
+    "platform": "Telegram",
+    "url": "https://t.me/AlJCS"
+   },
+   {
+    "platform": "Telegram (رابط ثانٍ في الموقع، لا تتوفر له معاينة عامة: t.me/s يعيد 302)",
+    "url": "https://t.me/AljazeeraCenterForStudies"
+   },
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/aljazeerasc"
+   },
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/ajstudies"
+   },
+   {
+    "platform": "SoundCloud",
+    "url": "https://soundcloud.com/ajstudies"
+   },
+   {
+    "platform": "WhatsApp",
+    "url": "https://wa.me/97455809461"
+   },
+   {
+    "platform": "RSS",
+    "url": "https://studies.aljazeera.net/ar/rss.xml"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "Telegram (@AlJCS)",
+   "value": 2950,
+   "figure_date": "2026-11-16",
+   "source_url": "https://t.me/s/AlJCS",
+   "type": "actual-on-platform",
+   "note": "معروض كـ 2.95K subscribers (مقرَّب من المنصة)"
+  },
+  {
+   "platform": "YouTube",
+   "value": 44400,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/user/aljazeerasc",
+   "type": "actual-on-platform",
+   "note": "معروض كـ 44.4K subscribers (مقرَّب من المنصة)"
+  },
+  {
+   "platform": "X",
+   "value": "غير متاح",
+   "figure_date": "",
+   "source_url": "https://twitter.com/AJStudies",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": "غير متاح",
+   "figure_date": "",
+   "source_url": "https://www.facebook.com/ajstudies",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": "غير متاح",
+   "figure_date": "",
+   "source_url": "",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 38,
+   "by_language": {
+    "ar": 32,
+    "en": 6
+   },
+   "by_type": {
+    "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)": 5,
+    "تقدير موقف / Policy Briefs": 4,
+    "أطروحات جامعية": 7,
+    "ورقات تحليلية / Analyses": 11,
+    "تعليقات": 9,
+    "أخبار المركز": 2
+   },
+   "exactness": "فعلي: كل مواد هذه الفترة لها تاريخ نشر ظاهر في RSS أو صفحات الأقسام"
+  },
+  "d90": {
+   "total": 100,
+   "by_language": {
+    "ar": 83,
+    "en": 17
+   },
+   "exactness": "فعلي كعدد مواد (معرّفات 6628–6731 المنشورة)، لكن 31 مادة منها تاريخها الدقيق غير معروض وحُصر بين تاريخي مادتين مجاورتين. مادة واحدة إضافية (node 6627 «حلف مكة وأسئلة عـشرة») تقع بين 2026-08-13 و2026-08-17 ولم تُحتسب؛ فالعدد 90 يومًا = 100 أو 101."
+  },
+  "method": "تعداد معرّفات Drupal المتسلسلة: طلب https://studies.aljazeera.net/ar/node/<id> لكل id من 6380 إلى 6740 (curl عادي)، واستخراج العنوان واللغة (hreflang) والرابط القانوني. التواريخ من pubDate في RSS (ar/en) ومن وسم <time> في صفحات الأقسام (أحدث 9 عناصر لكل قسم؛ ترقيم الصفحات ?page لا يعمل). صفحات المواد نفسها لا تعرض تاريخ النشر. أول مادة مؤرخة داخل النافذة: node 6628 (2026-08-17)؛ آخر مادة: node 6731 (2026-11-12). 5 معرّفات أعادت 403 (غير منشورة) ولم تُحتسب. لا فعاليات جديدة في النافذة (آخر فعالية بصفحة الفعاليات 2026-05-24).",
+  "source_urls": [
+   "https://studies.aljazeera.net/ar/rss.xml",
+   "https://studies.aljazeera.net/en/rss.xml",
+   "https://studies.aljazeera.net/ar/node/6731",
+   "https://studies.aljazeera.net/ar/policy-briefs",
+   "https://studies.aljazeera.net/ar/reports",
+   "https://studies.aljazeera.net/ar/comments",
+   "https://studies.aljazeera.net/ar/mediastudies",
+   "https://studies.aljazeera.net/ar/theses",
+   "https://studies.aljazeera.net/ar/news",
+   "https://studies.aljazeera.net/ar/publications",
+   "https://studies.aljazeera.net/ar/dossiers",
+   "https://studies.aljazeera.net/ar/events",
+   "https://studies.aljazeera.net/en/policy-briefs",
+   "https://studies.aljazeera.net/en/reports",
+   "https://studies.aljazeera.net/en/news",
+   "https://studies.aljazeera.net/en/theses",
+   "https://studies.aljazeera.net/en/publications"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-12",
+   "date_type": "actual",
+   "title": "الخنق الاقتصادي لتفادي تكلفة تجدد الحرب",
+   "type": "تعليقات",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6731",
+   "node_id": 6731,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-12",
+   "date_type": "actual",
+   "title": "الكونفدرالية الخليجية.. هل ما زالت بعيدة المنال؟",
+   "type": "تعليقات",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6730",
+   "node_id": 6730,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-12",
+   "date_type": "actual",
+   "title": "Two Years Since the Birth of the New Syria: Challenges of Security, Sovereignty and the Economy",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "سوريا وتركيا والمسألة الكردية",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/two-years-birth-new-syria-challenges-security-sovereignty-and-economy",
+   "node_id": 6729,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-11",
+   "date_type": "actual",
+   "title": "إعلان ترامب وقف المساعدات عن إسرائيل: مسوغات ودلالات وتداعيات",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6728",
+   "node_id": 6728,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-10",
+   "date_type": "actual",
+   "title": "مستقبل النفط والغاز في الخليج على ضوء أزمة مضيقي هرمز وباب المندب",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6726",
+   "node_id": 6726,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-10",
+   "date_type": "actual",
+   "title": "ساحات المعركة الرقمية: كيف توظّف الجماعات المسلحة بالساحل الدعاية ووسائل التواصل الاجتماعي؟",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6725",
+   "node_id": 6725,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-10",
+   "date_type": "actual",
+   "title": "الأهمية الجيوبولتيكية لدولة اليمن في الأمن القومي السعودي",
+   "type": "أطروحات جامعية",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6724",
+   "node_id": 6724,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-11-09",
+   "date_type": "actual",
+   "title": "بين البقاء والمواجهة: تحولات الصمود الشعبي في ريف الضفة الغربية",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6723",
+   "node_id": 6723,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-08",
+   "date_type": "actual",
+   "title": "انتخابات الكنيست الـ26 (2026): التصويت على مكانة الفلسطينيين في إسرائيل، ومن هو \"السيد\"!",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6722",
+   "node_id": 6722,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-07",
+   "date_type": "actual",
+   "title": "New Halls and Shadows of an Old War",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "القوى الدولية (أميركا/الصين/روسيا/أوروبا)",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/analyses/new-halls-and-shadows-old-war",
+   "node_id": 6721,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-11-05",
+   "date_type": "actual",
+   "title": "عامان على ولادة سوريا الجديدة: تحديات الأمن والسيادة والاقتصاد",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "سوريا وتركيا والمسألة الكردية",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6720",
+   "node_id": 6720,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-05",
+   "date_type": "actual",
+   "title": "خسارة الكونغرس: نافذة الجمهوريين لإنهاء الحرب على إيران",
+   "type": "تعليقات",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6719",
+   "node_id": 6719,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-05",
+   "date_type": "actual",
+   "title": "خروج المينورسو من الصحراء.. الدلالات والانعكاسات",
+   "type": "تعليقات",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6718",
+   "node_id": 6718,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-02",
+   "date_type": "actual",
+   "title": "من تعز إلى اتساع المواجهة العسكرية: تحولات عملية \"فجر اليمن\" وآفاقها",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "اليمن وباب المندب",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6717",
+   "node_id": 6717,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-02",
+   "date_type": "actual",
+   "title": "التحالفات العسكرية ودورها في حماية الأمن القومي",
+   "type": "أطروحات جامعية",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6716",
+   "node_id": 6716,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-11-01",
+   "date_type": "actual",
+   "title": "In Its 32nd Issue, Lubab Examines Shifts in the Strategic Environment of the Gulf and the Middle East",
+   "type": "أخبار المركز",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/news/its-32nd-issue-lubab-examines-shifts-strategic-environment-gulf-and-middle-east",
+   "node_id": 6715,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-11-01",
+   "date_type": "actual",
+   "title": "\"لباب\" في عددها الثاني والثلاثين تناقش تحولات البيئة الإستراتيجية في الخليج والشرق الأوسط",
+   "type": "أخبار المركز",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6714",
+   "node_id": 6714,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-29",
+   "date_type": "actual",
+   "title": "لقاء طهران الرباعي: حوار بلا التزامات",
+   "type": "تعليقات",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6713",
+   "node_id": 6713,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-29",
+   "date_type": "actual",
+   "title": "\"اتفاق مكة\" في طهران وتصاعد الدور الإقليمي",
+   "type": "تعليقات",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6712",
+   "node_id": 6712,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-29",
+   "date_type": "actual",
+   "title": "ماذا كشفت الحرب الأميركية الإيرانية لدول الخليج؟",
+   "type": "تعليقات",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6711",
+   "node_id": 6711,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-28",
+   "date_type": "actual",
+   "title": "أزمة الغذاء العالمية في ظل اضطراب الممرات البحرية الثلاثة وأسبقية الغلاء على الندرة",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6709",
+   "node_id": 6709,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-28",
+   "date_type": "actual",
+   "title": "Al Jazeera Arabic and Al Arabiya Framing of the 2024 Israeli War on Lebanon",
+   "type": "أطروحات جامعية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/university-theses/al-jazeera-arabic-and-al-arabiya-framing-2024-israeli-war-lebanon",
+   "node_id": 6708,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-27",
+   "date_type": "actual",
+   "title": "توظيف الحرب الهجينة في العقيدة العسكرية الروسية بعد العام 2020 .. نماذج مختارة",
+   "type": "أطروحات جامعية",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6707",
+   "node_id": 6707,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-26",
+   "date_type": "actual",
+   "title": "اجتماع طهران الأمني: حلول أم اقتراب من المواجهة؟",
+   "type": "تعليقات",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6706",
+   "node_id": 6706,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-26",
+   "date_type": "actual",
+   "title": "إيران بين تعثُّر الوساطات وتصاعد التهديد",
+   "type": "تعليقات",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6705",
+   "node_id": 6705,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-25",
+   "date_type": "actual",
+   "title": "Iraqi Armed Factions Between National Identity and Ideological Allegiance Amid Regional Escalation",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "العراق ولبنان والأردن والمشرق",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/analyses/iraqi-armed-factions-between-national-identity-and-ideological-allegiance-amid-regional",
+   "node_id": 6704,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-22",
+   "date_type": "actual",
+   "title": "الارتزاق المؤسسي وفاعلية تطبيق القانون الدولي الإنساني: ليبيا والسودان نموذجًا",
+   "type": "أطروحات جامعية",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6703",
+   "node_id": 6703,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-22",
+   "date_type": "actual",
+   "title": "الفصائل العراقية المسلحة بين الهوية والمرجعية العقائدية وسط التصعيد الإقليمي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "العراق ولبنان والأردن والمشرق",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6702",
+   "node_id": 6702,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-21",
+   "date_type": "actual",
+   "title": "قطر والاستقلال الدفاعي: إستراتيجية وطنية لحماية الدولة وصون قرارها المستقل",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6701",
+   "node_id": 6701,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-21",
+   "date_type": "actual",
+   "title": "حرب السفن من مياه الخليج إلى البحر الأسود: الأمن الغذائي العالمي في مرمى النيران",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6700",
+   "node_id": 6700,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-20",
+   "date_type": "actual",
+   "title": "ثلاث سنوات على \"طوفان الأقصى\": ما الذي تغير في الواقع السياسي الفلسطيني؟",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6699",
+   "node_id": 6699,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-19",
+   "date_type": "actual",
+   "title": "حرب إثيوبيا الجديدة: \"تحالف البقاء\" وموازين القوة وسيناريوهات ما بعد مقلي",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6698",
+   "node_id": 6698,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-19",
+   "date_type": "actual",
+   "title": "الفلسطينيون في إسرائيل: كلما ازدادت قوتهم زاد خطاب الكراهية تجاههم",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6696",
+   "node_id": 6696,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-18",
+   "date_type": "actual",
+   "title": "العلاقات الجيوستراتيجية الصينية الإيرانية وآثارها الجيوبولتيكية",
+   "type": "أطروحات جامعية",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6697",
+   "node_id": 6697,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-18",
+   "date_type": "actual",
+   "title": "Between Renewed Confrontation and a Negotiated Settlement: The Fate of a War That Was Never Meant to Last",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/between-renewed-confrontation-and-negotiated-settlement-fate-war-was-never-meant-last",
+   "node_id": 6695,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-15",
+   "date_type": "actual",
+   "title": "توظيف الدبلوماسية الدفاعية في توجهات السياسة الخارجية القطرية",
+   "type": "أطروحات جامعية",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6694",
+   "node_id": 6694,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-15",
+   "date_type": "actual",
+   "title": "بين تجدّد المواجهة والتسوية التفاوضية: مصير حرب كان يُفترض ألا تستمر طويلًا",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6693",
+   "node_id": 6693,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-15",
+   "date_type": "actual",
+   "title": "الأردن في الحرب الإقليمية: حدود الدور ومقتضيات الموضع",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "العراق ولبنان والأردن والمشرق",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6692",
+   "node_id": 6692,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-13",
+   "date_type": "actual",
+   "title": "مركز الجزيرة للدراسات يصدر كتابًا جديدًا عن الثقافة الإستراتيجية الإسرائيلية وتحولات الجدار الحديدي",
+   "type": "إصدارات المركز",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6691",
+   "node_id": 6691,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-08",
+   "date_type": "actual",
+   "title": "سرديات الدعاية الإسرائيلية وتحولاتها في الحروب على غزة (2008-2025)",
+   "type": "دراسات إعلامية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6690",
+   "node_id": 6690,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-08",
+   "date_type": "actual",
+   "title": "إثيوبيا وجيرانها: محددات مواقف مصر والسودان وإريتريا من الحرب الراهنة",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6689",
+   "node_id": 6689,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-07",
+   "date_type": "actual",
+   "title": "اليمن وباب المندب... هل تغير \"فجر اليمن\" ميزان القوة؟",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "اليمن وباب المندب",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6688",
+   "node_id": 6688,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-05",
+   "date_type": "actual",
+   "title": "تشريعيات المغرب 2026: دلالات النتائج وإعادة تشكيل المشهد السياسي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6686",
+   "node_id": 6686,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-05",
+   "date_type": "actual",
+   "title": "سوريا في مواجهة التحدي الإسرائيلي: الخيارات وآفاق التفاوض",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6685",
+   "node_id": 6685,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-04",
+   "date_type": "estimated (بين 2026-10-04 و 2026-10-05 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "ما بعد هرمز: مشروع 4+1 وإعادة رسم ممرات الطاقة والتجارة عبر سوريا",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6684",
+   "node_id": 6684,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-10-04",
+   "date_type": "actual",
+   "title": "How Can the Mashriq Overcome Its Escalating Security Disorder?",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "العراق ولبنان والأردن والمشرق",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/how-can-mashriq-overcome-its-escalating-security-disorder",
+   "node_id": 6683,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-10-01",
+   "date_type": "actual",
+   "title": "كيف تخرج بلاد المشرق من هذا الاضطراب الأمني المتفاقم؟",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "العراق ولبنان والأردن والمشرق",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6682",
+   "node_id": 6682,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "estimated (بين 2026-09-22 و 2026-10-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "\"التأسيس الثاني\" وهندسة الإقليم: الانتخابات الإسرائيلية بين سرديتين",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6681",
+   "node_id": 6681,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "estimated (بين 2026-09-22 و 2026-10-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "العراق ومعضلة سلاح الفصائل تحت ضغط الحرب الأميركية–الإيرانية",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6680",
+   "node_id": 6680,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "estimated (بين 2026-09-22 و 2026-10-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الخطاب الأخير نتنياهو في الأمم المتحدة: كلام مكرر مأزوم",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6679",
+   "node_id": 6679,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "estimated (بين 2026-09-22 و 2026-10-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "انتخابات البوسنة والهرسك 2026 فرصة لإعادة تركيب موازين القوة واختبار قابلية نظام دايتون للتجدد",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "القوى الدولية (أميركا/الصين/روسيا/أوروبا)",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6678",
+   "node_id": 6678,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "estimated (بين 2026-09-22 و 2026-10-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "ما وراء الأيديولوجيا: تحولات التجنيد والاستقطاب المسلح بمنطقة الساحل وغرب إفريقيا",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6677",
+   "node_id": 6677,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "estimated (بين 2026-09-22 و 2026-10-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الرئيس الصيني في واشنطن: تنافس اقتصادي في ظل غياب ثقة إستراتيجي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "القوى الدولية (أميركا/الصين/روسيا/أوروبا)",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6676",
+   "node_id": 6676,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-22",
+   "date_type": "actual",
+   "title": "كيف تشكل المنصات الرقمية المجال العام البريطاني وتعمق الاستقطاب السياسي والأيديولوجي؟",
+   "type": "دراسات إعلامية",
+   "topic": "الإعلام والدراسات الإعلامية",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6674",
+   "node_id": 6674,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-20",
+   "date_type": "estimated (بين 2026-09-20 و 2026-09-22 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الرؤية المصرية للتهديدات الأمنية في البحر الأحمر ومضيق باب المندب",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "اليمن وباب المندب",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6673",
+   "node_id": 6673,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-20",
+   "date_type": "actual",
+   "title": "Advances in Resolving the Kurdish Issue: Toward a New Era for Turkey and Syria",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "سوريا وتركيا والمسألة الكردية",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/advances-resolving-kurdish-issue-toward-new-era-turkey-and-syria",
+   "node_id": 6672,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-17",
+   "date_type": "estimated (بين 2026-09-17 و 2026-09-20 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الشهرة السياسية رأسمالًا انتخابيًّا: بنكيران ورهان عودة حزب العدالة والتنمية المغربي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6671",
+   "node_id": 6671,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-17",
+   "date_type": "actual",
+   "title": "تقدم في حل المسألة الكردية يؤسس لحقبة جديدة في تاريخ تركيا وسوريا",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "سوريا وتركيا والمسألة الكردية",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6670",
+   "node_id": 6670,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-15",
+   "date_type": "estimated (بين 2026-09-15 و 2026-09-17 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "انتخابات الكنيست الـ26 (2026): علام يدور الصراع الانتخابي بين الأحزاب والمعسكرات السياسية؟",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6669",
+   "node_id": 6669,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-09-15",
+   "date_type": "estimated (بين 2026-09-15 و 2026-09-17 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "اقتصاد الحرب في إيران: السياسة النقدية والمالية في مواجهة العقوبات و\"الإنزال الاقتصادي\"",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6668",
+   "node_id": 6668,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-15",
+   "date_type": "actual",
+   "title": "بناء الجدارة الإخبارية وتمثيل حقوق الإنسان في تغطية الإعلام الغربي لمبادرات التضامن مع غزة",
+   "type": "دراسات إعلامية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6667",
+   "node_id": 6667,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-15",
+   "date_type": "actual",
+   "title": "Expansion and Exposure: The Paradox of Houthi Control of Bab al-Mandeb",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "اليمن وباب المندب",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/expansion-and-exposure-paradox-houthi-control-bab-al-mandeb",
+   "node_id": 6666,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-14",
+   "date_type": "actual",
+   "title": "الإستراتيجية الأمنية الإسرائيلية بعد العام 2011",
+   "type": "أطروحات جامعية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6665",
+   "node_id": 6665,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-09-13",
+   "date_type": "estimated (بين 2026-09-13 و 2026-09-14 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "اجتماع مسقط وكسر الحاجز النفسي والسياسي بين ضفتي الخليج",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6664",
+   "node_id": 6664,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-13",
+   "date_type": "estimated (بين 2026-09-13 و 2026-09-14 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "هل يتحول باب المندب إلى \"هرمز ثان\": ضغط على الأسواق وورقة في المفاوضات؟",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6663",
+   "node_id": 6663,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-13",
+   "date_type": "actual",
+   "title": "التمدد والانكشاف: مفارقة سيطرة الحوثيين على باب المندب",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "اليمن وباب المندب",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6662",
+   "node_id": 6662,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-10",
+   "date_type": "estimated (بين 2026-09-10 و 2026-09-13 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "أبيي على خط الانتخابات: نزاع السيادة بين الخرطوم وجوبا ومسارات الأزمة المؤجلة",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6661",
+   "node_id": 6661,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-09-10",
+   "date_type": "estimated (بين 2026-09-10 و 2026-09-13 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "خريطة الاقتصاد الحربي في غرب إفريقيا والساحل: الذهب والتهريب والسلاح",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6660",
+   "node_id": 6660,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-10",
+   "date_type": "estimated (بين 2026-09-10 و 2026-09-13 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "تحولات النظام الأمني في الساحل: تفكك المركب الأمني وصعود التنافس الجيوسياسي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6659",
+   "node_id": 6659,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-10",
+   "date_type": "estimated (بين 2026-09-10 و 2026-09-13 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الانتخابات التشريعية الفلسطينية: محاولة إعادة ترتيب النظام السياسي ومعضلات التنفيذ",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6658",
+   "node_id": 6658,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-09-10",
+   "date_type": "actual",
+   "title": "Niger Coup: Survival of the Military Regime and Growing Fragility",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/niger-coup-survival-military-regime-and-growing-fragility",
+   "node_id": 6657,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-09",
+   "date_type": "actual",
+   "title": "انقلاب النيجر: نجاة السلطة العسكرية وتفاقم الهشاشة",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6656",
+   "node_id": 6656,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-09",
+   "date_type": "actual",
+   "title": "The Mecca Agreement from Idea to Practice: Deterrence, Institutionalisation and a New Security Architecture",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/analyses/mecca-agreement-idea-practice-deterrence-institutionalisation-and-new-security",
+   "node_id": 6655,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-06",
+   "date_type": "estimated (بين 2026-09-06 و 2026-09-09 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "لبنان في مواجهة التحدي الإسرائيلي: جدوى المفاوضات وآفاقها",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6654",
+   "node_id": 6654,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-06",
+   "date_type": "estimated (بين 2026-09-06 و 2026-09-09 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "مستقبل السلطة الفلسطينية بين المقاربات الإسرائيلية والسجال الفلسطيني",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6653",
+   "node_id": 6653,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-06",
+   "date_type": "estimated (بين 2026-09-06 و 2026-09-09 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "كيف تهز الحرب الإيرانية سوق السندات العالمية؟",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6652",
+   "node_id": 6652,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-06",
+   "date_type": "actual",
+   "title": "The Iran War and EU–Polish Strategy toward the GCC",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/analyses/iran-war-and-eu%E2%80%93polish-strategy-toward-gcc",
+   "node_id": 6651,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-06",
+   "date_type": "actual",
+   "title": "A Futile Strike on a Syrian Airbase Signals an Imminent Israeli Strategic Crisis",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "فلسطين وإسرائيل",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/futile-strike-syrian-airbase-signals-imminent-israeli-strategic-crisis",
+   "node_id": 6650,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-04",
+   "date_type": "actual",
+   "title": "إيلي كليفتون وإيان لوستيك، لوبي إسرائيل: أميركا في قبضة قوة أجنبية، نيويورك: أتريا/ون سيغنال للنشر (سايمون وشوستر)، 11 أغسطس/آب 2026، 304 صفحات. Eli Clifton and Ian Lustick, Israel's Lobby: America in the Grip of a Foreign Power, New York: Atria/One Signa",
+   "type": "مراجعات/ملفات (dossiers)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6649",
+   "node_id": 6649,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-03",
+   "date_type": "actual",
+   "title": "قصف عبثي لقاعدة سورية يؤشر إلى تأزم إسرائيلي إستراتيجي وشيك",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6648",
+   "node_id": 6648,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "estimated (بين 2026-09-01 و 2026-09-03 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الأمن الخليجي: رؤية لما بعـد الحرب",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6647",
+   "node_id": 6647,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "estimated (بين 2026-09-01 و 2026-09-03 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "زيارة شي جين بينغ إلى مصر: الأبعاد الإستراتيجية لشراكة متنامية",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6646",
+   "node_id": 6646,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "estimated (بين 2026-09-01 و 2026-09-03 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "هل تغير موقع إسرائيل في الإستراتيجية الدفاعية التركية؟",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6645",
+   "node_id": 6645,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "actual",
+   "title": "الحرب بين الإخفاء والمكاشفة: العراق في سردية \"الحرب لم تقع\" وغزة في السرديات الشبكية المتنافسة",
+   "type": "دراسات إعلامية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6644",
+   "node_id": 6644,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "estimated (بين 2026-09-01 و 2026-09-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "سفينة \"ألطالينا\": النبش في الماضي لإعادة إنتاج الحاضر",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6643",
+   "node_id": 6643,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "actual",
+   "title": "New Book Highlights Transformations in the Global South and the International Order",
+   "type": "إصدارات المركز",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/publications/new-book-highlights-transformations-global-south-and-international-order",
+   "node_id": 6642,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-09-01",
+   "date_type": "actual",
+   "title": "الجنوب العالمي وتحولات النظام الدولي: متغيرات القوة وتحديات الصعود",
+   "type": "إصدارات المركز",
+   "topic": "أخرى",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6641",
+   "node_id": 6641,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-30",
+   "date_type": "estimated (بين 2026-08-30 و 2026-09-01 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "إيران في مواجهة \"الإنزال الاقتصادي\": من هرمز إلى الممرات الأوراسية",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6640",
+   "node_id": 6640,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-30",
+   "date_type": "actual",
+   "title": "الحرب اللامتماثلة بين إسرائيل وحماس",
+   "type": "أطروحات جامعية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6639",
+   "node_id": 6639,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-08-23",
+   "date_type": "estimated (بين 2026-08-23 و 2026-08-30 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "الفلسطينيون في إسرائيل وانتخابات الكنيست الـ26 (2026)",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6638",
+   "node_id": 6638,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-23",
+   "date_type": "estimated (بين 2026-08-23 و 2026-08-30 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "بعد ستة أشهر من الحرب على إيران: البحث عن مخرج نهائي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6637",
+   "node_id": 6637,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-23",
+   "date_type": "estimated (بين 2026-08-23 و 2026-08-30 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "استرداد المبادرة: أبعاد التحالف السعودي التركي الباكستاني الجيوبوليتيكية",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6636",
+   "node_id": 6636,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-23",
+   "date_type": "estimated (بين 2026-08-23 و 2026-08-30 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "ما بين لينش ومحسن رضائي: اللحظة التاريخية لانتهاء احتكار واشنطن لوضع قواعد الأمن الإقليمي",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "القوى الدولية (أميركا/الصين/روسيا/أوروبا)",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6635",
+   "node_id": 6635,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-23",
+   "date_type": "actual",
+   "title": "دور الدبلوماسية الدفاعية في تعزيز منظومة الردع الدفاعي القطري",
+   "type": "أطروحات جامعية",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6634",
+   "node_id": 6634,
+   "has_pdf": true
+  },
+  {
+   "date": "2026-08-18",
+   "date_type": "estimated (بين 2026-08-18 و 2026-08-23 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "هجرة الشباب المغربي وأزمة المستقبل: قراءة في أحداث سبتة (يوليو 2026)",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6633",
+   "node_id": 6633,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-18",
+   "date_type": "actual",
+   "title": "Six Months Into the Iran War: The Search for an Endgame",
+   "type": "ورقات تحليلية / Analyses",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/analyses/six-months-iran-war-search-endgame",
+   "node_id": 6632,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-18",
+   "date_type": "actual",
+   "title": "الرقابة الرقمية والسلطة القانونية الموازية لشبكات التواصل الاجتماعي خلال الحرب على غزة",
+   "type": "دراسات إعلامية",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6631",
+   "node_id": 6631,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-18",
+   "date_type": "estimated (بين 2026-08-18 و 2026-08-18 حسب تسلسل رقم المعرّف node id؛ التاريخ غير معروض في صفحة المادة)",
+   "title": "المقاربة الإسرائيلية لاتفاق مكة: منطق \"ما بعد الحرب\" مقابل منطق \"الحرب اللامنتهية\"",
+   "type": "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)",
+   "topic": "فلسطين وإسرائيل",
+   "language": "ar",
+   "url": "https://studies.aljazeera.net/ar/article/6630",
+   "node_id": 6630,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-18",
+   "date_type": "actual",
+   "title": "The Trilateral Mutual Defence Agreement: Motives, Aspirations and Concerns",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/trilateral-mutual-defence-agreement-motives-aspirations-and-concerns",
+   "node_id": 6629,
+   "has_pdf": false
+  },
+  {
+   "date": "2026-08-17",
+   "date_type": "actual",
+   "title": "Why Did the Plan to Bring Iran’s Kurds into the War Collapse Before It Even Began?",
+   "type": "تقدير موقف / Policy Briefs",
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "language": "en",
+   "url": "https://studies.aljazeera.net/en/policy-briefs/why-did-plan-bring-iran%E2%80%99s-kurds-war-collapse-it-even-began",
+   "node_id": 6628,
+   "has_pdf": false
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 15,
+  "reports": 16,
+  "analysis": 23,
+  "news": 5,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 0,
+  "other": 41,
+  "note": "المطابقة: research = دراسات إعلامية + أطروحات جامعية؛ reports = تقدير موقف/Policy Briefs؛ analysis = ورقات تحليلية + تعليقات؛ news = أخبار المركز + إصدارات المركز؛ other = مراجعات (dossiers) + مواد لم يظهر قسمها (لأن صفحات الأقسام تعرض أحدث 9 فقط؛ أغلبها على الأرجح ورقات تحليلية/تعليقات — تقدير غير مؤكد). التصنيف بالقسم فعلي حيث وُجد.",
+  "by_site_label": {
+   "تعليقات": 9,
+   "تقدير موقف / Policy Briefs": 16,
+   "ورقات تحليلية / Analyses": 14,
+   "أطروحات جامعية": 10,
+   "أخبار المركز": 2,
+   "غير ظاهر في أحدث 9 عناصر بصفحات الأقسام (القسم غير محدد)": 40,
+   "إصدارات المركز": 3,
+   "دراسات إعلامية": 5,
+   "مراجعات/ملفات (dossiers)": 1
+  }
+ },
+ "top_topics": [
+  {
+   "topic": "فلسطين وإسرائيل",
+   "count": 27
+  },
+  {
+   "topic": "إيران والحرب الأميركية-الإسرائيلية عليها",
+   "count": 18
+  },
+  {
+   "topic": "إفريقيا والساحل والقرن الإفريقي",
+   "count": 14
+  },
+  {
+   "topic": "الخليج واتفاق/ميثاق مكة الدفاعي",
+   "count": 13
+  },
+  {
+   "topic": "أخرى",
+   "count": 9
+  },
+  {
+   "topic": "اليمن وباب المندب",
+   "count": 5
+  },
+  {
+   "topic": "العراق ولبنان والأردن والمشرق",
+   "count": 5
+  },
+  {
+   "topic": "القوى الدولية (أميركا/الصين/روسيا/أوروبا)",
+   "count": 4
+  },
+  {
+   "topic": "سوريا وتركيا والمسألة الكردية",
+   "count": 4
+  },
+  {
+   "topic": "الإعلام والدراسات الإعلامية",
+   "count": 1
+  }
+ ],
+ "top_topics_note": "تصنيف الموضوعات تقديري (مطابقة كلمات مفتاحية في العناوين، أول تطابق)، وليس تصنيف الموقع.",
+ "languages": [
+  "ar",
+  "en"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/AlJCS",
+   "posts_30d": 0,
+   "posts_90d": 0,
+   "typical_views": "1.2K–2.8K مشاهدة للمنشور (آخر 20 منشورًا ظاهرًا، 2025-07-07→2025-11-05)؛ الأقصى الظاهر 2.82K",
+   "note": "القناة متوقفة: آخر منشور ظاهر AlJCS/480 بتاريخ 2025-11-05. المنشورات روابط لمواد الموقع فقط. 2.95K مشترك."
+  },
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC57d1lNYWh46lCaOjLWnhJw",
+   "posts_30d": 0,
+   "posts_90d": 0,
+   "typical_views": "36–383 مشاهدة لأحدث 15 فيديو (جلسات مؤتمر، 12–14 مايو 2026)",
+   "note": "لا فيديوهات في النافذتين؛ أحدث فيديو في خلاصة القناة 2026-05-14. 44.4K مشترك."
+  },
+  {
+   "platform": "X",
+   "url": "https://twitter.com/AJStudies",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابل للقراءة بلا تسجيل دخول"
+  },
+  {
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/ajstudies",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابل للقراءة بلا تسجيل دخول"
+  },
+  {
+   "platform": "Instagram",
+   "url": "https://www.instagram.com/ajstudies",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "لم يُفحص (جدار تسجيل دخول)"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "Telegram",
+   "date": "2025-11-05",
+   "url": "https://t.me/AlJCS/480",
+   "summary": "رابط مادة الموقع /ar/article/6348 (خارج النافذتين؛ أعلى مشاهدات ظاهرة)",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2.82K",
+   "source_url": "https://t.me/s/AlJCS",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2025-11-05",
+   "url": "https://t.me/AlJCS/479",
+   "summary": "رابط مادة الموقع /ar/article/6345 (خارج النافذتين)",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2.74K",
+   "source_url": "https://t.me/s/AlJCS",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2025-10-15",
+   "url": "https://t.me/AlJCS/478",
+   "summary": "رابط مادة الموقع /ar/article/6336 (خارج النافذتين)",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2.53K",
+   "source_url": "https://t.me/s/AlJCS",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-05-13",
+   "url": "https://www.youtube.com/watch?v=JA0iKVw9MO0",
+   "summary": "Parallel Sessions – Plenary Session (IV): From Epistemic Dependency to... (خارج النافذتين؛ الأعلى مشاهدة بين أحدث 15)",
+   "likes": "3",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "383",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC57d1lNYWh46lCaOjLWnhJw",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-05-12",
+   "url": "https://www.youtube.com/watch?v=_-IVdidw4iQ",
+   "summary": "Parallel Sessions – Decolonial Voice (V) (خارج النافذتين)",
+   "likes": "9",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "208",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC57d1lNYWh46lCaOjLWnhJw",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين تحليلية طويلة بصيغة «موضوع: تفصيل/أبعاد» (مثل «عامان على ولادة سوريا الجديدة: تحديات الأمن والسيادة والاقتصاد») مع استخدام متكرر لصيغة السؤال («الكونفدرالية الخليجية.. هل ما زالت بعيدة المنال؟») وربط مباشر بالحدث الجاري؛ التعليقات أقصر وأكثر مباشرة («الخنق الاقتصادي لتفادي تكلفة تجدد الحرب»). كل مادة تبدأ بملخص تنفيذي قصير (حقل summary) أسفل العنوان. المرجع: https://studies.aljazeera.net/ar/article/6731 و /ar/policy-briefs.",
+ "design_style": "صورة رئيسية واحدة لكل مادة بمقاس موحّد 2500×1405 (16:9) تُستخدم كـ og:image وبطاقة twitter summary_large_image؛ صور فوتوغرافية/خبرية واقعية بلا نص أو شعار أو قالب تصميم على الصورة (فُحصت صورة https://studies.aljazeera.net/sites/default/files/articles/2026-11/web_1.jpg: سفن حربية وعلم أميركي، بلا أي هوية بصرية للمركز). صفحات الأقسام بطاقات بيضاء بسيطة (صورة + عنوان + تاريخ + ملخص). لا يوجد قسم إنفوغراف أو فيديو أو بودكاست في الصفحة الرئيسية العربية.",
+ "promotion_tactics": [
+  {
+   "tactic": "نشر ثنائي اللغة: ترجمة إنجليزية لتقديرات الموقف وبعض الورقات بعد 1–7 أيام من العربية (مثال: 6720 عربي 2026-11-05 ← 6729 إنجليزي 2026-11-12)",
+   "evidence_url": "https://studies.aljazeera.net/en/policy-briefs"
+  },
+  {
+   "tactic": "ملخص تنفيذي ظاهر أعلى كل مادة + بطاقات Open Graph/Twitter Card مكتملة (twitter:site=@AJStudies)",
+   "evidence_url": "https://studies.aljazeera.net/ar/article/6731"
+  },
+  {
+   "tactic": "أزرار مشاركة (LinkedIn/Facebook وغيرها) في صفحة المادة + روابط واتساب وتلغرام في الشريط الاجتماعي",
+   "evidence_url": "https://studies.aljazeera.net/ar/article/6720"
+  },
+  {
+   "tactic": "ملفات PDF للتحميل في بعض المواد (الأطروحات الجامعية مثلًا)؛ 22 من 100 مادة في 90 يومًا تحوي رابط PDF",
+   "evidence_url": "https://studies.aljazeera.net/ar/article/6724"
+  },
+  {
+   "tactic": "سلاسل/أبواب ثابتة بعلامة واضحة: تقدير موقف، ورقات تحليلية، تعليقات، دراسات إعلامية، أطروحات جامعية، مجلة «لباب»، التقرير الاستراتيجي، الكتاب الإلكتروني",
+   "evidence_url": "https://studies.aljazeera.net/ar"
+  },
+  {
+   "tactic": "أخبار ترويجية لإصدارات الكتب وأعداد مجلة «لباب» بالعربية والإنجليزية",
+   "evidence_url": "https://studies.aljazeera.net/ar/news"
+  },
+  {
+   "tactic": "خلاصة RSS عامة للعربية والإنجليزية",
+   "evidence_url": "https://studies.aljazeera.net/ar/rss.xml"
+  }
+ ],
+ "strengths": [
+  "وتيرة نشر عالية ومنتظمة: 38 مادة في 30 يومًا و100 في 90 يومًا (نحو مادة يوميًا)",
+  "استجابة سريعة للأحداث عبر باب «تعليقات» القصير (9 تعليقات على الأقل بين 2026-10-26 و2026-11-12)",
+  "ترجمة إنجليزية منتظمة لأهم المواد (17 مادة إنجليزية في 90 يومًا)",
+  "تنويع الأبواب بين القصير (تعليق) والمتوسط (ورقة تحليلية/تقدير موقف) والأكاديمي (دراسات إعلامية/أطروحات/مجلة محكّمة)",
+  "تغطية يمنية مباشرة (باب المندب، «فجر اليمن»، الحوثيون) تنافس مجال مركز المخا"
+ ],
+ "weaknesses": [
+  "قناة تلغرام متوقفة منذ 2025-11-05 وقناة يوتيوب بلا فيديوهات منذ 2026-05-14 (لا نشاط في النافذتين)",
+  "صفحات المواد لا تعرض تاريخ النشر، وصفحات الأقسام تعرض 9 عناصر فقط دون ترقيم صفحات فعّال (صعوبة الوصول للأرشيف)",
+  "لا إنفوغراف ولا فيديو قصير ولا بودكاست ظاهر في الموقع؛ الصور بلا هوية بصرية",
+  "لا يوجد حساب LinkedIn مرتبط في الموقع، ولا نموذج اشتراك بريدي واضح بالعربية",
+  "مشاهدات يوتيوب منخفضة جدًا (36–383) مقابل 44.4K مشترك"
+ ],
+ "opportunities_for_mokha": [
+  "اعتماد باب «تعليق» قصير (600–900 كلمة) يصدر خلال 24–48 ساعة من الحدث اليمني، إلى جانب تقدير الموقف",
+  "إظهار ملخص تنفيذي ثابت أعلى كل مادة وضبط og:image بمقاس 16:9 موحّد — مع إضافة هوية بصرية (شعار/قالب) لتتميز عن صور الجزيرة غير الموسومة",
+  "ترجمة إنجليزية مختصرة لأهم تقدير موقف أسبوعيًا مع تأخير قصير (نموذج AJCS: 3–7 أيام)",
+  "استثمار ثغرة AJCS: قناة تلغرام/واتساب نشطة تنشر كل مادة يوم صدورها، وفيديو قصير/إنفوغراف لكل ورقة",
+  "إظهار تاريخ النشر وأرشيف قابل للتصفح وRSS لكل قسم لتسهيل الاستشهاد والمتابعة",
+  "التركيز على الزاوية اليمنية المحلية المفصّلة التي تغطيها AJCS إقليميًا فقط (باب المندب، «فجر اليمن»، تعز)"
+ ],
+ "limitations": [
+  "X وFacebook وLinkedIn وInstagram: غير قابلة للقراءة آليًا/دون تسجيل دخول؛ لا أعداد متابعين ولا منشورات ولا تفاعل (غير متاح). لم تُجرَ أي محاولة تجاوز.",
+  "لم يُجرَ بحث في محركات البحث عن مقتطفات المتابعين/المنشورات لضيق الوقت.",
+  "تواريخ 31 مادة ضمن 90 يومًا تقديرية (محصورة بين مادتين مؤرختين) لأن الموقع لا يعرض التاريخ في صفحة المادة.",
+  "قسم (نوع) 40 مادة غير محدد لأن صفحات الأقسام تعرض أحدث 9 فقط.",
+  "خلاصة RSS تعرض 30 عنصرًا فقط وتُرجع لقطات مخبأة مختلفة مع ?page.",
+  "خلاصة يوتيوب تعرض أحدث 15 فيديو فقط؛ تعليقات يوتيوب غير متاحة.",
+  "تصنيف الموضوعات تقديري بالكلمات المفتاحية."
+ ],
+ "sources": [
+  {
+   "url": "https://studies.aljazeera.net/ar",
+   "used_for": "روابط الحسابات الرسمية، القائمة الرئيسية (2026-11-13)"
+  },
+  {
+   "url": "https://studies.aljazeera.net/ar/rss.xml",
+   "used_for": "تواريخ النشر العربية"
+  },
+  {
+   "url": "https://studies.aljazeera.net/en/rss.xml",
+   "used_for": "تواريخ النشر الإنجليزية"
+  },
+  {
+   "url": "https://studies.aljazeera.net/ar/node/<6380..6740>",
+   "used_for": "تعداد المواد والعناوين واللغة"
+  },
+  {
+   "url": "https://studies.aljazeera.net/ar/policy-briefs",
+   "used_for": "القسم والتاريخ (ومثلها reports, comments, mediastudies, theses, news, publications, dossiers, events بالعربية والإنجليزية)"
+  },
+  {
+   "url": "https://t.me/s/AlJCS",
+   "used_for": "مشتركو ومنشورات تلغرام ومشاهداتها (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/user/aljazeerasc",
+   "used_for": "عدد مشتركي يوتيوب (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC57d1lNYWh46lCaOjLWnhJw",
+   "used_for": "أحدث 15 فيديو ومشاهداتها"
+  },
+  {
+   "url": "https://studies.aljazeera.net/sites/default/files/articles/2026-11/web_1.jpg",
+   "used_for": "فحص بصري لصورة og"
+  }
+ ]
+}

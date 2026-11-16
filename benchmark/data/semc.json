@@ -1,0 +1,600 @@
+{
+ "center": "مركز الدراسات والإعلام الاقتصادي – Studies & Economic Media Center (SEMC)",
+ "website": "https://economicmedia.net/",
+ "accessed": "2026-11-13",
+ "accounts": {
+  "x": {
+   "url": "https://x.com/economicmedia",
+   "verified_via": "https://economicmedia.net/"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/economicmedia",
+   "verified_via": "https://economicmedia.net/"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/economicmedia/",
+   "verified_via": "https://economicmedia.net/"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@economicmedia"
+   },
+   {
+    "platform": "Facebook (مرصد الحريات الإعلامية – مرصدك)",
+    "url": "https://www.facebook.com/MEDIAFREEDOMOBSERVATORY/"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube",
+   "value": 1270,
+   "figure_date": "2026-11-13",
+   "source_url": "https://www.youtube.com/@economicmedia/videos",
+   "type": "actual-on-platform",
+   "note": "عدد المشتركين كما في بيانات صفحة القناة (1.27K؛ userInteractionCount=1270)، والقناة تعرض 434 فيديو. رقم حالي فقط ولا يدل على نمو."
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 6,
+   "by_language": {
+    "ar": 3,
+    "en": 3
+   }
+  },
+  "d90": {
+   "total": 23,
+   "by_language": {
+    "ar": 13,
+    "en": 10
+   }
+  },
+  "method": "WordPress REST API عبر rest_route (الروابط الدائمة بصيغة ?p=) للموقع العربي وللموقع الإنجليزي الفرعي /en، مع after=2026-08-16T00:00:00 و per_page=100؛ الترويسة X-WP-Total = 13 (عربي) و10 (إنجليزي). نافذة 30 يوماً = المنشورات بتاريخ 2026-10-15 فأحدث. نوع المادة مصنّف يدوياً من العنوان لأن تصنيفات الموقع عامة (انشطتنا/اصداراتنا/تقارير).",
+  "source_urls": [
+   "https://economicmedia.net/index.php?rest_route=/wp/v2/posts&after=2026-08-16T00:00:00&per_page=100",
+   "https://economicmedia.net/en/index.php?rest_route=/wp/v2/posts&after=2026-08-16T00:00:00&per_page=100"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-11",
+   "title": "Taiz Under Siege: Road Closures Threaten to Collapse Essential Supplies and Services",
+   "type": "ورقة إحاطة",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3916"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "تعز تحت الحصار: إغلاق الطرق يهدد بانهيار الإمدادات والخدمات الأساسية",
+   "type": "ورقة إحاطة",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6118"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Displaced Journalists Call for Urgent Support to Address Risks and the Consequences of Displacement",
+   "type": "فعالية/نشاط",
+   "topic": "الصحفيون النازحون",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3909"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "اليمن: صحفيون نازحون يطالبون بدعم عاجل لمواجهة المخاطر وتداعيات النزوح",
+   "type": "فعالية/نشاط",
+   "topic": "الصحفيون النازحون",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6113"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Yemen: Third Briefing on the Humanitarian Situation in Taiz: The Siege Exacerbates Residents’ Suffering Despite a Temporary Improvement in Supplies",
+   "type": "ورقة إحاطة",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3902"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "الإحاطة الثالثة حول الوضع الإنساني في تعز: الحصار يفاقم معاناة السكان رغم التحسن المؤقت في الإمدادات",
+   "type": "ورقة إحاطة",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6099"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "SEMC Warns of Worsening Economic and Humanitarian Crisis in Taiz Due to Road Closures",
+   "type": "بيان/خبر",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3892"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "مركز الدراسات والإعلام الاقتصادي يحذر من تفاقم الأزمة الاقتصادية والإنسانية في تعز جراء إغلاق الطرق",
+   "type": "بيان/خبر",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6089"
+  },
+  {
+   "date": "2026-09-29",
+   "title": "الإعلام الاقتصادي: 6 من كل 10 صحفيات تعرضن للعنف الرقمي",
+   "type": "تقرير",
+   "topic": "العنف الرقمي ضد الصحفيات",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6081"
+  },
+  {
+   "date": "2026-09-20",
+   "title": "مركز الدراسات والإعلام الاقتصادي ينظم جلسة تدريبية للصحفيات حول الاستجابة للعنف الرقمي",
+   "type": "فعالية/نشاط",
+   "topic": "العنف الرقمي ضد الصحفيات",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6085"
+  },
+  {
+   "date": "2026-09-20",
+   "title": "إحاطة جديدة: التداعيات الاقتصادية والإنسانية لسيطرة جماعة الحوثي على باب المندب",
+   "type": "ورقة إحاطة",
+   "topic": "باب المندب",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6074"
+  },
+  {
+   "date": "2026-09-19",
+   "title": "new briefing paper “Bab Al-Mandeb Strait: The Economic and Humanitarian Implications of Houthi Control over a Lifeline of Trade in the Red Sea.”",
+   "type": "ورقة إحاطة",
+   "topic": "باب المندب",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3884"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "Briefing on the Situation of Journalists and Media Workers Displaced from Mocha and Surrounding Areas – Yemen",
+   "type": "ورقة إحاطة",
+   "topic": "الصحفيون النازحون",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3879"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "اليمن: مرصدك يدعو إلى دعم عاجل للصحفيين النازحين من المخا والمناطق المجاورة",
+   "type": "بيان/خبر",
+   "topic": "الصحفيون النازحون",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6066"
+  },
+  {
+   "date": "2026-09-07",
+   "title": "الإعلام الاقتصادي يناقش واقع العنف الرقمي ضد الصحفيات في اليمن",
+   "type": "فعالية/نشاط",
+   "topic": "العنف الرقمي ضد الصحفيات",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6038"
+  },
+  {
+   "date": "2026-09-05",
+   "title": "Enforced Disappearance of Journalists and Media Workers in Yemen: A Documentation Report, 2015–2026",
+   "type": "تقرير",
+   "topic": "الاختفاء القسري للصحفيين",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3872"
+  },
+  {
+   "date": "2026-09-05",
+   "title": "الاختفاء القسري للصحفيين والإعلاميين في اليمن: تقرير توثيقي 2015–2026",
+   "type": "تقرير",
+   "topic": "الاختفاء القسري للصحفيين",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6032"
+  },
+  {
+   "date": "2026-08-30",
+   "title": "Human Rights Webinar Calls for Unified Documentation of Enforced Disappearances of Journalists and Stronger Accountability",
+   "type": "فعالية/نشاط",
+   "topic": "الاختفاء القسري للصحفيين",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3866"
+  },
+  {
+   "date": "2026-08-30",
+   "title": "ندوة حقوقية تدعو إلى توحيد جهود توثيق الاختفاء القسري للصحفيين وتعزيز المساءلة",
+   "type": "فعالية/نشاط",
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6029"
+  },
+  {
+   "date": "2026-08-23",
+   "title": "Government and Private Sector Representatives Discuss Mechanisms for Adopting PPP Law",
+   "type": "فعالية/نشاط",
+   "topic": "قانون الشراكة مع القطاع الخاص",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3859"
+  },
+  {
+   "date": "2026-08-23",
+   "title": "SEMC Calls on Government to Take Urgent Action to Ensure Household LPG and Implement Sustainable Reforms",
+   "type": "بيان/خبر",
+   "topic": "أزمة الغاز المنزلي",
+   "language": "en",
+   "url": "https://economicmedia.net/en/?p=3855"
+  },
+  {
+   "date": "2026-08-23",
+   "title": "الحكومة وممثلي القطاع الخاص يناقشون آليات إقرار قانون الشراكة",
+   "type": "فعالية/نشاط",
+   "topic": "قانون الشراكة مع القطاع الخاص",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6021"
+  },
+  {
+   "date": "2026-08-22",
+   "title": "الإعلام الاقتصادي يدعو الحكومة إلى تحرك عاجل لتوفير الغاز المنزلي وإصلاح مستدام",
+   "type": "بيان/خبر",
+   "topic": "أزمة الغاز المنزلي",
+   "language": "ar",
+   "url": "https://economicmedia.net/?p=6017"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 0,
+  "reports": 3,
+  "analysis": 7,
+  "news": 5,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 8,
+  "other": 0
+ },
+ "type_breakdown_note": "العدّ يشمل النسختين العربية والإنجليزية (23 مادة). التصنيف اجتهادي من العنوان: analysis = أوراق الإحاطة، reports = التقارير التوثيقية/المسحية، events = ندوات وجلسات ولقاءات، news = بيانات وأخبار. الفيديو والبودكاست يُنشران على يوتيوب لا على الموقع (انظر social_channels_observed).",
+ "top_topics": [
+  {
+   "topic": "حصار تعز والوضع الاقتصادي-الإنساني",
+   "count": 7
+  },
+  {
+   "topic": "الصحفيون النازحون",
+   "count": 4
+  },
+  {
+   "topic": "الاختفاء القسري للصحفيين",
+   "count": 3
+  },
+  {
+   "topic": "العنف الرقمي ضد الصحفيات",
+   "count": 3
+  },
+  {
+   "topic": "باب المندب",
+   "count": 2
+  },
+  {
+   "topic": "قانون الشراكة مع القطاع الخاص",
+   "count": 2
+  },
+  {
+   "topic": "أزمة الغاز المنزلي",
+   "count": 2
+  }
+ ],
+ "languages": [
+  "ar",
+  "en"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/@economicmedia",
+   "posts_30d": 5,
+   "posts_90d": 15,
+   "typical_views": "الفيديوهات الطويلة: 0–13 مشاهدة غالباً؛ الأعلى في النافذة 1,402 (تغطية قناة اليمن اليوم لنزوح 117 صحفياً، 2026-10-10) ثم 256 (Short دعوة جائزة الشجاعة الصحفية)",
+   "note": "العدّ الفعلي من خلاصة RSS للقناة التي تعرض آخر 15 فيديو فقط (أقدمها 2026-09-01)، لذا رقم الـ90 يوماً حدّ أدنى مؤكد. تبويب الفيديوهات يعرض 13 فيديو إضافياً أقدم بوسم «2mo ago» (تغطيات قنوات لإطلاق تقرير «صحفيون بلا حماية» واللقاء التشاوري وبيان الغاز المنزلي) يُرجَّح أنها بين منتصف أغسطس و1 سبتمبر؛ تقدير غير مؤكد: نحو 28 فيديو في 90 يوماً. تعذر جلب التواريخ الدقيقة (يوتيوب أعاد 429 لصفحات المشاهدة). 30 يوماً = 5 بتواريخ دقيقة من RSS (25-10، 03-11، 04-11، 07-11، 11-11)."
+  },
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/economicmedia",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "لا قناة تيليجرام مرتبطة من الموقع، والمعاينة العامة للمعرّفين economicmedia و semc_yemen لا تعرض منشورات."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn",
+   "url": "https://x.com/economicmedia",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابلة للقراءة من هذه البيئة؛ الموقع يضمّن ودجت 'Tweets by economicmedia' لكن محتواه يُحمَّل من X."
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-10-10",
+   "url": "https://www.youtube.com/watch?v=p9OcIGdNizo",
+   "summary": "من المخا إلى المجهول.. نزوح 117 صحفيًا هربًا من القمع | تغطية قناة اليمن اليوم",
+   "likes": "9",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1402",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-03",
+   "url": "https://www.youtube.com/watch?v=Pp3Pds3yjZ4",
+   "summary": "دعوة لتقديم على جائزة الشجاعه الصحفية في اليمن للعام 2026 (Short)",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "256",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-08",
+   "url": "https://www.youtube.com/watch?v=DGYwsvKSsNQ",
+   "summary": "ندوة نقاشية: العنف الرقمي ضد الصحفيات في اليمن: الواقع والتجارب",
+   "likes": "1",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "13",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-04",
+   "url": "https://www.youtube.com/watch?v=QlXrrP-dn6M",
+   "summary": "صحفيون نازحون في اليمن يطالبون بدعم عاجل",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "7",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-07",
+   "url": "https://www.youtube.com/watch?v=e0R_nbuS0rM",
+   "summary": "الاختفاء القسري للصحفيين في اليمن",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "7",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-20",
+   "url": "https://www.youtube.com/watch?v=hMgUAKYPVuI",
+   "summary": "جلسة تدريبية حول: الاستجابة للعنف الرقمي",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "6",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-14",
+   "url": "https://www.youtube.com/watch?v=-jX0oWtPGsw",
+   "summary": "بودكاست \"صوت آمن\" حلقة 1: من منصات تواصل إلى ساحات اعتداء",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "5",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-08",
+   "url": "https://www.youtube.com/watch?v=nUqwROeIpnE",
+   "summary": "مؤتمر إطلاق التقرير النصفي لحريات الإعلام في اليمن 2026",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "5",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-30",
+   "url": "https://www.youtube.com/watch?v=EolwkleODZE",
+   "summary": "جلسة تدريبية: مواجهة العنف الرقمي قانونياً: الإبلاغ وحفظ الأدلة",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "4",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-08",
+   "url": "https://www.youtube.com/watch?v=IKYkFMvjoTI",
+   "summary": "Violations of Media Freedom in the First Half of 2026",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "3",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-11",
+   "url": "https://www.youtube.com/watch?v=8TBqV7fB7Ck",
+   "summary": "جائزة الشجاعة الصحفية في اليمن 2026 | شروط ومعايير المنافسة وآلية الترشح",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-25",
+   "url": "https://www.youtube.com/watch?v=W5UiqbAp2x4",
+   "summary": "الإعلام الاقتصادي يحذر من تداعيات التصعيد في باب المندب على الاقتصاد والتجارة والأوضاع الإنسانية",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-09-01",
+   "url": "https://www.youtube.com/watch?v=7CNPdetOlFI",
+   "summary": "تغطية قناة سهيل لندوة «مرصدك» حول الاختفاء القسري للصحفيين في اليمن",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-07",
+   "url": "https://www.youtube.com/watch?v=IpOF3XtIB_U",
+   "summary": "مؤتمر الإعلام اليمني الخامس | خمس نسخ من النقاش والتجارب.. ومحطة جديدة تبدأ",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "0",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-10-11",
+   "url": "https://www.youtube.com/watch?v=vAvPQlWbciE",
+   "summary": "جلسة تدريبية: الأثر النفسي والوقاية: كيف نتعافى ونحد من العنف الرقمي",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "0",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين خبرية/مناصِرة بصيغة بيان صحفي تبدأ غالباً باسم المركز وفعل موقف (يحذر، يدعو، ينظم، يناقش)، أو برقم صادم مستخرج من تقرير («6 من كل 10 صحفيات تعرضن للعنف الرقمي»)، أو باسم القالب («إحاطة جديدة:…»، «الإحاطة الثالثة حول…»، «تقرير توثيقي 2015–2026»). العناوين الإنجليزية ترجمة مباشرة.",
+ "design_style": "غلاف موحّد لأوراق الإحاطة كصورة مميزة/og:image: صورة فوتوغرافية للمكان بطبقة زرقاء شفافة، شعار SEMC أعلى الوسط، وسم القالب «ورقة احاطة»، عنوان عريض بخط عربي سميك مع تظليل، عنوان فرعي، وشارة الشهر («نوفمبر 2026»)، بنسختين عربية وإنجليزية (أسماء الملفات «غلاف عربي»/«A-Cover»). مقاس صغير نسبياً (650×366). الموقع نفسه بقالب WordPress قديم (حقوق 2017) وروابط ?p=.",
+ "promotion_tactics": [
+  {
+   "tactic": "قالب «ورقة إحاطة» متسلسل ومرقّم حول ملف واحد (ثلاث إحاطات عن تعز في أكتوبر–نوفمبر) مع غلاف موحّد",
+   "evidence_url": "https://economicmedia.net/?p=6099"
+  },
+  {
+   "tactic": "رابط PDF مباشر داخل الخبر للتقرير/الإحاطة الكاملة، والخبر نفسه ملخص تنفيذي",
+   "evidence_url": "https://economicmedia.net/?p=6074"
+  },
+  {
+   "tactic": "نشر ثنائي اللغة شبه متزامن (10 من 13 مادة عربية لها مقابل إنجليزي في الموقع /en خلال 0–1 يوم)",
+   "evidence_url": "https://economicmedia.net/en/index.php?rest_route=/wp/v2/posts&after=2026-08-16T00:00:00&per_page=100"
+  },
+  {
+   "tactic": "أزرار مشاركة فيسبوك وواتساب في صفحة المادة",
+   "evidence_url": "https://economicmedia.net/?p=6118"
+  },
+  {
+   "tactic": "عنوان مبني على رقم من التقرير (6 من كل 10)",
+   "evidence_url": "https://economicmedia.net/?p=6081"
+  },
+  {
+   "tactic": "إعادة نشر التغطيات التلفزيونية لفعاليات المركز وتقاريره على يوتيوب (سهيل، بلقيس، يمن شباب، سبأ، عدن، اليمن اليوم) + بودكاست «صوت آمن» + تسجيلات الجلسات التدريبية + Shorts",
+   "evidence_url": "https://www.youtube.com/@economicmedia/videos"
+  },
+  {
+   "tactic": "علامات فرعية: مرصد الحريات الإعلامية «مرصدك»، المنتدى الاقتصادي اليمني، مجلة الإعلام الاقتصادي، مؤتمر الإعلام اليمني السنوي، جائزة الشجاعة الصحفية",
+   "evidence_url": "https://economicmedia.net/"
+  },
+  {
+   "tactic": "قسم «إعلانات وفرص» وودجت تغريدات مضمّن في الصفحة الرئيسية",
+   "evidence_url": "https://economicmedia.net/"
+  }
+ ],
+ "strengths": [
+  "وتيرة منتظمة: 13 مادة عربية + 10 إنجليزية في 90 يوماً (نحو مادة عربية أسبوعياً)",
+  "قالب الإحاطة السريع المرتبط بالحدث الجاري (تعز، باب المندب) مع PDF وغلاف موحّد",
+  "ثنائية لغوية شبه متزامنة",
+  "تحويل كل تقرير إلى سلسلة: ندوة إطلاق → خبر برقم بارز → تغطيات تلفزيونية → فيديو",
+  "الـShorts وتغطيات القنوات تحقق مئات إلى أكثر من ألف مشاهدة مقابل آحاد للفيديوهات الطويلة"
+ ],
+ "weaknesses": [
+  "مشاهدات يوتيوب ضعيفة جداً للمحتوى الطويل (0–13 مشاهدة) رغم 1,270 مشتركاً",
+  "موقع قديم تقنياً: روابط ?p=، لا RSS يعمل على /feed/، خريطة موقع يدوية بلا تواريخ، صور og صغيرة",
+  "لا نشرة بريدية ولا تيليجرام/واتساب قناة مرتبطة من الموقع",
+  "غلبة البيانات وأخبار الأنشطة على التحليل المعمّق، وتصنيفات الموقع عامة",
+  "الثقل الموضوعي لحريات الإعلام أكثر من الاقتصاد في النافذة"
+ ],
+ "opportunities_for_mokha": [
+  "اعتماد قالب «ورقة إحاطة» قصير ومرقّم للأحداث الجارية بغلاف موحّد وشارة الشهر، مع PDF",
+  "استخراج رقم واحد بارز من كل دراسة وجعله عنواناً وبطاقة مشاركة",
+  "الاستثمار في الفيديو القصير (Shorts/Reels) المشتق من الدراسات بدل التسجيلات الطويلة، بدلالة فارق المشاهدات عند SEMC",
+  "إعادة نشر مقاطع الظهور الإعلامي لباحثي المركز على قنواته",
+  "إتاحة ملخص إنجليزي متزامن للمواد الأبرز",
+  "التميّز بما ينقص SEMC: نشرة بريدية وقناة تيليجرام/واتساب وروابط نظيفة وصور og بمقاس 1200×630"
+ ],
+ "limitations": [
+  "x.com و facebook.com و linkedin.com تحجب القراءة الآلية/غير المسجّلة في هذه البيئة (جدار تسجيل دخول، 403/402)؛ لم تُجرَ أي محاولة تجاوز، لذلك أعداد المتابعين والمنشورات والتفاعل على هذه المنصات غير متاحة.",
+  "لم يُعثر على أرقام متابعين لـX/فيسبوك/لينكدإن عبر محركات البحث.",
+  "يوتيوب: RSS يقتصر على آخر 15 فيديو، وصفحات المشاهدة أعادت 429 فتعذّر تحديد التواريخ الدقيقة لـ13 فيديو أقدم؛ عدد التعليقات غير متاح؛ «الإعجابات» مأخوذة من حقل starRating في الخلاصة.",
+  "مشاهدات يوتيوب تراكمية كما ظهرت في 2026-11-13.",
+  "لم تُفحص المواقع الشقيقة (مرصدك وغيره)؛ العدّ يخص economicmedia.net و economicmedia.net/en فقط.",
+  "تصنيف نوع المادة وموضوعها اجتهادي من العناوين."
+ ],
+ "sources": [
+  {
+   "url": "https://economicmedia.net/",
+   "used_for": "روابط الحسابات الرسمية، بنية الصفحة الرئيسية (رُصد 2026-11-13)"
+  },
+  {
+   "url": "https://economicmedia.net/en/",
+   "used_for": "الحسابات في النسخة الإنجليزية"
+  },
+  {
+   "url": "https://economicmedia.net/index.php?rest_route=/wp/v2/posts&after=2026-08-16T00:00:00&per_page=100",
+   "used_for": "عدّ وقائمة المواد العربية"
+  },
+  {
+   "url": "https://economicmedia.net/en/index.php?rest_route=/wp/v2/posts&after=2026-08-16T00:00:00&per_page=100",
+   "used_for": "عدّ وقائمة المواد الإنجليزية"
+  },
+  {
+   "url": "https://economicmedia.net/?p=6118",
+   "used_for": "og:image، أزرار المشاركة، PDF"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoJ3Ns-Nne0sNgfNmDQhfRg",
+   "used_for": "تواريخ ومشاهدات آخر 15 فيديو"
+  },
+  {
+   "url": "https://www.youtube.com/@economicmedia/videos",
+   "used_for": "عدد المشتركين وعدد الفيديوهات وقائمة الفيديوهات"
+  },
+  {
+   "url": "https://www.youtube.com/@economicmedia/shorts",
+   "used_for": "مشاهدات المقاطع القصيرة"
+  }
+ ]
+}

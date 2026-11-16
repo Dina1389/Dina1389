@@ -1,0 +1,971 @@
+{
+ "center": "مركز صنعاء للدراسات الاستراتيجية (Sana'a Center for Strategic Studies)",
+ "website": "https://sanaacenter.org",
+ "accessed": "2026-11-13 (الموقع، WP API، خرائط الموقع) و2026-11-14 (يوتيوب) و2026-11-16 (صفحات قوائم الإصدارات ولقطات الشاشة)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/SanaaCenter",
+   "verified_via": "https://sanaacenter.org/ (تذييل الصفحة الرئيسية)"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/sanaacenter",
+   "verified_via": "https://sanaacenter.org/"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/sanaacentre",
+   "verified_via": "https://sanaacenter.org/"
+  },
+  "other": [
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/sanaacenterorg/"
+   },
+   {
+    "platform": "TikTok",
+    "url": "https://www.tiktok.com/@sanaacenterorg"
+   },
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/sanaacenter"
+   },
+   {
+    "platform": "WhatsApp Channel (EN)",
+    "url": "https://whatsapp.com/channel/0029VagFC1iBadmVvi7Akl0Q"
+   },
+   {
+    "platform": "WhatsApp Channel (AR)",
+    "url": "https://whatsapp.com/channel/0029VagGhNwH5JLzl58Zv72G"
+   },
+   {
+    "platform": "Telegram (EN، رابط دعوة خاص)",
+    "url": "https://t.me/+3n_xvAyYp_QzMjQ0"
+   },
+   {
+    "platform": "Telegram (AR، رابط دعوة خاص)",
+    "url": "https://t.me/+rEMSgAyLGdpiOGNk"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube",
+   "value": 26600,
+   "figure_date": "2026-11-14",
+   "source_url": "https://www.youtube.com/sanaacenter",
+   "type": "actual-on-platform (القيمة المعروضة مقرّبة: 26.6K مشترك، 657 فيديو)"
+  },
+  {
+   "platform": "X",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://twitter.com/SanaaCenter",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.facebook.com/sanaacenter",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.linkedin.com/company/sanaacentre",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Instagram / TikTok / WhatsApp / Telegram",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://sanaacenter.org/",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 23,
+   "by_language": {
+    "en": 16,
+    "ar": 7
+   }
+  },
+  "d90": {
+   "total": 53,
+   "by_language": {
+    "en": 31,
+    "ar": 22
+   }
+  },
+  "method": "أرقام فعلية مرصودة: (1) WordPress REST API لنوع posts بالإنجليزية والعربية (‎/wp-json/wp/v2/posts?after=2026-08-15T00:00:00&per_page=100 و ‎/ar/wp-json/...‎) = 17 مادة لكل لغة، جُلبت عبر Playwright عادي لأن curl يُرفض بخطأ 406 (ModSecurity)؛ (2) أقسام «تقرير اليمن» (نوع محتوى مخصص غير ظاهر في REST) من yemen-review-sitemap.xml و yemen-review-section-sitemap.xml مع قراءة التاريخ المعروض في كل صفحة؛ (3) صفحات القوائم ‎/publications‎ و ‎/ar/publications-ar‎ (الصفحات 1-5) لالتقاط أقسام العدد العربي لتموز-أيلول غير الواردة في خريطة الموقع. العدّ بحسب التاريخ المعروض على الصفحة. فعالية Yemen Exchange غير محسوبة ضمن إجمالي المنشورات. كل ترجمة لغوية تُحسب مادة مستقلة.",
+  "source_urls": [
+   "https://sanaacenter.org/wp-json/wp/v2/posts?after=2026-08-15T00:00:00&per_page=100",
+   "https://sanaacenter.org/ar/wp-json/wp/v2/posts?after=2026-08-15T00:00:00&per_page=100",
+   "https://sanaacenter.org/sitemap_index.xml",
+   "https://sanaacenter.org/yemen-review-section-sitemap.xml",
+   "https://sanaacenter.org/publications",
+   "https://sanaacenter.org/ar/publications-ar",
+   "https://sanaacenter.org/the-yemen-review/jul-sept-2026"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-13",
+   "title": "Teaching a New Generation to Fear the Other: Conspiratorial Rhetoric in Houthi Education",
+   "type": "Policy Research",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/policy-research/28738"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "مواجهة الحوثيين: بين تهديد الملاحة وحدود الحسم العسكري",
+   "type": "ترجمات",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/translations/28733"
+  },
+  {
+   "date": "2026-11-08",
+   "title": "كيف تشكلت صورة الحوثيين وما الذي حجبته؟",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28697"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "How the Houthis’ Image Took Shape and What It Obscured",
+   "type": "Perspectives and Analyses",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28680"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Customary Law and Transitional Justice Pathways in Yemen",
+   "type": "Policy Research",
+   "topic": "القبيلة والعرف والعدالة الانتقالية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/policy-research/28664"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "المعركة الافتراضية على الساحل الغربي لليمن غيداء الرشيدي",
+   "type": "تقرير اليمن – قسم/مقال ضمن العدد (وجهات نظر وتحليلات)",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/the-yemen-review/jul-sept-2026/28797"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "السعودية والبحث عن الأمن خالد منصر",
+   "type": "تقرير اليمن – قسم/مقال ضمن العدد (وجهات نظر وتحليلات)",
+   "topic": "الإقليم والخليج وإيران",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/the-yemen-review/jul-sept-2026/28792"
+  },
+  {
+   "date": "2026-10-24",
+   "title": "عودة اليمن إلى الحرب: التداعيات على أمن الخليج",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/28637"
+  },
+  {
+   "date": "2026-10-24",
+   "title": "إعادة بناء المؤسّسة العسكرية اليمنية: التجارب التاريخية ومسارات الإصلاح م",
+   "type": "تقرير اليمن – قسم/مقال ضمن العدد (وجهات نظر وتحليلات)",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/the-yemen-review/jul-sept-2026/28682"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "كيف أصبح الحوثيون بهذه الخطورة؟",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/28608"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "The Yemen Review Quarterly: July-September 2026",
+   "type": "The Yemen Review (العدد الفصلي كاملاً)",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Rebuilding Yemen’s Military Institution: Historical Precedents and Pathways to Reform",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28505"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "An Agonizing Road to Nowhere: The Tragedy of Yemen’s Displaced",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "النزوح والوضع الإنساني",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28508"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "A Country of Men: Yemen’s Young Soldiers",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28512"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "The Saudi Search for Security",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "الإقليم والخليج وإيران",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28524"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "At What Cost? Moscow, Riyadh, and the Intelligence War in Yemen",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28527"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Yemen’s Digital Diaspora",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28551"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Yemen’s Two Wars: 2015 and 2026",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28556"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Politics and Diplomacy",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "السياسة والدبلوماسية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28560"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "The Virtual Battle on Yemen’s West Coast",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28569"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Resumption of War Worsens Environmental Impact",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28573"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "The Economy",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "الاقتصاد والبيئة",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28578"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Back to War",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28584"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "How Have the Houthis Become So Dangerous?",
+   "type": "Perspectives and Analyses",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28567"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Yemen’s Return to War: Implications for Gulf Security",
+   "type": "Perspectives and Analyses",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/28522"
+  },
+  {
+   "date": "2026-10-12",
+   "title": "العاملون في الإغاثة: حافظوا على صمود اليمن، وهم اليوم بحاجة إلى الحماية",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "النزوح والوضع الإنساني",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28720"
+  },
+  {
+   "date": "2026-10-11",
+   "title": "A Defining Moment for Yemen",
+   "type": "The Yemen Review – قسم/مقال ضمن العدد",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "en",
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026/28493"
+  },
+  {
+   "date": "2026-10-11",
+   "title": "لحظة فاصلة تحدد مستقبل اليمن هيئة تحرير مركز صنعاء",
+   "type": "تقرير اليمن – قسم/مقال ضمن العدد (افتتاحيات)",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/the-yemen-review/jul-sept-2026/28499"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "حرب اليمن تتجدد، لكن مآلاتها غير واضحة",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28477"
+  },
+  {
+   "date": "2026-10-06",
+   "title": "Yemen’s War Resumes, But the Endgame Remains Uncertain",
+   "type": "Perspectives and Analyses",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28470"
+  },
+  {
+   "date": "2026-10-04",
+   "title": "معركة تعز والصراع على اليمن",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28457"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "The Battle for Taiz and the Struggle for Yemen",
+   "type": "Perspectives and Analyses",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28435"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "Yemen’s Aid Workers Keep the Country Afloat, They Urgently Need Protection",
+   "type": "Perspectives and Analyses",
+   "topic": "النزوح والوضع الإنساني",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28433"
+  },
+  {
+   "date": "2026-10-02",
+   "title": "الحوثيون في باب المندب: إعادة رسم المشهد الأمني للإقليم",
+   "type": "ترجمات",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/translations/28442"
+  },
+  {
+   "date": "2026-09-28",
+   "title": "مدينة تتآكل في صمت: البقاء والتكيف في صنعاء",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28425"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "مشكلة الحوثيين الأزلية",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28463"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "«كانت رائحة أرضنا جميلة»: حكايات نازحين في اليمن",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "النزوح والوضع الإنساني",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28483"
+  },
+  {
+   "date": "2026-09-22",
+   "title": "البحث عن كبش فداء لن يعالج سوء إدارة الحرب في اليمن",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28412"
+  },
+  {
+   "date": "2026-09-21",
+   "title": "الحوثيون يستولون على الساحل الغربي في اليمن: آراء خبراء",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28349"
+  },
+  {
+   "date": "2026-09-16",
+   "title": "The Perennial Problem of the Houthis",
+   "type": "Perspectives and Analyses",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28342"
+  },
+  {
+   "date": "2026-09-16",
+   "title": "‘Our Land Smelled Beautiful’: Stories from IDPs in Yemen",
+   "type": "Perspectives and Analyses",
+   "topic": "النزوح والوضع الإنساني",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/27643"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "The Houthis Seize Yemen’s West Coast: Reactions from Experts",
+   "type": "Perspectives and Analyses",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28317"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "A City Eroding in Silence: Survival and Adaptation in Sana’a",
+   "type": "Perspectives and Analyses",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28309"
+  },
+  {
+   "date": "2026-09-15",
+   "title": "مطارح الريان: تضامن القبائل والدفاع عن العُرف القبلي",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "القبيلة والعرف والعدالة الانتقالية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28616"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "Finding a Scapegoat Will Not Fix Yemen’s Mismanaged War",
+   "type": "Perspectives and Analyses",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28301"
+  },
+  {
+   "date": "2026-09-14",
+   "title": "The Al-Rayyan Matarih: Tribal Solidarity and the Defense of Tribal Urf",
+   "type": "Perspectives and Analyses",
+   "topic": "القبيلة والعرف والعدالة الانتقالية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28297"
+  },
+  {
+   "date": "2026-09-10",
+   "title": "من سيشكّل النظام الجديد في البحر الأحمر؟",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28293"
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Who Will Shape the New Order in the Red Sea?",
+   "type": "Perspectives and Analyses",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28289"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "توسع زراعة القات في اقتصاد الحرب اليمني: المبيدات السامة واستنزاف المياه م",
+   "type": "تقرير اليمن – قسم/مقال ضمن العدد (وجهات نظر وتحليلات)",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/the-yemen-review/april-june-2026/28259"
+  },
+  {
+   "date": "2026-09-01",
+   "title": "Statement on the Occasion of Transitional Justice Week in Yemen, September 1, 2026",
+   "type": "Press Releases",
+   "topic": "القبيلة والعرف والعدالة الانتقالية",
+   "language": "en",
+   "url": "https://sanaacenter.org/news/28216"
+  },
+  {
+   "date": "2026-09-01",
+   "title": "بيان صادر عن: أعضاء و منظمات منتدى سلام اليمن وشبكة العدالة اليمنية",
+   "type": "بيانات صحفية",
+   "topic": "القبيلة والعرف والعدالة الانتقالية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/news-ar/28211"
+  },
+  {
+   "date": "2026-09-01",
+   "title": "عودة الحرب في اليمن: المعطيات والمآلات – قراءة خبراء مركز صنعاء",
+   "type": "وجهات نظر وتحليلات",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://sanaacenter.org/ar/publications-ar/perspectives-and-analyses-ar/28202"
+  },
+  {
+   "date": "2026-08-24",
+   "title": "Yemen’s Return to War: What is the Endgame? Reactions from Sana’a Center Experts",
+   "type": "Perspectives and Analyses",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://sanaacenter.org/publications/perspectives-and-analyses/28199"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 2,
+  "reports": 19,
+  "analysis": 28,
+  "news": 2,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 1,
+  "other": 2
+ },
+ "top_topics": [
+  {
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "count": 18
+  },
+  {
+   "topic": "البحر الأحمر وباب المندب",
+   "count": 8
+  },
+  {
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "count": 7
+  },
+  {
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "count": 6
+  },
+  {
+   "topic": "القبيلة والعرف والعدالة الانتقالية",
+   "count": 5
+  },
+  {
+   "topic": "النزوح والوضع الإنساني",
+   "count": 5
+  },
+  {
+   "topic": "الإقليم والخليج وإيران",
+   "count": 2
+  },
+  {
+   "topic": "السياسة والدبلوماسية",
+   "count": 1
+  },
+  {
+   "topic": "الاقتصاد والبيئة",
+   "count": 1
+  }
+ ],
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "wp_tags_top_en_posts_90d": [
+  {
+   "tag": "Yemen",
+   "count": 14
+  },
+  {
+   "tag": "Houthis",
+   "count": 12
+  },
+  {
+   "tag": "Economic",
+   "count": 11
+  },
+  {
+   "tag": "Peace",
+   "count": 8
+  },
+  {
+   "tag": "Saudi Arabia",
+   "count": 8
+  },
+  {
+   "tag": "Aden",
+   "count": 7
+  },
+  {
+   "tag": "Sana'a",
+   "count": 7
+  },
+  {
+   "tag": "Security",
+   "count": 7
+  },
+  {
+   "tag": "US",
+   "count": 7
+  },
+  {
+   "tag": "Marib",
+   "count": 6
+  },
+  {
+   "tag": "Taiz",
+   "count": 6
+  },
+  {
+   "tag": "Iran",
+   "count": 5
+  }
+ ],
+ "events_observed": [
+  {
+   "date": "2026-10-26",
+   "title": "The 13th Yemen Exchange",
+   "url": "https://sanaacenter.org/events",
+   "note": "الفعالية الوحيدة المؤرخة داخل النافذة في صفحة الفعاليات (رُصدت 2026-11-13)"
+  }
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/sanaacenter",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "في آخر 15 فيديو بخلاصة RSS: 14 فيديو بين 2026-11-03 و2026-11-08 بمشاهدات 724–4498 (الوسيط ≈1242)؛ الأعلى 4498",
+   "note": "خلاصة RSS العلنية تعرض آخر 15 فيديو فقط، لذا عدد فيديوهات 30/90 يوماً الكامل غير متاح؛ الحد الأدنى المرصود في نافذة 30 يوماً = 14 فيديو (مقاطع عربية قصيرة من حلقات/حوارات). أرقام المشاهدات والإعجابات كما في RSS يوم 2026-11-14."
+  },
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/+rEMSgAyLGdpiOGNk",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "رابطا تيليجرام روابط دعوة خاصة (t.me/+...) بلا معاينة ويب عامة t.me/s؛ العدّ غير متاح."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn / Instagram / TikTok / WhatsApp",
+   "url": "https://sanaacenter.org/",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوبة عن القراءة غير المسجّلة في هذه البيئة؛ لم تُرصد منشورات."
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=duqYl-vTEzg",
+   "summary": "معركة تعز ومستقبل الجمهورية اليمنية",
+   "likes": "89",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "4498",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-07",
+   "url": "https://www.youtube.com/watch?v=6f7Jx2WaPkw",
+   "summary": "كيف حصل الحوثيون على اعتراف سياسي ضمني؟",
+   "likes": "40",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1806",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-03",
+   "url": "https://www.youtube.com/watch?v=aJTkYkZAE20",
+   "summary": "كيف يستخدم الحوثيون شبكات الاتصالات لاختراق تعز؟",
+   "likes": "9",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1491",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=PrqyZ22Jrzw",
+   "summary": "لماذا يراهن الحوثيون على محدودية الرد الأمريكي؟",
+   "likes": "21",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1454",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=Ck5jqGwHqdY",
+   "summary": "كيف يستفيد الحوثيون من انقسامات الشرعية اليمنية؟",
+   "likes": "23",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1442",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-07",
+   "url": "https://www.youtube.com/watch?v=7Qg5BcRMZmo",
+   "summary": "لماذا يوسع الحوثيون المواجهة خارج اليمن؟",
+   "likes": "13",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1303",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-04",
+   "url": "https://www.youtube.com/watch?v=9pYzyV9ea5k",
+   "summary": "كيف وصلت تداعيات حرب اليمن إلى أوروبا؟",
+   "likes": "20",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1249",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=ygRFFW3zuOw",
+   "summary": "هل تتدخل أوروبا عسكريا في اليمن؟",
+   "likes": "17",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1235",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-08",
+   "url": "https://www.youtube.com/watch?v=CishJ1-rf8g",
+   "summary": "هل يستطيع الحوثيون إعادة تشكيل المجتمع اليمني؟",
+   "likes": "16",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1149",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-07",
+   "url": "https://www.youtube.com/watch?v=joOpdm5vEM4",
+   "summary": "إيران وإسرائيل والحوثيون.. ما مستقبل التصعيد الإقليمي؟",
+   "likes": "13",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1140",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-03",
+   "url": "https://www.youtube.com/watch?v=ugXeQ_eWgus",
+   "summary": "نزوح متكرر في تعز.. إلى أين تذهب آلاف الأسر الهاربة من الحرب؟",
+   "likes": "7",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1038",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-08",
+   "url": "https://www.youtube.com/watch?v=EtYOJU7WQbA",
+   "summary": "لماذا تعثرت مفاوضات السلام في اليمن؟",
+   "likes": "23",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1024",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=i7QI36Ur4t0",
+   "summary": "كيف يستغل الحوثيون الانقسامات للتقدم في الجبهات؟",
+   "likes": "13",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "924",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-08",
+   "url": "https://www.youtube.com/watch?v=8mLkD0l5iHA",
+   "summary": "لماذا قد تغير معركة تعز شكل الحرب في اليمن؟",
+   "likes": "10",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "724",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين تحليلية قصيرة بصيغة سؤال أو أطروحة («كيف أصبح الحوثيون بهذه الخطورة؟»، «Who Will Shape the New Order in the Red Sea?»، «Finding a Scapegoat Will Not Fix Yemen’s Mismanaged War»)، مع عناوين سردية-إنسانية باقتباس («كانت رائحة أرضنا جميلة»: حكايات نازحين) وصيغة «آراء خبراء / Reactions from Experts» للتعليق السريع على الحدث. عناوين مقاطع يوتيوب كلها أسئلة «لماذا/كيف/هل». المصدر: قائمة WP API وخلاصة يوتيوب.",
+ "design_style": "تصوير صحفي ميداني أصلي بتعليق ونسبة («Sana'a Center photo by ...») كصورة رئيسية كبيرة بلا نص فوقها؛ هوية برتقالي/كحلي مع زخرفة هندسية خفيفة؛ بطاقات موحدة تعرض التصنيف + التاريخ + زمن القراءة بالدقائق + اسم الكاتب وصورته؛ وضع ليلي ومبدّل لغة. لم تُرصد إنفوغرافات كقسم مستقل. (لقطة شاشة لـ https://sanaacenter.org/ar/ بتاريخ 2026-11-16).",
+ "promotion_tactics": [
+  {
+   "tactic": "نشر ثنائي اللغة منتظم: المادة الإنجليزية تليها النسخة العربية غالباً خلال 1–12 يوماً (مثال: 28680 EN في 5 نوفمبر ← AR في 8 نوفمبر)",
+   "evidence_url": "https://sanaacenter.org/ar/wp-json/wp/v2/posts?after=2026-08-15T00:00:00&per_page=100"
+  },
+  {
+   "tactic": "سلسلة فصلية ذات علامة ثابتة «The Yemen Review / تقرير اليمن» مقسّمة إلى أقسام مستقلة قابلة للمشاركة (افتتاحية، عسكري، سياسي، اقتصاد، بيئة، Feature، تعليقات) = 14 رابطاً من إصدار واحد",
+   "evidence_url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026"
+  },
+  {
+   "tactic": "أزرار Share (X، فيسبوك، واتساب، تيليجرام) + «Cite This» + «Print» + زمن القراءة + «Download PDF» في الأوراق البحثية",
+   "evidence_url": "https://sanaacenter.org/publications/policy-research/28738"
+  },
+  {
+   "tactic": "نموذج «Join Our Mailing List» في كل صفحة",
+   "evidence_url": "https://sanaacenter.org/events"
+  },
+  {
+   "tactic": "قنوات واتساب وتيليجرام منفصلة للعربية والإنجليزية في التذييل",
+   "evidence_url": "https://sanaacenter.org/ar/"
+  },
+  {
+   "tactic": "بودكاست «موجز» وبودكاست منتدى اليمن الدولي بصفحة مستقلة، وإعادة تقطيع الحوارات إلى مقاطع يوتيوب قصيرة بعناوين أسئلة (14 مقطعاً في 6 أيام)",
+   "evidence_url": "https://sanaacenter.org/podcasts"
+  },
+  {
+   "tactic": "صيغة ردّ سريع على الأحداث «آراء خبراء المركز» خلال أيام من الحدث",
+   "evidence_url": "https://sanaacenter.org/publications/perspectives-and-analyses/28317"
+  },
+  {
+   "tactic": "برنامج تدريبي/فعالية سنوية ذات علامة «Yemen Exchange» (النسخة 13 في 26 أكتوبر 2026) وقسم ترجمات عربية لمواد خارجية",
+   "evidence_url": "https://sanaacenter.org/events"
+  }
+ ],
+ "strengths": [
+  "غزارة وانتظام: 53 مادة على الموقع في 90 يوماً (31 EN + 22 AR) و23 في آخر 30 يوماً",
+  "ثنائية لغوية شبه كاملة تضاعف الوصول",
+  "تنويع القوالب: ورقة بحثية + تحليل قصير + تقرير فصلي + افتتاحية + قصص إنسانية + بودكاست + مقاطع فيديو",
+  "يوتيوب نشط: 26.6K مشترك ومقاطع قصيرة بمئات إلى آلاف المشاهدات خلال أيام",
+  "هوية بصرية وتصوير أصلي منسوب، وأدوات مشاركة/استشهاد/PDF في كل مادة",
+  "حضور على 8 منصات مع قنوات واتساب وتيليجرام بلغتين"
+ ],
+ "weaknesses": [
+  "النسخ العربية تتأخر عن الإنجليزية (حتى ~12 يوماً) وورقتا Policy Research في نوفمبر لم تظهر لهما نسخة عربية حتى 13 نوفمبر",
+  "لا عدّاد مشاهدات علني على الموقع، ولا قسم إنفوغراف/بيانات مرئية مرصود",
+  "تواريخ أقسام العدد العربي من «تقرير اليمن» تحمل تاريخ العدد الأصلي لا تاريخ الرفع، ما يربك الأرشفة",
+  "قنوات تيليجرام بروابط دعوة خاصة لا تُفهرس ولا تُعاين علناً",
+  "صفحة البودكاست بلا تواريخ نشر ظاهرة"
+ ],
+ "opportunities_for_mokha": [
+  "اعتماد إصدار دوري ثابت العلامة (شهري/فصلي) مقسّم إلى أقسام قصيرة، لكل قسم رابط وصورة وعنوان مستقل للمشاركة",
+  "صيغة «آراء خبراء المركز» خلال 48–72 ساعة من أي حدث كبير",
+  "تقطيع الندوات/الحوارات إلى مقاطع قصيرة بعناوين أسئلة ونشرها متتابعة على يوتيوب/تيك توك/ريلز",
+  "إضافة زمن القراءة و«استشهد بهذا» وتحميل PDF وأزرار واتساب/تيليجرام في كل مادة",
+  "قناة واتساب + قناة تيليجرام عامة (لا رابط دعوة) لتكون قابلة للفهرسة والقياس",
+  "قائمة بريدية بنموذج اشتراك ثابت في كل صفحة",
+  "ترجمة مختارة إلى الإنجليزية لأهم 2–3 مواد شهرياً، وقسم ترجمات إلى العربية لمواد أجنبية عن اليمن",
+  "تصوير ميداني أصلي منسوب للمركز بدل الصور المخزنية"
+ ],
+ "limitations": [
+  "X وفيسبوك ولينكدإن (وكذلك إنستغرام وتيك توك وواتساب) غير قابلة للقراءة غير المسجّلة هنا: لا أعداد متابعين ولا منشورات ولا تفاعل؛ لم تُجرَ أي محاولة تجاوز",
+  "لا يمكن استنتاج نمو المتابعين؛ رقم يوتيوب لقطة آنية مقرّبة فقط",
+  "curl يُرفض من الموقع بـ406 (ModSecurity)؛ استُخدم Playwright عادي دون أي تمويه",
+  "أنواع المحتوى المخصصة (yemen-review, podcast, tt-event) غير متاحة في REST؛ خريطة الموقع لا تتضمن كل أقسام العدد العربي لتموز-أيلول، فعدد المواد العربية (22) حدّ أدنى مرصود: 5 أقسام عربية من تقرير اليمن ظهرت في القوائم، وقد توجد أقسام أخرى",
+  "7 صفحات عربية من عدد أبريل-يونيو تعرض تواريخ 10–15 أغسطس (قبل النافذة) بينما lastmod في خريطة الموقع بين 21 سبتمبر و11 نوفمبر ومعرّفاتها حديثة؛ لم تُحسب، والأرجح (تقدير لا رقم مؤكد) أنها رُفعت داخل النافذة",
+  "حلقات البودكاست بلا تواريخ على الموقع فلم تُعدّ",
+  "خلاصة يوتيوب تعرض آخر 15 فيديو فقط؛ عدد التعليقات غير متاح",
+  "صفحات القوائم جُلبت في 2026-11-16 وتضمنت مادة بتاريخ 16 نوفمبر استُبعدت لأنها خارج النافذة",
+  "تصنيف الموضوعات اجتهادي بالكلمات المفتاحية في العناوين (تقدير)، أما وسوم WP فأرقام فعلية لمنشورات EN"
+ ],
+ "sources": [
+  {
+   "url": "https://sanaacenter.org/",
+   "used_for": "روابط الحسابات الرسمية (التذييل)، 2026-11-13"
+  },
+  {
+   "url": "https://sanaacenter.org/ar/",
+   "used_for": "روابط القنوات العربية ولقطة التصميم"
+  },
+  {
+   "url": "https://sanaacenter.org/wp-json/wp/v2/posts?after=2026-08-15T00:00:00&per_page=100",
+   "used_for": "منشورات EN وتواريخها وتصنيفاتها"
+  },
+  {
+   "url": "https://sanaacenter.org/ar/wp-json/wp/v2/posts?after=2026-08-15T00:00:00&per_page=100",
+   "used_for": "منشورات AR"
+  },
+  {
+   "url": "https://sanaacenter.org/wp-json/wp/v2/categories?per_page=100",
+   "used_for": "أسماء التصنيفات"
+  },
+  {
+   "url": "https://sanaacenter.org/sitemap_index.xml",
+   "used_for": "خرائط الموقع لأنواع المحتوى المخصصة"
+  },
+  {
+   "url": "https://sanaacenter.org/the-yemen-review/jul-sept-2026",
+   "used_for": "عدد تقرير اليمن وأقسامه وتاريخه"
+  },
+  {
+   "url": "https://sanaacenter.org/publications",
+   "used_for": "تحقق متقاطع من القوائم EN"
+  },
+  {
+   "url": "https://sanaacenter.org/ar/publications-ar",
+   "used_for": "أقسام تقرير اليمن بالعربية وتواريخها"
+  },
+  {
+   "url": "https://sanaacenter.org/podcasts",
+   "used_for": "البودكاست"
+  },
+  {
+   "url": "https://sanaacenter.org/events",
+   "used_for": "الفعاليات"
+  },
+  {
+   "url": "https://www.youtube.com/sanaacenter",
+   "used_for": "عدد المشتركين (2026-11-14)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw9jgwgCvj4oFT7Rq196qug",
+   "used_for": "آخر 15 فيديو ومشاهداتها"
+  }
+ ]
+}

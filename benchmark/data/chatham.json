@@ -1,0 +1,889 @@
+{
+ "center": "Chatham House (The Royal Institute of International Affairs)",
+ "website": "https://www.chathamhouse.org",
+ "accessed": "2026-11-13 (خلاصات RSS) و2026-11-16 (يوتيوب، فهرس Google News، البحث)",
+ "accounts": {
+  "x": {
+   "url": "https://x.com/ChathamHouse",
+   "verified_via": "غير متاح — الموقع يحجب القراءة الآلية (Cloudflare 403) فلم يُتحقق من التذييل؛ الاسم @ChathamHouse ورد في طرف ثالث: https://www.speakrj.com/audit/report/ChathamHouse/twitter"
+  },
+  "facebook": {
+   "url": "غير متاح",
+   "verified_via": "غير متاح (تعذّر فتح تذييل الموقع)"
+  },
+  "linkedin": {
+   "url": "غير متاح",
+   "verified_via": "غير متاح (تعذّر فتح تذييل الموقع)"
+  },
+  "other": [
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@ChathamHouse10",
+    "verified_via": "تطابق معرّفات الفيديو المضمّنة في خلاصة الموقع https://www.chathamhouse.org/path/whatsnew.xml (مثل VxofqAK4L5Q و QPw4X5a4bwk) مع خلاصة القناة UCWrBgaGjj6k5ZrTxbZzd0Og"
+   },
+   {
+    "platform": "Instagram",
+    "url": "غير متاح",
+    "verified_via": "الخلاصة تتضمن رابط Reel (https://www.instagram.com/reels/DejBWs4u3gx/) دون اسم الحساب"
+   },
+   {
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/chathamhouse.org",
+    "verified_via": "طرف ثالث/نتيجة بحث (app.flashes.blue) — غير متحقق من الموقع"
+   },
+   {
+    "platform": "Podcasts (Apple/Spotify)",
+    "url": "https://podcasts.apple.com/gb/podcast/africa-aware/id1551785390",
+    "verified_via": "https://www.chathamhouse.org/path/whatsnew.xml"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "YouTube (@ChathamHouse10)",
+   "value": 109000,
+   "figure_date": "2026-11-16",
+   "source_url": "https://www.youtube.com/@ChathamHouse10/videos",
+   "type": "actual-on-platform",
+   "note": "رقم مقرَّب معروض: 109K مشترك، نحو 3K فيديو"
+  },
+  {
+   "platform": "X (@ChathamHouse)",
+   "value": 232928,
+   "figure_date": "2021 (آخر تحديث للصفحة يوليو 2023) — قديم",
+   "source_url": "https://www.speakrj.com/audit/report/ChathamHouse/twitter",
+   "type": "search-snippet",
+   "note": "طرف ثالث وقديم؛ لا يصلح كرقم حالي"
+  },
+  {
+   "platform": "Bluesky (@chathamhouse.org)",
+   "value": 14000,
+   "figure_date": "غير متاح (غير مؤرخ)",
+   "source_url": "https://app.flashes.blue/profile/theworldtoday.org/following",
+   "type": "search-snippet",
+   "note": "≈14K كما ظهر في ملخص نتيجة بحث"
+  },
+  {
+   "platform": "Facebook / LinkedIn / Instagram",
+   "value": null,
+   "figure_date": "",
+   "source_url": "",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 55,
+   "by_language": {
+    "en": 55
+   },
+   "observed_direct_rss": 50,
+   "third_party_index_only": 5
+  },
+  "d90": {
+   "total": 159,
+   "by_language": {
+    "en": 159
+   },
+   "observed_direct_rss": 88,
+   "third_party_index_only": 71
+  },
+  "method": "حدّ أدنى لا عدّ كامل. الموقع (الصفحات، sitemap.xml) يعيد 403 من Cloudflare؛ المتاح فقط خلاصات /path/whatsnew.xml (آخر 50 عنصراً = بالضبط 2026-10-15→2026-11-13 فعدد 30 يوماً من الخلاصة هو 50 وقد يكون مقطوعاً عند 15 أكتوبر) و/path/events.xml (50 صفحة فعالية مؤرخة بتاريخ إنشاء الصفحة، حتى 19 أغسطس؛ استُبعدت 5 صفحات اختبار) و/path/news-releases.xml و/path/publications.xml. ما قبل 15 أكتوبر من التعليقات والأبحاث استُكمل من فهرس Google News RSS (site:chathamhouse.org مع after:/before: على 7 شرائح) بعد حذف صفحات الأشخاص والوظائف والمتجر وصفحات فصول التقارير وإزالة التكرار بالعنوان؛ تاريخ هذه العناصر هو تاريخ الفهرسة لدى Google وقد يختلف عن تاريخ النشر، وروابطها روابط Google News لا الروابط الأصلية. 23 عنصراً مؤرخة 2026-09-14 هي عدد خريف 2026 من مجلة The World Today.",
+  "source_urls": [
+   "https://www.chathamhouse.org/path/whatsnew.xml",
+   "https://www.chathamhouse.org/path/events.xml",
+   "https://www.chathamhouse.org/path/news-releases.xml",
+   "https://www.chathamhouse.org/path/publications.xml",
+   "https://news.google.com/rss/search?q=site:chathamhouse.org+after:2026-08-15+before:2026-08-31&hl=en-GB&gl=GB&ceid=GB:en"
+  ],
+  "whatsnew_feed_30d_types": {
+   "Expert comment": 23,
+   "Audio": 8,
+   "News release": 6,
+   "Video": 1
+  },
+  "yemen_red_sea_gulf_90d": {
+   "count": 10,
+   "items": [
+    {
+     "date": "2026-09-01",
+     "title": "The Red Sea, Yemen and conflict in the Middle East: What next?",
+     "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+     "source": "rss",
+     "url": "https://www.chathamhouse.org/events/all/standard-event/red-sea-yemen-and-conflict-middle-east-what-next"
+    },
+    {
+     "date": "2026-09-14",
+     "title": "How will the Iran war reshape the Persian Gulf?",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2RibElkcHJLZlllTE5GOURRZnZJSzRiVXJqeEFrY014Y09YNmM1SnpfNFlIWEtOSG8wR0trVDUwUExzeHFxMXNiTHdCLVBsODdySDhicldzUVdVY3d5bW1VRFNHMm0xSjNYS1dxS0hxLS1BdDBWTGN4U2xrcUhaUW9MclhUY3l0X19iVW1BSG5mS05mc01RLTh4TE1ya0pBdEp3LW43RQ?oc=5"
+    },
+    {
+     "date": "2026-09-14",
+     "title": "The Houthis’ capture of Mocha has transformed the war in Yemen – and the geopolitics of the Red Sea",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnVmV2hLZUFpYkRNMlB0RkVNa0FtblJIVGFoRFJaZDU2QXZBWjVrbi1VVElnMkpQa1RPdEptczhsNVZzTXJkYThGYjQzNGhwREZpcVpVdENKTzIxUjVDc1BJY08wSTF1UmRRVkxKZzFjWlhUdTJnWnpLN1pYZ3dvdVcxd29xamhZVU9lcmNxXzN1YVJZSUJ5aFJwTmhOM0lQc09Nb2RkOFYzTlNT?oc=5"
+    },
+    {
+     "date": "2026-09-17",
+     "title": "China is weathering the Hormuz energy crisis. But copying its model comes with risks",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWTlBYzI2ZDJWRXByV0pIRUppTm1sdEppTmZUWnVWVWZYTXNDdFF5TmZONU9NVzNTR1Q1eXg3UGN2eXlpZTNGdHZMTG51Zk4tLTZVbmFOSTV0WnJjcG1fUjVhTE9FNzhzMGtvR1NWNzhOV1liX2syMi1HbWtKRVZoamExcGw2dGJvNFpjTXpQa0VLSGR0U0JmaUltcmRWZDQ5d3F0dnVrYw?oc=5"
+    },
+    {
+     "date": "2026-09-21",
+     "title": "The problem with biofuels as a response to the Gulf energy supply shock",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGlvd1hfTy1hbkRhRGowVGlQbGFMTUNla2JYVENzQ0k5UjJDcE1qVzVTUkplczBUb2ctUG5SV2ZlSzU4ZEx1YmEtcVNOTUowMlYxUFNORVBjdTJlYnJTUEd2cVdVWWZ4ZFVmTldhaTYxZ2IzU0xlcXJsdHJtZndhUWp4ZzlMeHFtaHNBRnNnYjM?oc=5"
+    },
+    {
+     "date": "2026-09-22",
+     "title": "Can Gulf Arab countries help break the deadlock over Trump’s Gaza peace plan?",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWRnODl3Mm41XzhsSTZwekZRVzc2QlJJVFFZWjlUcVpZM1lMMVU0X0syem9iSEk1U2t1TVpScFE0enZIczk2eWhkNkw4V1RxWm1oRUExUjMzUi1rR001SGdqVmdhX1VOZHIzVzJFeTlnZUtrQ0xxQU5oRzgzbzMxd00xYmh1eC1rMHRXa0JHMC1qcHJZM1RkRHp6T0FuNi1rQnNURGRqM0ZNSE5x?oc=5"
+    },
+    {
+     "date": "2026-09-25",
+     "title": "New energy and trade routes could bypass Hormuz and change the Middle East. But major challenges remain",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWllWNkMyZENSWmFibFQzUXhxS3BCaGhhQ2dqM2JIZGpLazJweGRDdElJMi1lM2VxMkN1a0ZSOUE4YkltTjZTVlo0VEZNczlHbE5OR05wTXBvSGhBdmR6d2NmLU03em01VHFGQWVmOHJLaU9MNDZra3VjSmNEd1hfQWNfaWRWb1pIdlZQNmtEb1gtNEZlR2Q3eHpOUE5uOWwyMWVjN2lnZEhxY1IyRzdzYzd6YmlZRzlrZDJTYjhSQzByUQ?oc=5"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "Escaping the Hormuz trap: What should an agreement to reopen the Strait look like?",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWdDWFZJVEx6ZG0taDhwaUVuNmtmLTJGbG9wbWNRTkhBX3VZaUhvX0h1NWdockN4a25ZOHE3M1FjQjZtSERTdkRkX1psbXk1OFVHNWlwbEkyT3ppUGNyanZBUUJxWndXbnA0T0NCbE5WQnR1ajVoZDh2dUpnYk9wSnFtdU1CNjlLYi1ibXhSclJBaXlmUDBUT0RyRE5RZG8?oc=5"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "Why the Houthis’ Red Sea power play makes Iran even stronger",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbW5vUzBnWW1TVkZOR19aQTB1Vmc2UGV2cXRhdW5lN0o0djF0elA1WkExRGVaU0ZoSkR4bFcyTGNjZVpyV21EUTRQOGI0UXlZLVpFQTlEV1FOdlhZbFZwSHVZRkdVWG1xZ2JkZUhsbkJobHRWbjZkVV9XR1BmSm1TMlRkVVExVTRDQTlVZ21ZdWxfWHBOa3BFcncyWDZSX1ZBUHFfdmlGZm13VlJLcWRaX0NR?oc=5"
+    },
+    {
+     "date": "2026-10-14",
+     "title": "The Yemen war is not just Saudi Arabia’s problem. It’s the Gulf’s too",
+     "type": "غير متاح",
+     "source": "google-news-index",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmZicGRZeVMtT3hPSVhDNlhsTnk2bE1tUzk5SjdnQWxsdnNEaHRibnBHUlRIRXlMS3FocjNiSkhnek1kUnR4aDVXTXF4UVBHVU1ZdE9Ub1ZENXhRNVVMVE15WVV6SDJyaU9GVi0zQm5qSEYwRzZyaUZ1NFRNX19DR1RBSXNxMmVTSHNIa2JlMGl2OU9GSlE?oc=5"
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "date": "2026-11-13",
+   "title": "China has the APEC stage. But Japan may have the momentum",
+   "type": "Expert comment",
+   "topic": "الصين",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/china-has-apec-stage-japan-may-have-momentum"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "What AI’s nightmare November means for politics, power and business",
+   "type": "Audio",
+   "topic": "الذكاء الاصطناعي والتقنية",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/what-ais-nightmare-november-means-politics-power-and-business"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Africa Aware: Tigray’s renewed war and risks to the wider Horn of Africa",
+   "type": "Audio",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/africa-aware-tigrays-renewed-war-and-risks-wider-horn-africa"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Chatham House Prize 2026 awarded to the women of Afghanistan",
+   "type": "News release",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/chatham-house-prize-2026-awarded-women-afghanistan"
+  },
+  {
+   "date": "2026-11-10",
+   "title": "Europe faces faster cyberattacks than ever. But many of the solutions are long known",
+   "type": "Expert comment",
+   "topic": "الذكاء الاصطناعي والتقنية",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/europe-faces-faster-cyberattacks-ever-many-solutions-are-long-known"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Will the US and Iran return to war?",
+   "type": "Expert comment",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/will-us-and-iran-return-war"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "US midterms: The beginning of the end for Trumpism?",
+   "type": "Audio",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/us-midterms-beginning-end-trumpism-independent-thinking-podcast"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Consumer interest in Chinese-made solar panels and EVs markedly rises in Europe and Canada, says Chatham House survey",
+   "type": "News release",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/consumer-interest-chinese-made-solar-panels-and-evs-markedly-rises-europe-and-canada-says"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "What’s next for the EU-UK relationship?",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/whats-next-eu-uk-relationship"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Reforming Ukraine’s veteran support system: What’s working and what’s at stake?",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/reforming-ukraines-veteran-support-system-whats-working-and-whats-stake"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Gifts now available celebrating 100 years of the Chatham House Rule in 2027",
+   "type": "News release",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/gifts-now-available-celebrating-100-years-chatham-house-rule-2027"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "After Trump’s midterm defeat, Russia and China will encounter a cooler US",
+   "type": "Expert comment",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/after-trumps-midterm-defeat-russia-and-china-will-encounter-cooler-us"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "‘Very clear that China isn’t neutral’ in Ukraine war, says former Ukrainian Prime Minister Arseniy Yatsenyuk",
+   "type": "News release",
+   "topic": "الصين",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/very-clear-china-isnt-neutral-ukraine-war-says-former-ukrainian-prime-minister-arseniy"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "What will historic US midterm results mean for the future of Democrats and Republicans?",
+   "type": "Expert comment",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/what-will-historic-us-midterm-results-mean-future-democrats-and-republicans"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Europe Elects: What does 2027 have in store for Europe?",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/europe-elects-what-does-2027-have-store-europe"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Trump is set to redefine the lame duck presidency",
+   "type": "Expert comment",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/trump-set-redefine-lame-duck-presidency"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Midterm to long-term analysis of US election. What’s next?",
+   "type": "News release",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/midterm-long-term-analysis-us-election-whats-next"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "China and its trading partners are moving towards an economic peace. But it is a fragile one",
+   "type": "Expert comment",
+   "topic": "الصين",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/china-and-its-trading-partners-are-moving-towards-economic-peace-it-fragile-one"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Chatham House hosts Black History Month panel on reparatory justice and ‘Everyday Legacies’ exhibition",
+   "type": "News release",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/chatham-house-hosts-black-history-month-panel-reparatory-justice-and-everyday-legacies"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Members’ Christmas drinks",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/members-event/members-christmas-drinks-4"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Will New Zealand’s election change its foreign policy?",
+   "type": "Expert comment",
+   "topic": "أخرى",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/will-new-zealands-election-change-its-foreign-policy"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "The war is pushing Iran closer to Russia",
+   "type": "Expert comment",
+   "topic": "إيران/هرمز",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/11/war-pushing-iran-closer-russia"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Israel in deadlock: What next for a divided country?",
+   "type": "Audio",
+   "topic": "إسرائيل/فلسطين",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/israel-deadlock-what-next-divided-country-independent-thinking-podcast"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Brussels or Beijing? The EU’s ‘Made in Europe’ plans will force the UK to choose",
+   "type": "Expert comment",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/brussels-or-beijing-eus-made-europe-plans-will-force-uk-choose"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Russia-Ukraine war: Who will break first?",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/russia-ukraine-war-who-will-break-first"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Nigeria’s 2027 elections: Democratic trajectory and regional stability beyond the ballot",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/nigerias-2027-elections-democratic-trajectory-and-regional-stability"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Africa Aware: 10 years of Cameroon’s Anglophone Crisis",
+   "type": "Audio",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/africa-aware-10-years-cameroons-anglophone-crisis"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "What next for Palestinian democracy and politics?",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "إسرائيل/فلسطين",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/what-next-palestinian-democracy-and-politics"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Division between Iraq’s Kurdish parties risks undermining Kurdistan region’s autonomy",
+   "type": "Expert comment",
+   "topic": "الشرق الأوسط وشمال أفريقيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/division-between-iraqs-kurdish-parties-risks-undermining-kurdistan-regions-autonomy"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "After Orbán, Vučić falls: can Serbia’s students herald a new dawn for the Balkans?",
+   "type": "Expert comment",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/after-orban-vucic-falls-can-serbias-students-herald-new-dawn-balkans"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Russia–Africa Summit: Moscow is engaging more with Africa, but its delivery is limited",
+   "type": "Expert comment",
+   "topic": "روسيا/أوكرانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/russia-africa-summit-moscow-engaging-more-africa-its-delivery-limited"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Burnham’s first budget should take a global approach to deliver for the UK",
+   "type": "Expert comment",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/burnhams-first-budget-should-take-global-approach-deliver-uk"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Lula wins Brazil’s presidential election; Trump says vote looks ‘rigged’: Early analysis from Chatham House experts",
+   "type": "Expert comment",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/lula-wins-brazils-presidential-election-bolsonaro-refuses-accept-result-early-analysis"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Meeting Arctic security threats: Do Europe’s new strategies make sense?",
+   "type": "Expert comment",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/meeting-arctic-security-threats-do-europes-new-strategies-make-sense"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "The Climate Briefing: The road to Antalya – looking ahead to COP31",
+   "type": "Audio",
+   "topic": "المناخ والطاقة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/climate-briefing-road-antalya-looking-ahead-cop31"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Can Africa maximize its global influence?",
+   "type": "Audio",
+   "topic": "أفريقيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/can-africa-maximize-its-global-influence-independent-thinking-podcast"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "AI boom or bubble? How will it affect the global economy?",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "الذكاء الاصطناعي والتقنية",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/ai-boom-or-bubble-how-will-it-affect-global-economy"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Critical minerals: The UK’s role in securing resilient supply chains",
+   "type": "Event (تاريخ إنشاء الصفحة لا تاريخ الانعقاد)",
+   "topic": "أوروبا/بريطانيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/events/all/standard-event/critical-minerals-uks-role-securing-resilient-supply-chains"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "US voters are angry. But on tariffs and war, the midterms won’t bring quick change",
+   "type": "Expert comment",
+   "topic": "الولايات المتحدة",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/us-voters-are-angry-tariffs-and-war-midterms-wont-bring-quick-change"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Why has Egypt’s President Sisi said he will step down in 2030?",
+   "type": "Expert comment",
+   "topic": "الشرق الأوسط وشمال أفريقيا",
+   "language": "en",
+   "url": "https://www.chathamhouse.org/2026/10/why-has-egypts-president-sisi-said-he-will-step-down-2030"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 6,
+  "reports": 1,
+  "analysis": 26,
+  "news": 9,
+  "video": 1,
+  "infographic": 0,
+  "podcast": 8,
+  "events": 46,
+  "other": 62
+ },
+ "type_breakdown_note": "الأنواع مؤكدة فقط لعناصر الخلاصات (Expert comment/Audio/Video/News release/Event). عناصر فهرس Google News بلا وسم نوع صُنّفت other (معظمها Expert comment ومقالات The World Today على الأرجح — تقدير)، عدا 6 عناوين لها صفحات فصول فصُنّفت research. أحداث events = صفحات فعاليات أُنشئت في الفترة.",
+ "top_topics": [
+  {
+   "topic": "أخرى",
+   "count": 31
+  },
+  {
+   "topic": "الولايات المتحدة",
+   "count": 29
+  },
+  {
+   "topic": "أوروبا/بريطانيا",
+   "count": 17
+  },
+  {
+   "topic": "أفريقيا",
+   "count": 15
+  },
+  {
+   "topic": "الذكاء الاصطناعي والتقنية",
+   "count": 13
+  },
+  {
+   "topic": "الصين",
+   "count": 9
+  },
+  {
+   "topic": "روسيا/أوكرانيا",
+   "count": 9
+  },
+  {
+   "topic": "إسرائيل/فلسطين",
+   "count": 9
+  },
+  {
+   "topic": "الشرق الأوسط وشمال أفريقيا",
+   "count": 7
+  },
+  {
+   "topic": "المناخ والطاقة",
+   "count": 7
+  },
+  {
+   "topic": "إيران/هرمز",
+   "count": 5
+  },
+  {
+   "topic": "الأمريكتان",
+   "count": 5
+  },
+  {
+   "topic": "اليمن/البحر الأحمر",
+   "count": 3
+  }
+ ],
+ "top_topics_note": "تصنيف آلي بالكلمات المفتاحية في العناوين (تقدير)",
+ "languages": [
+  "en"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/@ChathamHouse10",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "آخر 15 عنصراً في الخلاصة (4–16 نوفمبر): الوسيط نحو 1,050 مشاهدة؛ الأعلى 83,027",
+   "note": "الخلاصة تعرض 15 عنصراً فقط (≈15 في 13 يوماً مع البث المباشر والمقاطع)؛ تبويب Videos يعرض 30 فيديو طويلاً تعود إلى «3 months ago» بتواريخ نسبية → نحو 29 فيديو طويلاً في ~90 يوماً (تقدير)."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn / Instagram",
+   "url": "",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوبة"
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=VxofqAK4L5Q",
+   "summary": "‘China isn’t neutral’ on Ukraine, says former Ukrainian PM Arseniy Yatsenyuk",
+   "likes": "925",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "83027",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=KLqCXGmlT38",
+   "summary": "China AI vs US AI? Forcing countries to choose AI ecosystems",
+   "likes": "30",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "3100",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-04",
+   "url": "https://www.youtube.com/watch?v=uWR0TouA26c",
+   "summary": "US midterm elections 2026: key issues, analysis and the economy as a foreign policy issue",
+   "likes": "38",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "2889",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=GPskm9b3MXQ",
+   "summary": "Nigeria’s 2027 elections: Democratic trajectory and regional stability beyond the ballot",
+   "likes": "19",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1836",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=v-CXsJJGyik",
+   "summary": "Chatham House Prize 2026: The women of Afghanistan",
+   "likes": "11",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1811",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=uzhSmC7Os9I",
+   "summary": "US midterms: The beginning of the end for Trumpism? 🎙️ Independent Thinking podcast",
+   "likes": "20",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1424",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-06",
+   "url": "https://www.youtube.com/watch?v=JYpT21xTLA8",
+   "summary": "Critical minerals: The UK’s role in securing resilient supply chains",
+   "likes": "10",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1416",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-05",
+   "url": "https://www.youtube.com/watch?v=Xvxf0hsi0IQ",
+   "summary": "AI boom or bubble? How will it affect the global economy?",
+   "likes": "7",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1057",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=ipWrIIwNEzM",
+   "summary": "Chatham House Prize 2026 awarded to the women of Afghanistan",
+   "likes": "29",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "1034",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=KQRVkTL6Qmk",
+   "summary": "What AI's nightmare November means for politics, power and business 🎙️ Independent Thinking pod",
+   "likes": "7",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "636",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=EH_VykeE6Cc",
+   "summary": "What is The Chatham House Rule?",
+   "likes": "8",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "584",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-10",
+   "url": "https://www.youtube.com/watch?v=QPw4X5a4bwk",
+   "summary": "Chatham House Prize 2026 | The Women of Afghanistan",
+   "likes": "6",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "580",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-16",
+   "url": "https://www.youtube.com/watch?v=o9tq5JUzQ4o",
+   "summary": "‘We draw on your work in parliament extensively’ | Liam Byrne MP",
+   "likes": "2",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "149",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": false
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=pnoXQUiNpHs",
+   "summary": "What’s next for the EU-UK relationship?",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "0",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  },
+  {
+   "platform": "YouTube",
+   "date": "2026-11-12",
+   "url": "https://www.youtube.com/watch?v=I3nkOSOQZqg",
+   "summary": "Sarah Cardell: Keynote address, competition policy conference 2026",
+   "likes": "0",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "0",
+   "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "data_type": "actual",
+   "in_window": true
+  }
+ ],
+ "headline_style": "عناوين Expert comment جملة-أطروحة كاملة وطويلة تحمل الخلاصة («Tokyo…»: «China has the APEC stage. But Japan may have the momentum»، «The Yemen war is not just Saudi Arabia’s problem. It’s the Gulf’s too»)، وأسئلة مباشرة («Will the US and Iran return to war?»)، وصيغة «Early analysis» للأحداث العاجلة. البودكاست يحمل اسم السلسلة في العنوان (Independent Thinking، Africa Aware، The Climate Briefing).",
+ "design_style": "صورة صحفية (Getty/iStock) بقصّ اجتماعي موحّد 1200×630 و1200×600 (أنماط chat_social_1200_630 و chat_social_twitter_1200_600) مع نص بديل وصفي؛ بطاقات موحّدة للبث المباشر (‎*-livestream-web.png)؛ تسمية ملفات بالتاريخ. لم يُمكن فتح الصفحات نفسها لمعاينة الرسوم البيانية.",
+ "promotion_tactics": [
+  {
+   "tactic": "صيغة Expert comment يومية مع فقرة ملخّص (standfirst) تحمل الخلاصة",
+   "evidence_url": "https://www.chathamhouse.org/2026/11/china-has-apec-stage-japan-may-have-momentum"
+  },
+  {
+   "tactic": "«Early analysis» خلال ساعات من الحدث",
+   "evidence_url": "https://www.chathamhouse.org/2026/10/lula-wins-brazils-presidential-election-bolsonaro-refuses-accept-result-early-analysis"
+  },
+  {
+   "tactic": "بودكاست أسبوعي Independent Thinking وسلاسل متخصصة (Africa Aware، The Climate Briefing) مع روابط Apple/Spotify وفيديو يوتيوب",
+   "evidence_url": "https://www.chathamhouse.org/2026/11/us-midterms-beginning-end-trumpism-independent-thinking-podcast"
+  },
+  {
+   "tactic": "فعاليات مع بث مباشر على يوتيوب وبطاقات livestream، وفعاليات للأعضاء",
+   "evidence_url": "https://www.chathamhouse.org/path/events.xml"
+  },
+  {
+   "tactic": "بيانات صحفية تبرز أثر المركز (شهادة أمام البرلمان، جائزة Chatham House)",
+   "evidence_url": "https://www.chathamhouse.org/path/news-releases.xml"
+  },
+  {
+   "tactic": "أوراق بحثية بصفحات HTML مقسّمة إلى فصول وملخص (Summary/01 Introduction…)",
+   "evidence_url": "https://news.google.com/rss/search?q=site:chathamhouse.org+after:2026-09-27+before:2026-10-12&hl=en-GB&gl=GB&ceid=GB:en"
+  },
+  {
+   "tactic": "مجلة فصلية The World Today بعدد موضوعي ومقابلات",
+   "evidence_url": "https://news.google.com/rss/search?q=site:chathamhouse.org+after:2026-09-13+before:2026-09-28&hl=en-GB&gl=GB&ceid=GB:en"
+  },
+  {
+   "tactic": "مقاطع فيديو قصيرة باقتباس قوي من ضيف (‘China isn’t neutral’) حققت أعلى مشاهدة",
+   "evidence_url": "https://www.youtube.com/watch?v=VxofqAK4L5Q"
+  }
+ ],
+ "strengths": [
+  "تعليق خبراء شبه يومي بعناوين-أطروحات واضحة",
+  "ربط كل فعالية ببث وفيديو وبودكاست",
+  "تغطية ملحوظة لليمن والبحر الأحمر (10 عناصر مرصودة) بينها فعالية ومقابلة وفيديو",
+  "علامة بصرية موحّدة لصور المشاركة",
+  "109K مشترك يوتيوب ومقطع واحد تجاوز 83 ألف مشاهدة"
+ ],
+ "weaknesses": [
+  "لا محتوى عربي مرصود (الإنجليزية فقط في الخلاصات)",
+  "الموقع يحجب القراءة الآلية والخرائط، ما يصعّب الأرشفة والقياس الخارجي",
+  "خلاصة الفعاليات تحوي صفحات اختبار منشورة («Timing test»، «Cut-off test»)",
+  "معظم فيديوهات يوتيوب دون 2,000 مشاهدة"
+ ],
+ "opportunities_for_mokha": [
+  "صيغة «تعليق خبير» قصيرة بعنوان يحمل الخلاصة وفقرة تمهيدية من جملتين",
+  "«تحليل أولي» خلال ساعات من الأحداث اليمنية الكبرى",
+  "اقتطاع اقتباس قوي من ضيف الندوة كمقطع قصير بعنوان بين علامتي تنصيص",
+  "قالب موحّد لصور المشاركة 1200×630 وبطاقة ثابتة للبث المباشر",
+  "بودكاست أسبوعي باسم ثابت يُذكر في عنوان كل حلقة",
+  "بيان صحفي قصير عند كل استشهاد رسمي أو إعلامي بعمل المركز"
+ ],
+ "limitations": [
+  "chathamhouse.org يعيد 403 (Cloudflare) لكل الصفحات وخريطة الموقع؛ لم تُتجاوز الحماية",
+  "أعداد 90 يوماً حدّ أدنى مركّب من الخلاصات + فهرس Google News (تواريخ فهرسة، دون روابط أصلية)",
+  "لم يُتحقق من روابط X/Facebook/LinkedIn من تذييل الموقع",
+  "لا أعداد متابعين حالية لـX/Facebook/LinkedIn؛ رقم X المتاح يعود إلى 2021",
+  "لا دليل على نمو المتابعين",
+  "X/Facebook/LinkedIn محجوبة فلا منشورات ولا تفاعل",
+  "يوتيوب: 15 عنصراً فقط بتواريخ دقيقة",
+  "web.archive.org غير متاح من هذه البيئة"
+ ],
+ "sources": [
+  {
+   "url": "https://www.chathamhouse.org/path/whatsnew.xml",
+   "used_for": "مواد آخر 30 يوماً (2026-11-13)"
+  },
+  {
+   "url": "https://www.chathamhouse.org/path/events.xml",
+   "used_for": "الفعاليات"
+  },
+  {
+   "url": "https://www.chathamhouse.org/path/news-releases.xml",
+   "used_for": "البيانات الصحفية"
+  },
+  {
+   "url": "https://www.chathamhouse.org/path/publications.xml",
+   "used_for": "المنشورات"
+  },
+  {
+   "url": "https://news.google.com/rss/search?q=site:chathamhouse.org+after:2026-08-15+before:2026-08-31&hl=en-GB&gl=GB&ceid=GB:en",
+   "used_for": "فهرس طرف ثالث (7 شرائح زمنية، 2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/@ChathamHouse10/videos",
+   "used_for": "المشتركون وقائمة الفيديو (2026-11-16)"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWrBgaGjj6k5ZrTxbZzd0Og",
+   "used_for": "مشاهدات/إعجابات آخر 15 فيديو"
+  },
+  {
+   "url": "https://www.speakrj.com/audit/report/ChathamHouse/twitter",
+   "used_for": "رقم X قديم (نتيجة بحث)"
+  }
+ ]
+}

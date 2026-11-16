@@ -1,0 +1,198 @@
+{
+ "center": "Yemen Policy Center (المركز اليمني للسياسات)",
+ "website": "https://www.yemenpolicy.org/",
+ "accessed": "2026-11-13",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/yemen_policy",
+   "verified_via": "https://www.yemenpolicy.org/"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/yemenpolicycenter/",
+   "verified_via": "https://www.yemenpolicy.org/"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/yemen-policy-center/",
+   "verified_via": "https://www.yemenpolicy.org/"
+  },
+  "other": [
+   {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/yemen_policy/"
+   }
+  ]
+ },
+ "followers": [],
+ "website_counts": {
+  "d30": {
+   "total": 0,
+   "by_language": {
+    "en": 0,
+    "ar": 0,
+    "de": 0
+   }
+  },
+  "d90": {
+   "total": 0,
+   "by_language": {
+    "en": 0,
+    "ar": 0,
+    "de": 0
+   }
+  },
+  "method": "WordPress REST API مع فلتر after=2026-08-16 لكل لغة (lang=en/ar/de) — الترويسة X-WP-Total = 0 في اللغات الثلاث؛ تم التحقق المتقاطع عبر RSS (/feed/) وأحدث ملفات الوسائط (/wp/v2/media). لم يُنشر أي عنصر في نافذتي 30 و90 يوماً. آخر منشور إنجليزي: 2025-07-15 (Fragmentation of Tribes in Shabwa Fuels Nationwide Conflict)، وآخر منشور عربي: 2025-07-19 (التفكُّك القَبَلي في شبوة يؤجِّج الصراع على الصعيد الوطني). إجمالي الأرشيف: 116 منشوراً إنجليزياً و126 عربياً بحسب X-WP-Total. ملاحظة: lastmod في post-sitemap.xml يساوي 2026-10-22 لكنه تعديل على منشور قديم (بتاريخ 2023-01-25) وليس نشراً جديداً.",
+  "source_urls": [
+   "https://www.yemenpolicy.org/wp-json/wp/v2/posts?after=2026-08-16T00:00:00&per_page=100",
+   "https://www.yemenpolicy.org/wp-json/wp/v2/posts?per_page=30",
+   "https://www.yemenpolicy.org/wp-json/wp/v2/posts?per_page=5&lang=ar",
+   "https://www.yemenpolicy.org/feed/",
+   "https://www.yemenpolicy.org/sitemap.xml"
+  ]
+ },
+ "items": [],
+ "latest_items_before_window": [
+  {
+   "date": "2025-07-19",
+   "title": "التفكُّك القَبَلي في شبوة يؤجِّج الصراع على الصعيد الوطني",
+   "type": "Majlis (مقال رأي/تحليل)",
+   "topic": "القبائل والصراع – شبوة",
+   "language": "ar",
+   "url": "https://www.yemenpolicy.org/wp-json/wp/v2/posts?per_page=5&lang=ar"
+  },
+  {
+   "date": "2025-07-15",
+   "title": "Fragmentation of Tribes in Shabwa Fuels Nationwide Conflict",
+   "type": "Majlis",
+   "topic": "القبائل والصراع – شبوة",
+   "language": "en",
+   "url": "https://www.yemenpolicy.org/fragmentation-of-tribes-in-shabwa-fuels-nationwide-conflict/"
+  },
+  {
+   "date": "2024-12-19",
+   "title": "Delivering Aid Effectively in Yemen: Pathways to Equitable Partnerships",
+   "type": "Debrief / Kaleidoscope",
+   "topic": "المساعدات والشراكات",
+   "language": "en",
+   "url": "https://www.yemenpolicy.org/pathways-to-equitable-international-partnerships/"
+  },
+  {
+   "date": "2024-10-29",
+   "title": "Tribal Mediation and Community Safety: Essential Foundations for Long-lasting Peace in Yemen",
+   "type": "Debrief",
+   "topic": "الوساطة القبلية والأمن المجتمعي",
+   "language": "en",
+   "url": "https://www.yemenpolicy.org/tribal-mediation-and-community-safety-essential-foundations-for-long-lasting-peace/"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 0,
+  "reports": 0,
+  "analysis": 0,
+  "news": 0,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 0,
+  "other": 0
+ },
+ "top_topics": [],
+ "top_topics_note": "لا عناصر في النافذة. تاريخياً (عدد المنشورات لكل تصنيف في الأرشيف الإنجليزي كاملاً عبر /wp/v2/categories): Majlis 29، Debrief 22، News and Events 21، Security Program 19، Questions and Answers 7، Visualized Stories 7، EU Series 6، Media Program 6، Podcasts 5.",
+ "languages": [
+  "en",
+  "ar",
+  "de (أرشيف قديم فقط)"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/yemen_policy",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "لا توجد قناة تيليجرام مرتبطة من الموقع؛ المعاينة العامة للمعرّفين yemen_policy و yemenpolicy لا تعرض أي قناة/منشورات."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn / Instagram",
+   "url": "https://twitter.com/yemen_policy",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابلة للقراءة من هذه البيئة."
+  }
+ ],
+ "social_posts": [],
+ "headline_style": "عناوين إنجليزية تحليلية طويلة بصيغة أطروحة/موقف (مثل: 'INGOs Must Navigate Feminism and Women’s Empowerment with Cultural Sensitivity to Avoid a Backlash' و 'Yemenis Must Have a Say on What Aid in Yemen Looks Like')، مع سلاسل ثابتة التسمية: 'Five Questions on…' و 'Event: …' و 'Documentary: …'. النسخ العربية ترجمة حرفية مشكولة للعنوان نفسه.",
+ "design_style": "صورة فوتوغرافية ميدانية كاملة بلا نص أو شعار كصورة مميزة/og:image للمقالات (مثال: صورة شارع في عتق للمقال الأخير)، وأعمال فنية مرسومة خاصة للتقارير (ملف 'Pathways-to-equitable-international-partnerships-artwork.jpg')، وقسم 'Visualized Stories' للقصص البصرية التفاعلية. og:image للصفحة الرئيسية بطاقة شعار 1200×630. الموقع مبني على WordPress + Elementor + OceanWP.",
+ "promotion_tactics": [
+  {
+   "tactic": "سلاسل تحريرية بعلامات ثابتة: Majlis (رأي)، Debrief (ملخص بحثي)، Five Questions (أسئلة وأجوبة)، Kaleidoscope، Visualized Stories، Podcasts",
+   "evidence_url": "https://www.yemenpolicy.org/wp-json/wp/v2/categories?per_page=100"
+  },
+  {
+   "tactic": "نموذج اشتراك في نشرة بريدية داخل الصفحة الرئيسية (إضافة Newsletter / tnp)",
+   "evidence_url": "https://www.yemenpolicy.org/"
+  },
+  {
+   "tactic": "نشر ثنائي اللغة: نسخة عربية تحت /ar/ لكل مادة رئيسية (تُنشر بعد الإنجليزية بأيام إلى أسابيع)",
+   "evidence_url": "https://www.yemenpolicy.org/wp-json/wp/v2/posts?per_page=5&lang=ar"
+  },
+  {
+   "tactic": "قوالب بصرية خاصة: قصص مرئية وفيلم وثائقي وفعاليات مرتبطة بالتقرير نفسه (تقرير المناخ 2023 → فعالية → وثائقي)",
+   "evidence_url": "https://www.yemenpolicy.org/documentary-climate-change-impacts-in-hajar-and-tawahi-yemen/"
+  }
+ ],
+ "strengths": [
+  "هوية تحريرية واضحة بسلاسل مسمّاة يسهل تمييزها",
+  "إنتاج ثنائي اللغة (إنجليزي/عربي) بترجمة كاملة",
+  "تنويع القوالب: قصص مرئية، بودكاست، وثائقي، أسئلة وأجوبة",
+  "حزمة ترويج متكاملة حول التقرير الواحد (تقرير + فعالية + وثائقي)"
+ ],
+ "weaknesses": [
+  "توقف النشر على الموقع: لا مادة جديدة منذ 2025-07-15 (إنجليزي) / 2025-07-19 (عربي)، أي صفر في نافذتي 30 و90 يوماً",
+  "وتيرة منخفضة جداً حتى قبل التوقف (مادة واحدة في 2025 و4 في 2024 بحسب واجهة WP)",
+  "لا قناة تيليجرام أو واتساب أو يوتيوب مرتبطة من الموقع",
+  "رابط X في الموقع ما زال twitter.com"
+ ],
+ "opportunities_for_mokha": [
+  "اعتماد سلاسل ثابتة التسمية على غرار Majlis/Debrief/Five Questions (مثلاً: «خمسة أسئلة عن…» كقالب سريع الإنتاج بالعربية)",
+  "تحويل كل دراسة رئيسية إلى حزمة: ملخص تنفيذي + قصة مرئية/إنفوجرافيك + فعالية + فيديو قصير",
+  "الاستفادة من فراغ النشر لدى YPC: الوتيرة المنتظمة بالعربية ميزة تنافسية مباشرة",
+  "إصدار ترجمة إنجليزية للمواد الأبرز لمخاطبة الجمهور الدولي الذي كان YPC يخاطبه"
+ ],
+ "limitations": [
+  "x.com و facebook.com و linkedin.com تحجب القراءة الآلية/غير المسجّلة في هذه البيئة (جدار تسجيل دخول، 403/402)؛ لم تُجرَ أي محاولة تجاوز، لذلك أعداد المتابعين والمنشورات والتفاعل على هذه المنصات غير متاحة.",
+  "لم يُعثر على أي رقم متابعين علني عبر محركات البحث (صفحة onthinktanks.org التي أشار إليها البحث أعادت 404).",
+  "Instagram غير مفحوص (منصة تتطلب تسجيل دخول).",
+  "لا يمكن الحكم على نشاط الحسابات الاجتماعية في النافذة؛ توقف الموقع لا يعني بالضرورة توقف الحسابات."
+ ],
+ "sources": [
+  {
+   "url": "https://www.yemenpolicy.org/",
+   "used_for": "روابط الحسابات الرسمية، نموذج النشرة، og:image (رُصد 2026-11-13)"
+  },
+  {
+   "url": "https://www.yemenpolicy.org/wp-json/wp/v2/posts?after=2026-08-16T00:00:00&per_page=100",
+   "used_for": "عدّ المنشورات في النافذة = 0 (رُصد 2026-11-13)"
+  },
+  {
+   "url": "https://www.yemenpolicy.org/wp-json/wp/v2/posts?per_page=30",
+   "used_for": "تواريخ آخر المنشورات"
+  },
+  {
+   "url": "https://www.yemenpolicy.org/feed/",
+   "used_for": "تحقق متقاطع لآخر منشور"
+  },
+  {
+   "url": "https://www.yemenpolicy.org/sitemap.xml",
+   "used_for": "lastmod لخريطة الموقع"
+  },
+  {
+   "url": "https://www.yemenpolicy.org/wp-json/wp/v2/categories?per_page=100",
+   "used_for": "التصنيفات وأعدادها"
+  },
+  {
+   "url": "https://www.yemenpolicy.org/fragmentation-of-tribes-in-shabwa-fuels-nationwide-conflict/",
+   "used_for": "أسلوب العنوان والصورة المميزة"
+  }
+ ]
+}

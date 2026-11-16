@@ -1,0 +1,266 @@
+{
+ "center": "DeepRoot Consulting (ديب روت للاستشارات)",
+ "website": "https://www.deeproot.consulting/",
+ "accessed": "2026-11-13",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/deeprootyemen",
+   "verified_via": "https://www.deeproot.consulting/en"
+  },
+  "facebook": {
+   "url": "http://www.facebook.com/deeprootyemen",
+   "verified_via": "https://www.deeproot.consulting/en"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/company/deeproot-consulting",
+   "verified_via": "https://www.deeproot.consulting/en"
+  },
+  "other": []
+ },
+ "followers": [],
+ "website_counts": {
+  "d30": {
+   "total": 0,
+   "by_language": {
+    "en": 0,
+    "ar": 0
+   }
+  },
+  "d90": {
+   "total": 0,
+   "by_language": {
+    "en": 0,
+    "ar": 0
+   }
+  },
+  "method": "صفحات قائمة الإصدارات (القسم الوحيد للمحتوى في الموقع) بالإنجليزية والعربية، مرتبة تنازلياً بالتاريخ المعروض لكل إصدار؛ أحدث إصدار بتاريخ 2026-07-29، أي قبل بداية نافذة الـ90 يوماً (2026-08-16). النتيجة: صفر في النافذتين باللغتين. ملاحظة: sitemap.xml قديم (آخر lastmod فيه 2024-02-06) فلا يصلح للعدّ. خلال 2026 كاملاً نُشرت 6 إصدارات (كل منها بنسختين EN+AR).",
+  "source_urls": [
+   "https://www.deeproot.consulting/en/publications",
+   "https://www.deeproot.consulting/ar/publications",
+   "https://www.deeproot.consulting/sitemap.xml"
+  ]
+ },
+ "items": [],
+ "latest_items_before_window": [
+  {
+   "date": "2026-07-29",
+   "title": "Third Regional Forum: Sustainable Maritime Trade and Smart Ports",
+   "title_ar": "المنتدى الإقليمي الثالث: التجارة البحرية المستدامة والموانئ الذكية",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "الاقتصاد الأزرق/الموانئ",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/third-regional-forum-sustainable-maritime-trade-and-smart-ports",
+   "views_as_seen": 227,
+   "downloads_as_seen": 265,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2026-06-25",
+   "title": "Entrepreneurship and Youth Participation in the Blue Economy",
+   "title_ar": "ريادة الأعمال ومشاركة الشباب في الاقتصاد الأزرق في اليمن ودول الخليج والدول المطلة على البحر الأحمر",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "الاقتصاد الأزرق/الشباب",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/entrepreneurship-and-youth-participation-in-the-blue-economy-comprehensives",
+   "views_as_seen": 112,
+   "downloads_as_seen": 334,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2026-06-25",
+   "title": "Building Resilient Coastal Communities in Yemen, the GCC Countries, and Red Sea Coastal States",
+   "title_ar": "بناء مجتمعات ساحلية قادرة على الصمود في اليمن ودول مجلس التعاون الخليجي ودول سواحل البحر الأحمر",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "المجتمعات الساحلية",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/building-resilient-coastal-communities-in-yemen-the-gulf-cooperation-council-gcc-countries-and-red-sea-coastal-states",
+   "views_as_seen": 208,
+   "downloads_as_seen": 190,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2026-06-22",
+   "title": "Federalism in Yemen's Transition",
+   "title_ar": "الفيدرالية في المرحلة الانتقالية في اليمن",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "الحوكمة/الفيدرالية",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/federalism-in-yemens-transition",
+   "views_as_seen": 471,
+   "downloads_as_seen": 357,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2026-06-21",
+   "title": "Decentralisation in Pre-Conflict Yemen",
+   "title_ar": "اللامركزية في اليمن قبل الصراع",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "الحوكمة/اللامركزية",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/decentralisation-in-pre-conflict-yemen",
+   "views_as_seen": 354,
+   "downloads_as_seen": 262,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2026-02-17",
+   "title": "Supporting Trade Finance in Yemen Amid Uncertainty",
+   "title_ar": "دعم تمويل التجارة في اليمن",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "تمويل التجارة",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/supporting-trade-finance-in-yemen-amid-uncertainty",
+   "views_as_seen": 375,
+   "downloads_as_seen": 217,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2025-09-08",
+   "title": "Made in Yemen: A Strategy for Industrial Recovery and Economic Growth",
+   "title_ar": "صنع في اليمن: استراتيجية للتعافي الصناعي والنمو الاقتصادي",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "الصناعة",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/made-in-yemen-a-strategy-for-industrial-recovery-and-economic-growth",
+   "views_as_seen": 587,
+   "downloads_as_seen": 430,
+   "observed": "2026-11-13"
+  },
+  {
+   "date": "2025-08-11",
+   "title": "Unlocking Climate Finance for Fragile States: The Case of Yemen",
+   "title_ar": "تيسير الوصول إلى التمويل المناخي في الدول الهشة: حالة اليمن",
+   "type": "إصدار (ورقة/تقرير PDF)",
+   "topic": "التمويل المناخي",
+   "language": "en+ar",
+   "url": "https://www.deeproot.consulting/en/publications/unlocking-climate-finance-for-fragile-states-the-case-of-yemen",
+   "views_as_seen": 682,
+   "downloads_as_seen": 416,
+   "observed": "2026-11-13"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 0,
+  "reports": 0,
+  "analysis": 0,
+  "news": 0,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 0,
+  "other": 0
+ },
+ "top_topics": [],
+ "top_topics_note": "لا عناصر في النافذة. مواضيع آخر 8 إصدارات (2025-08 → 2026-07): الاقتصاد الأزرق/السواحل والموانئ 3، الحوكمة (فيدرالية/لامركزية) 2، تمويل التجارة 1، الصناعة 1، التمويل المناخي 1.",
+ "languages": [
+  "en",
+  "ar"
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "الموقع – عدّادات المشاهدة والتنزيل العلنية",
+   "url": "https://www.deeproot.consulting/en/publications",
+   "posts_30d": 0,
+   "posts_90d": 0,
+   "typical_views": "112–682 مشاهدة و190–430 تنزيلاً للإصدار الواحد (آخر 8 إصدارات، كما ظهرت في 2026-11-13؛ العدّاد مشترك بين النسختين العربية والإنجليزية)",
+   "note": "هذه أرقام فعلية معروضة على صفحة كل إصدار وليست تفاعلاً على منصات التواصل. الأعلى: Unlocking Climate Finance (682 مشاهدة/416 تنزيلاً) ثم Made in Yemen (587/430) ثم Federalism in Yemen's Transition (471/357)."
+  },
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/deeprootyemen",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "لا قناة مرتبطة من الموقع، والمعاينة العامة للمعرّف لا تعرض قناة."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn",
+   "url": "https://twitter.com/deeprootyemen",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "غير قابلة للقراءة من هذه البيئة."
+  }
+ ],
+ "social_posts": [],
+ "headline_style": "عناوين وصفية تقنية قصيرة بصيغة اسمية تدل على القطاع والحل (Supporting Trade Finance in Yemen Amid Uncertainty؛ Made in Yemen: A Strategy for Industrial Recovery and Economic Growth؛ Federalism in Yemen's Transition)، مع مقابل عربي مباشر. لا عناوين خبرية أو مثيرة.",
+ "design_style": "og:image لكل إصدار عبارة عن mockup لغلافَي التقرير (إنجليزي وعربي جنباً إلى جنب) على خلفية رمادية فاتحة؛ الغلاف نفسه بصورة قطاعية كاملة + مربع عنوان كحلي + شريط شعارات الممول والشركاء (الاتحاد الأوروبي، OASIS، DeepRoot). الموقع بسيط (Bootstrap) بصفحة إصدارات واحدة على شكل بطاقات فيها زرّا «تنزيل» و«التفاصيل».",
+ "promotion_tactics": [
+  {
+   "tactic": "زر تنزيل PDF مباشر على بطاقة كل إصدار في القائمة والصفحة الرئيسية",
+   "evidence_url": "https://www.deeproot.consulting/en/publications"
+  },
+  {
+   "tactic": "عرض عدّاد المشاهدات والتنزيلات ومدة القراءة علناً في صفحة الإصدار (برهان اجتماعي)",
+   "evidence_url": "https://www.deeproot.consulting/en/publications/federalism-in-yemens-transition"
+  },
+  {
+   "tactic": "نشر الملخص التنفيذي كنص صفحة الإصدار مع النتائج الرئيسية على شكل نقاط",
+   "evidence_url": "https://www.deeproot.consulting/en/publications/bridging-the-gap-leveraging-village-savings-and-loan-associations-for-womens-financial-inclusion-in-yemen"
+  },
+  {
+   "tactic": "نشر ثنائي اللغة متزامن (نسخة عربية وإنجليزية بالتاريخ نفسه) وغلاف مزدوج في صورة المشاركة",
+   "evidence_url": "https://www.deeproot.consulting/ar/publications"
+  },
+  {
+   "tactic": "سلاسل مرتبطة بمشروع/ممول (أوراق خلفية لمشروع OASIS الممول أوروبياً؛ منتديات إقليمية مرقمة: 'Third Regional Forum')",
+   "evidence_url": "https://www.deeproot.consulting/en/publications/third-regional-forum-sustainable-maritime-trade-and-smart-ports"
+  },
+  {
+   "tactic": "وسوم og/twitter:card = summary_large_image لكل إصدار",
+   "evidence_url": "https://www.deeproot.consulting/en/publications/bridging-the-gap-leveraging-village-savings-and-loan-associations-for-womens-financial-inclusion-in-yemen"
+  }
+ ],
+ "strengths": [
+  "إصدارات اقتصادية/قطاعية متخصصة بنسختين عربية وإنجليزية متزامنتين",
+  "شفافية أرقام الوصول (مشاهدات وتنزيلات لكل إصدار)",
+  "تصميم أغلفة احترافي موحّد وصورة مشاركة تعرض الغلافين",
+  "مسار قصير إلى الـPDF (تنزيل من القائمة مباشرة)"
+ ],
+ "weaknesses": [
+  "لا نشر في آخر 90 يوماً (آخر إصدار 2026-07-29) ووتيرة متقطعة: 6 إصدارات في 2026 تركزت في فبراير ويونيو–يوليو",
+  "قالب واحد فقط (PDF)؛ لا أخبار ولا فيديو ولا إنفوجرافيك ولا صفحة فعاليات",
+  "لا نشرة بريدية ولا تيليجرام/واتساب/يوتيوب مرتبطة من الموقع، ولا أزرار مشاركة",
+  "og:url فارغ ووسم twitter:site بقيمة غير صحيحة (@deeproot.consulting)، وخريطة الموقع متوقفة عند 2024",
+  "أرقام الوصول متواضعة (مئات المشاهدات للإصدار)"
+ ],
+ "opportunities_for_mokha": [
+  "إظهار عدّاد القراءات/التنزيلات على صفحات الدراسات كبرهان اجتماعي ومؤشر داخلي للأداء",
+  "صورة مشاركة موحّدة لكل دراسة على شكل mockup للغلاف بدلاً من صورة عامة",
+  "زر «تنزيل PDF» مباشر في بطاقة الدراسة داخل القوائم",
+  "نشر الملخص التنفيذي ونقاط النتائج كنص HTML قابل للفهرسة والمشاركة، مع إبقاء الدراسة الكاملة PDF",
+  "التميّز عن DeepRoot بما ينقصها: نشرة بريدية وقناة تيليجرام/واتساب ومحتوى مرئي مشتق من كل دراسة"
+ ],
+ "limitations": [
+  "x.com و facebook.com و linkedin.com تحجب القراءة الآلية/غير المسجّلة في هذه البيئة (جدار تسجيل دخول، 403/402)؛ لم تُجرَ أي محاولة تجاوز، لذلك أعداد المتابعين والمنشورات والتفاعل على هذه المنصات غير متاحة.",
+  "لم يُعثر على رقم متابعين علني عبر البحث؛ مقتطف البحث عن صفحة LinkedIn لم يتضمن عدد المتابعين.",
+  "عدّادات المشاهدة/التنزيل تراكمية منذ النشر وليست خاصة بالنافذة، ومنهجية احتسابها غير معلنة.",
+  "لم تُفحص صفحات القائمة 2–11 لأن الترتيب زمني تنازلي والصفحة الأولى تغطي حتى 2025-08."
+ ],
+ "sources": [
+  {
+   "url": "https://www.deeproot.consulting/en",
+   "used_for": "روابط الحسابات الرسمية (التذييل) وقائمة أحدث الإصدارات (رُصد 2026-11-13)"
+  },
+  {
+   "url": "https://www.deeproot.consulting/en/publications",
+   "used_for": "تواريخ الإصدارات والعدّ"
+  },
+  {
+   "url": "https://www.deeproot.consulting/ar/publications",
+   "used_for": "النسخ العربية وتواريخها"
+  },
+  {
+   "url": "https://www.deeproot.consulting/sitemap.xml",
+   "used_for": "التحقق من خريطة الموقع (قديمة)"
+  },
+  {
+   "url": "https://www.deeproot.consulting/en/publications/third-regional-forum-sustainable-maritime-trade-and-smart-ports",
+   "used_for": "المشاهدات/التنزيلات وصورة og"
+  },
+  {
+   "url": "https://www.deeproot.consulting/en/publications/federalism-in-yemens-transition",
+   "used_for": "المشاهدات/التنزيلات"
+  }
+ ]
+}

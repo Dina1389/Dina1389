@@ -1,0 +1,864 @@
+{
+ "center": "مركز أبعاد للدراسات والبحوث (Abaad Studies & Research Center)",
+ "website": "https://abaadstudies.org",
+ "accessed": "2026-11-13 (الموقع وعدّادات الزيارات) و2026-11-14 (تيليجرام ويوتيوب) و2026-11-16 (لقطة الشاشة)",
+ "accounts": {
+  "x": {
+   "url": "https://twitter.com/abaadstudies/",
+   "verified_via": "https://abaadstudies.org/ (ترويسة الصفحة الرئيسية)"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/AbaadStudies",
+   "verified_via": "https://abaadstudies.org/"
+  },
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/abaad-studies-962466149/",
+   "verified_via": "https://abaadstudies.org/ (ملاحظة: الرابط حساب شخصي ‎/in/‎ لا صفحة شركة)"
+  },
+  "other": [
+   {
+    "platform": "Telegram",
+    "url": "https://t.me/abaadstudies"
+   },
+   {
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/AbaadStudiesYemen"
+   },
+   {
+    "platform": "RSS",
+    "url": "https://abaadstudies.org/rss"
+   }
+  ]
+ },
+ "followers": [
+  {
+   "platform": "Telegram",
+   "value": 631,
+   "figure_date": "2026-11-14",
+   "source_url": "https://t.me/s/abaadstudies",
+   "type": "actual-on-platform"
+  },
+  {
+   "platform": "YouTube",
+   "value": 37,
+   "figure_date": "2026-11-14",
+   "source_url": "https://www.youtube.com/user/AbaadStudiesYemen",
+   "type": "actual-on-platform (37 مشتركاً، 21 فيديو)"
+  },
+  {
+   "platform": "X",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://twitter.com/abaadstudies/",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "Facebook",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.facebook.com/AbaadStudies",
+   "type": "غير متاح"
+  },
+  {
+   "platform": "LinkedIn",
+   "value": null,
+   "figure_date": "",
+   "source_url": "https://www.linkedin.com/in/abaad-studies-962466149/",
+   "type": "غير متاح"
+  }
+ ],
+ "website_counts": {
+  "d30": {
+   "total": 8,
+   "by_language": {
+    "ar": 5,
+    "en": 3
+   }
+  },
+  "d90": {
+   "total": 28,
+   "by_language": {
+    "ar": 16,
+    "en": 12
+   }
+  },
+  "method": "أرقام فعلية مرصودة: الموقع ليس ووردبريس (لا wp-json، و‎/rss‎ فارغ، وlastmod في sitemap.xml يساوي وقت الجلب فلا يصلح للتأريخ). لذلك مُسحت معرّفات المواد المتسلسلة ‎/policy-analysis/topic/{id}‎ من 60170 إلى 60274 بـcurl (أي مسار قسم يعرض أي مادة)، وقُرئ من كل صفحة التاريخ المعروض وعدّاد «الزيارات»، ثم كُرّر الطلب على ‎/en/...‎ لمعرفة وجود نسخة إنجليزية (عنوان og إنجليزي فعلي). حُدد القسم من صفحات القوائم (geopolitics, files, case-report, situation-assessment, case-analysis, activities, early-warning..., والصفحة الرئيسية). المعرّفات 60252–60274 غير موجودة. النسخة الإنجليزية تُحسب مادة مستقلة وتحمل تاريخ النسخة العربية نفسه.",
+  "source_urls": [
+   "https://abaadstudies.org/policy-analysis/topic/60251",
+   "https://abaadstudies.org/sitemap.xml",
+   "https://abaadstudies.org/strategies",
+   "https://abaadstudies.org/policy-analysis",
+   "https://abaadstudies.org/activities",
+   "https://abaadstudies.org/early-warning-and-strategic-indicators",
+   "https://abaadstudies.org/almarsad",
+   "https://abaadstudies.org/lang/en"
+  ]
+ },
+ "items": [
+  {
+   "date": "2026-11-12",
+   "title": "شهر على «فجر اليمن».. تحولات الميدان وحدود الإسناد ومسارات الحرب",
+   "type": "تقييم حالة",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://abaadstudies.org/policy-analysis/topic/60251",
+   "site_visits_counter": 169
+  },
+  {
+   "date": "2026-11-11",
+   "title": "مركز أبعاد يصدر ثلاث دراسات وتقارير استراتيجية حول تحولات الحرب في اليمن والتهديدات الإقليمية خلال أكتوبر",
+   "type": "فعاليات/أنشطة أبعاد (خبر حصاد شهري)",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://abaadstudies.org/activities/topic/60250",
+   "site_visits_counter": 158
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Abaad Studies & Research Center Publishes Three Strategic Reports on Yemen’s War and Regional Security Threats in October",
+   "type": "فعاليات/أنشطة أبعاد (خبر حصاد شهري) [EN version]",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/activities/topic/60250",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "التهديد البحري الإيراني والصراع في اليمن",
+   "type": "المرصد الإعلامي – ترجمات أبعاد",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/almarsad/topic/60249",
+   "site_visits_counter": 112
+  },
+  {
+   "date": "2026-11-05",
+   "title": "«فجر اليمن»: اختبار الحسم العسكري وكلفة الحرب الإنسانية",
+   "type": "الإنذار المبكر والمؤشرات الاستراتيجية (تقرير شهري)",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://abaadstudies.org/programms/topic/60248",
+   "site_visits_counter": 507
+  },
+  {
+   "date": "2026-11-05",
+   "title": "DAWN OF YEMEN: The Test of Military Decisiveness and the Human Cost of War",
+   "type": "الإنذار المبكر والمؤشرات الاستراتيجية (تقرير شهري) [EN version]",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/programms/topic/60248",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "\"فجر اليمن\"..  استنزاف جديد بين الحكومة والحوثيين، أم تحول في مسار الحسم العسكري؟",
+   "type": "تقدير موقف",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://abaadstudies.org/policy-analysis/topic/60247",
+   "site_visits_counter": 1252
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Operation “Dawn of Yemen”: A New Phase of Attrition or a Turning Point in the War?",
+   "type": "تقدير موقف [EN version]",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/policy-analysis/topic/60247",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-10-09",
+   "title": "مركز أبعاد يصدر خمس دراسات وتقارير بحثية خلال سبتمبر حول تحولات الحرب اليمنية وأمن البحر الأحمر",
+   "type": "فعاليات/أنشطة أبعاد (خبر حصاد شهري)",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://abaadstudies.org/activities/topic/60246",
+   "site_visits_counter": 633
+  },
+  {
+   "date": "2026-10-09",
+   "title": "Abaad Center Releases Five Research Publications on Yemen and Red Sea Security in September",
+   "type": "فعاليات/أنشطة أبعاد (خبر حصاد شهري) [EN version]",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/activities/topic/60246",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-10-05",
+   "title": "ترجمات أبعاد: اتفــــاق مكــة تحـــت الضغـط: هل ستواجه تركيا وباكستان الحوثيين؟",
+   "type": "المرصد الإعلامي – ترجمات أبعاد",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "ar",
+   "url": "https://abaadstudies.org/almarsad/topic/60245",
+   "site_visits_counter": 268
+  },
+  {
+   "date": "2026-10-03",
+   "title": "باب المندب تحت الاختبار: التعبئة العامة، استعادة المبادرة، وخطر الحرب متعددة الجبهات",
+   "type": "الإنذار المبكر والمؤشرات الاستراتيجية (تقرير شهري)",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/programms/topic/60244",
+   "site_visits_counter": 537
+  },
+  {
+   "date": "2026-10-03",
+   "title": "Bab al-Mandab Under Test: General Mobilization, Restoring the Initiative, and the Risk of Multi-Front War",
+   "type": "الإنذار المبكر والمؤشرات الاستراتيجية (تقرير شهري) [EN version]",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/programms/topic/60244",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-09-19",
+   "title": "التداعيات الإقليمية والدولية لسيطرة الحوثيين على مضيق باب المندب",
+   "type": "جيوبولتك (دراسة)",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/strategies/topic/60243",
+   "site_visits_counter": 2005
+  },
+  {
+   "date": "2026-09-19",
+   "title": "Regional and International Implications of Houthi Control of Bab al-Mandab Strait",
+   "type": "جيوبولتك (دراسة) [EN version]",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/strategies/topic/60243",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-09-17",
+   "title": "باب المندب في قبضة الحوثيين.. تحولات موازين القوة في البحر الأحمر",
+   "type": "جيوبولتك (دراسة)",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/strategies/topic/60241",
+   "site_visits_counter": 1316
+  },
+  {
+   "date": "2026-09-17",
+   "title": "Houthi Takeover of Bab al-Mandab:Shifts in the Balance of Power in the Red Sea",
+   "type": "جيوبولتك (دراسة) [EN version]",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/strategies/topic/60241",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-09-17",
+   "title": "توظيف القضايا القومية في استعادة السيطرة على القرار القبلي.. القبيلة اليمنية وتصعيد الحوثيين في البحر الأحمر (2024-2026)",
+   "type": "ملفات (دراسة)",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/strategies/topic/60242",
+   "site_visits_counter": 2272
+  },
+  {
+   "date": "2026-09-17",
+   "title": "Harnessing National Causes to Reassert Control over Tribal Decision-Making..The Yemeni Tribe and Houthi Escalation in the Red Sea 2024–2026",
+   "type": "ملفات (دراسة) [EN version]",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/strategies/topic/60242",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "ترجمات أبعاد : ناتو جديد وسط تصاعد هجمات الحوثيين",
+   "type": "المرصد الإعلامي – ترجمات أبعاد",
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "language": "ar",
+   "url": "https://abaadstudies.org/almarsad/topic/60238",
+   "site_visits_counter": 436
+  },
+  {
+   "date": "2026-09-03",
+   "title": "خمسة إصدارات لأبعاد في أغسطس ترصد انتقال اليمن من التهدئة المسلحة إلى اتساع المواجهة",
+   "type": "فعاليات/أنشطة أبعاد (خبر حصاد شهري)",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "ar",
+   "url": "https://abaadstudies.org/activities/topic/60240",
+   "site_visits_counter": 944
+  },
+  {
+   "date": "2026-09-03",
+   "title": "Five Abaad Publications Track Yemen’s Shift from Armed De-escalation to an Expanding Conflict",
+   "type": "فعاليات/أنشطة أبعاد (خبر حصاد شهري) [EN version]",
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/activities/topic/60240",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-09-02",
+   "title": "التصعيد بلا كلفة ينتهي: الردع الحكومي، باب المندب، واختبار استعادة الدولة",
+   "type": "الإنذار المبكر والمؤشرات الاستراتيجية (تقرير شهري)",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/programms/topic/60237",
+   "site_visits_counter": 799
+  },
+  {
+   "date": "2026-09-02",
+   "title": "The End of Cost-Free Escalation: Government Deterrence, Bab al-Mandab, and the Test of State Recovery",
+   "type": "الإنذار المبكر والمؤشرات الاستراتيجية (تقرير شهري) [EN version]",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/programms/topic/60237",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-08-23",
+   "title": "من التصعيد العسكري إلى تعظيم المكاسب..كيف يوظف الحوثيون باب المندب كورقة ضغط تفاوضية؟",
+   "type": "تقرير حالة",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "ar",
+   "url": "https://abaadstudies.org/strategies/topic/60235",
+   "site_visits_counter": 3611
+  },
+  {
+   "date": "2026-08-23",
+   "title": "From Military Escalation to Maximizing Gains: How the Houthis Use Bab al-Mandeb as a Bargaining Lever",
+   "type": "تقرير حالة [EN version]",
+   "topic": "البحر الأحمر وباب المندب",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/strategies/topic/60235",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  },
+  {
+   "date": "2026-08-23",
+   "title": "اليمن من التهدئة المسلحة إلى حرب قيد التوسع: استراتيجيات الأطراف وسيناريوهات المواجهة المقبلة",
+   "type": "تقييم حالة",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "ar",
+   "url": "https://abaadstudies.org/policy-analysis/topic/60236",
+   "site_visits_counter": 2035
+  },
+  {
+   "date": "2026-08-23",
+   "title": "From Armed De-escalation to an Expanding War: Strategies of Parties in Yemen and Scenarios for the Coming Phase of Confrontation",
+   "type": "تقييم حالة [EN version]",
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "language": "en",
+   "url": "https://abaadstudies.org/en/policy-analysis/topic/60236",
+   "site_visits_counter": "عدّاد مشترك مع النسخة العربية"
+  }
+ ],
+ "type_breakdown_90d": {
+  "research": 3,
+  "reports": 4,
+  "analysis": 3,
+  "news": 3,
+  "video": 0,
+  "infographic": 0,
+  "podcast": 0,
+  "events": 0,
+  "other": 3
+ },
+ "type_breakdown_note": "التوزيع على المواد الفريدة الـ16 (العربية) دون تكرار النسخ الإنجليزية الـ12. other = «ترجمات أبعاد» ضمن المرصد الإعلامي.",
+ "top_topics": [
+  {
+   "topic": "البحر الأحمر وباب المندب",
+   "count": 7
+  },
+  {
+   "topic": "عودة الحرب والتطورات العسكرية",
+   "count": 6
+  },
+  {
+   "topic": "الحوثيون (الصورة، الحكم، التعليم)",
+   "count": 2
+  },
+  {
+   "topic": "أخرى (مؤسسي/متنوع)",
+   "count": 1
+  }
+ ],
+ "languages": [
+  "ar",
+  "en"
+ ],
+ "top_site_items_by_visits": [
+  {
+   "visits_counter": 3611,
+   "title": "من التصعيد العسكري إلى تعظيم المكاسب..كيف يوظف الحوثيون باب المندب كورقة ضغط تفاوضية؟",
+   "url": "https://abaadstudies.org/strategies/topic/60235",
+   "date": "2026-08-23",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 2272,
+   "title": "توظيف القضايا القومية في استعادة السيطرة على القرار القبلي.. القبيلة اليمنية وتصعيد الحوثيين في البحر الأحمر (2024-2026)",
+   "url": "https://abaadstudies.org/strategies/topic/60242",
+   "date": "2026-09-17",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 2035,
+   "title": "اليمن من التهدئة المسلحة إلى حرب قيد التوسع: استراتيجيات الأطراف وسيناريوهات المواجهة المقبلة",
+   "url": "https://abaadstudies.org/policy-analysis/topic/60236",
+   "date": "2026-08-23",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 2005,
+   "title": "التداعيات الإقليمية والدولية لسيطرة الحوثيين على مضيق باب المندب",
+   "url": "https://abaadstudies.org/strategies/topic/60243",
+   "date": "2026-09-19",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 1316,
+   "title": "باب المندب في قبضة الحوثيين.. تحولات موازين القوة في البحر الأحمر",
+   "url": "https://abaadstudies.org/strategies/topic/60241",
+   "date": "2026-09-17",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 1252,
+   "title": "\"فجر اليمن\"..  استنزاف جديد بين الحكومة والحوثيين، أم تحول في مسار الحسم العسكري؟",
+   "url": "https://abaadstudies.org/policy-analysis/topic/60247",
+   "date": "2026-10-15",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 944,
+   "title": "خمسة إصدارات لأبعاد في أغسطس ترصد انتقال اليمن من التهدئة المسلحة إلى اتساع المواجهة",
+   "url": "https://abaadstudies.org/activities/topic/60240",
+   "date": "2026-09-03",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  },
+  {
+   "visits_counter": 799,
+   "title": "التصعيد بلا كلفة ينتهي: الردع الحكومي، باب المندب، واختبار استعادة الدولة",
+   "url": "https://abaadstudies.org/programms/topic/60237",
+   "date": "2026-09-02",
+   "note": "عدّاد «الزيارات» المعروض في الصفحة يوم 2026-11-13 (فعلي، تراكمي، مشترك بين اللغتين، وقد زاد 2–3 زيارات بسبب جلبنا)"
+  }
+ ],
+ "social_channels_observed": [
+  {
+   "platform": "Telegram",
+   "url": "https://t.me/s/abaadstudies",
+   "posts_30d": 9,
+   "posts_90d": 24,
+   "typical_views": "المدى 41–166 مشاهدة، الوسيط 105 (ضمن نافذة 90 يوماً؛ مرصود 2026-11-14)",
+   "note": "631 مشتركاً. القناة تنشر ملخص كل إصدار بالعربية ثم بالإنجليزية مع الرابط؛ فجوة بلا نشر بين 23 سبتمبر و21 أكتوبر. عدد المنشورات يشمل رسائل الوسائط المتعددة في المنشور الواحد كما تعرضها المعاينة."
+  },
+  {
+   "platform": "YouTube",
+   "url": "https://www.youtube.com/channel/UCQwazCDVtraE146PVvOJhnQ",
+   "posts_30d": 0,
+   "posts_90d": 0,
+   "typical_views": "آخر فيديو 2024-01-02 (15 مشاهدة)",
+   "note": "القناة خاملة: 37 مشتركاً و21 فيديو، ولا فيديو داخل النافذة."
+  },
+  {
+   "platform": "X / Facebook / LinkedIn",
+   "url": "https://abaadstudies.org/",
+   "posts_30d": null,
+   "posts_90d": null,
+   "typical_views": "غير متاح",
+   "note": "محجوبة عن القراءة غير المسجّلة في هذه البيئة."
+  }
+ ],
+ "social_posts": [
+  {
+   "platform": "Telegram",
+   "date": "2026-09-20",
+   "url": "https://t.me/abaadstudies/751",
+   "summary": "Abaad Study: Houthis Used Red Sea War to Tighten Grip on Yemen’s Tribes, but Loyalties Remain Fragile A new study by the Abaad Center for St",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "166",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-23",
+   "url": "https://t.me/abaadstudies/752",
+   "summary": "🔴 STUDY | Houthi Control of Bab al-Mandab: Regional and International Implications A new study by the Abaad Studies & Research Center warns ",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "163",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-05",
+   "url": "https://t.me/abaadstudies/747",
+   "summary": "According to the report, the consequences extend beyond international shipping to oil flows, Suez Canal revenues, maritime insurance premium",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "153",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-25",
+   "url": "https://t.me/abaadstudies/740",
+   "summary": "A new study by researcher Adel Shamsan at Abaad Studies and Research Center: From Military Escalation to Maximising Gains: How the Houthis U",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "152",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-05",
+   "url": "https://t.me/abaadstudies/746",
+   "summary": "Five Abaad Publications Track Yemen’s Shift from Armed De-escalation to an Expanding Conflict Abaad Studies and Research Center issued five ",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "137",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-20",
+   "url": "https://t.me/abaadstudies/737",
+   "summary": "A new study by researcher Tawfiq Al-Hamidi, published by Abaad Studies and Research Center: Mocha in the Red Sea Security Equation: The Sign",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "130",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-02",
+   "url": "https://t.me/abaadstudies/743",
+   "summary": "August 2026 marked the end of “cost-free” Houthi escalation A new report by Abaad Observatory for Early Warning and Strategic Indicators say",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "130",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-10-21",
+   "url": "https://t.me/abaadstudies/754",
+   "summary": "فجر اليمن.. بداية تحول في مسار الحرب أم مرحلة جديدة من الاستنزاف؟ يرى تقدير موقف صادر عن مركز أبعاد للدراسات والبحوث، أعدّه الباحث فؤاد مسعد",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "128",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-19",
+   "url": "https://t.me/abaadstudies/750",
+   "summary": "دراسة: سيطرة الحوثيين على باب المندب تهدد الملاحة وتفتح الباب أمام تصعيد إقليمي ودولي حذرت دراسة بحثية صادرة عن مركز أبعاد للدراسات والبحوث ",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "123",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-24",
+   "url": "https://t.me/abaadstudies/739",
+   "summary": "اليمن من التهدئة المسلحة إلى حرب قيد التوسع تكشف دراسة جديدة لمركز أبعاد للدراسات والبحوث أن اليمن انتقل من مرحلة «اللاحرب واللاسلم» إلى موا",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "120",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-17",
+   "url": "https://t.me/abaadstudies/749",
+   "summary": "القبيلة اليمنية وتصعيد الحوثيين في البحر الأحمر.. كيف تُوظَّف القضايا القومية للسيطرة على القرار القبلي؟ تبحث دراسة جديدة لمركز أبعاد للدراس",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "116",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-17",
+   "url": "https://t.me/abaadstudies/748",
+   "summary": "باب المندب في قبضة الحوثيين.. تحولات موازين القوة في البحر الأحمر كيف يغيّر وصول الحوثيين إلى المخا وذوباب وجزيرة ميون معادلات الحرب في اليم",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "105",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-10-21",
+   "url": "https://t.me/abaadstudies/753",
+   "summary": "Dawn of Yemen: A Strategic Turning Point or the Beginning of a Prolonged War of Attrition? Abaad Studies & Research Center | Policy Analysis",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "105",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-08-23",
+   "url": "https://t.me/abaadstudies/738",
+   "summary": "دراسة جديدة للباحث عادل شمسان في مركز أبعاد للدراسات والبحوث: من التصعيد العسكري إلى تعظيم المكاسب.. كيف يوظف الحوثيون باب المندب كورقة ضغط ",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "102",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-02",
+   "url": "https://t.me/abaadstudies/741",
+   "summary": "أغسطس 2026 أنهى مرحلة الاعتداء الحوثي بلا كلفة كشف تقرير مرصد أبعاد للإنذار المبكر والمؤشرات الاستراتيجية أن أغسطس 2026 مثّل نقطة تحول خطيرة",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "91",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-05",
+   "url": "https://t.me/abaadstudies/745",
+   "summary": "خمسة إصدارات لأبعاد في أغسطس ترصد انتقال اليمن من التهدئة المسلحة إلى اتساع المواجهة أصدر مركز أبعاد للدراسات والبحوث خلال أغسطس/آب 2026 خمس",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "88",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-09-05",
+   "url": "https://t.me/abaadstudies/744",
+   "summary": "وحذّر المرصد من تحول المواجهة إلى حرب استنزاف متعددة الأدوات، تشمل الصواريخ والمسيّرات والزوارق والألغام والخلايا الأمنية والاغتيالات، بالتو",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "86",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-11",
+   "url": "https://t.me/abaadstudies/763",
+   "summary": "Abaad Center Releases Five Research Publications on Yemen and Red Sea Security in September https://abaadstudies.org/en/activities/topic/602",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "58",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-11",
+   "url": "https://t.me/abaadstudies/764",
+   "summary": "Abaad Studies & Research Center Publishes Three Strategic Reports on Yemen’s War and Regional Security Threats in October https://abaadstudi",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "58",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-11",
+   "url": "https://t.me/abaadstudies/761",
+   "summary": "Abaad Publishes Eight Strategic Research Reports Tracking Yemen’s War Escalation in September and October 2026 Abaad Studies & Research Cent",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "47",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-11",
+   "url": "https://t.me/abaadstudies/755",
+   "summary": "ثمانية إصدارات بحثية لمركز أبعاد ترصد تحولات الحرب اليمنية خلال سبتمبر وأكتوبر 2026 أصدر مركز أبعاد للدراسات والبحوث ثماني دراسات وتقارير وم",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "46",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-11",
+   "url": "https://t.me/abaadstudies/757",
+   "summary": "https://abaadstudies.org/activities/topic/60246 سبتمبر: التقدم الحوثي والتهديدات الاستراتيجية لباب المندب ركزت إصدارات سبتمبر الخمسة على الت",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "46",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-13",
+   "url": "https://t.me/abaadstudies/765",
+   "summary": "شهر على «فجر اليمن».. تحولات الميدان وحدود الإسناد ومسارات الحرب يرى مركز أبعاد للدراسات والبحوث، في تقييم حالة جديد، أن عملية «فجر اليمن» ح",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "46",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  },
+  {
+   "platform": "Telegram",
+   "date": "2026-11-11",
+   "url": "https://t.me/abaadstudies/758",
+   "summary": "https://abaadstudies.org/activities/topic/60250 أكتوبر: «فجر اليمن» واختبار الحسم العسكري وكلفة الحرب مع إطلاق عملية «فجر اليمن» مطلع أكتوبر",
+   "likes": "غير متاح",
+   "comments": "غير متاح",
+   "shares": "غير متاح",
+   "views": "41",
+   "source_url": "https://t.me/s/abaadstudies",
+   "data_type": "actual"
+  }
+ ],
+ "headline_style": "عناوين طويلة ثنائية الشطر بنمط «موضوع.. تفسير» أو «عنوان: ثلاثية عناصر» («باب المندب في قبضة الحوثيين.. تحولات موازين القوة في البحر الأحمر»، «التصعيد بلا كلفة ينتهي: الردع الحكومي، باب المندب، واختبار استعادة الدولة»)، وأسئلة ثنائية الخيار («استنزاف جديد ... أم تحول في مسار الحسم العسكري؟»). أخبار الحصاد الشهري بصيغة «مركز أبعاد يصدر خمس دراسات...». المصدر: صفحات المواد 60235–60251.",
+ "design_style": "قالب داكن بشريط علوي أسود وسلايدر صور كبيرة بملء الشاشة مع العنوان والتاريخ فوق الصورة؛ صور og للإصدارات عبارة عن أغلفة مصممة (عنوان + اسم الباحث/الوحدة + نوع الإصدار + الشهر) بألوان أزرق/أبيض وعلم اليمن؛ صور ميدانية/مخزنية غير منسوبة. لا إنفوغراف مرصود في النافذة؛ قسم الفيديو ومعرض الصور بلا جديد. (لقطة شاشة لـ https://abaadstudies.org/ بتاريخ 2026-11-16).",
+ "promotion_tactics": [
+  {
+   "tactic": "كل دراسة تبدأ بـ«ملخص تنفيذي» أو «الخلاصة لصانع القرار» مع ملف PDF للتحميل",
+   "evidence_url": "https://abaadstudies.org/policy-analysis/topic/60251"
+  },
+  {
+   "tactic": "خبر «حصاد شهري» يعيد ترويج إصدارات الشهر مجمّعة (أغسطس: 5، سبتمبر: 5، أكتوبر: 3) بالعربية والإنجليزية",
+   "evidence_url": "https://abaadstudies.org/activities/topic/60246"
+  },
+  {
+   "tactic": "سلسلة شهرية ذات علامة: «مرصد الإنذار المبكر والمؤشرات الاستراتيجية» (تقرير مطلع كل شهر)",
+   "evidence_url": "https://abaadstudies.org/early-warning-and-strategic-indicators"
+  },
+  {
+   "tactic": "«ترجمات أبعاد» و«مرصد أبعاد»: تعريب ورصد شهري لما تنشره مراكز الأبحاث الدولية عن اليمن",
+   "evidence_url": "https://abaadstudies.org/almarsad"
+  },
+  {
+   "tactic": "نسخة إنجليزية بنفس الرابط (‎/en/‎) لمعظم الدراسات (12 من 16 مادة في 90 يوماً)",
+   "evidence_url": "https://abaadstudies.org/en/strategies/topic/60243"
+  },
+  {
+   "tactic": "قناة تيليجرام عامة تنشر ملخصاً لكل إصدار بالعربية ثم الإنجليزية مع وسم «🔴 STUDY |»",
+   "evidence_url": "https://t.me/s/abaadstudies"
+  },
+  {
+   "tactic": "أزرار مشاركة (فيسبوك، لينكدإن، تمبلر) وعدّاد زيارات علني، ومكتبة PDF/مجلة أبعاد بباركود",
+   "evidence_url": "https://abaadstudies.org/pdf"
+  }
+ ],
+ "strengths": [
+  "تصنيف واضح لأنواع الإنتاج (جيوبولتك، ملفات، تقرير حالة، تقدير موقف، تقييم حالة، إنذار مبكر) يسهّل التوقع لدى القارئ",
+  "ملخص تنفيذي/خلاصة لصانع القرار + PDF في كل إصدار",
+  "ثنائية لغوية لمعظم الدراسات",
+  "أرقام قراءة مرتفعة نسبياً لبعض الدراسات على الموقع (3611 و2272 و2035 و2005 زيارة لمواد أغسطس–سبتمبر)",
+  "إعادة ترويج شهرية مجمّعة تمدّ عمر الإصدارات",
+  "تيليجرام عام قابل للقياس"
+ ],
+ "weaknesses": [
+  "حجم إنتاج محدود: 16 مادة فريدة في 90 يوماً (5 في آخر 30 يوماً) ثلاث منها أخبار ترويجية وثلاث ترجمات",
+  "قناة يوتيوب خاملة منذ يناير 2024 (37 مشتركاً) وقسم الفيديو/البودكاست بلا محتوى جديد",
+  "تيليجرام صغير (631 مشتركاً، 41–166 مشاهدة للمنشور) مع فجوة شهر بلا نشر",
+  "RSS فارغ وخريطة موقع بلا تواريخ حقيقية، وأخطاء تحريرية ظاهرة (عنوان مادة 60227 نص تعليمات تحرير منشور بالخطأ)",
+  "رابط لينكدإن حساب شخصي لا صفحة مؤسسة؛ لا واتساب ولا إنستغرام ولا قائمة بريدية ظاهرة",
+  "لا أزرار مشاركة لواتساب/إكس/تيليجرام في صفحة المادة (فيسبوك ولينكدإن وتمبلر فقط)"
+ ],
+ "opportunities_for_mokha": [
+  "اعتماد تصنيف ثابت لأنواع الإصدارات (تقدير موقف / تقييم حالة / دراسة / تقرير شهري) يظهر في الغلاف والعنوان",
+  "افتتاح كل إصدار بـ«خلاصة لصانع القرار» من 5 نقاط قابلة للاقتباس على وسائل التواصل",
+  "خبر حصاد شهري مجمّع لإصدارات المركز يُنشر على الموقع وكل المنصات",
+  "تقرير مؤشرات/إنذار مبكر شهري بعلامة ثابتة وموعد ثابت",
+  "أغلفة موحدة للإصدارات تصلح كصورة og للمشاركة",
+  "التميّز حيث يضعف أبعاد: فيديو قصير وبودكاست وإنفوغراف وقناة واتساب وقائمة بريدية وRSS سليم",
+  "إظهار عدّاد قراءات علني للمواد كدليل اجتماعي إن كانت الأرقام جيدة"
+ ],
+ "limitations": [
+  "X وفيسبوك ولينكدإن غير قابلة للقراءة غير المسجّلة هنا: لا متابعين ولا منشورات ولا تفاعل؛ لم تُجرَ أي محاولة تجاوز",
+  "لا يمكن استنتاج نمو المتابعين من اللقطة الآنية",
+  "عدّاد «الزيارات» في الموقع تراكمي منذ النشر وليس خاصاً بفترة، ومشترك بين النسختين، وتأثر بزيادة 2–3 من جلبنا",
+  "مسح المعرّفات يفترض أن كل المواد الجديدة تأخذ معرّفاً ضمن 60170–60274؛ المعرّفات بعد 60251 كانت غير موجودة يوم 2026-11-13",
+  "تاريخ النسخة الإنجليزية المعروض هو تاريخ العربية؛ تاريخ رفع الترجمة الفعلي غير متاح",
+  "تيليجرام لا يعرض إعجابات/تعليقات/مشاركات في المعاينة العامة؛ المشاهدات فقط",
+  "تصنيف الموضوعات اجتهادي بالكلمات المفتاحية في العناوين (تقدير)",
+  "مادة تيليجرام 766 (15 نوفمبر) خارج النافذة واستُبعدت"
+ ],
+ "sources": [
+  {
+   "url": "https://abaadstudies.org/",
+   "used_for": "روابط الحسابات الرسمية والأقسام (2026-11-13)"
+  },
+  {
+   "url": "https://abaadstudies.org/sitemap.xml",
+   "used_for": "هيكل الأقسام (lastmod غير صالح)"
+  },
+  {
+   "url": "https://abaadstudies.org/policy-analysis/topic/60251",
+   "used_for": "نموذج صفحة مادة: التاريخ، الزيارات، PDF، أزرار المشاركة"
+  },
+  {
+   "url": "https://abaadstudies.org/lang/en",
+   "used_for": "النسخة الإنجليزية"
+  },
+  {
+   "url": "https://abaadstudies.org/early-warning-and-strategic-indicators",
+   "used_for": "سلسلة الإنذار المبكر"
+  },
+  {
+   "url": "https://abaadstudies.org/activities",
+   "used_for": "أخبار الحصاد الشهري"
+  },
+  {
+   "url": "https://t.me/s/abaadstudies",
+   "used_for": "منشورات تيليجرام ومشاهداتها وعدد المشتركين (2026-11-14)"
+  },
+  {
+   "url": "https://www.youtube.com/user/AbaadStudiesYemen",
+   "used_for": "عدد المشتركين"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQwazCDVtraE146PVvOJhnQ",
+   "used_for": "تواريخ ومشاهدات الفيديوهات"
+  }
+ ]
+}

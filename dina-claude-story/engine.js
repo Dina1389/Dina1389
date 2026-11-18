@@ -31,6 +31,7 @@ function render(t){
    else if(fx==='draw'){op=L>=d?1:0;const path=el.querySelector('path'),q=eo(cl((L-d)/0.45));path.style.clipPath=`inset(0 0 ${100-100*q}% 0)`;const dot=el.querySelector('.dot');dot.setAttribute('cy',10+200*q);}
    el.style.opacity=op;el.style.transform=tr;
   });
+  sc.el.querySelectorAll('img[data-clip]').forEach(im=>{const n=(window.CLIPN||{})[im.dataset.clip]||1,i=Math.min(n,Math.max(1,Math.floor((L-(+im.dataset.d||0))*30)+1)),src=`frames/${im.dataset.clip}/${String(i).padStart(4,'0')}.jpg`;if(im.dataset.cur!==src){im.src=src;im.dataset.cur=src}});
   sc.el.querySelectorAll('.cnt').forEach(el=>{const d=+el.dataset.d,q=eo(cl((L-d)/1.0));el.textContent=ar(Math.round(q*+el.dataset.to))});
   sc.el.querySelectorAll('.bar').forEach(el=>{const d=+el.dataset.d,q=eo(cl((L-d)/1.0));el.style.width=(q*100*+el.dataset.w)+'%'});
   sc.el.querySelectorAll('.scanl').forEach(el=>{const d=+el.dataset.d;if(L<d){el.style.opacity=0;return}el.style.opacity=1;const ph=((L-d)/1.6)%2;const y=ph<1?ph:2-ph;el.style.top=(20+y*380)+'px'});

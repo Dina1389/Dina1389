@@ -2,7 +2,7 @@
 الاستخدام:  python render.py            (الفيديو كامل)
             python render.py --stills    (لقطات فحص فقط في مجلد stills/)
 """
-import pathlib, subprocess, sys
+import json, pathlib, subprocess, sys
 
 from playwright.sync_api import sync_playwright
 
@@ -10,11 +10,31 @@ ROOT = pathlib.Path(__file__).parent.resolve()
 FPS, DUR = 30, 55.28
 W, H = 1080, 1920
 OUT = ROOT / "dina_claude_story_1080x1920.mp4"
+WAIT = "Promise.all([...document.querySelectorAll('img[data-clip]')].map(i => i.decode().catch(() => 0)))"
 CHECK_TIMES = [0.9, 7.5, 9.8, 2.5, 5.5, 8.5, 10.5, 15.5, 20.5, 24, 27.8, 30.5, 33.5, 35.8, 41.8, 44.5, 46.5, 48.8, 54.5]
 
 
+def build_frames():
+    """يفك مقاطع clips/*.mp4 إلى فريمات JPG مكبّرة 2x في frames/ (مرة وحدة)."""
+    fr = ROOT / "frames"
+    counts = {}
+    for clip in sorted((ROOT / "clips").glob("*.mp4")):
+        d = fr / clip.stem
+        if not d.exists() or not any(d.iterdir()):
+            d.mkdir(parents=True, exist_ok=True)
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(clip), "-vf",
+                            "scale=iw*2:ih*2:flags=lanczos,unsharp=5:5:0.8:5:5:0", "-q:v", "2",
+                            str(d / "%04d.jpg")], check=True)
+        counts[clip.stem] = len(list(d.glob("*.jpg")))
+    (fr / "index.js").write_text("window.CLIPN=" + json.dumps(counts) + ";\n")
+
+
 def main():
-    stills = "--stills" in sys.argv
+    build_frames()
+    stills = "--stills" in sys.argv or "--at" in sys.argv
+    times = CHECK_TIMES
+    if "--at" in sys.argv:  # مثال: python render.py --at 12,14.5
+        times = [float(x) for x in sys.argv[sys.argv.index("--at") + 1].split(",")]
     with sync_playwright() as p:
         browser = p.chromium.launch(executable_path="/opt/pw-browsers/chromium") if pathlib.Path("/opt/pw-browsers/chromium").exists() else p.chromium.launch()
         page = browser.new_page(viewport={"width": W, "height": H})
@@ -29,8 +49,8 @@ def main():
         if stills:
             out = ROOT / "stills"
             out.mkdir(exist_ok=True)
-            for t in CHECK_TIMES:
-                page.evaluate(f"render({t})")
+            for t in times:
+                page.evaluate(f"render({t})"); page.evaluate(WAIT)
                 page.screenshot(path=str(out / f"t_{t:05.1f}.png"))
             print("Stills saved to", out)
         else:
@@ -42,7 +62,7 @@ def main():
                 stdin=subprocess.PIPE)
             n = int(DUR * FPS)
             for i in range(n):
-                page.evaluate(f"render({i / FPS})")
+                page.evaluate(f"render({i / FPS})"); page.evaluate(WAIT)
                 ff.stdin.write(page.screenshot(type="png"))
                 if i % 150 == 0:
                     print(f"{i}/{n}")

@@ -2,7 +2,7 @@
 const root=document.getElementById('scenes');
 S.forEach((sc,i)=>{const d=document.createElement('div');d.className='scene';d.innerHTML=sc.h;root.appendChild(d);sc.el=d});
 // Latin runs -> IBM Plex Mono, Arabic stays in Tajawal (keeps Arabic word spacing tight)
-const LAT=/[=A-Za-z][\w.:=()\/\-]*(?: [A-Za-z][\w.:=()\/\-]*)*/g;
+const LAT=/[=A-Za-z0-9][\w.:=()\/\-]*(?: [A-Za-z][\w.:=()\/\-]*)*\??/g;
 const wrapEn=t=>t.replace(LAT,m=>`<span class="en">${m}</span>`);
 (function walk(n){[...n.childNodes].forEach(c=>{
  if(c.nodeType===3){if(LAT.test(c.textContent)&&!c.parentElement.closest('svg,.en')){const s=document.createElement('span');s.innerHTML=wrapEn(c.textContent);c.replaceWith(...s.childNodes)}LAT.lastIndex=0}
@@ -10,7 +10,7 @@ const wrapEn=t=>t.replace(LAT,m=>`<span class="en">${m}</span>`);
 const cl=(v)=>Math.max(0,Math.min(1,v));
 const eo=p=>1-Math.pow(1-p,3);
 const eb=p=>{const c1=1.9,c3=c1+1;return 1+c3*Math.pow(p-1,3)+c1*Math.pow(p-1,2)};
-const ar=n=>String(n).replace(/\d/g,d=>'٠١٢٣٤٥٦٧٨٩'[d]);
+const ar=n=>String(n);
 const capEl=document.getElementById('cap'),ttl=document.getElementById('ttl');
 let lastCap=-2,lastT='';
 function render(t){
@@ -39,7 +39,7 @@ function render(t){
   if(sc.s>0 && S[S.indexOf(sc)-1].t===sc.t){ttl.style.opacity=1;ttl.style.transform='none';}
  });
  let ci=C.findIndex(c=>t>=c[0]&&t<c[1]);
- if(ci!==lastCap){capEl.innerHTML=ci<0?'':C[ci][2].replace(/<b>(.*?)<\/b>/g,'<span class="hl">$1</span>');lastCap=ci;
+ if(ci!==lastCap){capEl.innerHTML=ci<0?'':('>'+C[ci][2].replace(/<b>(.*?)<\/b>/g,'<span class="hl">$1</span>')+'<').replace(/>([^<]*)</g,(m,t)=>'>'+wrapEn(t)+'<').slice(1,-1);lastCap=ci;
   capEl.style.fontSize='88px';const w=capEl.scrollWidth,mw=capEl.clientWidth;if(w>mw)capEl.style.fontSize=Math.floor(88*mw/w)+'px';}
  if(ci>=0){const q=cl((t-C[ci][0])/0.22);capEl.style.opacity=cl((t-C[ci][0])/0.12);capEl.style.transform=`scale(${0.85+0.15*eb(q)})`;}
 }

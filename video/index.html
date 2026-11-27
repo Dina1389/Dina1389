@@ -1,0 +1,571 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>Install as app</title>
+<style>
+@font-face{font-family:T;src:url(assets/fonts/Tajawal-Regular.ttf);font-weight:400}
+@font-face{font-family:T;src:url(assets/fonts/Tajawal-Medium.ttf);font-weight:500}
+@font-face{font-family:T;src:url(assets/fonts/Tajawal-Bold.ttf);font-weight:700}
+@font-face{font-family:T;src:url(assets/fonts/Tajawal-ExtraBold.ttf);font-weight:800}
+:root{
+  --bg:#F5EEE2;--grid:#E6DAC7;--card:#FFFCF7;--ink:#3B2A20;--ink2:#7A5C48;--mute:#B9A391;
+  --clay:#D97757;--clay2:#C2603F;--claySoft:#F6DDD0;--brown:#6B4430;--line:#EADFCF;
+  --shadow:0 18px 40px rgba(110,70,40,.13),0 3px 10px rgba(110,70,40,.08);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:var(--bg)}
+body{font-family:T,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased}
+#stage{position:relative;width:1080px;height:1920px;overflow:hidden;
+  background-color:var(--bg);
+  background-image:linear-gradient(var(--grid) 1.5px,transparent 1.5px),linear-gradient(90deg,var(--grid) 1.5px,transparent 1.5px);
+  background-size:72px 72px;background-position:-18px -18px}
+#vignette{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 42%,rgba(245,238,226,0) 40%,rgba(245,238,226,.85) 100%);pointer-events:none}
+.ltr{direction:ltr;unicode-bidi:isolate}
+div.ltr{display:block}
+svg.ic{width:1em;height:1em;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;display:block}
+
+/* chrome */
+#logo{position:absolute;top:70px;right:48px;width:132px;height:132px;z-index:50}
+#logo img{width:100%;height:100%;filter:drop-shadow(0 8px 14px rgba(110,60,30,.18))}
+#topic{position:absolute;top:104px;left:48px;z-index:50;display:flex;gap:12px;align-items:center;
+  background:var(--card);border-radius:40px;padding:14px 26px;box-shadow:var(--shadow);font-size:30px;font-weight:700;color:var(--brown)}
+#topic .dot{width:14px;height:14px;border-radius:50%;background:var(--clay)}
+#progress{position:absolute;top:0;right:0;height:10px;background:var(--clay);z-index:60;border-radius:0 0 0 6px}
+
+/* scenes */
+.scene{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:240px 70px 470px;gap:40px}
+.h1{font-size:92px;font-weight:800;line-height:1.15;text-align:center;color:var(--ink)}
+.h2{font-size:68px;font-weight:800;line-height:1.2;text-align:center}
+.sub{font-size:44px;font-weight:500;color:var(--ink2);text-align:center;line-height:1.45}
+.clay{color:var(--clay2)}
+.card{background:var(--card);border-radius:40px;box-shadow:var(--shadow);border:2px solid var(--line)}
+.pill{display:inline-flex;align-items:center;gap:14px;border-radius:60px;padding:16px 34px;font-size:40px;font-weight:700;background:var(--claySoft);color:var(--clay2)}
+.pill.solid{background:var(--clay);color:#fff}
+.pill.dark{background:var(--ink);color:#fff}
+.stepTag{display:inline-flex;align-items:center;gap:16px;background:var(--clay);color:#fff;border-radius:60px;padding:14px 36px 10px;font-size:44px;font-weight:800;box-shadow:0 10px 24px rgba(194,96,63,.3)}
+.stepTag b{background:#fff;color:var(--clay2);border-radius:50%;width:58px;height:58px;display:grid;place-items:center;font-size:38px;margin-bottom:4px}
+.row{display:flex;gap:28px;align-items:center;justify-content:center}
+.col{display:flex;flex-direction:column;gap:26px;align-items:center}
+.iconBox{width:150px;height:150px;border-radius:40px;display:grid;place-items:center;font-size:76px;background:var(--claySoft);color:var(--clay2)}
+.appIcon{width:190px;height:190px;border-radius:48px;display:grid;place-items:center;font-size:100px;color:#fff;
+  background:linear-gradient(160deg,#E38A69,#C65E3D);box-shadow:0 22px 40px rgba(194,96,63,.35),inset 0 2px 0 rgba(255,255,255,.3)}
+.tile{width:290px;padding:40px 20px 34px;display:flex;flex-direction:column;align-items:center;gap:22px;text-align:center;font-size:38px;font-weight:700}
+.tile .iconBox{width:120px;height:120px;font-size:62px;border-radius:32px}
+.list{display:flex;flex-direction:column;gap:24px;width:100%}
+.li{display:flex;align-items:center;gap:30px;padding:30px 40px;font-size:44px;font-weight:700}
+.li .iconBox{width:104px;height:104px;font-size:54px;border-radius:28px;flex:none}
+.li small{display:block;font-size:34px;font-weight:500;color:var(--ink2);margin-top:6px}
+.note{position:absolute;left:0;right:0;bottom:440px;text-align:center;font-size:26px;color:var(--mute);font-weight:500}
+.arrowDown{font-size:90px;color:var(--clay)}
+
+/* schematic windows */
+.win{width:900px;overflow:hidden}
+.win .bar{height:78px;display:flex;align-items:center;gap:14px;padding:0 30px;border-bottom:2px solid var(--line);background:#FBF6EE}
+.win .bar i{width:20px;height:20px;border-radius:50%;background:#E3D3C1;display:block}
+.win .bar .t{margin-inline-start:auto;font-size:30px;font-weight:700;color:var(--ink2)}
+.win .body{padding:36px}
+.bubble{border-radius:32px;padding:26px 34px;font-size:38px;line-height:1.5;font-weight:500;max-width:85%}
+.bubble.me{background:var(--claySoft);color:var(--ink);align-self:flex-start}
+.input{border:2px solid var(--line);border-radius:30px;padding:30px 34px;font-size:40px;line-height:1.55;min-height:260px;position:relative;background:#fff;font-weight:500}
+.caret{display:inline-block;width:4px;height:44px;background:var(--clay);vertical-align:middle;margin:0 2px}
+.send{position:absolute;left:24px;bottom:22px;width:76px;height:76px;border-radius:22px;background:var(--clay);color:#fff;display:grid;place-items:center;font-size:40px}
+.task{display:flex;align-items:center;gap:22px;padding:24px 10px;border-bottom:2px solid var(--line);font-size:38px;font-weight:700}
+.task:last-child{border-bottom:0}
+.chk{width:50px;height:50px;border-radius:14px;border:3px solid var(--mute);display:grid;place-items:center;color:#fff;font-size:34px;flex:none}
+.chk.on{background:var(--clay);border-color:var(--clay)}
+.prio{margin-inline-start:auto;font-size:28px;padding:8px 20px;border-radius:30px;font-weight:700}
+.p1{background:#F6D3C6;color:#B5482A}.p2{background:#F4E4C9;color:#9A6A1F}.p3{background:#E7E3DA;color:#776B5D}
+.due{font-size:28px;color:var(--ink2);font-weight:500;width:0;overflow:hidden;white-space:nowrap;display:flex;align-items:center;gap:8px}
+.shareBtn{display:flex;align-items:center;gap:10px;background:var(--ink);color:#fff;border-radius:18px;padding:12px 24px;font-size:30px;font-weight:700;direction:ltr}
+.menu{position:absolute;top:92px;left:24px;background:#fff;border-radius:22px;box-shadow:0 20px 50px rgba(60,35,20,.22);border:2px solid var(--line);padding:12px;min-width:390px;direction:ltr;transform-origin:top left}
+.menu .mi{display:flex;align-items:center;gap:16px;padding:20px 22px;border-radius:14px;font-size:34px;font-weight:700;color:var(--ink)}
+.menu .mi.hl{background:var(--claySoft);color:var(--clay2)}
+.desk{width:920px;height:760px;border-radius:44px;position:relative;overflow:hidden;
+  background:linear-gradient(170deg,#EADBC6,#DCC7AC);box-shadow:var(--shadow);border:10px solid #3B2A20}
+.dock{position:absolute;bottom:26px;left:50%;transform:translateX(-50%);display:flex;gap:22px;padding:18px 26px;border-radius:36px;background:rgba(255,252,247,.55)}
+.dock span{width:88px;height:88px;border-radius:24px;background:rgba(255,255,255,.65);display:block}
+.dock .app{background:linear-gradient(160deg,#E38A69,#C65E3D);display:grid;place-items:center;color:#fff;font-size:48px}
+.cursor{position:absolute;width:64px;height:64px;z-index:40;pointer-events:none;filter:drop-shadow(0 4px 6px rgba(0,0,0,.25))}
+.ripple{position:absolute;width:120px;height:120px;border-radius:50%;border:6px solid var(--clay);z-index:39;margin:-60px 0 0 -60px;opacity:0}
+.toast{position:absolute;top:30px;left:30px;right:30px;display:flex;gap:20px;align-items:center;padding:24px 28px;border-radius:28px;background:rgba(255,252,247,.96);box-shadow:0 14px 30px rgba(60,35,20,.2);font-size:32px;font-weight:700}
+.toast small{display:block;font-size:28px;color:var(--ink2);font-weight:500}
+.x{color:#B9A391}.strike{text-decoration:line-through;text-decoration-thickness:4px;text-decoration-color:var(--clay)}
+.ver{width:360px;padding:40px 24px;text-align:center;display:flex;flex-direction:column;gap:18px;align-items:center;font-size:40px;font-weight:800}
+.ver .iconBox{width:110px;height:110px;font-size:58px}
+.warnBox{background:#FBE7DE;border:3px solid var(--clay)}
+#kw{position:absolute;left:0;right:0;top:1505px;display:flex;justify-content:center;z-index:30}
+#kw .pill{font-size:42px;background:var(--ink);color:#fff;box-shadow:0 12px 30px rgba(59,42,32,.25);padding:18px 40px 14px}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="vignette"></div>
+  <div id="progress"></div>
+  <div id="logo"><img src="../brand/logo-corner-150.png" alt=""></div>
+  <div id="topic"><span class="dot"></span><span class="ltr">Install as app</span></div>
+
+  <!-- S1 HOOK -->
+  <section class="scene" data-in="0" data-out="9.2">
+    <div class="h1" data-a="0.1">من <span class="clay">فكرة</span>…<br>إلى <span class="clay">تطبيق</span></div>
+    <div class="card row" style="padding:30px 44px;gap:22px;font-size:46px;font-weight:700" data-a="0.9" data-fx="right">
+      <div class="iconBox" style="width:96px;height:96px;font-size:50px"><i data-i="message-square-text"></i></div>
+      «أبي تطبيق لمهامي اليومية»
+    </div>
+    <div class="arrowDown" data-a="2.6" data-fx="down"><i data-i="arrow-down"></i></div>
+    <div class="desk" style="height:560px" data-a="3.2" data-fx="scale">
+      <div style="position:absolute;top:70px;right:80px;display:flex;flex-direction:column;align-items:center;gap:14px" data-a="4.2" data-fx="pop">
+        <div class="appIcon" style="width:150px;height:150px;font-size:80px;border-radius:38px"><i data-i="list-checks"></i></div>
+        <div style="font-size:32px;font-weight:700">مهامي</div>
+      </div>
+      <div class="dock"><span></span><span></span><span class="app" data-a="4.6" data-fx="pop"><i data-i="list-checks"></i></span><span></span></div>
+    </div>
+  </section>
+
+  <!-- S2 tools -->
+  <section class="scene" data-in="9.2" data-out="19.65">
+    <div class="h2" data-a="9.5">أدوات مفيدة تبنيها<br>داخل <span class="ltr">Claude</span></div>
+    <div class="row" style="gap:24px;margin-top:20px">
+      <div class="card tile" data-a="11.6" data-fx="up"><div class="iconBox"><i data-i="list-checks"></i></div>جدول مهام</div>
+      <div class="card tile" data-a="13.2" data-fx="up"><div class="iconBox"><i data-i="calculator"></i></div>حاسبة مصاريف</div>
+      <div class="card tile" data-a="14.8" data-fx="up"><div class="iconBox"><i data-i="package-search"></i></div>متتبّع طلبات</div>
+    </div>
+    <div class="col" style="gap:10px;margin-top:10px" data-a="17.4" data-fx="pop">
+      <div class="sub">اسمها</div>
+      <div class="pill solid" style="font-size:64px;padding:20px 60px"><span class="ltr">Artifacts</span></div>
+    </div>
+  </section>
+
+  <!-- S3 problem loop -->
+  <section class="scene" data-in="19.65" data-out="28.05">
+    <div class="h2" data-a="19.9"><span class="clay">المشكلة:</span> تبقى داخل المحادثة</div>
+    <div class="card win" data-a="20.6" data-fx="up">
+      <div class="bar"><i></i><i></i><i></i><span class="t">محادثة قديمة…</span></div>
+      <div class="body" style="display:flex;justify-content:center;gap:24px;opacity:.55">
+        <div class="iconBox" style="width:110px;height:110px;font-size:56px"><i data-i="list-checks"></i></div>
+        <div class="iconBox" style="width:110px;height:110px;font-size:56px"><i data-i="calculator"></i></div>
+        <div class="iconBox" style="width:110px;height:110px;font-size:56px"><i data-i="package-search"></i></div>
+      </div>
+    </div>
+    <div class="list" style="width:860px">
+      <div class="card li" data-a="22.9" data-fx="right"><div class="iconBox"><i data-i="app-window"></i></div>افتح <span class="ltr">Claude</span></div>
+      <div class="card li" data-a="24.6" data-fx="right"><div class="iconBox"><i data-i="search"></i></div>دوّر على المحادثة</div>
+      <div class="card li" data-a="26.0" data-fx="right"><div class="iconBox"><i data-i="repeat"></i></div>وكرّر… <span class="clay">كل مرة!</span></div>
+    </div>
+  </section>
+
+  <!-- S4 old way -->
+  <section class="scene" data-in="28.05" data-out="36.35">
+    <div class="h2" data-a="28.3">وتحويلها لتطبيق حقيقي؟<br><span class="clay">كان يحتاج…</span></div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:20px">
+      <div class="card tile" style="width:420px" data-a="30.8" data-fx="pop"><div class="iconBox"><i data-i="code-xml"></i></div>مبرمج</div>
+      <div class="card tile" style="width:420px" data-a="32.4" data-fx="pop"><div class="iconBox"><i data-i="package"></i></div>تغليف التطبيق</div>
+      <div class="card tile" style="width:420px" data-a="33.4" data-fx="pop"><div class="iconBox"><i data-i="signature"></i></div>توقيع رقمي</div>
+      <div class="card tile" style="width:420px" data-a="34.6" data-fx="pop"><div class="iconBox"><i data-i="key-round"></i></div>مفتاح <span class="ltr">API</span></div>
+    </div>
+  </section>
+
+  <!-- S5 intro -->
+  <section class="scene" data-in="36.35" data-out="42.4" style="justify-content:center;padding-top:0;padding-bottom:300px">
+    <div class="pill" data-a="37.0" data-fx="pop"><i data-i="sparkles"></i> ميزة جديدة من <span class="ltr">Claude</span></div>
+    <div class="card" style="padding:50px 70px" data-a="38.6" data-fx="scale">
+      <div class="h1 ltr" style="font-size:118px;color:var(--clay2)">Install as app</div>
+    </div>
+    <div class="sub" data-a="39.8">حوّل الـ <span class="ltr">Artifact</span> إلى تطبيق على جهازك</div>
+  </section>
+
+  <!-- S6 artifact -> app -->
+  <section class="scene" data-in="42.4" data-out="54.7">
+    <div class="h2" data-a="42.6">ثبّت الـ <span class="ltr">Artifact</span> كتطبيق</div>
+    <div class="row" style="gap:40px;margin-top:10px">
+      <div class="card col" style="padding:40px 46px;gap:18px" data-a="43.4" data-fx="right">
+        <div class="iconBox"><i data-i="file-code-2"></i></div><div style="font-size:38px;font-weight:700" class="ltr">Artifact</div>
+      </div>
+      <div class="arrowDown" style="transform:none" data-a="44.6" data-fx="fade"><i data-i="arrow-left"></i></div>
+      <div class="col" style="gap:18px" data-a="45.2" data-fx="pop">
+        <div class="appIcon"><i data-i="list-checks"></i></div><div style="font-size:38px;font-weight:700">تطبيق</div>
+      </div>
+    </div>
+    <div class="row" style="margin-top:16px">
+      <div class="pill" data-a="47.6" data-fx="up"><i data-i="laptop"></i><span class="ltr">Mac</span></div>
+      <div class="pill" data-a="48.4" data-fx="up"><i data-i="monitor"></i><span class="ltr">Windows</span></div>
+    </div>
+    <div class="list" style="width:860px">
+      <div class="card li" data-a="50.6" data-fx="right"><div class="iconBox"><i data-i="badge-check"></i></div>أيقونة خاصة</div>
+      <div class="card li" data-a="52.0" data-fx="right"><div class="iconBox"><i data-i="app-window"></i></div>نافذة مستقلة خارج <span class="ltr">Claude</span></div>
+    </div>
+  </section>
+
+  <!-- S7 no packaging -->
+  <section class="scene" data-in="54.7" data-out="65.3">
+    <div class="h2" data-a="55.0">والأجمل… <span class="clay">بدون</span></div>
+    <div class="list" style="width:880px">
+      <div class="card li" data-a="56.0" data-fx="right"><div class="iconBox x" style="background:#EFE7DC"><i data-i="circle-x"></i></div><span class="strike" data-strike="56.8">تغليف أو توقيع</span></div>
+      <div class="card li" data-a="58.0" data-fx="right"><div class="iconBox x" style="background:#EFE7DC"><i data-i="circle-x"></i></div><span class="strike" data-strike="58.8">مفتاح <span class="ltr">API</span></span></div>
+      <div class="card li" data-a="59.6" data-fx="right"><div class="iconBox x" style="background:#EFE7DC"><i data-i="circle-x"></i></div><span class="strike" data-strike="60.6">تسجيل دخول منفصل</span></div>
+    </div>
+    <div class="card li warnBox" style="width:880px;margin-top:10px" data-a="62.4" data-fx="pop"><div class="iconBox" style="background:var(--clay);color:#fff"><i data-i="user-check"></i></div><div>يستخدم حسابك في <span class="ltr">Claude</span></div></div>
+  </section>
+
+  <!-- S8 steps overview -->
+  <section class="scene" data-in="65.3" data-out="68.15" style="justify-content:center;padding-top:0;padding-bottom:280px">
+    <div class="h1" data-a="65.4">خلّونا <span class="clay">نطبّقها</span></div>
+    <div class="row" style="gap:22px">
+      <div class="stepTag" data-a="66.0" data-fx="pop"><b>1</b></div>
+      <div class="stepTag" data-a="66.3" data-fx="pop"><b>2</b></div>
+      <div class="stepTag" data-a="66.6" data-fx="pop"><b>3</b></div>
+      <div class="stepTag" data-a="66.9" data-fx="pop"><b>4</b></div>
+    </div>
+  </section>
+
+  <!-- S9 step 1 -->
+  <section class="scene" data-in="68.15" data-out="77.7">
+    <div class="stepTag" data-a="68.3" data-fx="pop"><b>1</b>الخطوة الأولى</div>
+    <div class="h2" data-a="69.4">حدّث تطبيق <span class="ltr">Claude</span></div>
+    <div class="card col" style="padding:60px 80px;margin-top:10px" data-a="70.0" data-fx="scale">
+      <div class="appIcon" style="background:linear-gradient(160deg,#5A3E2E,#3B2A20)"><i data-i="refresh-cw" data-spin="70.4"></i></div>
+      <div style="font-size:44px;font-weight:700">آخر إصدار</div>
+    </div>
+    <div class="row">
+      <div class="pill" data-a="74.4" data-fx="up"><i data-i="laptop"></i><span class="ltr">Mac</span></div>
+      <div class="pill" data-a="74.9" data-fx="up"><i data-i="monitor"></i><span class="ltr">Windows</span></div>
+    </div>
+    <div class="sub" data-a="75.6">الميزة تعمل من تطبيق <span class="ltr">Claude</span> على الكمبيوتر</div>
+  </section>
+
+  <!-- S10 step 2 -->
+  <section class="scene" data-in="77.7" data-out="91.25">
+    <div class="stepTag" data-a="77.9" data-fx="pop"><b>2</b>الخطوة الثانية</div>
+    <div class="h2" data-a="78.8">صِف التطبيق لـ <span class="ltr">Claude</span></div>
+    <div class="card win" data-a="79.6" data-fx="up">
+      <div class="bar"><i></i><i></i><i></i><span class="t ltr">Claude</span></div>
+      <div class="body">
+        <div class="input"><span id="typed"></span><span class="caret" id="caret"></span>
+          <div class="send" id="send"><i data-i="arrow-up"></i></div></div>
+      </div>
+    </div>
+    <div class="note">رسم توضيحي — قد يختلف شكل الواجهة</div>
+  </section>
+
+  <!-- S11 step 3 -->
+  <section class="scene" data-in="91.25" data-out="107.35">
+    <div class="stepTag" data-a="91.4" data-fx="pop"><b>3</b>الخطوة الثالثة</div>
+    <div class="h2" data-a="92.6">جرّبها كـ <span class="ltr">Artifact</span></div>
+    <div class="card win" data-a="93.4" data-fx="up">
+      <div class="bar"><i></i><i></i><i></i><span class="t">مهامي اليومية</span></div>
+      <div class="body" style="padding:16px 36px">
+        <div class="task"><span class="chk" id="chk1"><i data-i="check"></i></span><span id="t1">تسليم العرض</span><span class="due"><i data-i="calendar"></i>اليوم</span><span class="prio p1">عالية</span></div>
+        <div class="task"><span class="chk"><i data-i="check"></i></span><span>الرد على الإيميلات</span><span class="due"><i data-i="calendar"></i>غدًا</span><span class="prio p2">متوسطة</span></div>
+        <div class="task"><span class="chk"><i data-i="check"></i></span><span>ترتيب الملفات</span><span class="due"><i data-i="calendar"></i>الخميس</span><span class="prio p3">منخفضة</span></div>
+      </div>
+    </div>
+    <div class="sub" data-a="99.8" data-o="103.9">تبي تعديل؟ اطلبه من <span class="ltr">Claude</span></div>
+    <div class="bubble me card" style="align-self:center;max-width:none;font-size:42px" data-a="104.0" data-fx="up">«أضف خانة لموعد التسليم»</div>
+    <div class="note">رسم توضيحي — قد يختلف شكل الواجهة</div>
+  </section>
+
+  <!-- S12 step 4 -->
+  <section class="scene" data-in="107.35" data-out="113.85">
+    <div class="stepTag" data-a="107.5" data-fx="pop"><b>4</b>الخطوة الرابعة</div>
+    <div class="h2" data-a="108.0">من <span class="ltr clay">Share</span> اختر <span class="ltr clay">Install as app</span></div>
+    <div id="zoomWrap" style="position:relative;margin-top:30px;transform-origin:12% 8%">
+      <div class="card win" style="overflow:visible" data-a="108.3" data-fx="up">
+        <div class="bar" style="border-radius:40px 40px 0 0"><span class="t" style="margin:0">مهامي اليومية</span>
+          <div class="shareBtn" id="shareBtn" style="margin-right:auto"><i data-i="share"></i>Share</div></div>
+        <div class="body" style="padding:16px 36px;opacity:.6">
+          <div class="task"><span class="chk on"><i data-i="check"></i></span><span class="strike">تسليم العرض</span><span class="prio p1">عالية</span></div>
+          <div class="task"><span class="chk"></span><span>الرد على الإيميلات</span><span class="prio p2">متوسطة</span></div>
+          <div class="task"><span class="chk"></span><span>ترتيب الملفات</span><span class="prio p3">منخفضة</span></div>
+        </div>
+        <div class="menu" id="menu"><div class="mi" id="miInstall"><i data-i="download" style="font-size:36px"></i>Install as app</div></div>
+      </div>
+      <svg class="cursor" id="cur4" viewBox="0 0 24 24"><path d="M4 2l15 10.5-6.6 1.2 3.9 7.3-2.6 1.4-3.9-7.3L5 19.6z" fill="#3B2A20" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></svg>
+      <div class="ripple" id="rip4"></div>
+    </div>
+    <div class="note">رسم توضيحي — قد يختلف شكل الواجهة</div>
+  </section>
+
+  <!-- S13 result -->
+  <section class="scene" data-in="113.85" data-out="122.5">
+    <div class="h1" data-a="114.0">وبس! ✓</div>
+    <div class="sub" data-a="114.8">صار عندك تطبيق مستقل على جهازك</div>
+    <div class="desk" data-a="115.0" data-fx="scale">
+      <div style="position:absolute;top:60px;right:70px;display:flex;flex-direction:column;align-items:center;gap:12px" data-a="115.8" data-fx="pop">
+        <div class="appIcon" style="width:140px;height:140px;font-size:74px;border-radius:36px"><i data-i="list-checks"></i></div>
+        <div style="font-size:30px;font-weight:700">مهامي</div>
+      </div>
+      <div class="card" style="position:absolute;top:120px;left:60px;width:560px;border-radius:26px;overflow:hidden" data-a="119.2" data-fx="scale">
+        <div class="bar" style="height:56px;display:flex;align-items:center;gap:10px;padding:0 20px;background:#FBF6EE;border-bottom:2px solid var(--line)"><i style="width:14px;height:14px;border-radius:50%;background:#E3D3C1;display:block"></i><i style="width:14px;height:14px;border-radius:50%;background:#E3D3C1;display:block"></i><span style="margin-inline-start:auto;font-size:24px;font-weight:700;color:var(--ink2)">مهامي اليومية</span></div>
+        <div style="padding:10px 24px;font-size:26px">
+          <div class="task" style="font-size:28px;padding:14px 4px"><span class="chk on" style="width:36px;height:36px;font-size:24px"><i data-i="check"></i></span>تسليم العرض</div>
+          <div class="task" style="font-size:28px;padding:14px 4px"><span class="chk" style="width:36px;height:36px"></span>الرد على الإيميلات</div>
+        </div>
+      </div>
+      <div class="dock"><span></span><span></span><span class="app" data-a="116.4" data-fx="pop"><i data-i="list-checks"></i></span><span></span></div>
+    </div>
+    <div class="row">
+      <div class="pill" data-a="117.0" data-fx="up"><i data-i="badge-check"></i>أيقونة خاصة</div>
+      <div class="pill" data-a="119.6" data-fx="up"><i data-i="app-window"></i>نافذة مستقلة</div>
+    </div>
+  </section>
+
+  <!-- S14 auto update + share -->
+  <section class="scene" data-in="122.5" data-out="133.0">
+    <div class="h2" data-a="122.7">يتحدّث <span class="clay">تلقائيًا</span></div>
+    <div class="row" style="gap:36px;margin-top:20px">
+      <div class="card col" style="padding:44px 50px;gap:18px" data-a="123.4" data-fx="right"><div class="iconBox"><i data-i="file-code-2"></i></div><div style="font-size:38px;font-weight:700" class="ltr">Artifact</div></div>
+      <div style="font-size:110px;color:var(--clay)" data-a="124.2" data-fx="pop"><i data-i="refresh-cw" data-spin="124.2"></i></div>
+      <div class="col" style="gap:18px" data-a="123.8" data-fx="left"><div class="appIcon"><i data-i="list-checks"></i></div><div style="font-size:38px;font-weight:700">التطبيق</div></div>
+    </div>
+    <div class="card li" style="width:880px" data-a="126.4" data-fx="up"><div class="iconBox"><i data-i="pencil"></i></div><div>أي تعديل تطلبه من <span class="ltr">Claude</span><small>يظهر في التطبيق مباشرة</small></div></div>
+    <div class="card li" style="width:880px" data-a="130.8" data-fx="up"><div class="iconBox"><i data-i="share-2"></i></div><div>وتقدر تشاركه مع غيرك</div></div>
+  </section>
+
+  <!-- S15 permissions intro -->
+  <section class="scene" data-in="133.0" data-out="142.15">
+    <div class="pill dark" data-a="133.3" data-fx="pop"><i data-i="triangle-alert"></i>نقطة مهمة جدًا</div>
+    <div class="col" style="margin-top:10px" data-a="135.6" data-fx="scale">
+      <div class="appIcon" style="width:220px;height:220px;font-size:120px"><i data-i="shield-check"></i></div>
+      <div class="h1">الصلاحيات</div>
+    </div>
+    <div class="list" style="width:820px;margin-top:10px">
+      <div class="card li" data-a="139.0" data-fx="right"><div class="iconBox" style="font-size:44px;font-weight:800">1</div>الافتراضي</div>
+      <div class="card li" data-a="139.5" data-fx="right"><div class="iconBox" style="font-size:44px;font-weight:800">2</div><span class="ltr">App permissions</span></div>
+      <div class="card li" data-a="140.0" data-fx="right"><div class="iconBox" style="font-size:44px;font-weight:800;background:var(--clay);color:#fff">3</div><span class="ltr">Full computer access</span></div>
+    </div>
+  </section>
+
+  <!-- S16 L1 -->
+  <section class="scene" data-in="142.15" data-out="152.25">
+    <div class="stepTag" data-a="142.3" data-fx="pop"><b>1</b>المستوى الأول</div>
+    <div class="h2" data-a="143.2">الصلاحيات الافتراضية</div>
+    <div class="card col" style="padding:60px 70px;width:880px;margin-top:10px" data-a="145.4" data-fx="scale">
+      <div class="iconBox" style="width:180px;height:180px;font-size:96px"><i data-i="globe"></i></div>
+      <div style="font-size:46px;font-weight:700;text-align:center;line-height:1.5">يقدر يعمل نفس ما يقدر عليه<br><span class="clay">أي موقع في المتصفح</span></div>
+    </div>
+  </section>
+
+  <!-- S17 L2 -->
+  <section class="scene" data-in="152.25" data-out="165.6">
+    <div class="stepTag" data-a="152.4" data-fx="pop"><b>2</b>المستوى الثاني</div>
+    <div class="h2 ltr" data-a="153.2">App permissions</div>
+    <div class="sub" data-a="155.0">يطلب صلاحيات إضافية مثل:</div>
+    <div class="list" style="width:880px">
+      <div class="card li" data-a="158.0" data-fx="right"><div class="iconBox"><i data-i="bell"></i></div>إرسال الإشعارات</div>
+      <div class="card li" data-a="159.6" data-fx="right"><div class="iconBox"><i data-i="keyboard"></i></div>اختصارات لوحة المفاتيح العامة</div>
+      <div class="card li" data-a="162.6" data-fx="right"><div class="iconBox"><i data-i="pin"></i></div>نافذة دائمًا في المقدمة</div>
+    </div>
+  </section>
+
+  <!-- S18 L3 -->
+  <section class="scene" data-in="165.6" data-out="181.15">
+    <div class="stepTag" data-a="165.8" data-fx="pop" style="background:var(--ink)"><b style="color:var(--ink)">3</b>المستوى الثالث</div>
+    <div class="h2 ltr" data-a="167.2">Full computer access</div>
+    <div class="pill" data-a="169.0" data-fx="pop"><i data-i="arrow-up-to-line"></i>أعلى مستوى من الصلاحيات</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:22px;width:880px">
+      <div class="card li" style="padding:26px 30px" data-a="173.2" data-fx="pop"><div class="iconBox" style="width:90px;height:90px;font-size:46px"><i data-i="square-terminal"></i></div>تشغيل برامج</div>
+      <div class="card li" style="padding:26px 30px" data-a="175.4" data-fx="pop"><div class="iconBox" style="width:90px;height:90px;font-size:46px"><i data-i="folder-open"></i></div>قراءة ملفاتك</div>
+      <div class="card li" style="padding:26px 30px" data-a="176.8" data-fx="pop"><div class="iconBox" style="width:90px;height:90px;font-size:46px"><i data-i="file-pen"></i></div>تعديلها</div>
+      <div class="card li" style="padding:26px 30px" data-a="178.0" data-fx="pop"><div class="iconBox" style="width:90px;height:90px;font-size:46px"><i data-i="trash-2"></i></div>حذفها</div>
+    </div>
+    <div class="card li warnBox" style="width:880px" data-a="179.4" data-fx="up"><div class="iconBox" style="background:var(--clay);color:#fff"><i data-i="bell-off"></i></div>بدون ما يسألك كل مرة</div>
+  </section>
+
+  <!-- S19 who gets full -->
+  <section class="scene" data-in="181.15" data-out="190.3">
+    <div class="h2" data-a="181.4">الوصول الكامل <span class="clay">متاح فقط</span> لـ:</div>
+    <div class="list" style="width:900px;margin-top:20px">
+      <div class="card li" data-a="182.6" data-fx="right"><div class="iconBox"><i data-i="user-round"></i></div><div>تطبيقات أنشأتها بنفسك</div></div>
+      <div class="card li" data-a="185.6" data-fx="right"><div class="iconBox"><i data-i="building-2"></i></div><div>في <span class="ltr">Team</span> و <span class="ltr">Enterprise</span><small>تطبيقات أنشأها زملاؤك داخل المؤسسة</small></div></div>
+    </div>
+  </section>
+
+  <!-- S20 warning -->
+  <section class="scene" data-in="190.3" data-out="200.9">
+    <div class="col" data-a="190.5" data-fx="pop">
+      <div class="appIcon" style="width:200px;height:200px;font-size:110px"><i data-i="triangle-alert"></i></div>
+      <div class="h1">انتبه!</div>
+    </div>
+    <div class="card li" style="width:900px" data-a="192.4" data-fx="up"><div class="iconBox"><i data-i="scan-search"></i></div><div><span class="ltr">Anthropic</span> لا تراجع التطبيقات<small>قبل تثبيتها</small></div></div>
+    <div class="card li warnBox" style="width:900px" data-a="196.4" data-fx="up"><div class="iconBox" style="background:var(--clay);color:#fff"><i data-i="handshake"></i></div><div>الوصول الكامل<small>فقط لتطبيق تثق فيه</small></div></div>
+  </section>
+
+  <!-- S21 re-approve -->
+  <section class="scene" data-in="200.9" data-out="212.25">
+    <div class="h2" data-a="201.2">موافقتك تشمل<br><span class="clay">النسخة الحالية فقط</span></div>
+    <div class="row" style="gap:30px;margin-top:20px">
+      <div class="card ver" data-a="202.6" data-fx="right"><div class="iconBox"><i data-i="circle-check"></i></div>النسخة 1<div class="pill" style="font-size:30px;padding:10px 24px">تمت الموافقة</div></div>
+      <div class="arrowDown" data-a="205.6" data-fx="fade"><i data-i="arrow-left"></i></div>
+      <div class="card ver warnBox" data-a="206.4" data-fx="left"><div class="iconBox" style="background:var(--clay);color:#fff"><i data-i="circle-help"></i></div>بعد التحديث<div class="pill solid" style="font-size:30px;padding:10px 24px">موافقة جديدة</div></div>
+    </div>
+    <div class="sub" data-a="208.6">حتى لو كان التعديل منك أنت</div>
+  </section>
+
+  <!-- S22 back to example -->
+  <section class="scene" data-in="212.25" data-out="235.45">
+    <div class="h2" data-a="212.5">نرجع <span class="clay">لمثالنا</span></div>
+    <div class="desk" id="desk22" data-a="214.8" data-fx="scale" style="height:820px">
+      <div class="toast" id="toast22"><div class="appIcon" style="width:80px;height:80px;font-size:44px;border-radius:22px;flex:none"><i data-i="bell"></i></div><div>مهامي اليومية<small>تسليم العرض اليوم</small></div></div>
+      <div id="icon22" style="position:absolute;top:150px;right:70px;display:flex;flex-direction:column;align-items:center;gap:12px">
+        <div class="appIcon" style="width:140px;height:140px;font-size:74px;border-radius:36px"><i data-i="list-checks"></i></div>
+        <div style="font-size:30px;font-weight:700">مهامي</div>
+      </div>
+      <div class="card" id="win22" style="position:absolute;top:170px;left:50px;width:600px;border-radius:26px;overflow:hidden">
+        <div style="height:56px;display:flex;align-items:center;gap:10px;padding:0 20px;background:#FBF6EE;border-bottom:2px solid var(--line)"><i style="width:14px;height:14px;border-radius:50%;background:#E3D3C1;display:block"></i><i style="width:14px;height:14px;border-radius:50%;background:#E3D3C1;display:block"></i><span style="margin-inline-start:auto;font-size:24px;font-weight:700;color:var(--ink2)">مهامي اليومية</span></div>
+        <div style="padding:10px 24px">
+          <div class="task" style="font-size:28px;padding:16px 4px"><span class="chk" style="width:36px;height:36px"></span>تسليم العرض<span class="prio p1" style="font-size:22px">اليوم</span></div>
+          <div class="task" style="font-size:28px;padding:16px 4px"><span class="chk" style="width:36px;height:36px"></span>الرد على الإيميلات<span class="prio p2" style="font-size:22px">غدًا</span></div>
+          <div class="task" style="font-size:28px;padding:16px 4px"><span class="chk" style="width:36px;height:36px"></span>ترتيب الملفات<span class="prio p3" style="font-size:22px">الخميس</span></div>
+        </div>
+      </div>
+      <div class="dock"><span></span><span></span><span class="app"><i data-i="list-checks"></i></span><span></span></div>
+      <svg class="cursor" id="cur22" viewBox="0 0 24 24"><path d="M4 2l15 10.5-6.6 1.2 3.9 7.3-2.6 1.4-3.9-7.3L5 19.6z" fill="#3B2A20" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></svg>
+      <div class="ripple" id="rip22"></div>
+    </div>
+    <div class="sub" data-a="224.6" data-o="228.0">يفتح فورًا… بدون الرجوع لواجهة <span class="ltr">Claude</span></div>
+    <div class="sub" data-a="228.2" style="margin-top:-90px">ولو سمحت له بالإشعارات، ينبّهك</div>
+  </section>
+
+  <!-- S23 who benefits -->
+  <section class="scene" data-in="235.45" data-out="268.05">
+    <div class="h2" data-a="235.7">مين <span class="clay">يستفيد؟</span></div>
+    <div class="list" style="width:920px">
+      <div class="card li" style="align-items:flex-start" data-a="238.4" data-fx="right"><div class="iconBox"><i data-i="briefcase-business"></i></div><div>أصحاب الأعمال<small>أدوات داخلية لفريقك: متابعة الطلبات ولوحات المتابعة، بدون فريق برمجة</small></div></div>
+      <div class="card li" style="align-items:flex-start" data-a="250.4" data-fx="right"><div class="iconBox"><i data-i="mouse-pointer-click"></i></div><div>المستخدم العادي<small>أدواتك اليومية تصير تطبيقات تفتحها بضغطة</small></div></div>
+      <div class="card li" style="align-items:flex-start" data-a="257.6" data-fx="right"><div class="iconBox"><i data-i="clapperboard"></i></div><div>صنّاع المحتوى<small>منظّم للأفكار وجدول لنشر المحتوى، دائمًا قريب منك</small></div></div>
+    </div>
+  </section>
+
+  <!-- S24 notes -->
+  <section class="scene" data-in="268.05" data-out="324.5" style="gap:22px;padding-top:250px">
+    <div class="h2" data-a="268.2" style="font-size:60px">قبل ما تجرب… <span class="clay">اعرف هذا</span></div>
+    <div class="list" style="width:940px;gap:16px">
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="272.6" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="flask-conical"></i></div><div>تجريبية <span class="ltr">(Beta)</span> ومتاحة لكل الخطط</div></div>
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="279.2" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="wifi"></i></div><div>لازم إنترنت + تسجيل دخول في <span class="ltr">Claude</span></div></div>
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="286.4" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="gauge"></i></div><div>طلبات التطبيق تُحسب من حدود خطتك</div></div>
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="293.3" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="ban"></i></div><div>لا تُثبَّت: <span class="ltr">Docs · Slides · Sheets</span></div></div>
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="301.0" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="users"></i></div><div><span class="ltr">Team</span>: مفعّلة، والوصول الكامل معطّل</div></div>
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="308.6" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="building-2"></i></div><div><span class="ltr">Enterprise</span>: معطّلة حتى يفعّلها المالك</div></div>
+      <div class="card li" style="padding:20px 30px;font-size:36px" data-a="314.0" data-fx="right"><div class="iconBox" style="width:80px;height:80px;font-size:42px"><i data-i="shield-off"></i></div><div>غير متاحة لـ <span class="ltr">HIPAA</span> و <span class="ltr">Hybrid deployments</span></div></div>
+    </div>
+  </section>
+
+  <!-- S25 CTA -->
+  <section class="scene" data-in="324.5" data-out="336.6">
+    <div class="h1" data-a="324.7">والحين… <span class="clay">دورك!</span></div>
+    <div class="list" style="width:880px">
+      <div class="card li" data-a="325.8" data-fx="right"><div class="iconBox" style="font-weight:800">1</div>حدّث تطبيق <span class="ltr">Claude</span></div>
+      <div class="card li" data-a="328.4" data-fx="right"><div class="iconBox" style="font-weight:800">2</div>افتح أداة تستخدمها يوميًا</div>
+      <div class="card li" data-a="331.2" data-fx="right"><div class="iconBox" style="font-weight:800">3</div>افتح قائمة <span class="ltr clay">Share</span></div>
+      <div class="card li warnBox" data-a="332.6" data-fx="right"><div class="iconBox" style="font-weight:800;background:var(--clay);color:#fff">4</div>اختر <span class="ltr clay">Install as app</span></div>
+    </div>
+  </section>
+
+  <!-- S26 END -->
+  <section class="scene" data-in="336.6" data-out="999" style="justify-content:center;padding-top:0;padding-bottom:260px">
+    <img src="../brand/logo-original.png" style="width:440px;height:440px;margin:-60px" data-a="336.8" data-fx="pop" alt="">
+    <div class="sub" data-a="337.8" style="margin-top:40px">تابع قناة</div>
+    <div class="pill solid" style="font-size:62px;padding:22px 60px" data-a="338.4" data-fx="pop"><i data-i="bell-ring"></i><span class="ltr">Claude Updates</span></div>
+    <div class="sub" data-a="340.0">لكل تحديثات <span class="ltr">Claude</span> بشرح عملي وبسيط</div>
+  </section>
+
+  <div id="kw"><div class="pill" id="kwPill"></div></div>
+</div>
+
+<script src="icons.js"></script>
+<script>
+const DUR=344.27;
+document.querySelectorAll('i[data-i]').forEach(el=>{const s=ICONS[el.dataset.i];if(!s)console.error('missing icon',el.dataset.i);el.innerHTML=s||'';el.style.display='inline-flex'});
+const clamp=(v,a=0,b=1)=>Math.max(a,Math.min(b,v));
+const eo=t=>1-Math.pow(1-t,3);
+const back=t=>{const c=1.70158,c3=c+1;return 1+c3*Math.pow(t-1,3)+c*Math.pow(t-1,2)};
+const pr=(t,a,d)=>clamp((t-a)/d);
+const lerp=(a,b,p)=>a+(b-a)*p;
+
+const scenes=[...document.querySelectorAll('.scene')].map(s=>({el:s,a:+s.dataset.in,b:+s.dataset.out,
+  items:[...s.querySelectorAll('[data-a]')].map(e=>({el:e,a:+e.dataset.a,o:e.dataset.o?+e.dataset.o:null,fx:e.dataset.fx||'up'})),
+  strikes:[...s.querySelectorAll('[data-strike]')].map(e=>({el:e,a:+e.dataset.strike})),
+  spins:[...s.querySelectorAll('[data-spin]')].map(e=>({el:e,a:+e.dataset.spin}))}));
+
+const KW=[[0.3,9,'فكرة ← تطبيق'],[17.4,19.6,'Artifacts'],[26,28,'كل مرة!'],[37,42.3,'Install as app'],[47.6,54.6,'Mac · Windows'],[62.4,65.2,'حسابك في Claude'],
+ [82.6,91.1,'صِف فكرتك ببساطة'],[93.6,99.6,'جرّب الأداة'],[104,107.3,'عدّل بطلب بسيط'],[110.2,113.8,'Share → Install as app'],
+ [122.8,126.2,'تحديث تلقائي'],[138.9,142,'3 مستويات'],[146,152.1,'مثل أي موقع'],[156,165.4,'App permissions'],[170,181,'Full computer access'],
+ [197,200.8,'ثبّت فقط ما تثق فيه'],[205.6,212.1,'موافقة جديدة بعد كل تحديث'],[220.4,228,'ضغطة… ويفتح'],[228.6,235.3,'إشعارات'],
+ [324.8,336.4,'جرّبها الآن']];
+const kwPill=document.getElementById('kwPill');
+
+function fxStyle(fx,p){ // p: 0..1 visibility
+  const q=eo(p);
+  switch(fx){
+    case 'fade':return [p,''];
+    case 'scale':return [q,`scale(${lerp(.86,1,q)})`];
+    case 'pop':return [clamp(p*1.6),`scale(${lerp(.4,1,back(p))})`];
+    case 'right':return [q,`translateX(${lerp(90,0,q)}px)`];
+    case 'left':return [q,`translateX(${lerp(-90,0,q)}px)`];
+    case 'down':return [q,`translateY(${lerp(-50,0,q)}px)`];
+    default:return [q,`translateY(${lerp(60,0,q)}px)`];
+  }
+}
+const $=id=>document.getElementById(id);
+const PROMPT='أبي أداة أسجّل فيها مهامي اليومية، وأرتّبها حسب الأولوية، وأشطب كل مهمة لما أخلّصها';
+
+function cursorPath(t,keys){ // keys [[t,x,y],...]
+  if(t<=keys[0][0])return keys[0].slice(1);
+  for(let i=1;i<keys.length;i++){if(t<=keys[i][0]){const [t0,x0,y0]=keys[i-1],[t1,x1,y1]=keys[i];const p=eo(clamp((t-t0)/(t1-t0)));return [lerp(x0,x1,p),lerp(y0,y1,p)]}}
+  return keys[keys.length-1].slice(1);
+}
+function ripple(el,t,tc,x,y){const p=pr(t,tc,.55);el.style.left=x+'px';el.style.top=y+'px';el.style.opacity=p>0&&p<1?(1-p):0;el.style.transform=`scale(${lerp(.3,1.4,p)})`}
+
+function setTime(t){
+  $('progress').style.width=(clamp(t/DUR)*1080)+'px';
+  for(const s of scenes){
+    const vis=t>=s.a-0.01&&t<s.b+0.45;
+    s.el.style.display=vis?'flex':'none'; if(!vis)continue;
+    const pin=eo(pr(t,s.a,.45)), pout=pr(t,s.b-0.05,.45);
+    s.el.style.opacity=Math.min(pin,1-pout);
+    s.el.style.transform=`translateY(${lerp(30,0,pin)+lerp(0,-40,eo(pout))}px)`;
+    for(const it of s.items){
+      let p=pr(t,it.a,.6);
+      if(it.o!=null)p=Math.min(p,1-pr(t,it.o,.4));
+      const [op,tr]=fxStyle(it.fx,p); it.el.style.opacity=op; it.el.style.transform=tr;
+    }
+    for(const st of s.strikes){const p=pr(t,st.a,.5);st.el.style.textDecorationColor=`rgba(217,119,87,${p})`;st.el.style.color=p>0.5?'#9C8572':''}
+    for(const sp of s.spins){const p=Math.max(0,t-sp.a);sp.el.style.transform=`rotate(${-p*240}deg)`;sp.el.style.display='inline-flex'}
+  }
+  // end card: hide corner logo
+  const endP=pr(t,336.4,.5); $('logo').style.opacity=1-endP; $('topic').style.opacity=1-endP;
+  // step 2 typing
+  if(t>77&&t<92){const n=Math.floor(PROMPT.length*clamp((t-82.6)/(89.6-82.6)));$('typed').textContent=PROMPT.slice(0,n);
+    $('caret').style.opacity=(Math.floor(t*2.2)%2===0||(t>82.6&&t<89.8))?1:0;
+    const sp=pr(t,90.4,.35); $('send').style.transform=`scale(${1+0.25*Math.sin(sp*Math.PI)})`;}
+  // step 3
+  if(t>91&&t<108){const c=t>97.2; $('chk1').classList.toggle('on',c); $('t1').classList.toggle('strike',c);
+    const dp=eo(pr(t,105.4,.8)); document.querySelectorAll('.due').forEach(d=>{d.style.width=(dp*150)+'px';d.style.opacity=dp});}
+  // step 4 cursor & menu
+  if(t>107&&t<114.5){
+    const z=eo(pr(t,109.0,1.0))*0.14 - eo(pr(t,112.9,.6))*0.14; $('zoomWrap').style.transform=`scale(${1+z})`;
+    const [x,y]=cursorPath(t,[[108.6,640,560],[110.0,150,36],[110.9,150,36],[111.8,170,150]]);
+    const c=$('cur4'); c.style.left=x+'px'; c.style.top=y+'px'; c.style.opacity=eo(pr(t,108.6,.3));
+    ripple($('rip4'),t,110.05,x+10,y+8); ripple($('rip4'),t,t<111.9?110.05:112.0,x+10,y+8);
+    const press=t>110.05&&t<110.25; $('shareBtn').style.transform=press?'scale(.94)':'';
+    const mp=pr(t,110.2,.3); const m=$('menu'); m.style.opacity=mp; m.style.transform=`scale(${lerp(.85,1,eo(mp))})`;
+    $('miInstall').classList.toggle('hl',t>111.5);
+  }
+  // S22 desktop
+  if(t>212&&t<236){
+    const [x,y]=cursorPath(t,[[216.5,500,620],[219.6,760,190],[220.6,760,190],[222.4,520,640]]);
+    const c=$('cur22'); c.style.left=x+'px'; c.style.top=y+'px'; c.style.opacity=eo(pr(t,216.5,.3))*(1-pr(t,222.4,.4));
+    ripple($('rip22'),t,220.2,x+10,y+8);
+    const wp=pr(t,220.5,.5); $('win22').style.opacity=wp; $('win22').style.transform=`scale(${lerp(.6,1,eo(wp))})`; $('win22').style.transformOrigin='90% 10%';
+    const tp=eo(pr(t,228.6,.6)); $('toast22').style.opacity=tp; $('toast22').style.transform=`translateY(${lerp(-140,0,tp)}px)`;
+  }
+  // keywords
+  let k=null; for(const w of KW){if(t>=w[0]&&t<w[1]+0.35){k=w;break}}
+  if(k){kwPill.textContent=k[2]; const p=Math.min(pr(t,k[0],.4),1-pr(t,k[1],.35)); const [op,tr]=fxStyle('pop',p); kwPill.parentElement.style.opacity=op; kwPill.style.transform=tr; kwPill.style.direction=/[a-zA-Z]/.test(k[2])&&!/[؀-ۿ]/.test(k[2])?'ltr':'rtl'}
+  else kwPill.parentElement.style.opacity=0;
+}
+window.setTime=setTime;
+const q=new URLSearchParams(location.search); setTime(q.has('t')?+q.get('t'):0);
+</script>
+</body>
+</html>
